@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /secupress-4165225f/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.ademe.fr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

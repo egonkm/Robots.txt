@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /DEV/
+Disallow: /TEST/
+Disallow: /awschedule/
+Disallow: /includes/
+Disallow: /alumni/interview/
+Disallow: /alumni/volunteer/
+Disallow: /alumni/test/
+Disallow: /banners.html
+Disallow: /onbase/
+Disallow: /video/
+Disallow: /pdf/
+Disallow: /extras/
+Disallow: /counselors/officers.html
+Disallow: /apply/selection/overview.html
+Allow: /
+Sitemap: https://admission.stanford.edu/sitemap.xml

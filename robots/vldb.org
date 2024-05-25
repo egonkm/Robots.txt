@@ -1,0 +1,26 @@
+<html><head><title>404 Not Found</title></head>
+<body bgcolor=white>
+<h1>404 Not Found</h1>
+
+The requested URL /robots.txt does not exist.
+
+<script type="text/javascript">
+
+var re = /dblp/;
+var newurl;
+if ( re.exec(document.URL)) 
+{
+newurl = document.URL.replace("vldb.org/dblp/", "informatik.uni-trier.de/~ley/");
+
+
+document.write("<p><b>The dblp mirror on this site has been temporarily disabled. Please use an alternative <a href='" + newurl + "'> "+ "mirror</a></b></p>");
+window.location = newurl;
+
+}
+</script>
+
+</body></html>
+
+<!-- 
+                                                                                                                                                                               
+--> 

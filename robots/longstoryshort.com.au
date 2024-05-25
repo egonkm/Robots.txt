@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Disallow: /404
+
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://longstoryshort.com.au
+
+# Sitemaps
+Sitemap: https://longstoryshort.com.au/sitemap.xml

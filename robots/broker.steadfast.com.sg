@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /au/
+Disallow: /nz/
+Disallow: /sg/
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /

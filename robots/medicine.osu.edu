@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /request-an-appointment/
+Disallow: /sitecore
+Disallow: /sitecore/
+Disallow: /healthcare-services/
+
+Sitemap: https://medicine.osu.edu/sitemap.xml

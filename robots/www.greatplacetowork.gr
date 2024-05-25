@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /website/wp-admin/
+Allow: /website/wp-admin/admin-ajax.php
+
+Sitemap: https://www.greatplacetowork.gr/sitemap_index.xml

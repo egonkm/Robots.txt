@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="en-au">
+<head>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GTHY85143E"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-GTHY85143E');
+    </script>
+
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Jobs Tasmania</title>
+    
+
+    <meta itemprop="description" name="description" content="Making it easy for job seekers and businesses to connect.">
+    
+
+    
+
+    <link media="screen" rel="stylesheet" href="https://www.jt.tas.gov.au/__data/assets/css_file_folder/0019/521119/site.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    
+    <link media="screen" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flickity/2.2.2/flickity.min.css" />
+    <link media="screen" href="https://fonts.googleapis.com/css2?family=Archivo&family=Work+Sans:wght@400;700&display=swap" rel="stylesheet">
+    
+
+    
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 26 May 2024 07:07:18
+-->
+
+
+</head>
+
+<body class=" jobs-tas">
+    <input type="hidden" name="token" value="70ae37a94bf384e1d70197099717cd1e7a84d02c"  class="sq-form-field" id="token" />    
+
+    <div class="announcement">
+        <div class="announcement__container container">
+            <div class="content">
+                
+                        <p>Showing contents for job seekers.</p>
+                        <a href="javascript:;" id="header-switch-employer">Switch to the employer version</a>
+                    
+            </div>
+            <a href="javascript:;" class="hide-announcement" id="hide-announcement">X</a>
+        </div>
+    </div>
+    
+
+
+        
+
+    
+    <div class="site-wrapper">
+
+        <header class="site-header site-header--homepage">
+            <div class="site-header__container container">
+                <div class="row">
+                    <div class="col col-2 logo-col hidden-xs">
+                        <div class="site-header__logo-wrapper">
+                            <a class="site-header__logo" href="https://www.jt.tas.gov.au">
+                                <img src="https://www.jt.tas.gov.au/__data/assets/image/0006/521277/jt_logo.webp" alt="Jobs Tasmania - Home Page" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="searchbox">
+                        <div class="searchbox__inner">
+                            <form action="https://www.jt.tas.gov.au/search" data-gtm-form-interact-id="1">
+                                <input value="stgro~sp-jobs-tasmania" type="hidden" name="collection">
+                                <input value="jobs-tasmania-results" type="hidden" name="profile">
+                                <input value="partial" type="hidden" name="form">
+                                <div class="header-search__bar">
+                                     <div data-component="autocomplete" data-suggest-source="https://dxp-au-search.funnelback.squiz.cloud/s/suggest.json" data-suggest-collection="stgro~sp-jobs-tasmania" data-suggest-additional-params="alpha=0.5&amp;profile=jobs-tasmania-results&amp;show=6&amp;sort=0" data-emphasis="notquery" class="autocomplete-search">
+                                         <template data-template-id="autocomplete-result">
+                                             <li id="result-item-" role="option" aria-selected="false" class="autocomplete-search-listbox__item"></li>
+                                        </template>
+                                        <template data-template-id="autocomplete-result-query">
+                                            <span class="autocomplete-search-listbox__query"></span>
+                                        </template>
+                                        <div class="autocomplete-search__combobox-wrapper">
+                                            <div id="header-autocomplete-search-combobox" role="combobox" aria-expanded="false" aria-owns="header-autocomplete-search-listbox" aria-haspopup="listbox" class="autocomplete-search__combobox" data-click="modalPreventClose">
+                                                
+                                                <input id="header-autocomplete-search-input" name="query" placeholder="Search the website" aria-label="Search the website" aria-autocomplete="list" aria-controls="header-autocomplete-search-listbox" autocomplete="off" class="header-search__input" aria-activedescendant="" data-gtm-form-interact-field-id="1">
+                                            </div>
+                                            
+                                            <ul id="header-autocomplete-search-listbox" role="listbox" aria-labelledby="header-autocomplete-search-input" data-active="false" class="autocomplete-search-listbox"></ul>
+                                            <!--<div data-component="autocomplete-result-status" aria-live="polite" role="status" data-active="false" class="autocomplete-search__status">
+                                                    <span data-component="autocomplete-result-count">0</span> results available.
+                                                </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div> 
+                    <div class="col col-10">
+                        <a class="site-header__logo hidden-desktop" href="https://www.jt.tas.gov.au">
+                            <img src="https://www.jt.tas.gov.au/__data/assets/image/0006/521277/jt_logo.webp" alt="Jobs Tasmania - Home Page" />
+                        </a>
+                        <div class="site-header__menu-wrapper">
+                            <nav class="nav-wrapper">
+                                <ul class="nav">
+                                    
+
+                                    <li class="nav__item hidden-xs" style="--animation-order:3;" data-target="search">
+                                        <a id="menuSearch" href="#" class="btn-search">
+                                            <img src="https://www.jt.tas.gov.au/__data/assets/file/0017/435320/tas_search.svg" alt="Search">
+                                        </a>
+                                    </li>
+                                    <li class="nav__item dropdown" style="--animation-order:2;" data-target="menu">
+                                        <button id="toggleMenu" class="btn-menu dropdown-toggle site-header__toggle" type="button" data-bs-toggle="" aria-expanded="false">
+                                            <span class="text">Menu</span>
+                                            <img src="https://www.jt.tas.gov.au/__data/assets/file/0007/435319/tas_hamburger.svg" alt="Menu Icon" />
+                                        </button>
+                                        <div class="dropdown-menu dropdown-menu-end">
+                                            <div class="dropdown-menu__inner">
+                                                <div class="hidden-desktop close-menu"> X</div>
+                                                <div class="hidden-desktop">
+                                                    <!--
+                                                    <form role="search" method="get" class="searchform group" action="">
+                                                        <div class="search-box">
+                                                            <input type="text" class="input-search" placeholder="Search what you're after…" value="" name="s" title="">
+                                                            <button type="submit" class="btn-search">
+                                                                <img src="https://www.jt.tas.gov.au/__data/assets/file/0017/435320/tas_search.svg" alt="Search">
+                                                            </button>
+                                                        </div>
+                                                    </form>
+                                                    -->
+                                                    <!-- FB search -->
+                                                <form action="https://www.jt.tas.gov.au/search" data-gtm-form-interact-id="1">
+                                                    <input value="stgro~sp-jobs-tasmania" type="hidden" name="collection">
+                                                    <input value="jobs-tasmania-results" type="hidden" name="profile">
+                                                    <input value="partial" type="hidden" name="form">
+                                                    <div class="header-search__bar">
+                                                        <div data-component="autocomplete" data-suggest-source="https://dxp-au-search.funnelback.squiz.cloud/s/suggest.json" data-suggest-collection="stgro~sp-jobs-tasmania" data-suggest-additional-params="alpha=0.5&amp;profile=jobs-tasmania-results&amp;show=6&amp;sort=0" data-emphasis="notquery" class="autocomplete-search">
+                                                            <template data-template-id="autocomplete-result">
+                                                                <li id="result-item-" role="option" aria-selected="false" class="autocomplete-search-listbox__item"></li>
+                                                            </template>
+                                                            <template data-template-id="autocomplete-result-query">
+                                                                <span class="autocomplete-search-listbox__query"></span>
+                                                            </template>
+                                                            <div class="autocomplete-search__combobox-wrapper">
+                                                                <div id="header-autocomplete-search-combobox" role="combobox" aria-expanded="false" aria-owns="autocomplete-search-listbox" aria-haspopup="listbox" class="autocomplete-search__combobox" data-click="modalPreventClose">
+                                                                    
+                                                                    <input id="header-autocomplete-search-input" name="query" placeholder="Search the website" aria-label="Search the website" aria-autocomplete="list" aria-controls="header-autocomplete-search-listbox" autocomplete="off" class="header-search__input" aria-activedescendant="" data-gtm-form-interact-field-id="1">
+                                                                </div>
+                                                                
+                                                                <ul id="header-autocomplete-search-listbox" role="listbox" aria-labelledby="header-autocomplete-search-input" data-active="false" class="autocomplete-search-listbox"></ul>
+                                                                
+                                                                
+                                                               <!-- <div data-component="autocomplete-result-status" aria-live="polite" role="status" data-active="false" class="autocomplete-search__status">
+                                                                    <span data-component="autocomplete-result-count">0</span> results available.
+                                                                </div>-->
+                                                            </div>
+                                                        </div>                    
+                                                    </div>
+                                                </form>
+                                                </div>
+                                                <ul class="p-0">
+                                                    														                                                            <li>
+                                                                <a class="dropdown-item" href="https://www.jt.tas.gov.au/about">
+                                                                    About                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a class="dropdown-item" href="https://www.jt.tas.gov.au/regional_jobs_hub">
+                                                                    Regional Jobs Hub                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a class="dropdown-item" href="https://www.jt.tas.gov.au/programs">
+                                                                    Programs                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a class="dropdown-item" href="https://www.jt.tas.gov.au/news_and_insights">
+                                                                    News and Insights                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a class="dropdown-item" href="https://www.jt.tas.gov.au/contact">
+                                                                    Contact                                                                </a>
+                                                            </li>
+                                                        				                                                </ul>
+                                                <div class="userLogin">
+                                                    <p>WEBSITE VERSION</p>
+                                                    <div class="btn-group">
+                                                        <a class="btn-toggle" id="menu-seeker">Job Seeker</a>
+                                                        <a class="btn-toggle" id="menu-employer">Employer</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+
+        </header>
+
+        <section class="module module--hero">
+      <div class="container heroBanner">
+        <div class="row">
+          <div class="col col-6">
+            <div class="module--hero--content">
+              <h1>Making it easy for job seekers and businesses to connect.</h1>
+              <p>Help us choose the right content for  you. <br>You are: </p>
+              <div class="btn-group">
+                <a class="btn-item" id="homepage-seeker">Job seeker</a>
+                <a class="btn-item" id="homepage-employer">Employer</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col col-6">
+            <div class="image">
+              <img class="w-100" src="https://www.jt.tas.gov.au/__data/assets/image/0014/521051/Main_header_image_-_Jobseeker_Jason_option_2.webp" alt="">
+              <img class="arrow" src="https://www.jt.tas.gov.au/__data/assets/image/0003/435315/logo.png" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container heroForm">
+      <form id="user-form" name="user-form" >
+        <div class="row">
+          <div class="col-lg-5 col-md-6 col-offset-1 heroForm__col1">
+            <h2> <img src="https://www.jt.tas.gov.au/__data/assets/image/0020/435305/arrow-full.png" alt="">Get personalised <br>help to find work</h2>
+            <p>Tell us about yourself so we can help.</p>
+            <label class="pr-3" for="postcode">Where do you live? <br>(please enter your postcode)</label>
+            <input class="form-control" type="text" name="postcode" id="postcode" placeholder="For example, 7001">
+            <div id="message"></div>
+            <div id="message-alternative" style="display:none;"><p><p><strong>Sorry, we were unable to find a hub for your postcode. </strong><br /><strong>However, you can visit the <a href="https://www.jt.tas.gov.au/programs/career_connector_north_west_west_coast">career connector program</a>.</strong></p></p></div>
+          </div>
+                   <div class="col-lg-5 col-md-6 col-offset-1 heroForm__col2">
+            <label class="pr-3" for="situations">Select one of more of the following options:</label>
+            <div class="situations-check">
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" name="options[]" id="inlineCheckbox1" value="recently_left_school">
+                <label class="form-check-label" for="inlineCheckbox1">Recently left school</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" name="options[]" id="inlineCheckbox2" value="parent">
+                <label class="form-check-label" for="inlineCheckbox2">Parents and/or carers returning to the workplace</label>
+              </div>
+            </div>
+            <div class="situations-check">
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" name="options[]" id="inlineCheckbox3" value="migrant_with_working_rights">
+                <label class="form-check-label" for="inlineCheckbox3">Migrant with working rights</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" name="options[]" id="inlineCheckbox4" value="redundant">
+                <label class="form-check-label" for="inlineCheckbox4">Redundant in the last 12 months</label>
+              </div>
+            </div>
+            <div class="situations-check">
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" name="options[]" id="inlineCheckbox5" value="18_25">
+                <label class="form-check-label" for="inlineCheckbox5">18 - 25 years (for specific programs)</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" name="options[]" id="inlineCheckbox6" value="45_and_over">
+                <label class="form-check-label" for="inlineCheckbox6">45 years + (for specific programs)</label>
+              </div>
+            </div>
+            <div class="situations-check">
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="inlineCheckbox7" value="new_job">
+                <label class="form-check-label" for="inlineCheckbox7">Looking for new job or career change</label>
+              </div>
+            </div>
+
+            <div class="mt-4 text-center" id="mainButton">
+              <button type="submit" class="themeBtn">
+                <span class="text" id="create-button-text">Create My JobsTAS page</span>
+                <span class="arrow"></span>
+              </button>
+            </div>
+            <div class="mt-4 text-center" id="createButton" style="display:none">
+              <button type="button" class="themeBtn">
+                <span class="text" id="create-button-text">Creating...</span>
+                <span class="arrow"></span>
+              </button>
+            </div>
+          </div>
+                  </div>
+        </form>
+      </div>
+      <img src="https://www.jt.tas.gov.au/__data/assets/file/0009/436068/hero-bg.svg" class="module--hero__bg" alt="">
+    </section><section class="module module--helpblock">
+      <div class="container">
+        <h2 class="heading hidden-mobile">We can help with</h2>
+
+        <div class="row"><div class="col-lg-4 col-md-6">
+    <div class="cards">
+      <h3>Jobs near you</h3>
+      <hr>
+      <p>Connect with someone who knows about all the great opportunities in your community.</p>
+            <a href="https://www.jt.tas.gov.au/regional_jobs_hub " title="See Regional Jobs Hubs" class="themeBtn">
+        
+        <span class="text">See Regional Jobs Hubs</span>
+        <span class="arrow" aria-hidden="true"></span>
+      </a>
+    </div>
+</div><div class="col-lg-4 col-md-6">
+    <div class="cards">
+      <h3>Getting you work ready</h3>
+      <hr>
+      <p>Help with transport, upskilling, tools and equipment to get you into work or training.</p>
+            <a href="https://www.jt.tas.gov.au/programs " title="See programs" class="themeBtn">
+        
+        <span class="text">See programs</span>
+        <span class="arrow" aria-hidden="true"></span>
+      </a>
+    </div>
+</div><div class="col-lg-4 col-md-6">
+    <div class="cards">
+      <h3>Finding new staff</h3>
+      <hr>
+      <p>Talk to people who can help you find the right person for your business.</p>
+             <a href="https://www.jt.tas.gov.au/employer?change=true" class="themeBtn">
+         
+        <span class="text">See employers</span>
+        <span class="arrow" aria-hidden="true"></span>
+      </a>
+    </div>
+</div><div class="col-md-11 col-offset-1 featured">
+    <div class="inner">
+      <div class="featured__image">
+        <video width="100%" controls preload="none" muted poster="https://www.jt.tas.gov.au/__data/assets/image/0015/521115/Real_stories_-_Kerry_jobseeker.webp">
+          <source src="https://www.jt.tas.gov.au/__data/assets/video_file/0008/437570/KERRY_1.mp4" type="video/mp4">
+          Your browser does not support HTML video.
+        </video>
+      </div>
+      <div class="featured__card">
+        <p class="tag">REAL STORY</p>
+        <h2 class="h4">Kerry, George Town Council</h2>
+        <p>&ldquo;Working with the Jobs Hub has been life changing. They helped me with my resume and interview confidence&rdquo;</p>
+        <a href="https://www.jt.tas.gov.au/news_and_insights/kerry,_george_town_council" class="themeBtn themeBtn--arrow" aria-label="Read more about Kerry, George Town Council">
+          <span class="arrow" aria-hidden="true"></span>
+        </a>
+      </div>
+    </div>
+  </div>        </div>
+      </div>
+    </section>
+    <!--<style>
+    .module--news .cardImage__content {
+    background-color: WHITE;
+    opacity: 0.8;
+
+    }    
+    </style>--><section class="module module--news">
+        <div class="container">
+          <div class="heading"><h2>News</h2></div>
+          <div class="row" id="newsDisplay"><div class="row module--news-insights__tiles" id="newsDisplay">
+   <div class="col-md-6">
+    <div class="cardImage cardImage--big">
+      <div class="cardImage__image">
+        <p class="tag">31 Oct 2023</p>
+        <img src="https://www.jt.tas.gov.au/__data/assets/image/0018/521118/photo-with-minister-ellis-27-Sept.webp" alt="Youth Career Facilitator Pilot">
+      </div>
+      <div class="cardImage__content">
+        <h3>Youth Career Facilitator Pilot</h3>
+        <p><p>Young Tasmanians in the north west of the state are being supported to connect to the world of work through a 12 month pilot Youth Career Facilitator project.</p></p>
+        <a href="https://www.jt.tas.gov.au/news_and_insights/youth_career_facilitator_pilot" class="themeBtn themeBtn--arrow" aria-label="Read more about Youth Career Facilitator Pilot"><span class="arrow" aria-hidden="true"></span></a>
+      </div>
+    </div>
+  </div><div class="col-md-3">
+    <div class="cardImage">
+      <div class="cardImage__image">
+        <p class="tag">31 Oct 2023</p>
+        <img src="https://www.jt.tas.gov.au/__data/assets/image/0019/521074/Picture2.webp" alt="">
+      </div>
+      <div class="cardImage__content">
+        <h3>Youth Connectors in the regions</h3>
+        <p><p>Young people in regional Tasmania are being supported to explore their education and employment options through a pilot Youth Connectors project, supported by Jobs Tasmania.</p></p>
+
+        <a href="https://www.jt.tas.gov.au/news_and_insights/youth_connectors" class="themeBtn themeBtn--arrow" aria-label="Read more about Youth Connectors in the regions"><span class="arrow" aria-hidden="true"></span></a>
+      </div>
+    </div>
+  </div><div class="col-md-3">
+    <div class="cardImage">
+      <div class="cardImage__image">
+        <p class="tag">19 Sep 2023</p>
+        <img src="https://www.jt.tas.gov.au/__data/assets/image/0016/521134/Youth-Jobs-Discussion-Paper_Social-Tile_V2.webp" alt="">
+      </div>
+      <div class="cardImage__content">
+        <h3>Youth Jobs Strategy – Have your say</h3>
+        <p><p>All Tasmanians are invited to have their say on the Tasmanian Government&rsquo;s Youth Jobs Strategy through a public consultation process open until 27 October 2023.</p></p>
+
+        <a href="https://www.jt.tas.gov.au/news_and_insights/youth_jobs_strategy_have_your_say" class="themeBtn themeBtn--arrow" aria-label="Read more about Youth Jobs Strategy – Have your say"><span class="arrow" aria-hidden="true"></span></a>
+      </div>
+    </div>
+  </div>
+
+  
+</div> 
+          </div>
+        </div>
+    </section>
+        <footer class="site-footer">
+            <div class="container site-footer__menus">
+                <div class="row">
+                    <div class="col-md-3 site-footer--one">
+                        <a href="https://jobs.tas.gov.au">
+                            <img src="https://www.jt.tas.gov.au/__data/assets/file/0005/436199/Welcome.svg" alt="Tasmanian Goverment Logo">
+                        </a>
+                    </div>
+                    <div class="col-md-3 site-footer--two">
+                        <h2>Regional Jobs Hub</h2>
+                        <ul>
+    <li><a href="https://bodec.org.au" target="_blank" class="f-link">Break O’Day Employment Connect</a></li><li><a href="https://bestas.com.au" target="_blank" class="f-link">Business and Employment Southeast Tasmania</a></li><li><a href="https://dorsetec.org.au" target="_blank" class="f-link">Dorset Employment Connect</a></li><li><a href="https://jobshubglenorchy.com.au" target="_blank" class="f-link">Glenorchy Jobs Hub</a></li><li><a href="https://nebhub.com.au" target="_blank" class="f-link">Northern Employment and Business Hub</a></li><li><a href="https://swntas.org" target="_blank" class="f-link">Southcentral Workforce Network</a></li><li><a href="https://setn.org.au" target="_blank" class="f-link">Southern Employment and Training Network</a></li><li><a href="https://wnwworking.com.au" target="_blank" class="f-link">West North West Working</a></li>
+</ul>                    </div>
+                    <div class="col-md-2 site-footer--three">
+                        <div class="flex-item">
+                            <ul>
+                                														                                        <li>
+                                            <a class="menu-link" href="https://www.jt.tas.gov.au/about">
+                                                About                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="menu-link" href="https://www.jt.tas.gov.au/programs">
+                                                Programs                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="menu-link" href="https://www.jt.tas.gov.au/news_and_insights">
+                                                News and Insights                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="menu-link" href="https://www.jt.tas.gov.au/contact">
+                                                Contact                                            </a>
+                                        </li>
+                                    				                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 site-footer--four">
+                        <div class="textBlock">
+                            <a href="https://www.jt.tas.gov.au/keep_in_touch" class="themeBtn themeBtn--arrow">
+                                <span class="text">Stay up to date with us</span>
+                                <span class="arrow"></span>
+                            </a>
+                            <div id="footer-announcement">
+                                
+                                        <p>Jobs Tasmania connects jobseekers and employers. You are currently visiting the job seeker version of the website.</p>
+                                        <div class="textLink">
+                                            <a href="javascript:;" id="footer-switch-employer">Switch to the employer version</a>
+                                        </div>
+                                    
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="site-footer__sub-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <ul class="site-footer__sub-footer__menus">
+                                														                                        <li>
+                                            <a href="https://www.stategrowth.tas.gov.au/personal_information_protection" target="_blank">
+                                                Personal Information Protection                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.tas.gov.au/stds/codi.htm" target="_blank">
+                                                Copyright and Disclaimer                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.stategrowth.tas.gov.au/about/right_to_information" target="_blank">
+                                                Right to information                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://www.service.tas.gov.au/" target="_blank">
+                                                Service Tasmania                                            </a>
+                                        </li>
+                                    				                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </footer>
+    </div>
+
+
+</body>
+
+
+<script type="text/javascript" src="https://www.bugherd.com/sidebarv2.js?apikey=d6zzfuottjmuxmyqdvfjmw" async="true"></script>
+<script type="text/javascript" src="https://www.jt.tas.gov.au/data/js_articles.js?a=435556"></script>
+
+<script> var globals_site_url = 'https://www.jt.tas.gov.au'; var page_slug = '/home'; </script>
+<script type="text/javascript" src="https://www.jt.tas.gov.au/__data/assets/js_file/0020/439031/redirect_handler.js"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flickity/2.2.2/flickity.pkgd.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.12.1/rellax.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/seamless-scroll-polyfill@v2.1.5/lib/bundle.min.js"></script>
+
+<script type="text/javascript" src="https://www.jt.tas.gov.au/__data/assets/js_file/0005/435290/bundle.js"></script>
+
+<script type="text/javascript" src="https://www.jt.tas.gov.au/__data/assets/js_file_folder/0004/521185/app.min.js"></script>
+
+   
+
+
+<script>
+    $( ".alert-banner__close" ).on( "click", function( event ) {
+        event.preventDefault();
+        $( ".alert-banner" ).hide();
+    });
+    
+    $( ".site-alert .btn-close" ).on( "click", function( event ) {
+        event.preventDefault();
+        $( ".site-alert" ).hide();
+    });
+</script>
+
+<style>
+    .site-header .searchbox {
+    position: relative !important;
+    width: 60% !important;
+    }
+    
+    @media (min-width: 992px) {
+    .col-10 {
+        width: auto !important;
+        flex-grow: 1 !important;
+        }
+    }
+    
+    @media (max-width: 991px) {
+    .site-header .close-menu {
+        right: 0px !important;
+        }
+    }
+
+    .header-search__input {
+        width: 100%;
+    }
+
+</style>
+</html>

@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /sitecore_files/
+Disallow: /sitecore modules/
+Disallow: /App_Browsers/
+Disallow: /App_config/
+Disallow: /App_Data/
+Disallow: /temp/
+Disallow: /upload/
+Disallow: /xsl/

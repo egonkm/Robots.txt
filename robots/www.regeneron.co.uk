@@ -1,0 +1,14 @@
+
+    #updated 06/08/2022
+
+
+    User-agent:*
+    
+    Disallow: 
+    
+    /search-results
+    
+    sitemap: https://www.regeneron.co.uk/sitemap.xml
+    
+    
+    # End robots.txt

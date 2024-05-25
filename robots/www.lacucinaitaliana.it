@@ -1,0 +1,77 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /preview/  
+Disallow: /search
+Disallow: /?s=
+Disallow: /galleries/
+Disallow: /*{{url}}
+Disallow: /*%7B%7Burl%7D%7D
+Disallow: /*{{section}}
+Disallow: /*%7B%7Bsection%7D%7D
+Disallow: /auth/*
+Disallow: /account/*
+Disallow: /product/
+Disallow: /user-context?referrer
+Disallow: /services.min.js?_=
+
+User-agent: Google-InspectionTool
+Allow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: grapeshot
+Disallow:
+
+Sitemap: https://www.lacucinaitaliana.it/sitemap.xml  
+Sitemap: https://www.lacucinaitaliana.it/feed/google-latest-news/sitemap-google-news  
+Sitemap: https://www.lacucinaitaliana.it/feed/rss
+Sitemap: https://www.lacucinaitaliana.it/sitemap_index.xml
+Sitemap: https://media.lacucinaitaliana.it/static/sitemap-v1/sitemap_index.xml 
+Sitemap: https://www.lacucinaitaliana.it/branded-sitemap.xml
+Sitemap: https://www.lacucinaitaliana.it/contributors-sitemap.xml
+Sitemap: https://www.lacucinaitaliana.it/categories-sitemap.xml
+Sitemap: https://www.lacucinaitaliana.it/bundles-sitemap.xml

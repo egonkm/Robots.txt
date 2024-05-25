@@ -1,0 +1,30 @@
+#robots.txt for https://mldcmu.ai
+
+User-agent: *
+Disallow: /files/ 
+Disallow: /dev/ 
+Disallow: /uploads/ 
+
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+Crawl-Delay: 20
+
+User-agent: PhantomJS
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+Crawl-Delay: 20
+
+User-agent: crawl
+Disallow: /
+
+Sitemap: https://www.ml.cmu.edu/sitemap.xml

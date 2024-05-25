@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /su/
+Disallow: /buscador/
+Disallow: /config/
+Disallow: /stats/
+Allow: /
+Sitemap: https://www.megastar.fm/sitemap-noticias.xml
+Sitemap: https://www.megastar.fm/sitemap-google_news.xml
+Sitemap: https://www.megastar.fm/sitemap-google_news_audios.xml
+Sitemap: https://www.megastar.fm/sitemap-google_news_videos.xml
+# fin robots version 0.0.1  16marzo2022 1250

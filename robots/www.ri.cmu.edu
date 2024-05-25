@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /log/*
+Disallow: /connect-pub-and-fac/*
+Allow: /wp-admin/admin-ajax.php

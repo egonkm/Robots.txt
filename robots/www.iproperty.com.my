@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /cdn-cgi/
+Disallow: /international
+Disallow: /useracc
+Allow: /.well-known/
+
+Sitemap: https://www.iproperty.com.my/sitemap_index.xml
+Sitemap: https://www.iproperty.com.my/property/buy-lease-sitemap_index.xml
+Sitemap: https://www.iproperty.com.my/serp/serp-buy_index.xml
+Sitemap: https://www.iproperty.com.my/serp/serp-lease_index.xml
+Sitemap: https://www.iproperty.com.my/p4ep-sitemap_index.xml
+Sitemap: https://www.iproperty.com.my/transaction/transaction-price_index.xml
+Sitemap: https://www.iproperty.com.my/guides/sitemaps/sitemap_index.xml
+Sitemap: https://www.iproperty.com.my/news/sitemaps/sitemap_index.xml
+Sitemap: https://www.iproperty.com.my/property-insights/sitemaps/sitemap_index.xml
+Sitemap: https://www.iproperty.com.my/serp/sitemap_temp_serp_project_index.xml

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+Allow: /$
+Allow: /forgot_password$
+Allow: /sign_up/enter_email$
+Allow: /es$
+Allow: /es/forgot_password$
+Allow: /es/sign_up/enter_email$
+Allow: /fr$
+Allow: /fr/forgot_password$
+Allow: /fr/sign_up/enter_email$

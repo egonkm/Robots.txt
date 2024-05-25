@@ -1,0 +1,472 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Eleventy Documentation — Eleventy</title>
+		<meta name="description" content="Eleventy Documentation — Eleventy">
+		<meta name="generator" content="Eleventy v3.0.0">
+
+		<link rel="icon" type="image/png" sizes="96x96" href="/img/favicon.png">
+		<link rel="me" href="https://fosstodon.org/@eleventy">
+
+		<!-- Open Graph -->
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://www.11ty.dev/404.html">
+		<meta property="og:site_name" content="Eleventy">
+		<meta property="og:locale" content="en_US">
+		<meta property="og:title" content="Eleventy Documentation">
+		<meta property="og:description" content="A docs page for Eleventy v2.0.1, a simpler static site generator.">
+		<meta property="og:image" content="https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2F404.html/opengraph/_cachebust/">
+		<meta property="og:image:width" content="1280">
+		<meta property="og:image:height" content="640">
+		<meta property="og:image:alt" content="A screenshot of the web page at https://www.11ty.dev/404.html">
+
+		<!-- Feeds -->
+		<link rel="alternate" href="/blog/feed.xml" title="Eleventy Blog" type="application/atom+xml">
+		<link rel="alternate" href="/firehose/firehose.rss" title="Eleventy Firehose" type="application/rss+xml">
+
+		<!-- Preconnect -->
+		<link href="https://v1.indieweb-avatar.11ty.dev" rel="preconnect" crossorigin="">
+		<link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="">
+
+		<style>@font-face{font-family:BenchNine;src:url("data:font/woff2;charset=utf-8;base64,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") format("woff2");font-weight:700;font-display:swap;unicode-range:U+20-7E,U+D6,U+D8,U+E9,U+F4,U+F6,U+F8,U+15A,U+200B,U+2014,U+2019,U+2026}:root{--layout-max:70rem;--background-color_light:#fff;--color_light:#383838;--border-color_light:#ddd;--link-color_light:#222;--background-color_dark:#222;--color_dark:#fff;--border-color-dark:#444;--link-color-dark:#fff;--background-color:var(--background-color_light);--color:var(--color_light);--border-color:var(--border-color_light);--link-color:var(--link-color_light)}@media (prefers-color-scheme:dark){:root{--background-color:var(--background-color_dark);--color:var(--color_dark);--border-color:var(--border-color-dark);--link-color:var(--link-color-dark)}}.sr-only{position:absolute;height:1px;width:1px;overflow:hidden;clip:rect(1px,1px,1px,1px)}.hide{display:none}*{box-sizing:border-box}html{overflow-y:scroll}body{font-family:system-ui,-apple-system,sans-serif;background-color:var(--background-color);color:var(--color);margin:0}img{border:0}a,a:visited,a[href]{color:var(--link-color)}a[href].naked{text-decoration:none}b,strong{font-weight:600}del,s{text-decoration-color:red;opacity:.67}hr{margin:3em 0;border:none;border-top:1px solid var(--border-color)}p{max-width:42em;line-height:1.6}abbr{text-decoration:none}iframe{border:none;width:100%}is-land{content-visibility:auto}.nowrap{white-space:nowrap}.und{text-decoration:underline}.nound{text-decoration:none}.ta-c{text-align:center}.spc-t2{margin-top:2em}.spc-b2{margin-bottom:2em}blockquote{font-family:Georgia,serif;font-size:1.1875em;color:#666;margin:1.5em 0;padding:0 1em;max-width:31.57894736842em;border-left:6px solid var(--border-color)}@media (prefers-color-scheme:dark){blockquote{color:#ccc}}blockquote+blockquote{margin-top:2em}.avatar,.has-svg-icon>svg,.icon,blockquote img{height:1.3em;width:1.3em;display:inline-block;vertical-align:text-top;margin-left:2px;margin-right:6px}.avatar-large{height:1.5em;width:1.5em}.avatar,blockquote img{border-radius:50%}.avatar-indieweb{border-radius:.25em}.avatar,.has-svg-icon>svg,.icon{vertical-align:middle}ul:not(.list-bare):not(.inlinelist)>li>a>.avatar{width:auto;height:1.111111111111em;vertical-align:top;margin-left:4px;margin-right:4px}ul:not(.list-bare):not(.inlinelist)>li>a>.avatar-large{width:1.444444444444em;height:1.444444444444em;object-fit:contain;margin-right:.3888888888889em}blockquote .bio-source{white-space:nowrap}@media (prefers-color-scheme:dark){.has-svg-icon>svg{fill:#fff}}h1 .avatar{height:.7em;width:.7em;vertical-align:baseline}main{font-size:1.125em}main img{max-width:100%}main img[height]{height:auto}main details{margin:1rem 0}details[open].details-expand-bg,main>details[open]{--details-bg:rgba(0, 0, 0, 0.08);background-color:var(--details-bg);box-shadow:0 0 0 1rem var(--details-bg)}details[open].details-expand-bg pre,main>details[open] pre{border-radius:0}@media (prefers-color-scheme:dark){details[open].details-expand-bg,main>details[open]{--details-bg:rgba(255, 255, 255, 0.08)}}details[open].details-rounded{border-radius:.1em}main details[open]>summary{margin:0 0 1em}table{border-collapse:collapse;margin-bottom:2em}table td,table th{text-align:left;border-top:1px solid #eee;border-bottom:1px solid #eee;padding:.4em;font-size:.8125em;vertical-align:top}table thead th{font-weight:300;text-transform:uppercase;letter-spacing:.5px;font-size:.75em;border-top:none}table thead th code{text-transform:none}table td:first-child,table th:first-child{padding-left:0}table th{border-color:var(--border-color)}table thead th{color:#222}table thead th a[href]{color:inherit}table .numeric{text-align:right;font-family:Roboto Mono,Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace}@media (prefers-color-scheme:dark){table td{border-color:#333}table thead th{color:#ddd}}h2+table{margin-top:-.625em}@media (min-width:37.5em){table td,table th{padding:.4em .8em;font-size:1em}table thead th{font-size:.875em}}.benchnine,.elv-h2,.elv-h3,.elv-hed,h1,h2,h3,h4,h5{font-family:BenchNine,system-ui,-apple-system,sans-serif}.elv-hed,h1{font-size:2.666666666667em;margin:0 0 .5em}main .elv-toc+#skip-content>h1:first-child{margin-top:.5em;line-height:1.1}main .breadcrumb+h1,main .elv-toc+#skip-content>h1:first-child,main h1:first-child{border-bottom:1px solid #aaa}@media (min-width:55em){main .elv-toc+#skip-content>h1:first-child,main .elv-toc+#skip-content>h2:first-child{margin-top:0}}.elv-h2,h2{font-size:2.222222222222em;border-bottom:1px solid #ddd;margin:2em 0 .25em;line-height:1.1;letter-spacing:-.5px}@media (prefers-color-scheme:dark){.elv-h2,h2{border-color:#555}}.elv-h3,h3{font-size:1.666666666667em;margin-bottom:.5em}h4{font-size:1.444444444444em;margin-bottom:.5em}h5{font-size:1.277777777778em;margin-bottom:.5em}h1 code,h2 code,h3 code,h4 code,h5 code{font-family:inherit}h1,h2,h3{text-wrap:balance}.subhed{display:block;font-family:system-ui,-apple-system,sans-serif;font-size:.9375em;line-height:1;font-weight:400;text-transform:uppercase;letter-spacing:1px;margin:0;color:#666;text-align:center;border:none}@media (prefers-color-scheme:dark){.subhed{color:#adadad}}ol:last-child,ul:last-child{margin-bottom:0}ul{padding:0 1em}li{padding:.5em 0;line-height:1.6}li:first-child:not([class]){padding-top:0}li:last-child:not([class]){padding-bottom:0}li ol,li ul{margin-top:1em}.list-bare{list-style:none;padding:0;margin:0}.list-bare>li{padding:0;line-height:2}.list-bare-desc{display:block;font-size:80%;color:#555;margin-bottom:4px}@media (prefers-color-scheme:dark){.list-bare-desc{color:#bbb}}.list-bare-desc:last-child{margin-bottom:6px}.list-bare-desc-avatar{margin-left:29.4px}.elv-layout{padding:1rem;margin:0 auto;max-width:var(--layout-max);clear:both}header.elv-layout{padding:0 1rem}footer.elv-layout{margin-bottom:5em}.elv-layout-full{max-width:none}@media (min-width:55em){.elv-layout-toc{padding:0 2rem 2rem 16rem;position:relative}}dl{display:grid;gap:0 1em;grid-template-columns:auto 1fr}dl.elv-list-vertical{grid-template-columns:auto}dd{margin:0}dl:first-child{margin-top:0}dl:last-child{margin-bottom:0}.elv-toc dl{line-height:1.6}.elv-menu{background-color:#f4f4f4;color:var(--color);border:1px solid var(--border-color);border-left:none;border-right:none}:where(.elv-menu) a,:where(.elv-menu) a:visited,:where(.elv-menu) a[href]{color:inherit}.elv-header-default .elv-menu{background-color:#222;border-color:transparent}.elv-header-default .elv-menu{color:var(--color_dark)}@media (prefers-color-scheme:dark){.elv-header-default .elv-menu,.elv-menu{background-color:#292929}}.elv-header{position:relative}.elv-hed,.elv-nav-header{width:100%;margin:0 auto}.elv-nav-header{padding-left:1rem;padding-right:1rem}.elv-header-docs .elv-nav-header{margin-block:1rem}.elv-nav-menu{padding-left:1rem;padding-top:.5rem;padding-bottom:.5rem;margin-left:auto;margin-right:auto}.elv-hed,.elv-nav-header,.elv-nav-menu{max-width:calc(var(--layout-max))}.elv-header-default .elv-nav-header{max-width:none}.elv-nav-menu{padding-right:15vw}@media (min-width:25em){.elv-nav-menu{padding-right:6em}}.elv-header-docs:after,.elv-header-docs:before{content:" ";display:table}.elv-header-docs:after{clear:both}.elv-header-skip-content{position:absolute;top:.25em;left:1em;color:#fff;background-color:#353535;z-index:1001;text-align:center}.elv-header-skip-content a[href]{color:inherit}.elv-header-skip-content a:focus{display:inline-block;cursor:pointer;padding:.5em}.elv-header-skip-content a:not(:focus){clip:rect(0 0 0 0);position:absolute;overflow:hidden}.elv-hero{display:block;background-color:#222;font-family:BenchNine,system-ui,-apple-system,sans-serif;text-decoration:none}a[href].elv-hero,a[href].elv-hero:visited{color:#fff}.elv-hero-content:after{content:"";font-size:7%}.elv-hero-content{display:flex;gap:.02em;align-items:baseline;justify-content:center;font-size:30vw;font-size:40vh;height:60vh;color:#fff;position:relative;z-index:1}@media (prefers-color-scheme:dark){.elv-hero{background-color:#292929}}.elv-hero img,.elv-hero svg{display:block;width:55vh;height:55vh;max-width:100%}.elv-hero:hover img,.elv-hero:hover svg{background-color:inherit}.elv-header-default .elv-hero{display:flex;justify-content:center;width:calc(100% + 2rem);margin-left:-1rem;margin-right:-1rem}.elv-hero:hover{background-color:#333}.elv-header-docs .elv-hero{float:left;margin-right:.5em}.elv-header-default .elv-hero img,.elv-header-default .elv-hero svg{position:relative;background-color:transparent;z-index:1}.elv-header-docs .elv-hero img,.elv-header-docs .elv-hero svg{width:3em;height:3em}@media (min-width:43.75em){.elv-header-docs .elv-hero{margin-right:1em}.elv-header-docs .elv-hero img,.elv-header-docs .elv-hero svg{width:4em;height:4em}}.elv-hed{font-size:3.125em;line-height:1.2;margin-block:1em;text-align:center;text-transform:none}.elv-header-docs .elv-hed{font-size:2.125em;line-height:1.5;margin:0;text-align:left}@media (min-width:43.75em){.elv-header-docs .elv-hed{font-size:2.625em}}@media (max-width:37.4375em){.bp-notsm.bp-notsm.bp-notsm.bp-notsm{display:none}}@media (min-width:37.5em){.bp-sm.bp-sm.bp-sm.bp-sm{display:none}}.btn-form,.btn-primary{cursor:pointer;border:2px solid;font-size:1em;text-align:center;font-weight:700;text-transform:uppercase;text-decoration:none;color:inherit;background-color:inherit}@media (prefers-color-scheme:dark){.btn-form{background-color:#000;border-color:transparent}}.btn-form{border-radius:1em;padding-left:.75em;padding-right:.75em;box-shadow:0 4px 3px -3px #000}.btn-primary{display:block;border-radius:1.5em;margin:0;padding:.5em 1em .4em;box-shadow:0 8px 6px -6px #000}.btn-form:focus,.btn-form:hover,.btn-primary:hover{border-color:transparent;background-color:#222;color:#fff}@media (prefers-color-scheme:dark){.btn-form:focus,.btn-form:hover{background-color:#fff;color:#222}}.btn-primary:hover{border-color:rgba(255,255,255,.3)}.btn-primary span{text-transform:none}.btn-c{margin-left:auto;margin-right:auto}@media (min-width:20em){.btn-primary{font-size:6vw}.btn-primary-sm,.btn-primary-standard{font-size:1.4em}}@media (min-width:28.125em){.btn-primary-sm{font-size:5.6vw}.btn-primary-standard{font-size:4vw}}@media (min-width:53.125em){.btn-primary-sm{font-size:2.666666666667em}.btn-primary-standard{font-size:1.666666666667em}}@media (min-width:87.5em){.btn-primary{font-size:5.25em}}.emoji{line-height:1}filter-container form{opacity:.3;pointer-events:none}filter-container:defined form{opacity:1;pointer-events:all}.mt-0:first-of-type{margin-top:0}.mt-1{margin-top:.5em}.mt-2{margin-top:1em}.mb-2{margin-bottom:1em}.mt-8{margin-top:4em}.mb-8{margin-bottom:4em}.elv-nav-menu{--fl-gap-h:0.75em}@media (max-width:24.9375em){.elv-nav-menu>*{flex-basis:45%}}.elv-nav-menu a{font-weight:600}.elv-nav-menu .elv-nav-light{font-weight:300}.spacer{display:none}.elv-nav-sociallink-text{position:absolute;height:1px;width:1px;overflow:hidden;clip:rect(1px,1px,1px,1px)}@media (max-width:24.9375em){.elv-nav-menu>:has(.elv-nav-sociallink-text){flex-basis:auto}}@media (min-width:60.625em){.elv-nav-sociallink{font-size:.875em}.spacer{display:inherit}.elv-nav-menu .spacer{flex-grow:999}.elv-nav-sociallink-text{position:static;overflow:visible;clip:auto}}@media (max-width:64.9375em){.elv-nav-menu-hidesmall{display:none}}.announcement{display:flex;flex-wrap:wrap;justify-content:center;width:100%;background-color:#111;font-weight:500;padding:.25em 1em;text-align:center;line-height:1}@media (min-width:48em){.announcement{font-size:1em;font-size:clamp(1em, 2vw, 1.25em)}}.announcement>a,.announcement>span{display:inline-block;padding:.35em 0;text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.announcement a:hover{text-decoration:underline}.announcement,.announcement a,.announcement a:visited{color:#eee}.announcement a:after{display:none}.announcement .fundraising{display:block;font-size:.75em;width:100%;padding:0}.announcement a.fundraising{text-decoration:none}@media (prefers-color-scheme:dark){.announcement .fundraising fundraising-status{--fs-background:rgba(255,255,255,.6)}}.announcement .fundraising fundraising-status:defined{margin-inline:auto;max-width:30em}.announcement .fundraising img{width:2em;height:2em}.announcement .fundraising-label{display:flex;align-items:center;gap:.5em;margin-right:.5em}a[href^="//"]:not([href^="//11ty.dev"],[href^="//www.11ty.dev"]):not(.minilink):not(.elv-externalexempt),a[href^="http://"]:not([href^="http://11ty.dev"],[href^="http://www.11ty.dev"]):not(.minilink):not(.elv-externalexempt),a[href^="https://"]:not([href^="https://11ty.dev"],[href^="https://www.11ty.dev"]):not(.minilink):not(.elv-externalexempt){text-decoration-color:#00bcd4}a[href^="//"]:not([href^="//11ty.dev"],[href^="//www.11ty.dev"]):not(.minilink):not(.elv-externalexempt):after,a[href^="http://"]:not([href^="http://11ty.dev"],[href^="http://www.11ty.dev"]):not(.minilink):not(.elv-externalexempt):after,a[href^="https://"]:not([href^="https://11ty.dev"],[href^="https://www.11ty.dev"]):not(.minilink):not(.elv-externalexempt):after{content:"↗";font-family:system-ui,-apple-system,sans-serif;font-style:normal;font-weight:900;color:#00bcd4;padding-left:.1875em;font-size:.75em;line-height:.75}a[href^="//"]:not([href^="//11ty.dev"],[href^="//www.11ty.dev"]):not(.minilink):not(.elv-externalexempt):hover,a[href^="http://"]:not([href^="http://11ty.dev"],[href^="http://www.11ty.dev"]):not(.minilink):not(.elv-externalexempt):hover,a[href^="https://"]:not([href^="https://11ty.dev"],[href^="https://www.11ty.dev"]):not(.minilink):not(.elv-externalexempt):hover{text-decoration-color:inherit}a[href^="//"]:not([href^="//11ty.dev"],[href^="//www.11ty.dev"]):not(.minilink):not(.elv-externalexempt):hover:after,a[href^="http://"]:not([href^="http://11ty.dev"],[href^="http://www.11ty.dev"]):not(.minilink):not(.elv-externalexempt):hover:after,a[href^="https://"]:not([href^="https://11ty.dev"],[href^="https://www.11ty.dev"]):not(.minilink):not(.elv-externalexempt):hover:after{color:inherit}a[href^="/blog/discord/"]:not(.elv-externalexempt):before,a[href^="https://en.wikipedia.org"]:not(.elv-externalexempt):before,a[href^="https://fediverse.zachleat.com"]:not(.elv-externalexempt):before,a[href^="https://fosstodon.org"]:not(.elv-externalexempt):before,a[href^="https://github.com"]:not(.elv-externalexempt):before,a[href^="https://gitlab.com"]:not(.elv-externalexempt):before,a[href^="https://wikipedia.org"]:not(.elv-externalexempt):before,a[href^="https://www.youtube.com"]:not(.elv-externalexempt):before,a[href^="https://youtube.com"]:not(.elv-externalexempt):before{content:"";display:inline-block;vertical-align:text-bottom;width:1em;height:1em;margin:0 .2em;background-size:contain;background-repeat:no-repeat}a[href^="/blog/discord/"]:not(.elv-externalexempt):after,a[href^="https://en.wikipedia.org"]:not(.elv-externalexempt):after,a[href^="https://fediverse.zachleat.com"]:not(.elv-externalexempt):after,a[href^="https://fosstodon.org"]:not(.elv-externalexempt):after,a[href^="https://github.com"]:not(.elv-externalexempt):after,a[href^="https://gitlab.com"]:not(.elv-externalexempt):after,a[href^="https://wikipedia.org"]:not(.elv-externalexempt):after,a[href^="https://www.youtube.com"]:not(.elv-externalexempt):after,a[href^="https://youtube.com"]:not(.elv-externalexempt):after{display:none}a[href^="/blog/discord/"]:not(.elv-externalexempt):before{background-image:url("https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Fdiscord.com%2F/")}a[href^="https://www.youtube.com"]:before,a[href^="https://youtube.com"]:before{background-image:url("https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Fwww.youtube.com%2F/")}a[href^="https://fediverse.zachleat.com"]:before,a[href^="https://fosstodon.org"]:before{border-radius:.3125em;background-image:url("https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Ffosstodon.org%2F/")}a[href^="https://github.com"]:before{border-radius:7px;box-shadow:0 0 0 2px #fff;background-color:#fff;background-image:url("https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Fgithub.com%2F/")}a[href^="https://gitlab.com"]:before{background-image:url("https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Fabout.gitlab.com%2F/")}a[href^="https://en.wikipedia.org"]:before,a[href^="https://wikipedia.org"]:before{border:.0625em solid rgba(0,0,0,.3);border-radius:.125em;background-image:url("https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Fwww.wikipedia.org%2F/")}a[href^="https://github.com"].elv-skipicon:before{display:none}.facepile a[href^="https://fediverse.zachleat.com"]:before,.facepile a[href^="https://fosstodon.org"]:before,.facepile a[href^="https://github.com"]:before,.sites-site-vert a[href^="https://github.com"]:before,.sites-site-vert a[href^="https://www.youtube.com"]:before,.sites-site-vert a[href^="https://youtube.com"]:before,a[href^="https://youtube.com"].lty-playbtn:before{display:none}a[href^="/blog/discord/"]:not(.elv-externalexempt) .avatar,a[href^="https://en.wikipedia.org"]:not(.elv-externalexempt) .avatar,a[href^="https://fediverse.zachleat.com"]:not(.elv-externalexempt) .avatar,a[href^="https://fosstodon.org"]:not(.elv-externalexempt) .avatar,a[href^="https://github.com"]:not(.elv-externalexempt) .avatar,a[href^="https://gitlab.com"]:not(.elv-externalexempt) .avatar,a[href^="https://wikipedia.org"]:not(.elv-externalexempt) .avatar,a[href^="https://www.youtube.com"]:not(.elv-externalexempt) .avatar,a[href^="https://youtube.com"]:not(.elv-externalexempt) .avatar{display:none}.elv-toc{font-size:1rem}.elv-toc details{--details-force-closed:(max-width: 54.9375em);margin-top:0}.elv-toc details>summary{font-size:1.375rem;margin-bottom:.5em}@media (min-width:55em){.elv-toc{position:absolute;left:1rem;width:13rem;z-index:1}.elv-toc details>summary{margin-top:0}details-force-state:defined>details>summary{display:none}}.elv-toc-list{display:flex;flex-wrap:wrap;justify-content:space-between;padding-left:0;padding-right:0;margin:0 0 2.5em;list-style:none}.elv-toc-list li{font-size:.9375em;line-height:1.466666666667}.elv-toc-list ul{padding:0 0 .75em 0;margin:0;list-style:none}.elv-toc-list ul ul{padding-bottom:0;padding-left:.625rem}.elv-toc summary,.elv-toc-list a{padding:.15em .25em;color:#1873a5}@media (prefers-color-scheme:dark){.elv-toc summary,.elv-toc-list a{color:#86d0fb}}.elv-toc-list a{display:block}.elv-toc-list a:not(:hover){text-decoration:none}.elv-toc-list li{margin:0;padding:0}.elv-toc-list>li{flex-grow:1;flex-basis:14.375rem}.elv-toc-list>li>a{color:#222;font-weight:600;border-bottom:1px solid #ddd;margin-bottom:1em}.elv-toc-list>li:has(> ul)>a{margin-bottom:.25em}@media (prefers-color-scheme:dark){.elv-toc-list>li>a{color:#fff;border-color:#444}}.elv-toc-list li.elv-toc-active>a{background-color:#dff7ff}@media (prefers-color-scheme:dark){.elv-toc-list li.elv-toc-active>a{background-color:#353535}}.elv-toc-list ul .elv-toc-active>a:after{content:""}.elv-toc-list li.elv-toc-active>ul,.elv-toc-list ul.elv-toc-active{display:block}.elv-cat-list-active{font-weight:600}details.toc{border-radius:.4em;padding:.5rem .5rem 0 .5rem;margin:0 -.5rem 3em -.5rem}h1+details.toc{margin-top:-1.444444444444em}details.toc,details.toc[open]{border:2px solid #ccc;box-shadow:none}details.toc[open]{background-color:#f7f7f7}@media (prefers-color-scheme:dark){details.toc[open]{background-color:#292929}}details.toc:not([open])>summary{margin-bottom:0}details.toc>summary{padding-bottom:.5rem;border-bottom:2px dotted transparent}details.toc[open]>summary{border-color:#ccc;font-weight:700}.table-of-contents>ul ul{display:flex;flex-wrap:wrap;gap:.5em 2em}.table-of-contents>ul ul>li{padding:0}.fundraising-sidebar{display:block;text-decoration:none}.fundraising-sidebar-percent{font-size:2.5em;text-align:center;font-weight:700;line-height:1;margin-block:.25em .25em}.fundraising-sidebar-percent:after{content:"%"}.minilink{display:inline-block;padding:.125em .375em;text-transform:uppercase;font-size:.875rem;text-decoration:none;background-color:#ddd;border-radius:.1875em;font-weight:500;margin:0 .4285714285714em .07142857142857em 0;line-height:1.285714285714;font-family:system-ui,-apple-system,sans-serif}@media (prefers-color-scheme:dark){.minilink.minilink{background-color:#222;color:#fff}}table .minilink{margin-top:6px}.minilink[href]{box-shadow:0 1px 1px 0 rgba(0,0,0,.5)}.minilink[href]:focus,.minilink[href]:hover{background-color:#eee}@media (prefers-color-scheme:dark){.minilink[href]:focus,.minilink[href]:hover{background-color:#444}}pre+.minilink{color:#fff;border-radius:0 0 .2857142857143em .2857142857143em;float:right;background-color:#444;color:#fff}pre[class*=language-]+.minilink{position:relative;top:-.7142857142857em}p.minilink{float:right;margin-left:2em;margin-bottom:2em}h1 .minilink,h2 .minilink,h3 .minilink,h4 .minilink{font-size:.9375rem;vertical-align:middle;margin-left:1em}h3 .minilink,h4 .minilink{font-size:.8125rem}.minilink+pre[class*=language-]{clear:both}.minilink-addedin{text-transform:none;box-shadow:0 0 0 1px rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){.minilink-addedin{box-shadow:0 0 0 1px rgba(255,255,255,.3)}}.minilink-addedin:not(:first-child){margin-left:.5em}.minilink-addedin.minilink-inline{margin:0 4px;background-color:#fff}@media (prefers-color-scheme:dark){.minilink-addedin.minilink-inline{background-color:#000}}.minilink-lower{text-transform:none;background-color:transparent}.minilink-lower[href]{box-shadow:0 0 0 1px rgba(0,0,0,.5)}.minilink-lower[href]:focus,.minilink-lower[href]:hover{background-color:#eee}.minilink>.minilink{margin:-.125em .375em -.125em -.375em;box-shadow:none;border-top-right-radius:0;border-bottom-right-radius:0}.minilink-buildcost{--internal-shadow-hsl:0deg 0% 75%;font-weight:700;text-transform:uppercase;box-shadow:0 .3px .5px hsl(var(--internal-shadow-hsl) / 0),.1px 4.3px 6.5px hsl(var(--internal-shadow-hsl) / .14)}.minilink-buildcost code:before{content:"🧰";margin-right:.25em}a[href]:focus .minilink-buildcost,a[href]:hover .minilink-buildcost{outline:2px solid blue}.minilink-github.minilink-github{background-color:#f6f8fa;color:#222}.minilink-github>:first-child{color:#eac54f}.elv-header-default .minilink-github{background-color:#222;color:#fff}.elv-header-default .minilink[href]:focus,.elv-header-default .minilink[href]:hover{background-color:#444}@media (prefers-color-scheme:dark){.minilink-github.minilink-github{background-color:#222;color:#fff}}.elv-callout{--callout-primary:hsl(195, 100%, 75%);--callout-primarytext:#000;--callout-secondary:#dff7ff;line-height:1.5;margin-left:-1rem;margin-right:-1rem;margin-bottom:2em;background-color:var(--callout-secondary);border:3px solid var(--callout-border,var(--callout-primary))}details .elv-callout{margin-left:0;margin-right:0}[role=tabpanel]>.elv-callout:last-child{margin-bottom:0}.elv-callout-pinned{--callout-primary:#d7f4cf;--callout-primarytext:#000;--callout-secondary:#f1feee}.elv-callout-box{--callout-primary:#dff7ff;--callout-primarytext:#000;--callout-secondary:#f2fcff}@media (min-width:55em){.elv-callout{border-radius:.3em}}@media (prefers-color-scheme:dark){.elv-callout{--callout-primary:hsl(195, 100%, 22%);--callout-secondary:hsl(195, 100%, 12%);--callout-primarytext:#fff}.elv-callout,.elv-callout a{color:#fff}}table .elv-callout{margin-left:0;margin-right:0;margin-bottom:1em}.elv-callout-c{padding:.75em 1em}.elv-callout-c>p:first-child{margin-top:0}.elv-callout-c>p:last-child{margin-bottom:0}.elv-callout{display:flex;flex-direction:column}.elv-callout-demo{position:relative}.elv-callout-label{align-self:flex-start;font-size:.9375em;font-weight:600}.elv-callout-demo:after,.elv-callout-demo:before,.elv-callout-label{margin:0;margin-right:.5em;border-radius:0 0 .3em 0;align-items:center;padding:0 .55em}.elv-callout-demo:after,.elv-callout-demo:before{display:inline-flex;position:absolute;left:0;top:0;font-size:.8125em;font-weight:800}.elv-callout-demo:before,.elv-callout-label,.elv-callout:not(.elv-callout-demo) :not(pre)>code{background-color:var(--callout-tag,var(--callout-primary));color:var(--callout-primarytext)}.elv-callout :visited,.elv-callout a{color:var(--callout-primarytext)}.elv-callout pre{margin-top:1em;margin-bottom:1em}.elv-callout-label:first-child:last-child{font-size:1.2em;background-color:transparent}.elv-callout-error{--callout-primary:hsl(0, 100%, 77%);--callout-secondary:hsl(0, 100%, 90%)}@media (prefers-color-scheme:dark){.elv-callout-error{--callout-primary:hsl(0, 100%, 22%);--callout-secondary:hsl(0, 100%, 12%)}}.elv-callout-warn{--callout-primary:hsl(60, 100%, 62%);--callout-secondary:hsl(60, 100%, 85%)}@media (prefers-color-scheme:dark){.elv-callout-warn{--callout-primary:hsl(53, 100%, 29%);--callout-secondary:hsl(53, 100%, 13%)}}.elv-callout-demo{--callout-primary:transparent;--callout-secondary:hsl(270deg 50% 90%);--callout-tag:rebeccapurple;--callout-border:rebeccapurple;overflow:hidden;padding-left:3.888888888889em}@media (prefers-color-scheme:dark){.elv-callout-demo{--callout-primary:hsl(270deg 50% 30%);--callout-secondary:hsl(270deg 50% 30%);--callout-tag:hsl(270deg 50% 85%);--callout-primarytext:#fff;--callout-border:rebeccapurple}.elv-callout-demo code{background-color:hsl(270deg 50% 15%)}}.elv-callout-demo:after{display:none}@media (min-width:37.5em){.elv-callout-demo{padding-right:3.888888888889em}.elv-callout-demo:after{display:block}}.elv-callout-demo:after,.elv-callout-demo:before{content:"DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO DEMO ";width:min-content;overflow:hidden;top:-2em;bottom:-1em;border-radius:0;background-color:var(--callout-primary);color:var(--callout-tag);font-weight:700;transform:skewY(-13deg);padding:0 .2857142857143em;margin:0}.elv-callout-demo:after{right:0;left:auto;margin-right:0;margin-left:.5em;transform:skewY(13deg)}.elv-callout>:first-child{margin-top:0}.elv-callout>:last-child{margin-bottom:0}body>.elv-callout-sticky .elv-callout-label{display:none}@media (min-width:37.5em) and (min-height:25em){body>.elv-callout-sticky{position:sticky;top:0;z-index:2;box-shadow:0 3px 0 0 rgba(0,0,0,.08)}body>.elv-callout-sticky .elv-callout{margin:0}}.elv-toc .elv-callout-pinned .elv-callout-c{text-wrap:balance}.elv-toc .elv-callout:first-child{margin-bottom:.25em}@media (max-width:54.9375em){.elv-toc .elv-callout{border-left:0;border-right:0}.elv-toc .elv-callout-pinned{display:none}}@media (min-width:55em){.elv-toc .elv-callout-c,.elv-toc .elv-callout-label{padding-left:1rem;padding-right:1rem}.elv-toc .elv-callout{margin-right:0;margin-left:-1rem;font-size:.875em;line-height:2}}@media (min-width:55em) and (max-width:70.625em){.elv-toc .elv-callout{border-left:0;border-top-left-radius:0;border-bottom-left-radius:0}}.lo-grid{--lo-grid-repeat:auto-fit;display:grid;margin:0;grid-template-columns:repeat(var(--lo-grid-repeat),minmax(var(--lo-c-minwidth),1fr));grid-row-gap:var(--fl-gap-v,0);grid-column-gap:var(--fl-gap-h,0)}.lo-grid-fill{--lo-grid-repeat:auto-fill}.lo-grid>*{margin:0}.direct-link{font-family:sans-serif;text-decoration:none;font-style:normal;margin-left:.1em;font-weight:400}a[href].direct-link,a[href].direct-link:visited{color:#949494;visibility:hidden}:focus>a[href].direct-link,:focus>a[href].direct-link:visited,:hover>a[href].direct-link,:hover>a[href].direct-link:visited,a[href].direct-link:focus,a[href].direct-link:focus:visited{visibility:visible}main .elv-toc+#skip-content>h1:first-child .direct-link{display:none}.breadcrumb ol,.breadcrumb ul{--fl-gap-h:0.5em;list-style-type:none;padding:0;margin:0}.breadcrumb li{font-size:.8333333333333em;white-space:nowrap}.breadcrumb.breadcrumb li{padding-top:0;padding-bottom:0}.breadcrumb li:before{content:"\200B"}.breadcrumb li:after{--breadcrumb-arrow-size:0.4em;display:inline-block;margin-left:var(--fl-gap-h);content:"";width:0;height:0;border-top:var(--breadcrumb-arrow-size) solid transparent;border-bottom:var(--breadcrumb-arrow-size) solid transparent;border-left:var(--breadcrumb-arrow-size) solid #bbb}seven-minute-tabs{display:block;padding:0 1rem;border-radius:.5rem;margin:0 -1rem 1rem;border:2px solid #111}@media (prefers-color-scheme:dark){seven-minute-tabs{border-color:#555}}seven-minute-tabs [role=tablist]{padding:0 1rem;margin:0 -1rem;font-size:.8125em;line-height:1.8;text-align:right}seven-minute-tabs [role=tablist]:first-child{margin-bottom:.5rem}seven-minute-tabs [role=tablist]:last-child{margin-top:.5rem}seven-minute-tabs [role=tab]{display:inline-block;font-weight:500;padding:0 .25em;margin:0 .1em;text-decoration:none;border-top:5px solid transparent}seven-minute-tabs [role=tab][aria-selected=true]{border-color:#e6c304;background-color:#e6c30438}seven-minute-tabs [role=tabpanel] pre{border-radius:0}seven-minute-tabs [role=tabpanel] pre:last-child{margin-bottom:0}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal}.token.cdata,.token.comment,.token.doctype,.token.prolog{color:#d4d0ab}.token.punctuation{color:#ccc}.token.constant,.token.deleted,.token.liquid,.token.property,.token.symbol,.token.tag{color:#ffa07a}.token.boolean,.token.number{color:#00e0e0}.token.attr-name,.token.builtin,.token.char,.token.inserted,.token.selector,.token.string{color:#abe338}.language-css .token.string,.style .token.string,.token.entity,.token.operator,.token.url,.token.variable{color:#00e0e0}.token.atrule,.token.attr-value,.token.function{color:gold}.token.keyword{color:#00e0e0}.token.important,.token.regex{color:gold}.token.bold,.token.important{font-weight:700}.token.italic{font-style:italic}.token.entity{cursor:help}@media screen and (-ms-high-contrast:active){code[class*=language-],pre[class*=language-]{color:windowText;background:window}:not(pre)>code[class*=language-],pre[class*=language-]{background:window}.token.important{background:highlight;color:window;font-weight:400}.token.atrule,.token.attr-value,.token.function,.token.keyword,.token.operator,.token.selector{font-weight:700}.token.attr-value,.token.comment,.token.doctype,.token.function,.token.keyword,.token.operator,.token.property,.token.string{color:highlight}.token.attr-value,.token.url{font-weight:400}}pre{display:block;padding:.75rem 1rem;margin:1em -1rem 2em -1rem;line-height:1.5;overflow-x:auto;font-size:.875em;font-family:Roboto Mono,Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;-moz-tab-size:2;-o-tab-size:2;tab-size:2;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;background-color:#272822;color:#fff}.fl>*>pre{margin-top:0}pre code{border-radius:0}pre>code{background-color:inherit;padding:0;font-family:inherit}pre+pre[class*=language-]{margin-top:1em}pre+.note{font-size:.6666666666667em;margin-top:-2.875em;margin-bottom:2.5em;text-align:right}@media (prefers-color-scheme:dark){pre{background-color:#000;color:#fff}pre code{color:unset}}@media (min-width:37.5em){pre{font-size:1em}}@media (min-width:55em){pre{border-radius:.3em}}.highlight-line{display:inline-block;text-decoration:none;color:inherit}.highlight-line:empty:before{content:" "}.highlight-line{min-width:100%}.highlight-line .highlight-line{min-width:0}.highlight-line-isdir{color:#b0b0b0;background-color:#222}.highlight-line-active{background-color:#444;background-color:hsla(0,0%,27%,.8)}.highlight-line-add{background-color:#45844b}.highlight-line-remove{background-color:#902f2f}[data-preprefix-cmdhomedir] .highlight-line:first-child:before{color:#aaa;content:"~ $ "}[data-preprefix-eleventysample] .highlight-line:first-child:before{color:#aaa;content:"~/eleventy-sample $ "}pre[class*=language-diff-]{padding-left:0;padding-right:0}.token.deleted{background-color:hsl(350deg 100% 88% / 20%)}.token.inserted{background-color:hsl(120deg 73% 75% / 20%)}.token.deleted:not(.prefix),.token.inserted:not(.prefix){display:block}.token.prefix.deleted,.token.prefix.inserted,.token.prefix.unchanged{-webkit-user-select:none;user-select:none;margin-right:.5em;padding:0 .2em}code{font-family:Roboto Mono,Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;-ms-word-break:break-all;word-break:break-word;-webkit-hyphens:manual;-moz-hyphens:manual;hyphens:manual;background-color:#efefef;padding-left:4px;padding-right:4px;border-radius:.15em}pre[class*=language-] code{background-color:inherit}table code{-ms-word-break:normal;word-break:normal}em code{font-style:normal}@media (prefers-color-scheme:dark){code{background-color:#000;color:#fff}}.fl pre{margin-left:0;margin-right:0}.fl .lo-maxgrow{flex-grow:999}.lo-c-center{display:flex;align-items:center;justify-content:center}.lo-c-center>.fl{flex-grow:1}.fl{--fl-stackpoint:initial;--fl-gap-h:1em;--fl-gap-v:0.5em;display:flex;flex-wrap:wrap;gap:var(--fl-gap-v,0) var(--fl-gap-h,0)}.fl>*{--fl-gap-mod:calc(
+		var(--fl-stackpoint, -1 * var(--fl-gap-h, 0px)) - var(--fl-stackpoint, 0px)
+	);--fl-stackpoint-calc:calc(
+		(var(--fl-stackpoint, 100%) - 100% + var(--fl-gap-mod, 0px)) * 999
+	);flex-grow:1;flex-basis:var(--fl-stackpoint-calc)}.fl-cell-wrap,.fl-nowrap>*{flex-basis:auto}.fl-inline>*{flex-grow:0}.fl-debug>*{outline:1px dotted rgba(0,0,0,.4);outline-offset:-1px}@supports (clip-path:inset(0px 0px)) or (-webkit-clip-path:inset(0px 0px)){.fl-separator-h,.fl-separator-v{-webkit-clip-path:inset(0 0 0 0);clip-path:inset(0 0 0 0)}.fl-separator-h>*,.fl-separator-v>*{position:relative}.fl-separator-h>:before{content:"";position:absolute;left:calc(-.5 * var(--fl-gap-h,0) - .5px);top:0;bottom:0;border-left:1px solid var(--fl-separator-h-color,var(--fl-separator-color,rgba(162,208,239,.35)))}.fl-separator-v>:after{content:"";position:absolute;left:0;top:calc(-.5 * var(--fl-gap-v,0) - 1px);right:0;border-top:1px solid var(--fl-separator-v-color,var(--fl-separator-color,rgba(162,208,239,.35)))}.fl-separator-v :before{top:calc(-.5 * var(--fl-gap-h,0));bottom:calc(-.5 * var(--fl-gap-h,0) + 1px)}.fl-separator-v>:after{left:calc(-1 * var(--fl-gap-v,0))}}.testimonials-layout.fl{--fl-gap-h:2em;--fl-gap-v:2em}.testimonials-layout.fl>*{flex-basis:25em}.testimonials blockquote,.testimonials blockquote>p:first-child:last-child{margin:0}.elv-possum-anchor{display:block}.elv-possum{position:absolute;right:.5rem;top:.5rem;transition:.3s opacity ease-out}.elv-header-docs .elv-possum{width:15vw;height:29.35714258vw;max-width:6.25rem;max-height:12.23214274rem}.elv-header-default{overflow:hidden}.elv-header-default .elv-possum{pointer-events:none;width:auto;height:calc((60vh - 2rem)/ 1.6);top:36%;left:1vw;right:auto;animation-duration:180s;animation-name:balloonFloat}@media (prefers-reduced-motion:reduce){.elv-header-default .elv-possum{animation-duration:0s}}@keyframes balloonFloat{from{transform:translate(-7vw,30%)}to{transform:translate(100vw,-52%)}}.filter-tags--hide{display:none}.select-filter{font-size:16px;padding:.3em .5em}@font-face{font-family:'Roboto Mono';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_SeW-AJi8SJQtQ4Y.woff) format('woff');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Roboto Mono';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_QOW-AJi8SJQtQ4Y.woff) format('woff');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Roboto Mono';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_R-W-AJi8SJQtQ4Y.woff) format('woff');unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF}@font-face{font-family:'Roboto Mono';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_S-W-AJi8SJQtQ4Y.woff) format('woff');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Roboto Mono';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_SuW-AJi8SJQtQ4Y.woff) format('woff');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Roboto Mono';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW-AJi8SJQt.woff) format('woff');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}</style>
+		<style></style>
+		<link rel="stylesheet" href="/css/async.css" media="print" onload="this.media='all'" fetchpriority="low">
+		<noscript>
+			<link rel="stylesheet" href="/css/async.css" fetchpriority="low">
+		</noscript>
+		<script>class DetailsForceState extends HTMLElement {
+	constructor() {
+		super();
+		this._observer = new MutationObserver(this._init.bind(this));
+	}
+
+	connectedCallback() {
+		if (this.children.length) {
+			this._init();
+		}
+		this._observer.observe(this, { childList: true });
+	}
+
+	_init() {
+		let details = this.querySelector(":scope details");
+		if (!details) {
+			return;
+		}
+
+		let forceOpen = window
+			.getComputedStyle(details)
+			.getPropertyValue("--details-force-closed");
+
+		function forceState(isOpen) {
+			if (isOpen) {
+				details.setAttribute("open", "open");
+			} else {
+				details.removeAttribute("open");
+			}
+		}
+
+		if (forceOpen && "matchMedia" in window) {
+			let mm1 = window.matchMedia(forceOpen);
+			forceState(!mm1.matches);
+			mm1.addListener(function (e) {
+				forceState(!e.matches);
+			});
+		}
+	}
+}
+
+if ("customElements" in window) {
+	customElements.define("details-force-state", DetailsForceState);
+}
+</script>
+		<script>class FundraisingStatus extends HTMLElement {
+	static tagName = "fundraising-status";
+
+	static css = `
+:host {
+	--fs-color: #333;
+	--fs-background: #eee;
+	display: flex;
+	flex-wrap: nowrap;
+	white-space: nowrap;
+	align-items: center;
+	gap: .25em;
+}
+@media (prefers-color-scheme: dark) {
+	:host {
+		--fs-color: rgba(255,255,255,.9);
+		--fs-background: rgba(0,0,0,.2);
+	}
+}
+progress {
+	flex-grow: 1;
+	accent-color: var(--fs-color);
+	width: 100%;
+}
+.max,
+.currency {
+	font-size: .8125em;
+}
+@supports (appearance: none) {
+	progress {
+		height: 1em;
+		border-radius: .125em;
+		overflow: hidden;
+		appearance: none;
+	}
+	::-webkit-progress-value {
+		background: var(--fs-color);
+	}
+	::-moz-progress-bar {
+		background: var(--fs-color);
+	}
+	::-webkit-progress-bar {
+		background-color: var(--fs-background);
+		box-shadow: 0 .125em .3125em rgba(0, 0, 0, 0.25) inset;
+	}
+}
+`;
+
+	static register(tagName) {
+		if(!("customElements" in globalThis)) {
+			return;
+		}
+		customElements.define(tagName || this.tagName, this);
+	}
+
+	get currency() {
+		return this.getAttribute("currency") || "USD";
+	}
+
+	formatPrice(num, locale) {
+		if(!("NumberFormat" in Intl)) {
+			return num;
+		}
+
+		let localized = new Intl.NumberFormat(locale || navigator.language, {
+			style: "currency",
+			currency: this.currency,
+			currencyDisplay: "symbol",
+			minimumFractionDigits: 0,
+			maximumFractionDigits: 0,
+		});
+
+		return localized.format(num);
+	}
+
+	connectedCallback() {
+		if (!("replaceSync" in CSSStyleSheet.prototype) || this.shadowRoot) {
+			return;
+		}
+
+		let min = this.getAttribute("min") || 0;
+		let max = this.getAttribute("max") || 1;
+		let value = this.getAttribute("value") || 0;
+
+		this.attachShadow({ mode: "open" });
+
+		let sheet = new CSSStyleSheet();
+		sheet.replaceSync(FundraisingStatus.css);
+		this.shadowRoot.adoptedStyleSheets = [sheet];
+
+		this.render({
+			min,
+			max,
+			value,
+		});
+	}
+
+	async render({min, max, value}) {
+		this.shadowRoot.innerHTML = `<slot></slot>
+	<progress min="${min}" max="${max}" value="${value}"></progress>
+	<code>${this.formatPrice(value)}</code>
+	<code class="max">/${this.formatPrice(max)}</code>
+	${!this.hasAttribute("hide-currency") ? `<code class="currency">${this.currency}</code>` : ""}`;
+	}
+}
+
+FundraisingStatus.register();</script>
+	</head>
+	<body>
+		<header class="elv-header elv-header-docs">
+	<div class="elv-header-skip-content">
+		<a href="#skip-nav">Skip to navigation</a>
+		<a href="#skip-content">Skip to main content</a>
+	</div>
+	<div class="announcement">
+		<a href="/blog/sustainability-fundraising/" class="fundraising elv-externalexempt">
+			<fundraising-status min="0" max="6000" value="2940.36" hide-currency="" style="--fs-color: #e23c2f;">
+				<span class="fundraising-label">
+					<img src="https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Fwww.11ty.dev%2F/" width="30" height="30" alt="11ty Logo" loading="lazy" decoding="async">
+					Sustainability Fundraising
+				</span>
+			</fundraising-status>
+		</a>
+	</div>
+	
+
+	<div class="elv-menu">
+		<ul class="elv-nav-menu list-bare fl fl-inline fl-nowrap">
+			<li><a href="/" class="naked">11ty</a></li>
+			<li><a href="/docs/">Docs</a></li>
+			<li><a href="/docs/search/" class="elv-nav-light">Search</a></li>
+			<li><a href="/blog/" class="elv-nav-light">Blog</a></li>
+			<li><a href="/docs/community/" class="elv-nav-light">Community</a></li>
+			
+			<li><a href="https://conf.11ty.dev/" class="elv-nav-light elv-externalexempt">Conference</a></li>
+			
+			<li class="spacer" aria-hidden="true"></li>
+			<li><a href="https://github.com/11ty/eleventy/" class="naked elv-nav-sociallink elv-skipicon">GitHub</a></li><li class="elv-nav-menu-hidesmall"><a href="https://github.com/11ty/eleventy" class="minilink minilink-github elv-skipicon"><span>★</span> <strong title="16373">16.4k</strong></a></li>
+			<li><a href="https://fosstodon.org/@eleventy" class="naked elv-nav-sociallink elv-nav-light"><span class="elv-nav-sociallink-text">Mastodon</span></a></li>
+			<li><a href="https://www.youtube.com/c/EleventyVideo" class="naked elv-nav-sociallink elv-nav-light"><span class="elv-nav-sociallink-text">YouTube</span></a></li>
+			<li><a href="/blog/discord/" class="naked elv-nav-sociallink elv-nav-light"><span class="elv-nav-sociallink-text">Discord</span></a></li>
+		</ul>
+	</div>
+
+	<div class="elv-nav-header">
+		<a href="/" class="elv-hero elv-externalexempt"><svg viewBox="0 0 1569.4 2186" xmlns="http://www.w3.org/2000/svg"><g fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="28"><path d="m562.2 1410.1c-9 0-13.5-12-13.5-36.1v-595.1c0-11.5-2.3-16.9-7-16.2-28.4 7.2-42.7 10.8-43.1 10.8-7.9.7-11.8-7.2-11.8-23.7v-51.7c0-14.3 4.3-22.4 12.9-24.2l142.2-36.6c1.1-.3 2.7-.5 4.8-.5 7.9 0 11.8 8.4 11.8 25.3v712c0 24.1-4.7 36.1-14 36.1zm368.3 1.1c-14.4 0-26.8-1-37.4-3s-21.6-6.5-33.1-13.5-20.9-16.6-28.3-28.8-13.4-29.3-18-51.2-7-47.9-7-78.1v-276.2c0-7.2-2-10.8-5.9-10.8h-33.4c-9 0-13.5-8.6-13.5-25.8v-29.1c0-17.6 4.5-26.4 13.5-26.4h33.4c3.9 0 5.9-4.8 5.9-14.5l9.7-209.5c1.1-19 5.7-28.5 14-28.5h53.9c9 0 13.5 9.5 13.5 28.5v209.5c0 9.7 2.1 14.5 6.5 14.5h68.7c9 0 13.5 8.8 13.5 26.4v29.1c0 17.2-4.5 25.8-13.5 25.8h-68.9c-2.5 0-4.2.6-5.1 1.9-.9 1.2-1.3 4.2-1.3 8.9v277.9c0 20.8 1.3 38.2 4 52s6.6 24 11.8 30.4 10.4 10.8 15.6 12.9c5.2 2.2 11.6 3.2 19.1 3.2h38.2c9.7 0 14.5 6.7 14.5 19.9v32.3c0 14.7-5.2 22.1-15.6 22.1zm206.7 64.6c8.2 0 15.4-6.7 21.5-20.2s9.2-32.6 9.2-57.4c0-5.8-3.6-25.7-10.8-59.8l-105.6-438.9c-.7-5-1.1-9-1.1-11.9 0-12.9 2.7-19.4 8.1-19.4h65.2c5 0 9.1 1.7 12.4 5.1s5.8 10.3 7.5 20.7l70 370.5c1.4 4.3 2.3 6.5 2.7 6.5 1.4 0 2.2-2 2.2-5.9l54.9-369.5c1.4-10.8 3.7-18 6.7-21.8s6.9-5.7 11.6-5.7h45.2c6.1 0 9.2 7 9.2 21 0 3.2-.4 7.4-1.1 12.4l-95.9 499.3c-7.5 41.3-15.8 72.9-24.8 94.8s-19 36.8-30.2 44.7c-11.1 7.9-25.8 12-44.2 12.4h-5.4c-29.1 0-48.8-7.7-59.2-23.2-2.9-3.2-4.3-11.5-4.3-24.8 0-26.6 4.3-39.9 12.9-39.9.7 0 7.2 1.8 19.4 5.4 12.4 3.8 20.3 5.6 23.9 5.6z"></path><path d="m291.2 1411.1c-9 0-13.5-12-13.5-36.1v-595.1c0-11.5-2.3-16.9-7-16.2-28.4 7.2-42.7 10.8-43.1 10.8-7.9.7-11.8-7.2-11.8-23.7v-51.7c0-14.3 4.3-22.4 12.9-24.2l142.3-36.7c1.1-.3 2.7-.5 4.8-.5 7.9 0 11.8 8.4 11.8 25.3v712c0 24.1-4.7 36.1-14 36.1z"></path></g></svg><span class="sr-only">Eleventy</span></a>
+		<div class="elv-hed">Eleventy Documentation</div>
+		<is-land on:visible="" on:idle="" on:save-data="false" on:media="(prefers-reduced-motion: no-preference)">
+			<template data-island="">
+				<a href="/blog/mascot-david/" class="elv-externalexempt elv-possum-anchor" data-investors-avatar="">
+					<div class="elv-possum-pic">
+						
+						<picture><source type="image/avif" srcset="/img/built/FIy3o0n-oI-222.avif 222w"><img alt="The possum is Eleventy’s mascot" loading="lazy" decoding="async" class="elv-possum" src="/img/built/FIy3o0n-oI-222.png" width="222" height="388"></picture>
+						
+						</div></a></template></is-land>
+					</div>
+				
+			
+		
+	
+</header>
+
+
+<main class="elv-layout elv-layout-toc" data-pagefind-body="">
+	<div class="elv-toc" data-pagefind-ignore=""><div class="elv-callout"><div class="elv-callout-label"><a href="/blog/sustainability-fundraising/" class="elv-externalexempt">Sustainability Fundraising</a></div><div class="elv-callout-c">
+<a href="/blog/sustainability-fundraising/" class="fundraising-sidebar elv-externalexempt">
+	<div class="fundraising-sidebar-percent">49</div>
+	<fundraising-status min="0" max="6000" value="2940.36" hide-currency="" style="--fs-color: hsl(195deg 98.53% 46.26%);"></fundraising-status>
+</a></div></div><div class="elv-callout elv-callout-box"><div class="elv-callout-label"><a href="/docs/versions/">Versions</a></div><div class="elv-callout-c"><dl>
+		<dt>Stable</dt>
+		<dd><code>2.0.1</code></dd>
+		<dt>Canary</dt>
+		<dd><code>3.0.0-alpha.10</code></dd>
+	</dl></div></div>
+
+<details-force-state>
+	<details>
+		<summary class="btn-primary benchnine rainbow-active rainbow-active-noanim">Toggle Menu</summary><div id="skip-nav">
+			<ul class="elv-toc-list"><li><a href="/docs/">Get Started</a><ul><li><a href="/docs/usage/">Command Line Usage</a><ul><li><a href="/docs/debugging/">Debug Mode</a></li></ul></li>
+<li><a href="/docs/glossary/">Glossary</a></li>
+<li><a href="/docs/tutorials/">Tutorials</a></li>
+<li><a href="/docs/starter/">Starter Projects</a></li>
+<li><a href="/docs/performance/">Performance</a></li>
+<li><a href="/docs/programmatic/">Programmatic API</a></li>
+<li><a href="/docs/deployment/">Deployment & Hosting</a></li>
+<li><a href="/docs/cms/">Using a CMS</a></li></ul></li>
+<li><a href="/docs/community/">Community</a><ul><li><a href="/docs/code-of-conduct/">Code of Conduct</a></li>
+<li><a href="https://opencollective.com/11ty"><em>Open Collective</em></a></li>
+<li><a href="/blog/">Blog</a></li>
+<li><a href="https://conf.11ty.dev/">11ty Conference</a></li>
+<li><a href="/firehose/">Firehose</a></li>
+<li><a href="/docs/testimonials/">Testimonials</a></li>
+<li><a href="/authors/">Authors</a></li>
+<li><a href="/speedlify/">Leaderboards</a><ul><li><a href="/docs/leaderboards-add/">Add your site</a></li></ul></li></ul></li>
+<li><a href="/docs/templates/">Working with Templates</a><ul><li><a href="/docs/assets/">Add CSS, JS, Fonts</a></li>
+<li><a href="/docs/quicktips/">Quick Tips</a></li>
+<li><a href="/docs/layouts/">Layouts</a><ul><li><a href="/docs/layout-chaining/">Layout Chaining</a></li></ul></li>
+<li><a href="/docs/collections/">Collections</a></li>
+<li><a href="/docs/pages-from-data/">Create Pages From Data</a></li>
+<li><a href="/docs/pagination/">Pagination</a><ul><li><a href="/docs/pagination/nav/">Pagination Navigation</a></li></ul></li>
+<li><a href="/docs/dates/">Content Dates</a></li>
+<li><a href="/docs/permalinks/">Permalinks</a></li>
+<li><a href="/docs/i18n/">Internationalization (i18n)</a></li>
+<li><a href="/docs/pitfalls/">Common Pitfalls</a></li></ul></li>
+<li><a href="/docs/data/">Using Data</a><ul><li><a href="/docs/data-configuration/">Configure your Templates</a></li>
+<li><a href="/docs/data-eleventy-supplied/">Eleventy Supplied Data</a></li>
+<li><a href="/docs/data-cascade/">Data Cascade</a><ul><li><a href="/docs/data-frontmatter/">Front Matter Data</a><ul><li><a href="/docs/data-frontmatter-customize/">Custom Front Matter</a></li></ul></li>
+<li><a href="/docs/data-template-dir/">Template & Directory Data Files</a></li>
+<li><a href="/docs/data-global/">Global Data Files</a></li>
+<li><a href="/docs/data-deep-merge/">Data Deep Merge</a></li>
+<li><a href="/docs/data-global-custom/">Config Global Data</a></li>
+<li><a href="/docs/data-computed/">Computed Data</a></li></ul></li>
+<li><a href="/docs/environment-vars/">Environment Variables</a></li>
+<li><a href="/docs/data-js/">JavaScript Data Files</a></li>
+<li><a href="/docs/data-custom/">Custom Data File Formats</a></li></ul></li>
+<li><a href="/docs/config/">Configuration</a><ul><li><a href="/docs/copy/">Passthrough File Copy</a></li>
+<li><a href="/docs/ignores/">Ignore Files</a></li>
+<li><a href="/docs/filters/">Filters</a><ul><li><a href="/docs/filters/url/"><code>url</code></a></li>
+<li><a href="/docs/filters/slugify/"><code>slugify</code></a></li>
+<li><a href="/docs/filters/log/"><code>log</code></a></li>
+<li><a href="/docs/filters/collection-items/"><code>get*CollectionItem</code></a></li>
+<li><a href="/docs/filters/inputpath-to-url/"><code>inputPathToUrl</code></a></li></ul></li>
+<li><a href="/docs/shortcodes/">Shortcodes</a></li>
+<li><a href="/docs/custom-tags/">Custom Tags</a></li>
+<li><a href="/docs/events/">Events</a></li>
+<li><a href="/docs/transforms/">Transforms</a></li>
+<li><a href="/docs/watch-serve/">Watch and Serve</a><ul><li><a href="/docs/dev-server/">Eleventy Dev Server</a></li>
+<li><a href="/docs/server-browsersync/">Browsersync</a></li>
+<li><a href="/docs/server-vite/">Vite</a></li></ul></li></ul></li>
+<li><a href="/docs/languages/">Template Languages</a><ul><li><a href="/docs/languages/html/">HTML</a></li>
+<li><a href="/docs/languages/markdown/">Markdown</a></li>
+<li><a href="/docs/languages/webc/">WebC</a></li>
+<li><a href="/docs/languages/javascript/">JavaScript</a></li>
+<li><a href="/docs/languages/nunjucks/">Nunjucks</a></li>
+<li><a href="/docs/languages/liquid/">Liquid</a></li>
+<li><a href="/docs/languages/handlebars/">Handlebars</a></li>
+<li><a href="/docs/languages/mustache/">Mustache</a></li>
+<li><a href="/docs/languages/ejs/">EJS</a></li>
+<li><a href="/docs/languages/haml/">HAML</a></li>
+<li><a href="/docs/languages/pug/">Pug</a></li>
+<li><a href="/docs/languages/custom/">Custom</a></li></ul></li>
+<li><a href="/docs/plugins/">Plugins</a><ul><li><a href="/docs/plugins/official/">Official Plugins</a><ul><li><a href="/docs/plugins/image/">Image</a></li>
+<li><a href="/docs/plugins/fetch/">Fetch</a></li>
+<li><a href="/docs/plugins/is-land/"><code>&lt;is-land&gt;</code></a></li>
+<li><a href="/docs/plugins/render/">Render</a></li>
+<li><a href="/docs/plugins/i18n/">Internationalization (i18n)</a></li>
+<li><a href="/docs/plugins/rss/">RSS</a></li>
+<li><a href="/docs/plugins/upgrade-help/">Upgrade Helper</a></li>
+<li><a href="/docs/plugins/syntaxhighlight/">Syntax Highlighting</a></li>
+<li><a href="/docs/plugins/inputpath-to-url/">InputPath to URL</a></li>
+<li><a href="/docs/plugins/navigation/">Navigation</a></li>
+<li><a href="/docs/plugins/html-base/">HTML <code>&lt;base&gt;</code></a></li>
+<li><a href="/docs/plugins/directory-output/">Directory Output</a></li>
+<li><a href="/docs/plugins/inclusive-language/">Inclusive Language</a></li>
+<li><a href="/docs/plugins/edge/">Edge</a></li>
+<li><a href="/docs/plugins/serverless/">Serverless</a></li></ul></li>
+<li><a href="/docs/plugins/community/">Community Plugins</a></li></ul></li>
+<li><a href="/docs/api-services/">API Services</a><ul><li><a href="/docs/services/screenshots/">Screenshots</a></li>
+<li><a href="/docs/services/opengraph/">OpenGraph Image</a></li>
+<li><a href="/docs/services/indieweb-avatar/">IndieWeb Avatar</a></li>
+<li><a href="/docs/services/generator/">Generator Image</a></li>
+<li><a href="/docs/services/builtwith/">Hosting Image</a></li>
+<li><a href="/docs/services/sparklines/">Sparklines</a></li></ul></li>
+<li><a href="/docs/versions/">Release History</a></li>
+<li><a href="/docs/advanced/">Advanced</a></li></ul>
+		</div><div class="elv-callout elv-callout-box"><div class="elv-callout-label"><a href="/docs/performance/#build-performance">Compare ×4000 file build</a></div><div class="elv-callout-c">
+		<is-land on:visible="" on:media="(prefers-reduced-motion: no-preference)">
+			<template data-island="once"><link rel="stylesheet" href="/css/throbber.css" webc:keep=""><script src="/js/throbber.js" webc:keep=""></script></template>
+			<div><strong>Eleventy</strong> <code>1.93s</code></div>
+			
+			<text-throbber interval="1000" duration="1930"></text-throbber>
+			<div><strong>Astro</strong> <code>22.90s</code></div>
+			<text-throbber interval="1000" duration="22900"></text-throbber>
+		</is-land></div></div>
+	</details>
+</details-force-state>
+</div>
+
+
+	<div id="skip-content">
+
+
+<h1>Not found!</h1>
+<p>We couldn’t find the content you were looking for.</p>
+<ul>
+<li>Confused about what Eleventy is? Check out the <a href="/docs/">Project Overview</a>.</li>
+<li>Want to <a href="/docs/">Get Started using Eleventy?</a>.</li>
+</ul>
+<h2 id="testimonials" tabindex="-1">Testimonials <a class="direct-link" href="#testimonials">
+				<span class="sr-only" data-pagefind-ignore="">Jump to heading</span>
+				<span aria-hidden="true" data-pagefind-ignore="">#</span>
+			</a></h2>
+<p>Listen to what these happy developers are saying about Eleventy:</p>
+<div class="testimonials">
+	<div class="testimonials-layout fl">
+		<div><blockquote><p>“Eleventy is a killer static site generator. That’s all.” <span class="bio-source">—<a href="https://twitter.com/SaraSoueidan/status/1144696081403523072"><picture><source type="image/avif" srcset="/img/avatars/twitter/RkAneplqdI-90.avif 90w"><source type="image/webp" srcset="/img/avatars/twitter/RkAneplqdI-90.webp 90w"><img alt="Sara Soueidan’s Twitter Photo" loading="lazy" decoding="async" class="avatar" src="/img/avatars/twitter/RkAneplqdI-90.jpeg" width="90" height="90"></picture>Sara Soueidan</a></span></p></blockquote></div>
+		<div><blockquote><p>“I use Eleventy on almost every project at this point and I love it.” <span class="bio-source">—<a href="https://twitter.com/LeaVerou/status/1629652201168576512"><img src="https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Flea.verou.me%2F/" width="150" height="150" alt="IndieWeb Avatar for https://lea.verou.me/" class="avatar avatar-indieweb" loading="lazy" decoding="async">Lea Verou</a></span></p></blockquote></div>
+		<div><blockquote><p>“Jekyll is dead to me” <span class="bio-source">—<a href="https://andy-bell.co.uk/"><img src="https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Fandy-bell.co.uk%2F/" width="150" height="150" alt="IndieWeb Avatar for https://andy-bell.co.uk/" class="avatar avatar-indieweb" loading="lazy" decoding="async">Andy Bell</a></span></p></blockquote></div>
+		<div><blockquote><p>“Eleventy + Netlify have become my new workflow for static sites. I think I'm in love.” <span class="bio-source">—<a href="https://tweets.mina.codes/1037088841520168960"><picture><source type="image/avif" srcset="/img/avatars/twitter/QU8tELtBN2-90.avif 90w"><source type="image/webp" srcset="/img/avatars/twitter/QU8tELtBN2-90.webp 90w"><img alt="Mina Markham’s Twitter Photo" loading="lazy" decoding="async" class="avatar" src="/img/avatars/twitter/QU8tELtBN2-90.jpeg" width="90" height="90"></picture>Mina Markham</a></span></p></blockquote></div>
+		<div><blockquote><p>“Don’t tell Zach I said it but Eleventy is seeming fresh as hell so far” <span class="bio-source">—<a href="https://hire.wil.to/"><picture><source type="image/avif" srcset="/img/avatars/twitter/IIDiNG88X8-90.avif 90w"><source type="image/webp" srcset="/img/avatars/twitter/IIDiNG88X8-90.webp 90w"><img alt="Mat Marquis’s Twitter Photo" loading="lazy" decoding="async" class="avatar" src="/img/avatars/twitter/IIDiNG88X8-90.jpeg" width="90" height="90"></picture>Mat Marquis</a></span></p></blockquote></div>
+		<div><blockquote><p>“Eleventy is absolutely wonderful. It’s by far the nicest static site generator I’ve used in what feels like forever.” <span class="bio-source">—<a href="https://twitter.com/addyosmani/"><picture><source type="image/avif" srcset="/img/avatars/twitter/T1zBqOUPuD-90.avif 90w"><source type="image/webp" srcset="/img/avatars/twitter/T1zBqOUPuD-90.webp 90w"><img alt="Addy Osmani’s Twitter Photo" loading="lazy" decoding="async" class="avatar" src="/img/avatars/twitter/T1zBqOUPuD-90.jpeg" width="90" height="90"></picture>Addy Osmani</a></span></p></blockquote></div>
+		<div><blockquote><p>“#1 Product of the Day (May 2022)” <span class="bio-source">—<a href="https://www.producthunt.com/products/eleventy"><img src="https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Fproducthunt.com%2F/" width="150" height="150" alt="IndieWeb Avatar for https://producthunt.com/" class="avatar avatar-indieweb" loading="lazy" decoding="async">Product Hunt</a></span></p></blockquote></div>
+		<div><blockquote><p>“I looked into and actively tried using various static site generators for this project. Eleventy was the only one I could find that gave me the fine-grained control I needed at blazingly fast build times.” <span class="bio-source">—<a href="https://twitter.com/mathias/status/1044232502309789696"><picture><source type="image/avif" srcset="/img/avatars/twitter/kvumy1-6v7-90.avif 90w"><source type="image/webp" srcset="/img/avatars/twitter/kvumy1-6v7-90.webp 90w"><img alt="Mathias Bynens’s Twitter Photo" loading="lazy" decoding="async" class="avatar" src="/img/avatars/twitter/kvumy1-6v7-90.jpeg" width="90" height="90"></picture>Mathias Bynens</a></span></p></blockquote></div>
+		<div><blockquote><p>“I heard Eleventy was good” <span class="bio-source">—<a href="https://twitter.com/lachzeat/status/1196789524535431168"><picture><source type="image/avif" srcset="/img/avatars/twitter/VQ1YvhJm7u-90.avif 90w"><source type="image/webp" srcset="/img/avatars/twitter/VQ1YvhJm7u-90.webp 90w"><img alt="Lach Zeatherman’s Twitter Photo" loading="lazy" decoding="async" class="avatar" src="/img/avatars/twitter/VQ1YvhJm7u-90.jpeg" width="90" height="90"></picture>Lach Zeatherman</a></span></p></blockquote></div>
+		<div><blockquote><p>“Eleventy is almost fascinatingly simple.” <span class="bio-source">—<a href="https://css-tricks.com/a-site-for-front-end-development-conferences-built-with-11ty-on-netlify/"><picture><source type="image/avif" srcset="/img/avatars/twitter/kYHxmUUfyS-90.avif 90w"><source type="image/webp" srcset="/img/avatars/twitter/kYHxmUUfyS-90.webp 90w"><img alt="Chris Coyier’s Twitter Photo" loading="lazy" decoding="async" class="avatar" src="/img/avatars/twitter/kYHxmUUfyS-90.jpeg" width="90" height="90"></picture>Chris Coyier</a></span></p></blockquote></div>
+		<div><blockquote><p>“2022 winner of the Google Open Source Peer Bonus Award” <span class="bio-source">—<a href="https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html"><img src="https://v1.indieweb-avatar.11ty.dev/https%3A%2F%2Fgoogle.com%2F/" width="150" height="150" alt="IndieWeb Avatar for https://google.com/" class="avatar avatar-indieweb" loading="lazy" decoding="async">Google</a></span></p></blockquote></div>
+	</div>
+</div>
+<p><a href="/docs/testimonials/">…and many more!</a></p>
+
+
+
+
+</div>
+</main>
+
+<footer class="elv-footer elv-layout elv-layout-toc">
+
+	<div class="fullwidth-module supporters-gold">
+	<h3 class="subhed ta-c"><strong>Gold Sponsors</strong></h3>
+	<div class="lo-grid"><div class=" supporters-gold-nordhealth">
+			<a href="https://nordhealth.com" class="elv-externalexempt" data-supporters-slug="nordhealth" rel="sponsored"><svg style="max-height: 4.5em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1015.71 200"><defs><style>.cls-1{fill:#3559c7;}.cls-2{fill:currentColor;}</style></defs><path class="cls-1" d="M162,0a34.22,34.22,0,0,0-24,10.09,1.09,1.09,0,0,0-.34.34L97.93,50.09,57.76,10.26c-.17-.09-.26-.26-.43-.35l-.17-.17A33.29,33.29,0,0,0,33.49,0,33.91,33.91,0,0,0-.27,33.33V166.58A33.86,33.86,0,0,0,33.49,200a34.2,34.2,0,0,0,24-10.09c.17-.08.26-.25.35-.34l40-40,39.74,40.17c.17.09.26.26.43.35l.17.17A33.29,33.29,0,0,0,161.86,200c18.38,0,34.28-14.87,34.62-33.33V33.42C196.31,15,180.41,0,162,0Zm14.1,162.74c0,7.43-6.84,13.41-14.1,13.41a13.2,13.2,0,0,1-9.32-3.93c-.17-.17-.25-.34-.43-.43l-.17-.17-89-86.49L48.53,99.66,83.4,134.87,43,172.05l-.25.26a13.18,13.18,0,0,1-22.4-9.66V37.26A13.35,13.35,0,0,1,33.57,23.85a13.2,13.2,0,0,1,9.32,3.93c.17.17.25.34.43.43l.17.17L133.32,114l14.53-14.53L112.63,64.62,152.55,28l.25-.26A13.33,13.33,0,0,1,162,23.93c7.35,0,14.1,6,14.1,13.42Z"></path><path class="cls-2" d="M295.62,66.5c-11.53,0-20.85,5.64-23.5,14.1h-.43l-2.82-12.22H250.32v77.69h21.29V104.19c0-10.51,6.24-17.69,15.72-17.69,8.72,0,14.79,6.75,14.79,16.75v42.82H323.4V95.9C323.49,78.29,312.46,66.5,295.62,66.5Z"></path><path class="cls-2" d="M377.42,147.86c24.44,0,40.77-16.32,40.77-40.77s-16.33-40.77-40.77-40.77-40.94,16.33-40.94,40.77S353,147.86,377.42,147.86Zm0-20.08c-11.54,0-19.15-8.29-19.15-20.69s7.61-20.68,19.15-20.68,19,8.29,19,20.68S389,127.78,377.42,127.78Z"></path><path class="cls-2" d="M472.46,68.38c-9.31,0-16.84,5.81-19,14.61h-.17L450.5,68.38H432v77.69h21.28v-35c0-12.82,6.5-21.28,16.67-21.28h11.79V68.38Z"></path><path class="cls-2" d="M546.65,30.77V80.26h-.43c-2.48-8.12-11.71-13.76-22.9-13.76-21.2,0-35.13,16.32-35.13,40.76s14,40.77,35.13,40.77c11.19,0,20.34-5.64,22.9-13.93h.43l2.82,12.05H568V30.77Zm-18.38,97.61c-11,0-18.37-8.47-18.37-21.2S517.25,86,528.27,86s18.38,8.46,18.38,21.2S539.3,128.38,528.27,128.38Z"></path><path class="cls-2" d="M630.75,66.5c-11.53,0-20.85,5.64-23.5,14.1h-.43V30.77H585.54v115.3h21.28V104.19c0-10.51,6.24-17.69,15.73-17.69,8.89,0,14.78,6.92,14.78,16.92v42.65h21.29V95.9C658.53,78.29,647.51,66.5,630.75,66.5Z"></path><path class="cls-2" d="M747.68,106.75c0-24.1-15.13-40.25-37.52-40.25-23.17,0-38.55,16.32-38.55,40.76S687.51,148,711.44,148c15,0,28.63-8.46,34.1-21l-16.84-7c-2.48,6.07-8.89,9.74-17.26,9.74-10.6,0-17.61-5.64-19.57-15.64h55.81v-7.35ZM709.56,84.87c10.6,0,16.92,6.07,17.86,16.58H691.61C693.23,90.94,699.73,84.87,709.56,84.87Z"></path><path class="cls-2" d="M831.61,128.38c-2.14,0-3.42-1.54-3.42-4.36V94.36c0-17.52-12.14-27.86-33.16-27.86-17.87,0-30.17,9.23-34.1,25l18.8,4.7c1.28-7.69,7-12.22,15-12.22,7.6,0,12.13,3.59,12.13,9.23v.34c0,3.33-2.05,5.81-5.89,6.41L781,103.16c-14.79,2.22-23.33,10.17-23.33,22.14,0,14.44,9.48,22.73,25.81,22.73,11,0,19.57-3.93,24.7-10.94,2.31,6,7.78,9.06,15.73,9.06h11.36V128.46h-3.67Zm-41.11,4.1c-7.18,0-11.54-3.16-11.54-8.29,0-4.7,3.76-7.87,9.66-8.81l18.2-2.82v2.82C806.82,125.73,800.33,132.48,790.5,132.48Z"></path><path class="cls-2" d="M847.42,146.07H868.7V30.77H847.42Z"></path><path class="cls-2" d="M916,127.18c-6.41,0-10-3.16-10-8.46V87.18h21.45V68.38H906.05V44.27H884.77V120c0,16.75,9.66,26.15,26.41,26.15h17.61v-19Z"></path><path class="cls-2" d="M987.93,66.5c-11.53,0-20.85,5.64-23.5,14.1h-.51V30.77H942.64v115.3h21.28V104.19c0-10.51,6.24-17.69,15.72-17.69,8.89,0,14.79,6.92,14.79,16.92v42.65h21.28V95.9C1015.71,78.29,1004.69,66.5,987.93,66.5Z"></path></svg><span class="sr-only">Nordhealth</span></a>
+		</div><div class=" supporters-gold-transloadit">
+			<a href="https://transloadit.com/?utm_source=11ty&amp;utm_medium=referral&amp;utm_campaign=sponsorship&amp;utm_content=website" class="elv-externalexempt" data-supporters-slug="transloadit" rel="sponsored"><svg style="margin-top: 0; margin-bottom: 0;" viewBox="30 25 240 65" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M56.641 42.978c-1.08-2.863-1.759-7.443-1.759-9.04a5.522 5.522 0 0 1 11.044 0c0 1.59-.674 6.139-1.75 9.005 9.543.514 22.807 2.959 23.417 6.211.684 3.666.945 12.881.945 21.923 0 7.842-13.972 12.964-27.81 12.964-13.845 0-27.81-5.122-27.81-12.964 0-9.042.255-18.257.945-21.923.594-3.182 13.293-5.591 22.778-6.176Z" fill="#FFF"></path><path d="M52.898 68.333a1.918 1.918 0 0 1-1.92 1.915 1.918 1.918 0 0 1-1.922-1.915c0-1.058.863-1.92 1.921-1.92 1.059 0 1.92.862 1.92 1.92M67.976 76.984a1.543 1.543 0 0 1-.619 2.081c-.113.054-2.693 1.427-6.647 1.427-3.96 0-6.51-1.373-6.617-1.433a1.536 1.536 0 0 1-.607-2.086 1.531 1.531 0 0 1 2.075-.607c.054.024 2.045 1.058 5.149 1.058 3.133 0 5.16-1.052 5.185-1.058a1.532 1.532 0 0 1 2.08.618M76.228 68.333a1.918 1.918 0 0 1-3.835 0c0-1.058.862-1.92 1.92-1.92 1.059 0 1.915.862 1.915 1.92" fill="#0D1419" fill-rule="nonzero"></path><path d="M72.393 72.168a5.763 5.763 0 0 1-5.755-5.755 5.764 5.764 0 0 1 5.755-5.755 5.76 5.76 0 0 1 5.755 5.755 5.76 5.76 0 0 1-5.755 5.755m0-14.388a8.632 8.632 0 0 0-8.633 8.633 8.632 8.632 0 0 0 8.633 8.633 8.632 8.632 0 0 0 8.633-8.633 8.632 8.632 0 0 0-8.633-8.633" fill="#0D1419" fill-rule="nonzero"></path><path d="M34.899 70.517c0-8.398.237-16.956.878-20.36.593-3.18 14.192-5.528 23.094-5.83v-6.098a3.825 3.825 0 0 1 1.53-7.33 3.829 3.829 0 0 1 3.832 3.825 3.82 3.82 0 0 1-2.301 3.505v6.08c8.873.207 23.136 2.592 23.747 5.847.635 3.405.878 11.963.878 20.361 0 7.284-12.977 12.04-25.83 12.04-12.858 0-25.828-4.756-25.828-12.04Zm42.144-28.356c-3.479-.713-7.534-1.254-11.267-1.534v-.476a7.687 7.687 0 0 0 2.3-5.481c0-4.227-3.442-7.67-7.675-7.67-4.227 0-7.67 3.443-7.67 7.67 0 2.099.856 4.06 2.3 5.481v.53c-3.554.291-7.342.808-10.618 1.48-8.098 1.66-11.832 3.835-12.473 7.272C31.119 53.82 31 64.546 31 70.55c0 10.328 15.316 15.905 29.728 15.905s29.728-5.577 29.728-15.905c0-6.005-.125-16.73-.946-21.118-.642-3.437-4.37-5.613-12.467-7.272Z" fill="#0D1419" fill-rule="nonzero"></path><path d="M49.056 72.168a5.758 5.758 0 0 1-5.749-5.755 5.759 5.759 0 0 1 5.75-5.755 5.76 5.76 0 0 1 5.755 5.755 5.76 5.76 0 0 1-5.755 5.755m0-14.388c-4.763 0-8.627 3.865-8.627 8.633 0 4.768 3.864 8.633 8.627 8.633a8.632 8.632 0 0 0 8.633-8.633 8.632 8.632 0 0 0-8.633-8.633" fill="#0D1419" fill-rule="nonzero"></path><g transform="translate(100.873 48.266)" fill="currentColor"><path fill-rule="nonzero" d="M17.758 4.681h-7.104v18.188H7.103V4.681H0V1.33h17.758v3.351M28.116 9.466H23.38c-.8 0-1.185.48-1.185 1.437v11.966h-3.551V10.903c0-3.263 1.509-4.787 4.736-4.787h4.735v3.35M42.025 14.852l-7.104 1.794c-1.065.268-1.184.63-1.184 1.436 0 .958.386 1.436 1.184 1.436h5.92c.799 0 1.182-.478 1.182-1.436v-3.23h.002Zm3.552-3.949v7.178c0 3.258-1.509 4.785-4.734 4.785h-5.921c-3.225 0-4.735-1.527-4.735-4.785 0-1.438.474-2.423 1.51-3.022 1.065-.629 1.687-.837 3.225-1.226l7.104-1.794v-1.135c0-.958-.386-1.437-1.182-1.437h-5.92c-.8 0-1.184.48-1.184 1.437V12.1h-3.552v-1.196c0-3.262 1.51-4.787 4.735-4.787h5.92c3.225 0 4.734 1.523 4.734 4.786ZM60.82 10.903c0-.958-.386-1.437-1.183-1.437h-5.92c-.8 0-1.185.48-1.185 1.437v11.966h-3.55V10.903c0-3.263 1.509-4.787 4.734-4.787h5.921c3.225 0 4.734 1.524 4.734 4.787v11.966h-3.552V10.903M78.28 22.87h-5.92c-3.227 0-4.735-1.528-4.735-4.788v-1.195h3.553v1.195c0 .958.384 1.436 1.181 1.436h5.922c.8 0 1.182-.478 1.182-1.436 0-.687 0-1.018-1.182-1.436l-5.922-1.496c-1.539-.39-2.16-.597-3.226-1.196-1.036-.629-1.508-1.615-1.508-3.051 0-3.263 1.508-4.787 4.734-4.787h5.922c3.225 0 4.733 1.524 4.733 4.787v1.196h-3.55v-1.196c0-.958-.385-1.437-1.182-1.437H72.36c-.799 0-1.18.48-1.18 1.437 0 .685 0 1.016 1.18 1.436l5.922 1.494c1.539.392 2.159.6 3.197 1.228 1.065.597 1.538 1.585 1.538 3.021-.001 3.26-1.51 4.787-4.736 4.787M90.415 19.517h2.958v3.349h-2.958c-2.961 0-4.143-1.196-4.143-4.188V1.329h3.551v17.35c0 .599.089.838.592.838M107.432 10.903c0-.958-.387-1.437-1.184-1.437h-5.919c-.802 0-1.183.48-1.183 1.437v7.178c0 .955.384 1.436 1.183 1.436h5.92c.799 0 1.182-.48 1.182-1.436v-7.178Zm3.552 0v7.178c0 3.258-1.452 4.785-4.736 4.785h-5.919c-3.286 0-4.735-1.527-4.735-4.785v-7.178c0-3.263 1.451-4.787 4.735-4.787h5.92c3.285 0 4.735 1.524 4.735 4.787ZM125.93 14.852l-7.103 1.794c-1.067.268-1.185.63-1.185 1.436 0 .958.385 1.436 1.185 1.436h5.92c.798 0 1.183-.478 1.183-1.436v-3.23Zm3.55-3.949v7.178c0 3.258-1.507 4.785-4.733 4.785h-5.92c-3.225 0-4.735-1.527-4.735-4.785 0-1.438.474-2.423 1.51-3.022 1.064-.629 1.685-.837 3.226-1.226l7.103-1.794v-1.135c0-.958-.387-1.437-1.184-1.437h-5.92c-.8 0-1.184.48-1.184 1.437V12.1h-3.551v-1.196c0-3.262 1.51-4.787 4.736-4.787h5.92c3.224 0 4.732 1.523 4.732 4.786ZM144.575 18.082V9.467h-7.103c-.802 0-1.184.478-1.184 1.436v7.178c0 .958.384 1.436 1.184 1.436h5.92c.797 0 1.183-.477 1.183-1.435Zm3.55-16.752v16.752c0 3.26-1.45 4.787-4.734 4.787h-5.92c-3.286 0-4.734-1.527-4.734-4.787v-7.178c0-3.261 1.449-4.786 4.735-4.786h7.103V1.331h3.55ZM155.228 6.261v16.605h-3.551V6.261h3.551z"></path><circle cx="153.323" cy="2.27" r="2.27"></circle><path d="M168.251 19.517v3.349h-5.327c-2.958 0-4.141-1.196-4.141-4.188V1.329h3.55v4.787h5.327v3.35h-5.327v9.21c0 .6.09.84.591.84h5.327" fill-rule="nonzero"></path></g></g></svg><span class="sr-only">Transloadit</span></a>
+		</div>
+	</div>
+</div>
+
+<div class="fullwidth-module">
+	<is-land on:visible="" on:save-data="false">
+		<template data-island="">
+			<h3 class="subhed ta-c"><strong>Supporters</strong></h3>
+			<html-fetch src="/imports/supporters.html"></html-fetch>
+		</template>
+	</is-land>
+</div>
+
+
+	<div class="elv-callout"><div class="elv-callout-c">
+		<a href="https://github.com/11ty/eleventy" class="minilink minilink-github elv-skipicon"><span>★</span> <strong title="16373">16.4k</strong></a> <a href="https://github.com/11ty/eleventy"><strong>Star Eleventy on GitHub!</strong></a> This is an easy way to support our underrated project and help boost our rank on both GitHub and <a href="https://jamstack.org/generators/">jamstack.org</a>’s list of site generators.
+	</div></div>
+
+	<ul class="list-bare mb-2 fl fl-inline fl-nowrap fl-separator-h">
+	<li><em>Built using Eleventy v3.0.0</em></li>
+	<li><a href="https://github.com/11ty/11ty-website/blob/master/./src/404.md" class="elv-externalexempt">Edit this page</a></li>
+	<li><a href="/docs/accessibility/">Accessibility</a></li>
+	<li><a href="/docs/account/" class="elv-externalexempt">Contributor Account</a></li>
+	<li><a href="https://zachleat.com" class="elv-externalexempt"><img src="https://v1.image.11ty.dev/https%3A%2F%2Favatars.githubusercontent.com%2Fzachleat%3Fs%3D66/webp/66/" width="66" height="66" alt="GitHub Avatar for zachleat" class="avatar avatar-large" loading="lazy" decoding="async"></a></li>
+</ul>
+<ul class="list-bare mb-2 fl fl-inline fl-nowrap fl-separator-h">
+	<li><a href="/docs/credits/" class="elv-nav-light">Credits</a></li>
+	<li><a href="/firehose/">Firehose</a></li>
+	<li><a href="/styleguide/" class="elv-nav-light">Style Guide</a></li>
+
+	<li><a href="https://github.com/11ty/eleventy/" class="elv-externalexempt elv-nav-light" title="16373">16.4k Stars</a></li>
+
+
+	<li>
+		<is-land on:idle="" on:visible="">
+			<template data-island="once">
+				<script src="/js/intl-number.js"></script>
+			</template>
+			<a href="https://www.npmjs.com/package/@11ty/eleventy" class="elv-externalexempt elv-nav-light">
+				<intl-number>8,883,342</intl-number>
+				Downloads
+			</a>
+		</is-land>
+	</li>
+
+
+	<li><a href="/docs/supporters/" class="elv-externalexempt elv-nav-light">371 Backers</a></li>
+
+</ul>
+
+</footer>
+
+
+		<!-- Built on Sat May 25 2024 20:00:51 GMT+0000 (Coordinated Universal Time) by Eleventy -->
+
+		<script src="/js/eleventy.js" type="module"></script>
+
+		<script src="/js/eleventy-auth.js" type="module"></script>
+
+	</body>
+</html>

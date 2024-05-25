@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: 
+Allow: /
+
+
+
+Sitemap: https://newslicensing.co.uk/sitemaps/sitemap-static.xml
+Sitemap: https://newslicensing.co.uk/sitemaps/sitemap-index.xml

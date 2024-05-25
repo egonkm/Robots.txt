@@ -1,0 +1,4 @@
+User-Agent: *
+Crawl-delay: 30
+
+Sitemap: https://monitorsitemap.xml.openaire.eu/sitemap.xml

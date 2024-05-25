@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /archive/
+Disallow: /unsubscribe/
+Disallow: /assets/fonts/
+Disallow: /hook_up_a_mate-archived-20210401/
+Disallow: /maybuy-promotion/
+Disallow: /happy-hour/boost-success*
+Disallow: /happy-hour/already-boosted*
+Disallow: /happy-hour/late-boost*
+Sitemap: https://up.com.au/sitemap.xml

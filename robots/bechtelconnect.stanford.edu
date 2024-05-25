@@ -1,0 +1,14 @@
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+User-agent: BingBot
+Disallow: /
+
+User-agent: SiteLockSpider
+Disallow: /

@@ -1,0 +1,18 @@
+# Disallow all (eg. search engines)
+
+User-agent: *
+Disallow: /
+
+# Allow social media bots (eg. Facebook Messenger)
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /

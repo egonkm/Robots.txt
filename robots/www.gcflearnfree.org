@@ -1,0 +1,636 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=yes">
+
+  <title>GCFLearnFree.org - Error 404</title>
+
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <link rel="preload" as="style" href="/styles/deployment-global/error404.concat.css"><link rel="stylesheet" href="/styles/deployment-global/error404.concat.css">
+
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+      'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-52HRH7V');</script>
+<!-- End Google Tag Manager -->
+
+  <script defer src="/scripts/deployment-global/error404.concat.js" type="text/javascript"></script>
+
+</head>
+<body>
+  <div id="sticky-wrapper" class="en error-page-wrapper">
+    <div class="header-wrapper">
+	<header>
+	    <div id="page-header" class="desktop-header">
+	    	<div class="primary-header">
+				<div id="subjects-search">
+					<div id="subjects-search-box">
+
+						<div class="topnav-sls-container">
+							
+							<a aria-label="GCFGlobal homepage" class="logo-link home-header-logo" href="/en/">
+								<img class="logo logo-left main-logo-en" width="223px" height="60px" src="https://media.gcflearnfree.org/global/gcfglobal-color.png" alt="GCFGlobal Logo">
+							</a>
+							<form id="smallSearchbar" action="/en/search/" onSubmit="showSearchSpinner()">
+								<span class="form-content-container">
+									<input class="topnav-search-field-small home-search-input" pattern=".{1,}" required type="text" name="q" placeholder="What can we teach you?" title="Search bar">
+
+									<button class="search-submit-btn-small search-close-btn" type="button" aria-label="close search bar">
+										<i onClick="showSearchBar('close')" class="material-icons close-search-x">close</i>
+									</button>
+									<button class="search-submit-btn-small" type="submit" aria-label="search button">
+										<i onClick="showSearchBar('close')" class="material-icons">search</i>
+									</button>
+									<img class="search-submit-spinner left-spinner" src="https://media.gcflearnfree.org/assets/edu-gcfglobal-site/images/transparent-loading-spinner.gif" alt="">
+								</span>
+							</form>
+						</div>
+
+					</div>
+					<div class="topnav-rightbox">
+
+						<!-- Search -->
+						<button onClick="showSearchBar('open')" class="header-btn header-search-btn home-search-button" aria-label="open search bar">
+							<i class="material-icons">search</i>
+						</button>
+
+						<!-- Menu trigger -->
+						
+                            <button id="acc-nav-button" class="subjects-select home-header-topics-button" onclick="toggleSubjectsDropdown()" aria-haspopup="true" aria-expanded="false" aria-controls="acc-nav-menu">
+                                <i class="dropdown-hamburger material-icons" aria-hidden="true">menu</i>
+                                <p>Topics</p>
+                            </button>
+                        
+
+						
+                            <div  id="acc-nav-menu" class="dropdown-wrapper" aria-labelledby="acc-nav-button">
+                                <button class="dropdown-close-x" onclick="toggleSubjectsDropdown()">
+                                    <i class="material-icons">close</i>
+                                </button>
+                                <div class="dropdown-inner site-nav subjectMenuOption selectedMenuOption">
+                                    <ul class="site-nav-contents site-nav">
+    <li class="supercollection">
+        
+            <a href="/en/subjects/i-want-to/">I want to...</a>
+            <ul class="level-1">
+               <li>
+                      <a href="/en/computerbasics/">Get started with computers</a>
+               </li>
+               <li>
+                  <a href="/en/subjects/office/">Learn Microsoft Office</a>
+               </li>
+               <li>
+                  <a href="/en/topics/applying-for-jobs/">Apply for a job</a>
+               </li>
+               <li>
+                  <a href="/en/topics/workplaceskills/">Improve my work skills</a>
+               </li>
+               <li>
+                  <a href="/en/beginning-graphic-design/">Design nice-looking docs</a>
+               </li>
+                   <li>
+                  <a href="/en/subjects/i-want-to/">More...</a>
+               </li>
+            </ul>
+        
+    </li>
+    <li class="supercollection">
+        
+            <a href="/en/subjects/microsoft-office/">Microsoft Office</a>
+            <ul class="level-1">
+                <li>
+                    <a href="/en/topics/word/">Word</a>
+                </li>
+                <li>
+                    <a href="/en/topics/excel/">Excel</a>
+                </li>
+                <li>
+                    <a href="/en/topics/powerpoint/">PowerPoint</a>
+                </li>
+                <li>
+                    <a href="/en/topics/access/">Access</a>
+                </li>
+                <li>
+                    <a href="/en/subjects/microsoft-office/">More...</a>
+                </li>
+            </ul>
+        
+    </li>
+    <li class="supercollection">
+        
+            <a href="/en/topics/computers/">Computers</a>
+            <ul class="level-1">
+                <li>
+                    <a href="/en/topics/computers/">Getting Started</a>
+                </li>
+                <li>
+                    <a href="/en/topics/smartphonesandtablets/">Smartphones & Tablets</a>
+                </li>
+                <li>
+                    <a href="/en/typing/">Typing Tutorial</a>
+                </li>
+                <li>
+                    <a href="/en/windowsbasics/">Windows</a>
+                </li>
+                <li>
+                    <a href="/en/online-learning/">Online Learning</a>
+                </li>
+                <li>
+                    <a href="/en/subjects/basic-skills/">More...</a>
+                </li>
+            </ul>
+        
+    </li>
+
+    <li class="supercollection">
+        
+            <a href="/en/topics/internet/">The Internet</a>
+            <ul class="level-1">
+                <li>
+                    <a href="/en/subjects/internet-skills/">Basic Internet Skills</a>
+                </li>
+                <li>
+                    <a href="/en/topics/onlinesafety/">Online Safety</a>
+                </li>
+                <li>
+                    <a href="/en/topics/socialmedia/">Social Media</a>
+                </li>
+                <li>
+                    <a href="/en/zoom-basics/">Zoom Basics</a>
+                </li>
+                <li>
+                    <a href="/en/topics/emailbasics/">Email</a>
+                </li>
+                <li>
+                    <a href="/en/subjects/internet-skills/">More...</a>
+                </li>
+            </ul>
+        
+    </li>
+
+    
+        <li class="supercollection">
+                    <a href="/en/topics/googleapps/">Google</a>
+                    <ul class="level-1">
+                        <li>
+                            <a href="/en/gmail/">Gmail</a>
+                        </li>
+                        <li>
+                            <a href="/en/googledocuments/">Google Docs</a>
+                        </li>
+                        <li>
+                            <a href="/en/googlespreadsheets/">Google Sheets</a>
+                        </li>
+                        <li>
+                            <a href="/en/topics/googleapps/">More...</a>
+                        </li>
+                    </ul>
+        </li>
+        <li class="supercollection">
+                    <a href="/en/subjects/work/">The Job Search</a>
+                    <ul class="level-1">
+                        <li>
+                            <a href="/en/topics/careerplanning/">Career Planning</a>
+                        </li>
+                        <li>
+                            <a href="/en/resumewriting/">Resume Writing</a>
+                        </li>
+                        <li>
+                            <a href="/en/coverletters/">Cover Letters</a>
+                        </li>
+                        <li>
+                            <a href="/en/jobsearchandnetworking/">Job Search and Networking</a>
+                        </li>
+                        <li>
+                            <a href="/en/business-communication/">Business Communication</a>
+                        </li>
+                        <li>
+                            <a href="/en/entrepreneurship-101/">Entrepreneurship 101</a>
+                        </li>
+                        <li>
+                            <a href="/en/careers-without-college/">Careers without College</a>
+                        </li>
+                        <li>
+                            <a href="/en/job-hunt-for-today/">Job Hunt for Today</a>
+                        </li>
+                        <li>
+                            <a href="/en/subjects/work/">More...</a>
+                        </li>
+                    </ul>
+        </li>
+        <li class="supercollection">
+                    <a href="/en/topics/present-day-skills/">Skills for Today</a>
+                    <ul class="level-1">
+                        <li>
+                            <a href="/en/thenow/what-is-3d-printing/1/">3D Printing</a>
+                        </li>
+                        <li>
+                            <a href="/en/freelancing-101/">Freelancing 101</a>
+                        </li>
+                        <li>
+                            <a href="/en/topics/personal-finance/">Personal Finance</a>
+                        </li>
+                        <li>
+                            <a href="/en/sharingeconomy/">Sharing Economy</a>
+                        </li>
+                        <li>
+                            <a href="/en/problem-solving-and-decision-making/">Decision-Making</a>
+                        </li>
+                        <li>
+                            <a href="/en/subjects/work/">More...</a>
+                        </li>
+                    </ul>
+        </li>
+        <li class="supercollection">
+                    <a href="/en/topics/creativity-and-design/">Creativity &amp; Design</a>
+                    <ul class="level-1">
+                        <li>
+                            <a href="/en/beginning-graphic-design/">Graphic Design</a>
+                        </li>
+                        <li>
+                            <a href="/en/creativity/">Creativity</a>
+                        </li>
+                        <li>
+                            <a href="/en/digitalphotography/">Photography</a>
+                        </li>
+                        <li>
+                            <a href="/en/imageediting101/">Image Editing</a>
+                        </li>
+                        <li>
+                            <a href="/en/photoshopbasics/">Photoshop</a>
+                        </li>
+                        <li>
+                            <a href="/en/learning-wordpress/">Learning WordPress</a>
+                        </li>
+                        <li>
+                            <a href="/en/topics/creativity-and-design/">More...</a>
+                            
+              </li>
+           </ul>
+        </li>
+        <li class="supercollection">
+            <a href="/en/subjects/core-skills/">Core Skills</a>
+            <ul class="level-1">
+                <li>
+                   <a href="/en/topics/math/">Math</a>
+                </li>
+                <li>
+                   <a href="/en/topics/reading/">Reading</a>
+                </li>
+                <li>
+                   <a href="/en/topics/science/">Science</a>
+                </li>
+                <li>
+                   <a href="/en/grammar/">Grammar</a>
+                </li>
+                <li>
+                   <a href="/en/subjects/language-learning/">Language Learning</a>
+                </li>
+                <li>
+                   <a href="/en/topics/critical-thinking/">Critical Thinking</a>
+                </li>
+                <li>
+                   <a href="/en/subjects/core-skills/">More...</a>
+                </li>
+            </ul>
+        </li>
+    
+ </ul>
+                                    <ul class="dropdown-contents level-1 bottom-row">
+                                            <li><a href="/en/gcfteacherguides/">For Educators</a></li>
+                                            <li><a href="/en/subjects/global/">Translations</a></li>
+                                            <li><a href="/en/topics/staff-picks/">Staff Picks</a></li>
+                                        	<li><a href="/en/topics/">All Topics</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        
+
+						
+
+						<!-- Language selector -->
+						<div class="topnav-language">
+							<div class="language-dropdown">
+								<button onclick="toggleLanguageMenu()" aria-label="Change Language" aria-haspopup="true" aria-expanded="false" aria-controls="acc-language-menu" id="acc-language-button" class="language-dropdown-button">
+									English
+									<i class="material-icons more" aria-hidden="true">expand_more</i>
+									<i class="material-icons less" aria-hidden="true">expand_less</i>	
+								</button>
+								<ul id="acc-language-menu" class="language-dropdown-menu" aria-labelledby="acc-language-button">
+									<li>
+										<a onclick="event.preventDefault(); toggleLanguageMenu()" href="/en/" class="home-header-language-option-link">
+											English
+											<i class="material-icons more" aria-hidden="true">expand_more</i>
+											<i class="material-icons less" aria-hidden="true">expand_less</i>	
+										</a>
+									</li>
+									<li>
+										<a href="/es/" class="home-header-language-option-link">
+											Español
+										</a>
+									</li>
+									<li>
+										<a href="/pt/" class="home-header-language-option-link">
+											Português
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+						<!-- Sign actions -->
+						<div class="sign__wrapper" id="header-sign-options">
+							<div class="sign__loading">
+								<div></div>
+								<div></div>
+								<div></div>
+								<div></div>
+							</div>
+						</div>
+						<!-- End -->
+					</div>
+				</div>
+	    	</div>
+
+	    	
+	    	<!-- <div class="header-divider"></div> -->
+	    	
+		    	<div class="sub-header">
+		    		<div id="corner-gradient-left"></div>
+		    		<div id="corner-gradient-right"></div>
+		    		<div class="headerfooter-content-wrapper">
+		    			<div id="subheaderContentContainer">
+		    			
+	    					
+			      				<div class="header-nodesc">
+			      					<div class="title-content">
+			      						<h1>Error: 404</h1>
+			      					</div>
+			      				</div>
+			      			
+	    				
+	    				<img id="header-img" loading="lazy" class="header-image" src="https://media.gcflearnfree.org/assets/edu-gcfglobal-site/images/city-aqua2.svg" alt="">
+	    				</div>
+		    		</div>
+		    	</div>
+	    	
+	    </div>
+
+	    
+
+	    <div class="mobile-header">
+	        <div id="page-top">
+	          <a data-route="home" class="home-link" href="/">
+	          	
+					<!-- <img class="homeicon en en-new" src="https://media.gcflearnfree.org/mobile/GCF_whitelogo.png" alt="GCFLearnFree Logo"> -->
+					<img class="homeicon en" src="https://media.gcflearnfree.org/global/gcfglobal-color.png" alt="GCFGlobal Logo">
+				
+	          </a>
+			  <a class="envivo-butt-mobile livebutt" target="_blank" href="#"><img src="https://media.gcflearnfree.org/assets/edu-gcfglobal-site/images/aovivo.svg"></a>
+			  <div class="options_menu_mobile">
+				<div>
+					<i onclick="handleHeaderOption('search')" class="material-icons menu-icon menu-icon-left">search</i>
+				</div>
+				<div>
+					<img
+						id="avatarImageOnMovile"
+						onclick="handleHeaderOption('account')"
+						style="margin: 0" 
+						src=""
+						class="
+							dropdown__trigger--avatar
+							is-movile
+							hide_element
+							material-icons
+							menu-icon
+							menu-icon-center"
+						>
+					<i
+						id="avatarIconOnMovile"
+						onclick="handleHeaderOption('account')"
+						class="material-icons menu-icon menu-icon-center">
+						person_outline
+					</i>
+					<i
+						id="dropdownIconOnMovile"
+						onclick="handleHeaderOption('account')"
+						class="material-icons menu-icon menu-icon-dropdown">
+						arrow_drop_down
+					</i>
+				</div>
+				<div>
+					<i onclick="handleHeaderOption('nav')" class="material-icons menu-icon menu-icon-right">menu</i>
+				</div>
+			  </div>
+	        </div>
+	        <div id="navcollapse">
+	          <div class="navcollapsecontent">
+	            <a href="/en/topics/">All Topics</a>
+	            
+	            	<a href="/en/account/signin/">My Account</a>
+	            
+	            <a href="/en/info/who-we-are/1/">About Us</a>
+	            <a href="https://support.gcflearnfree.org/">FAQ</a>
+	            <a href="/en/info/contact-us/1/">Contact Us</a>
+
+	            <div class="language-picker">
+		            <a href="/en/">EN</a>
+		            <a href="/es/">ES</a>
+		            <a href="/pt/">PT</a>
+	        	</div>
+	          </div>
+	        </div>
+			<div id="accountNavcollapse">
+				<div class="accountNavcollapsecontent">
+				  <!-- Not logged in -->
+				  <div class="sign__actions is-mobile">
+						
+					<!-- Sign in -->
+					<a id="movileSignin" href="https://account.gcfglobal.org/" class="sign__action">Signin</a>
+
+					<!-- Sign up -->
+					<a id="movileSignup" href="https://account.gcfglobal.org/signup" class="sign__action is-primary">Signup</a>
+
+					<!-- Dashboard -->
+					<a id="movileDashboard" href="https://account.gcfglobal.org/home" class="sign__action hide_element">Dashboard</a>
+					
+					<!-- profile -->
+					<a id="movileProfile" href="https://account.gcfglobal.org/profile" class="sign__action hide_element">Profile</a>
+
+					<!-- logout -->
+					<a id="movileLogout" href="https://account.gcfglobal.org/auth/logout" class="sign__action hide_element">Logout</a>
+				  </div>
+				  <!-- End -->
+				</div>
+			  </div>
+	      
+	        <div class="search-control">
+	            <div class="search-container search-container-collapsed">
+					<div class="search-inner-container">
+						
+						<form id="gcfsearch" method="get" action="/en/search/" onSubmit="showSearchSpinner()">
+							<button type="submit" aria-label="search button"><i class="material-icons">search</i></button>
+							<div class="mobile-search-input-wrapper">	
+								<input id="request" class="searchinput" pattern=".{1,}" required type="text" name="q" name="q" size="21" maxlength="120" placeholder="What can we teach you?" autocomplete="off" title="Search bar">
+							</div>
+						</form>
+					</div>
+	            </div>
+	        </div>
+	    </div>
+	</header>
+</div>
+<script defer src="../../scripts/global/header/account-methods.js" type="text/javascript"></script>
+    <div id="background">
+      <div id="page-wrapper">
+        <div class="content error-404">
+          <div id="errorpage" class="four-oh-four">
+            
+              <img class="primary-img" src="https://media.gcflearnfree.org/global/404/image-nessie.png" alt="Loch Ness Monster">
+              <h2>Much like the Loch Ness Monster, the page you requested does not exist.</h2>
+              <p class="suggestions">Here are some helpful links instead:</p>
+              <ul class="error-suggestions">
+                <li>
+                  <h3><a href="/en/excelformulas/">Excel Formulas</a></h3>
+                  <p>Practice creating formulas with real-world scenarios.</p>
+                </li>
+                <li>
+                  <h3><a href="/en/computerbasics/basic-parts-of-a-computer/1/">Basic Parts of a Computer</a></h3>
+                  <p>There are several basic parts of a computer.</p>
+                </li>
+                <li>
+                  <h3><a href="/en/computerbasics/mobile-devices/1/">Mobile Devices</a></h3>
+                  <p>Get help understanding mobile devices.</p>
+                </li>
+              </ul>
+            
+            
+            
+            
+          </div>
+        </div>
+        <div class="push"></div>
+      </div>
+    </div>
+  </div>
+  <div class="corner-images-box">
+    
+      <img class="left-img" src="https://media.gcflearnfree.org/global/404/image-nessie-leftcorner.png" alt="Left Side Water">
+      <img class="right-img" src="https://media.gcflearnfree.org/global/404/image-nessie-rightcorner.png" alt="Right Side Water">
+    
+  </div>
+  <footer class="footer">
+
+    
+      <div class="cookie-overlay">
+        <h3>Cookie Policy</h3>
+        <img onclick="gcfGA.setTrackingPermission('disallow')" src="https://media.gcflearnfree.org/ocp/class/icon-close.png" alt="White X Close">
+        <div class="wrapper">
+          <p>This website uses cookies to measure and analyze our traffic. For more information about the cookies we use, see our <a target="_blank" href="/en/info/terms-of-use/1/">Terms of Use</a>. If you want to change your decision later on, select the 'Cookie Policy' link in the footer.</p>
+          <button class="orange-button" onclick="gcfGA.setTrackingPermission('allow')">Accept</button>
+          <button class="orange-button" onclick="gcfGA.setTrackingPermission('disallow')">Decline</button>
+        </div>
+      </div>
+    
+
+    <div class="desktopfooter">
+      <div class="main-footer">
+        <div class="footer-drag-handle" onclick="toggleFooter()">
+          <i class="up-arrow material-icons">keyboard_arrow_up</i>
+          <i class="down-arrow material-icons">keyboard_arrow_down</i>
+        </div>
+        <!-- <div class="footer-section-headers"></div> -->
+        <div id="footerContent">
+          <div>
+            <div class="footer-links-container">
+              <div id="sectionOne" class="text-links">
+                <h4 class="footerheaders">About Us</h4>
+                <a class="home-footer-link about-us-section" href="/en/info/who-we-are/1/">Who We Are</a><br/>
+                <a class="home-footer-link about-us-section" href="/en/info/meet-the-staff/1/">Meet the Staff</a><br/>
+                
+                <a class="home-footer-link about-us-section" href="https://careers.gcfglobal.org/" target="_blank">Work With Us</a><br/>
+                
+                
+                
+                <a class="home-footer-link about-us-section" href="https://partners.gcfglobal.org/en">Who Uses Us + Our Partners</a><br/>
+              </div>
+              <div id="sectionTwo" class="text-links">
+                <h4 class="footerheaders">Educators' Resources</h4>
+                <a class="home-footer-link educators-section" href="/en/gcfteacherguides/">Teacher Guides</a><br/>
+                
+                <a class="home-footer-link educators-section" href="/en/info/resources-and-tools/1/">Resources and Tools</a><br/>
+                
+              </div>
+              <div id="sectionThree" class="text-links">
+                <h4 class="footerheaders">Help and Support</h4>
+                
+                <a class="home-footer-link help-section" href="https://support.gcflearnfree.org" target="_blank">FAQ</a><br/>
+                
+                <a class="home-footer-link help-section" href="/en/info/terms-of-service/1/">Terms of Service</a><br/>
+                <a class="home-footer-link help-section" href="/en/info/privacy-notice/1/">Privacy Notice</a><br/>
+                <a class="home-footer-link help-section" href="/en/info/cookie-policy/1/">Cookie Policy</a><br/>
+                <a class="home-footer-link help-section" href="/en/info/contact-us/1/">Contact Us</a>
+                
+                  <br><a class="home-footer-link help-section" href="/en/account/user/">My Account</a><br/>
+                
+              </div>
+            </div>
+            <div class="footer-logo-box">
+              <div id="footer_social_media">
+                
+                  <a class="home-footer-link social-media-section" href="https://www.facebook.com/GCFLearnFree.org" target="_blank">
+                    <img id="fb_link" class="footer_social_media_link" src="https://media.gcflearnfree.org/assets/edu-gcfglobal-site/images/social/facebook_icon.svg" alt="facebook"/>
+                  </a>
+                  <a class="home-footer-link social-media-section" href="https://twitter.com/GCFLearnFree" target="_blank">
+                    <img id="twitter_link" class="footer_social_media_link" src="https://media.gcflearnfree.org/assets/edu-gcfglobal-site/images/social/twitter_icon.svg" alt="twitter"/>
+                  </a>
+                  <a class="home-footer-link social-media-section" href="https://www.youtube.com/user/gcflearnfree" target="_blank">
+                    <img id="youtube_link" class="footer_social_media_link" src="https://media.gcflearnfree.org/assets/edu-gcfglobal-site/images/social/youtube_icon.svg" alt="youtube"/>
+                  </a>
+                  <a class="home-footer-link social-media-section" href="https://pinterest.com/gcflearnfree/" target="_blank">
+                    <img id="pinterest" class="footer_social_media_link" src="https://media.gcflearnfree.org/assets/edu-gcfglobal-site/images/social/pinterest_icon.svg" alt="pinterest"/>
+                  </a>
+                  <a class="home-footer-link social-media-section" href="https://www.instagram.com/gcf_learnfree/" target="_blank">
+                    <img class="footer_social_media_link" src="https://media.gcflearnfree.org/assets/edu-gcfglobal-site/images/social/instagram_icon.svg" alt="instagram"/>
+                  </a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copyright-wrapper">
+         <p id="copyright">
+          
+        </p>
+      </div>
+    </div>
+    <!-- <div class="mobilefooter">
+      <div class="footer-drag-handle" onclick="toggleMobileFooter()">
+        <i class="up-arrow material-icons">keyboard_arrow_up</i>
+        <i class="down-arrow material-icons">keyboard_arrow_down</i>
+      </div>
+      <div class="mobileFooterContent">
+        <a href="https://gcfglobal.org/"><img class="globalicon" alt="GCFGlobal.org" src="https://media.gcflearnfree.org/global/gcfglobal-color.png"></img></a>
+        <p id="copyrightMobile">
+          
+        </p>
+      </div>
+    </div> -->
+  </footer>
+<script defer src="../../scripts/global/oidc-client.slim.min.js" type="text/javascript"></script>
+<script defer src="../../scripts/global/auth-oidc.js" type="text/javascript"></script>
+
+</body>
+</html>

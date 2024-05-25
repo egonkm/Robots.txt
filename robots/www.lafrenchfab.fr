@@ -1,0 +1,120 @@
+User-agent: *
+# WP directives
+Disallow: /cgi-bin/
+Disallow: */trackback/$
+Disallow: /comments/feed*
+Allow: /*.js*
+Allow: /*.css*
+Allow: /storage/*
+
+# Joomla directives
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+
+# Drupal directives
+Disallow: /node/
+Disallow: /user/
+Disallow: /web
+Disallow: /core/
+Disallow: /profiles/
+Disallow: /export/
+Disallow: /admin/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow: /web.config
+
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow : *&field_labels=*
+Disallow : *&field_sector_tags=*
+Disallow : *&field_event_family=*
+Disallow : *&type=All*
+Disallow: /*?utm=*
+Disallow : /*?page=*
+Disallow : /*?term=*
+Disallow: /*?searchsearch_api_fulltext=*
+Disallow: /*?field_labels&field_tag&search_api_fulltext=&page=*
+
+# Common/Other directives
+Disallow: /app/
+Disallow: /system/
+Disallow: /core/
+Disallow: /controllers/
+Disallow: /errors/
+Disallow: /helpers/
+Disallow: /hooks/
+Disallow: /logs/
+Disallow: /models/
+Disallow: /third_party/
+Disallow: /views/
+Disallow: /libraries/
+Disallow: /install/
+Disallow: /installation/
+Disallow: /cgi-bin/
+Disallow: /README.txt
+Disallow: /readme.txt
+Disallow: /LICENCE.txt
+Disallow: /licence.txt
+Disallow: /web.config
+Disallow: /configuration.php
+Disallow: /settings.php
+Disallow: /setup.php
+Disallow: /conf.php
+Disallow: /conf/config.php
+Disallow: /conf/settings.php
+
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.lafrenchfab.fr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

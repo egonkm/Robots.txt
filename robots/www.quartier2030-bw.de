@@ -1,0 +1,10 @@
+# robots.txt
+
+User-agent: *
+Disallow: /install/
+Disallow: /locales/
+Disallow: /config/
+Disallow: /export/
+Disallow: /templates/
+
+Sitemap: https://www.quartier2030.de/sitemap.xml

@@ -1,0 +1,5 @@
+User-Agent:*
+Disallow:/searcher/
+Disallow:/opinion/
+Disallow:/*.pdf$
+Sitemap:https://www.xserver.ne.jp/sitemap.xml

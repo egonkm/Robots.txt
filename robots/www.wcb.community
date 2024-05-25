@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /api
+Disallow: /api/*
+Disallow: /pages/footer
+Disallow: /pages/topbar
+Disallow: /link/*
+Disallow: /signin/*
+Disallow: /cdn-cgi/
+Disallow: /subscription/unlimited-everything
+Disallow: /subscription/demystifying-marketing-trends
+Disallow: /bundle/ai-marketing-bundle
+Disallow: /unwind-chaos
+Sitemap: https://www.wcb.community/sitemap.xml

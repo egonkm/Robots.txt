@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /EditArticle*
+Disallow: /Article/addBookmark*
+Disallow: /Custom/addToFavourite*
+Disallow: /User/UserSettings*
+Disallow: /Custom/showHistoryBox*
+Disallow: /Custom/showFavourite*
+Disallow: /Article/jumpTree
+Disallow: /Search/

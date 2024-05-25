@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /api/
+Sitemap: https://www.bio-inspecta.ch/sitemap.xml
+Sitemap: https://www.bio-inspecta.ch/sitemap_de.xml
+Sitemap: https://www.bio-inspecta.ch/sitemap_en.xml
+Sitemap: https://www.bio-inspecta.ch/sitemap_fr.xml
+Sitemap: https://www.bio-inspecta.ch/sitemap_it.xml
+Sitemap: https://www.bio-inspecta.ch/aktuelles.xml
+Sitemap: https://www.bio-inspecta.ch/blog.xml
+Sitemap: https://www.bio-inspecta.ch/services.xml

@@ -1,0 +1,8 @@
+user-agent: *
+disallow: /includes
+disallow: /packages
+disallow: /fonts
+disallow: /content
+disallow: /scripts
+disallow: /styles
+disallow: /error

@@ -1,0 +1,15 @@
+Sitemap: https://performancein.live/wp-sitemap.xml
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://influencermarketingshow.com/usa/sitemap_index.xml
+Sitemap: https://performancein.live/europe/sitemap_index.xml
+Sitemap: https://influencermarketingshow.com/europe/sitemap_index.xml
+Sitemap: https://performancein.live/global/sitemap_index.xml
+Sitemap: https://influencermarketingshow.com/global/sitemap_index.xml
+Sitemap: https://performancein.live/usa/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

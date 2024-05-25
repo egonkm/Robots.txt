@@ -1,0 +1,136 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Crawl-delay: 10
+# CSS, JS, Images
+Allow: /misc/*.css$
+Allow: /misc/*.css?
+Allow: /misc/*.js$
+Allow: /misc/*.js?
+Allow: /misc/*.gif
+Allow: /misc/*.jpg
+Allow: /misc/*.jpeg
+Allow: /misc/*.png
+Allow: /modules/*.css$
+Allow: /modules/*.css?
+Allow: /modules/*.js$
+Allow: /modules/*.js?
+Allow: /modules/*.gif
+Allow: /modules/*.jpg
+Allow: /modules/*.jpeg
+Allow: /modules/*.png
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /themes/*.css$
+Allow: /themes/*.css?
+Allow: /themes/*.js$
+Allow: /themes/*.js?
+Allow: /themes/*.gif
+Allow: /themes/*.jpg
+Allow: /themes/*.jpeg
+Allow: /themes/*.png
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+Disallow: /*.pdf
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+#PDF
+Disallow: /files/public/ji_lu_ji_2017_filmaward_shou_shang_jie_guo_.pdf
+Disallow: /files/public/ji_lu_ji_2018_filmaward_shou_shang_jie_guo_.pdf
+Disallow: /files/public/ji_lu_ji_2019_filmaward_shou_shang_jie_guo_.pdf
+Disallow: /files/public/ji_lu_ji_2020_filmaward_shou_shang_jie_guo_.pdf
+Disallow: /files/public/di_126hui_ri_ben_yan_ke_xue_hui_zong_hui_moningusemina_8_huan_zhe_man_zu_du_xiang_shang_wokao_eru_bai_nei_zhang_shou_shu_henoxin_tanaqu_rizu_mi_veritasrbiziyonsisutemunoshi_yong_jing_yan_.pdf
+Disallow: /files/public/di_125hui_ri_ben_yan_ke_xue_hui_zong_hui_moningusemina_2_bao_gao_ji_kuoriteiyan_nei_renzuseminalian_sok_jiao_dian_xing_duo_jiao_dian_yan_nei_renzudeng_chang_.pdf
+Disallow: /files/public/di_126hui_ri_ben_yan_ke_xue_hui_zong_hui_moningusemina_8_huan_zhe_man_zu_du_xiang_shang_wokao_eru_bai_nei_zhang_shou_shu_henoxin_tanaqu_rizu_mi_tecnis_synergynoshi_ji_.pdf
+Disallow: /files/public/lin_chuang_yan_ke_xue_hui_bao_gao_ji_huan_zhe_man_zu_du_wozhui_qiu_sitabai_nei_zhang_shou_shu_zhan_lue_.pdf
+Disallow: /files/public/tecnis_optiblue_10th_anniv._webinar_report_20230801.pdf
+Disallow: /files/public/2022nian_7yue_7ri_eyhance_websemina(1).pdf
+Disallow: /files/public/tecnis_eyhance_web_seminarfrom_kyoto_dan_jiao_dian_iol_xin_siishi_dai_nomu_kai_ke_eyhancetoha.pdf
+Disallow: /files/public/77th_jco_1007_es-9_what_is_the_best_iol_selection_based_on_qov.pdf
+Disallow: /files/public/77th_jco_ls-15_asking_specialists_about_the_latest_treatments_and_surgeries.pdf
+Disallow: /files/public/34th_jgs_co-sponsored_seminar_focusing_on_diversifying_glaucoma_surgery.pdf
+Disallow: /files/public/20230919webinar_think_with_the_evidence_for_the_tecnis_synergy.pdf
+Disallow: /files/public/tecnis_toric_calculator_instruction_manual_sep_2021.pdf
+Disallow: /files/public/7_veritastm_biziyonsisutemu_you_yong_xing_ergonomics.pdf
+Disallow: /files/public/6_veritastm_biziyonsisutemu_you_yong_xing_fluidics.pdf
+Disallow: /files/public/5_veritastm_biziyonsisutemu_dezitaruburosiya.pdf
+Disallow: /files/public/15_nei_zhang_shu_qian_nomgdhenodui_ying_burosiya.pdf
+Disallow: /files/public/13_totupuyan_ke_zhen_dan_hui_shi_yong_yan_ke_shou_shu_yong_kaniyure_burosiya.pdf
+Disallow: /files/public/27_zlb003.25_supetukusito.pdf
+Disallow: /files/public/28_zmb004.0_supetukusito.pdf
+Disallow: /files/public/16_osdguan_lian_zhi_pin_burosiya.pdf
+Disallow: /files/public/26_zkb002.75_supetukusito.pdf
+Disallow: /files/public/17_lipiflowtmsamaruparusesiyonsisutemu_burosiya.pdf
+Disallow: /files/public/21_tecnis_symfonyr_iolsupetukusito.pdf
+Disallow: /files/public/20_tecnis_symfonyr_iolburosiya.pdf
+Disallow: /files/public/30_tecnisr_toric_ii_optibluer_iol_supetukusito.pdf
+Disallow: /files/public/19_simplicity_quick_start_guide_gai_ding_ban_.pdf
+Disallow: /files/public/29_tecnisr_multifocal_iolburosiya.pdf
+Disallow: /files/public/14_idesigntm_advanced_wavescan_burosiya.pdf
+Disallow: /files/public/25_zma004.0_supetukusito.pdf
+Disallow: /files/public/24_tecnis_synergyr_iol_supetukusito.pdf
+Disallow: /files/public/9_tecnis_eyhancetm_iol_supetukusito.pdf
+Disallow: /files/public/12_tecnis_eyhancetm_iol_burosiya.pdf
+Disallow: /files/public/23_tecnis_synergyr_iol_burosiya.pdf
+Disallow: /files/public/22_tecnis_symfonyrtoric_iol_supetukusito.pdf
+Disallow: /files/public/huan_zhe_yang_xiang_ke_huan_zhe_yong_xiao_ce_zi_.pdf
+Disallow: /files/public/huan_zhe_yang_xiang_ke_taipubie_yan_nei_renzujian_efang_posutadoraibu.pdf
+Disallow: /files/public/huan_zhe_yang_xiang_ke_taipubie_yan_nei_renzujian_efang_posutaribingu.pdf
+Disallow: /files/public/huan_zhe_yang_xiang_ke_duo_jiao_dian_yan_nei_renzunoshuo_ming_yi_lan_biao_.pdf
+Disallow: /files/public/huan_zhe_yang_xiang_ke_duo_jiao_dian_yan_nei_renzunoshuo_ming_rihuretuto_synergy.pdf
+Disallow: /files/public/yuan_nei_jie_shi_yong_xuan_ding_liao_yang_posuta(1).pdf

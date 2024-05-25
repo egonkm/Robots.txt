@@ -1,0 +1,26 @@
+User-agent: *
+Sitemap: https://maisfutebol.iol.pt/sitemap.xml
+Sitemap: https://maisfutebol.iol.pt/sitemaps/news.xml
+Sitemap: https://maisfutebol.iol.pt/sitemaps/index.xml
+Sitemap: https://maisfutebol.iol.pt/eleicoes/sitemaps/legislativas2022.xml
+
+Disallow: /track_maisfutebol
+Disallow: /46
+Disallow: /130294768
+Disallow: /pesquisa
+Disallow: /pesquisa.html
+Disallow: /detalhesfichajogador
+Disallow: /test
+Disallow: /_preview
+
+User-agent: OpenAI
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Googlebot-Bard
+Disallow: /
+
+User-agent: OpenAI-Crawler
+Disallow: /

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <link rel="shortcut icon" href="/static/dist/cups/favicon.ico"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="theme-color" content="#000000"/>
+    <meta name="description"
+          content="Уникальная платформа, где специалисты и эксперты отрасли информационных технологий развиваются и обмениваются опытом, решая нетривиальные и интересные задачи в крупнейших IT соревнованиях."/>
+    <link rel="apple-touch-icon" href="/static/dist/cups/logo192.png"/>
+    <title>All Cups</title>
+    <link href="/static/css/2.e3fb4c95.chunk.css" rel="stylesheet">
+    <link href="/static/css/main.d4104e59.chunk.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="out aside-is-small">
+    <header class="header">
+        <div class="containerFluid header__inner"></div>
+    </header>
+    <div class="errorPage errorPage--404">
+        <div class="errorPage__body">
+            <div class="main__title errorPage__title">Ошибочка</div>
+            <p class="errorPage__text">Такая страница не найдена.</p>
+            <a href="/" class="button button--border2" type="button">На главную</a>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

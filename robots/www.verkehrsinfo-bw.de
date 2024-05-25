@@ -1,0 +1,4 @@
+Sitemap: https://verkehrsinfo-bw.de/sitemap.xml
+User-agent: *
+Disallow: https://verkehrsinfo-bw.de/kamera
+Disallow: https://verkehrsinfo-bw.de/wechselwegweisung

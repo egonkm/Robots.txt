@@ -1,0 +1,8 @@
+Sitemap: https://www.adview.academy/sitemap.xml
+User-agent: *
+
+Disallow: /dialyse.mx.adview.academy
+Disallow: /dormimania.com.adview.academy
+Disallow: /glassmasterguadalajara.mx.adview.academy
+Disallow: /sycomex.com.mx.adview.academy
+Disallow: /sicuro.mx.adview.academy

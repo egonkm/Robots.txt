@@ -1,0 +1,29 @@
+# See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+User-agent: *
+Allow: /
+Disallow: /de/checkout
+Disallow: /de/account
+Disallow: /de/payment_methods
+Disallow: /de/basket_items
+Disallow: /de/signin
+Disallow: /de/session
+Disallow: /fr/checkout
+Disallow: /fr/account
+Disallow: /fr/payment_methods
+Disallow: /fr/basket_items
+Disallow: /fr/signin
+Disallow: /fr/session
+Disallow: /gb/checkout
+Disallow: /gb/account
+Disallow: /gb/payment_methods
+Disallow: /gb/basket_items
+Disallow: /gb/signin
+Disallow: /gb/session
+Disallow: /404
+Disallow: /422
+Disallow: /500
+Disallow: /storyblok_feeds
+
+Sitemap: https://webex.shop/sitemap.xml

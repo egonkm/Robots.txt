@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /blog/admin/
+Disallow: /*designer=
+Disallow: /*available=
+Disallow: /*size=
+Disallow: /*price_min=
+Disallow: /*price_max=
+Disallow: /*refine=
+Disallow: /api/swagger/
+Disallow: */accounts/sign-in/*
+Disallow: /search/
+Disallow: /sign-in/
+Disallow: /my-account/
+Disallow: /shopping-bag/
+Disallow: /dashboard/
+Disallow: /segment/
+
+Sitemap: https://www.wolfandbadger.com/sitemap.xml

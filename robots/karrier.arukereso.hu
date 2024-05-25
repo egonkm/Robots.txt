@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /jobs
+Disallow: /
+Sitemap: https://hr.arukereso.hu/sitemap.xml

@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://www.francenormalisation.afnor.org/post-sitemap.xml
+Sitemap: http://www.francenormalisation.afnor.org/page-sitemap.xml
+Sitemap: http://www.francenormalisation.afnor.org/category-sitemap.xml

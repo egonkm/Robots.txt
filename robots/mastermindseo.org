@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://mastermindseo.org/news-sitemap.xml
+Sitemap: https://mastermindseo.org/sitemap.xml
+Sitemap: https://mastermindseo.org/sitemap.rss

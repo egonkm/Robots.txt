@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /admin
+Disallow: /auth
+Disallow: /cgi-bin
+Disallow: /commentEdit
+Disallow: /cron
+Disallow: /listBuilderToBlog
+Disallow: /nvrp
+Disallow: /postClickCounter
+Disallow: /postEdit
+Disallow: /publicSubscribe
+Disallow: /shib
+Disallow: /subscribe
+Disallow: /unsubscribe
+Disallow: /userRole
+Disallow: /Shibboleth.sso
+
+Sitemap: https://blogs.illinois.edu/sitemapindex.xml

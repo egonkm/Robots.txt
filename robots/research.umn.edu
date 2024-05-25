@@ -1,0 +1,113 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password/
+Disallow: /index.php/user/register/
+Disallow: /index.php/user/login/
+Disallow: /index.php/user/logout/
+# Paths (OVPR added)
+Disallow: /styles-sheet
+Disallow: /ovpr-website-guide/*
+Disallow: /units/iacuc/members/member-sign/
+Disallow: /images
+# Specific Pages
+Disallow: /capabilities/research-tools/material-transfer-agreement-routing-form-ufra-instructions
+Disallow: /units/rar/animal-care-ordering
+Disallow: /units/rar/animal-care-ordering/animal-care-diems
+Disallow: /units/rar/animal-care-ordering/protocol-information
+Disallow: /units/rar/animal-care-ordering/animal-housing-husbandry
+Disallow: /units/rar/animal-care-ordering/procuring-animals-research
+Disallow: /units/rar/animal-care-ordering/billing
+Disallow: /units/rar/animal-care-ordering/animal-services
+Disallow: /units/rar/veterinary-care/overview
+Disallow: /units/rar/veterinary-care/animal-health-monitoring-reporting
+Disallow: /units/rar/veterinary-care/preventative-medicine-programs
+Disallow: /units/rar/veterinary-care/quarantine-ongoing-health-surveillance
+Disallow: /units/rar/research-support/overview
+Disallow: /units/rar/guidelines/overview
+Disallow: /units/rar/guidelines/analgesia
+Disallow: /units/rar/guidelines/anesthesia-cats
+Disallow: /units/rar/guidelines/anesthesia-chinchilla
+Disallow: /units/rar/guidelines/anesthesia-dogs
+Disallow: /units/rar/guidelines/anesthesia-ferrets
+Disallow: /units/rar/guidelines/anesthesia-guinea-pig
+Disallow: /units/rar/guidelines/anesthesia-hamsters
+Disallow: /units/rar/guidelines/anesthesia-mice
+Disallow: /units/rar/guidelines/anesthesia-non-human-primates
+Disallow: /units/rar/guidelines/anesthesia-rabbits
+Disallow: /units/rar/guidelines/anesthesia-rats
+Disallow: /units/rar/guidelines/anesthesia-ruminants
+Disallow: /units/rar/guidelines/anesthesia-swine
+Disallow: /units/rar/guidelines/anesthetic-agents
+Disallow: /units/rar/guidelines/blood-collection
+Disallow: /units/rar/guidelines/euthanasia
+Disallow: /units/rar/guidelines/iacuc-routes-administration
+Disallow: /units/rar/guidelines/surgery-laboratory-animals
+Disallow: /units/rar/research-support/technical-services
+Disallow: /units/rar/research-support/laboratory-diagnostic-services
+Disallow: /units/rar/research-support/euthanasia-services
+Disallow: /units/rar/research-support/animal-tissue-share
+Disallow: /units/rar/research-support/unique-mouse-user-database
+Disallow: /research-2030-workshop
+# Pages for Shutdown - on hold until needed
+Disallow: /units/spa/shutdown-information/
+Disallow: /units/spa/shutdown-information/university-guidance
+Disallow: /units/spa/shutdown-information/guidance-federal-agencies
+Disallow: /units/spa/shutdown-information/federal-electronic-system-availability
+Disallow: /units/spa/shutdown-information/whats-new
+# Sitemap files
+Sitemap: https://research.umn.edu/sitemap.xml

@@ -1,0 +1,26 @@
+#
+# robots.txt for the PMIP web site
+#
+# Main PMIP site : http://pmip.lsce.ipsl.fr/
+#
+# robots.txt,v 1.2 2007/07/13 13:12:24 jypeter Exp
+#
+# JYP / LSCE
+#
+# Notes :
+# - this file MUST be named 'robots.txt' (all lowercase),
+#   and MUST be located in DocumentRoot
+# - comments start with '#' :)
+# - blank lines are used only to separate groups of records
+#   (i.e. one 'User-agent:' line followed by one
+#	  or more 'Disallow:' lines
+#
+# For more details, check http://www.robotstxt.org/wc/robots.html
+#
+# Default rule for all robots
+# The robots are allowed to index/follow all the pages, except
+# when specified otherwise with a "robots directive" in a web page
+User-agent: *
+Disallow: /publications/drafts/
+
+# The end 

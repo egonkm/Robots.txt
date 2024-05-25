@@ -1,0 +1,10 @@
+# *
+User-agent: *
+
+# Host
+Host: https://www.freethinkingdesign.co.uk
+
+# Sitemaps
+Sitemap: https://www.freethinkingdesign.co.uk/sitemap.xml
+Sitemap: https://www.freethinkingdesign.co.uk/posts-sitemap.xml
+Sitemap: https://www.freethinkingdesign.co.uk/projects-sitemap.xml

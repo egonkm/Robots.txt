@@ -1,0 +1,136 @@
+
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>Sayfa Bulunamadı</title>
+  <meta name="google-site-verification" content="rllE8c4HR3uNQFKJKJJ4i4ufrqsS_shi6_qGYzYL_WQ"/>
+
+  <link type="text/css" rel="stylesheet" href="/static/css/main-min.css?__v__=67d9a162-1acd-11ef-87cb-f1814c307fa3">
+  <meta name="author" content="Hamidiye">
+
+  <!-- End Google Tag Manager -->
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start':
+              new Date().getTime(), event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-M973ZBV');</script>
+
+  
+</head>
+<body id="">
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M973ZBV"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+<div id="wrapper">
+  <main>
+    
+<div id="coreInfo">
+     <nav>
+        <div class="menu">
+          <a class="logo-link"  href="https://hamidiye.istanbul/"><img class="logo" src="/static/img/404/hamidiye-logo.svg"></a>
+          <a class="logo-link logo-order-link"  href="https://siparis.hamidiye.istanbul/"><img  class="logo logo-order" src="/static/img/404/hamidiye-order-logo.svg"></a>
+
+        </div>
+     </nav>
+
+      <section class="wrapper">
+        <div class="slider-menu">
+          <div class="title">HAKKIMIZDA</div>
+          <ul class="nav">
+            <li><a class="logo-link logo-order-link"  href="https://siparis.hamidiye.istanbul/"><img  class="logo logo-order" src="/static/img/404/hamidiye-order-logo.svg"></a></li>
+            <li><h4><a href="#">Hamidiye Kaynak Suları Sanayi Turizm ve Ticaret A.Ş</a></h4></li>
+            <li><a href="tel:0212 360 17 45">0212 360 17 45</a></li>
+            <li><a href="tel:0212 360 17 45">0212 360 13 33</a></li>
+            <li><a href="#">02123601741</a></li>
+            <li>E-Posta:<a href="mailto:bilgi@hamidiye.istanbul">bilgi@hamidiye.istanbul</a></li>
+            <li>KEP E-Posta:<a href="mailto:hamidiyekaynaksulari@hs01.kep.tr">hamidiyekaynaksulari@hs01.kep.tr</a></li>
+            <li>Mithat Paşa Mah. Selanik Bulvarı No: 1 Kemerburgaz-Eyüpsultan/İSTANBUL</li>
+
+
+          </ul>
+      </div>
+
+        <div class="container">
+
+          <div id="scene" class="scene" data-hover-only="false">
+
+
+            <div class="circle" data-depth="1.2"></div>
+
+            <div class="one" data-depth="0.9">
+              <div class="content">
+                <span class="piece"></span>
+                <span class="piece"></span>
+                <span class="piece"></span>
+              </div>
+            </div>
+
+            <div class="two" data-depth="0.60">
+              <div class="content">
+              </div>
+            </div>
+
+            <div class="three" data-depth="0.40">
+              <div class="content">
+              </div>
+            </div>
+
+            <p class="p404" data-depth="0.50">404</p>
+            <p class="p404" data-depth="0.10">404</p>
+
+          </div>
+
+          <div class="text">
+            <article>
+              <p>Sayfa Bulunamadı<br>Önceki Sayfaya Dön</p>
+              <button id="go_back">Geri Dön</button>
+            </article>
+          </div>
+
+        </div>
+      </section>
+
+      <div class="footer">
+
+        <div class="footer-m">
+          <p>Hamidiye Kaynak Suları Sanayi Turizm ve Ticaret A.Ş</p>
+          <p>Mithat Paşa Mah. Selanik Bulvarı No: 1 Kemerburgaz-Eyüpsultan/İSTANBUL</p>
+        </div>
+        <div class="footer-r">
+
+          <div class="f-phone">
+            <a href="tel:0212 360 17 45"><span>Tel: 0212 360 17 45</span></a>
+            <a href="tel:0212 360 17 45"> <span>Tel: 0212 360 13 33</span></a><
+            <span>Fax: 02123601741</span>
+          </div>
+          <div class="f-mail">
+            <p>E-Posta:<a href="mailto:bilgi@hamidiye.istanbul">bilgi@hamidiye.istanbul</a></p>
+            <p>KEP E-Posta:<a href="mailto:hamidiyekaynaksulari@hs01.kep.tr">hamidiyekaynaksulari@hs01.kep.tr</a></p>
+          </div>
+        </div>
+      </div>
+  </div>
+
+  </main>
+</div>
+<script src="https://www.gstatic.com/firebasejs/7.3.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.3.0/firebase-messaging.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
+<script type="text/javascript" src="/static/js/scripts.min.js"></script>
+
+</body>
+</html>

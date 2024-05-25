@@ -1,0 +1,7 @@
+Sitemap: https://blog.olx.pt/sitemap.xml
+Sitemap: https://blog.olx.pt/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://blog.olx.pt/sitemap_index.xml

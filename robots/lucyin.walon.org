@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /aberteke
+Disallow: /esplicant_moti

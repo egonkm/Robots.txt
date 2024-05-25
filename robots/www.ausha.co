@@ -1,0 +1,5 @@
+# BEGIN W3TC ROBOTS
+User-agent: *
+Disallow:
+Sitemap: https://www.ausha.co/sitemap_index.xml
+# END W3TC ROBOTS

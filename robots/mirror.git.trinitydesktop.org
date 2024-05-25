@@ -1,0 +1,6 @@
+User-agent: AhrefsBot
+Disallow: /weblate
+Disallow: /gitea
+
+User-agent: *
+Disallow: /weblate

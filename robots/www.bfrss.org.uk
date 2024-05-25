@@ -1,0 +1,4 @@
+ï»¿User-agent: *
+Disallow: /uploaded/
+Disallow: /search/
+sitemap: http://www.bfrss.org.uk/sitemap.rss

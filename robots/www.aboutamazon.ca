@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 10
+Sitemap: https://ca-en.prod.about.amazon-blogs.psdops.com/sitemap.xml
+Sitemap: https://ca-en.prod.about.amazon-blogs.psdops.com/news-sitemap.xml

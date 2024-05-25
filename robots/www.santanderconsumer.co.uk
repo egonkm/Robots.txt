@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /offers/contract-hire-offers/filter-offers/
+Disallow: /offers/contract-hire-offers/get_similar_variants/
+Disallow: /offers/contract-hire-offers/get_vehicle_range_options/
+Disallow: /forms/

@@ -1,0 +1,12 @@
+User-agent: SemrushBot
+Disallow: /
+
+User-Agent: *
+Allow: /
+
+Sitemap: https://btimes.jp/sitemap.xml
+Sitemap: https://btimes.jp/btimes_park_index.xml
+Sitemap: https://btimes.jp/btimes_prefec_index.xml
+Sitemap: https://btimes.jp/btimes_event_site_index.xml
+Sitemap: https://btimes.jp/btimes_review_index.xml
+Sitemap: https://btimes.jp/btimes_times_index.xml

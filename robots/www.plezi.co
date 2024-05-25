@@ -1,0 +1,8 @@
+User-agent: * 
+Disallow: /wp-login.php
+Disallow: */trackback
+Disallow: /*/comments
+Disallow: /cgi-bin
+Disallow: /*.inc$
+Disallow: /*.gz
+Disallow: /*.cgi

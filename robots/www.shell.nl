@@ -1,0 +1,36 @@
+User-agent: SiteimproveBot 
+Allow: / 
+
+User-agent: SiteimproveBot-Crawler 
+Allow: / 
+
+User-agent: *
+Disallow: /bedrijven/shell-commercial-road-transport/energieoplossingen/shell-biolng.html
+Disallow: /bedrijven/shell-commercial-road-transport/energieoplossingen/shell-biolng/
+Disallow: /bedrijven/shell-fleet-solutions/shell-fleet-app/download-de-app.html
+Disallow: /bedrijven/shell-fleet-solutions/shell-fleet-app/download-de-app/
+Disallow: /bedrijven/shell-fleet-solutions/testpage-ev-knowledge-hub.html
+Disallow: /bedrijven/shell-fleet-solutions/testpage-ev-knowledge-hub/
+Disallow: /bedrijven/smeermiddelen-voor-bedrijven/sectors-expertise/luchtvaart.html
+Disallow: /bedrijven/smeermiddelen-voor-bedrijven/sectors-expertise/luchtvaart/
+Disallow: /error.html
+Disallow: /error/
+Disallow: /external-redirect.html
+Disallow: /external-redirect/
+Disallow: /over-ons/nieuws/link-in-bio.html
+Disallow: /over-ons/nieuws/link-in-bio/
+Disallow: /over-ons/nieuws/nieuwsberichten-2021/vliegtuigbrandstof-uit-afval.html
+Disallow: /over-ons/nieuws/nieuwsberichten-2021/vliegtuigbrandstof-uit-afval/
+Disallow: /over-ons/nieuws/nieuwsberichten-2021/waarde-van-de-aarde.html
+Disallow: /over-ons/nieuws/nieuwsberichten-2021/waarde-van-de-aarde/
+Disallow: /over-ons/nieuws/nieuwsberichten-2024/shell-fleet-facts---februari-2024.html
+Disallow: /over-ons/nieuws/nieuwsberichten-2024/shell-fleet-facts---februari-2024/
+Disallow: /over-ons/nieuws/nieuwsberichten-2024/shell-fleet-facts---maart-2024.html
+Disallow: /over-ons/nieuws/nieuwsberichten-2024/shell-fleet-facts---maart-2024/
+Disallow: /over-ons/nieuws/nieuwsberichten-2024/shell-fleet-facts.html
+Disallow: /over-ons/nieuws/nieuwsberichten-2024/shell-fleet-facts/
+Disallow: /over-ons/nieuws/venster/2024.html
+Disallow: /over-ons/nieuws/venster/2024/
+Disallow: /tag-search.html
+Disallow: /tag-search/
+Sitemap: https://www.shell.nl/.sitemap.xml

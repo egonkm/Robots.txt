@@ -1,0 +1,29 @@
+# Disallow some matrix defaults
+User-agent: *
+Disallow: /_designs/
+Disallow: /sandbox/
+Disallow: /*?sq_content_src=
+Disallow: /*_recache
+Disallow: /*_edit
+Disallow: /*_admin
+Disallow: /*_login
+Disallow: /*_performance
+Disallow: /*_design
+Disallow: /*_web_services
+
+# Disallow Service Desk link (redirect)
+Disallow: /servicedesk$
+
+# Disallow Compass link (redirect)
+Disallow: /compass$
+
+# Disallow Rats link (redirect)
+Disallow: /rats$
+
+# Disallow MST Maintenance Page
+Disallow: /myservicetas/maintenance$
+
+# Disallow all MyServiceTas pages (temporarily)
+Disallow: /myservicetas/*
+
+Sitemap: https://www.service.tas.gov.au/sitemap.xml

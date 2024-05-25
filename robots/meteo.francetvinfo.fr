@@ -1,0 +1,14 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+
+Disallow: /api/*
+Disallow: /embed/*
+Disallow: /*?*
+
+Sitemap: https://meteo.francetvinfo.fr/sitemap.xml
+
+# Disable OpenAI bots
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /

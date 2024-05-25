@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://solutions.lesechos.fr/sitemap.xml
+Sitemap: https://solutions.lesechos.fr/sitemap.news.xml
+Disallow: /*?categorie=*
+Disallow: /flash-infos*

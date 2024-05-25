@@ -1,0 +1,23 @@
+Sitemap: https://www.doctors.net.uk/sitemap.xml
+
+User-agent: *
+Allow: /$
+Allow: /about.html
+Allow: /contact.html
+Allow: /ads.txt
+Allow: /about
+Allow: /contact
+Allow: /app
+Allow: /news
+Allow: /forum
+Allow: /webmail
+Allow: /learning
+Allow: /registration
+Allow: /login
+Allow: /Login
+Allow: /careers
+Allow: /trainee-doctors
+Allow: /international-medical-graduates
+Allow: /sitemap.xml
+
+Disallow: /

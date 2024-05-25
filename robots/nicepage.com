@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /Content/
+Disallow: /Script/
+Disallow: /Content/Images/
+Disallow: /Account/LogOff
+Disallow: /Account/Register
+Disallow: /Account/LogOn
+Disallow: /Account/RequestResetPasswordLink
+Disallow: /Editor/Account/Register
+Disallow: /Editor/Account/LogOn
+Disallow: /Editor/Account/RequestResetPasswordLink
+Disallow: /User/
+Disallow: /Users/
+Disallow: /Forum/Topic/Create
+Disallow: /*/preview/
+Disallow: /get/mac
+Disallow: /get/windows
+Disallow: /Editor/Dashboard/EditOnline/
+
+User-agent: AdsBot-Google
+Disallow: /Purchase/Index/GetPrices

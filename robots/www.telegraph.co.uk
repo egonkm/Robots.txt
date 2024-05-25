@@ -1,0 +1,80 @@
+# Production Robots.txt file
+
+User-agent: *
+
+#Special parameters
+Disallow: /*?mobile=true
+Disallow: /*?mobile=basic
+Disallow: /*?ModPagespeed=noscript
+Disallow: /*_jcr_content*
+Disallow: /*?source=rss
+
+# Internal Search
+Disallow: /search/*
+Disallow: /searchbeta/*
+
+# Special areas
+Disallow: /news/main.jhtml
+Disallow: /p/*/embed/
+Disallow: /secure/login/*
+Disallow: /content/telegraph/
+Disallow: /customer/secure/checkout/tesco/
+Disallow: /customer/secure/reset-password/
+Disallow: /telegraph/*
+Disallow: /news-app/*
+Disallow: /amp$
+Disallow: */application/*
+Disallow: */ixale/
+Disallow: /core/Content/
+Disallow: /promotions/emails/
+Disallow: /r/
+Disallow: /sponsored/travel/msc-cruises/
+Disallow: /travel/8711559/The-Telegraph-Travel-Awards-2011.html
+Disallow: /travel/hotel/e/*
+Disallow: /sponsored/staging/
+Disallow: /sponsored/business/lloyds-tsb-enterprise-awards/
+Disallow: /sponsored/earth/statoil/
+Disallow: /sponsored/motoring/alfa-romeo-cars/
+Disallow: /sponsored/motoring/vw-up/
+Disallow: /sponsored/property/all-saints-eastbourne/
+Disallow: /sponsored/supplement-portfolio/
+Disallow: /sponsored/travel/cunard-cruises/
+Disallow: /sponsored/travel/cruise-holidays/
+Disallow: /sponsored/travel/macau/macaumap/
+Disallow: /sponsored/travel/telegraph-cottages/
+Disallow: /sponsored/finance/spread-betting/
+Disallow: /sponsored/finance/retirement-annuity/
+Disallow: /sponsored/travel/hidden-britain/
+Disallow: /sponsored/business/sme-business-essentials/
+Disallow: /sponsored/in-the-know/london-cultural-attractions
+Disallow: /sponsored/in-the-know/london-dining
+Disallow: /sponsored/in-the-know/london-entertainment
+Disallow: /sponsored/in-the-know/london-lifestyle
+Disallow: /sponsored/in-the-know/london-nightlife
+Disallow: /sponsored/in-the-know/london-shopping
+Disallow: /sponsored/in-the-know/london-sport-activities
+Disallow: /sponsored/in-the-know/london-transport-accommodation
+Disallow: /sponsored/in-the-know/london-video-guides
+Disallow: /sponsored/motoring/suzuki-motorbikes/
+Disallow: /sponsored/technology/cool-list/
+Disallow: /travel/hotels/hotel-finder/ 
+Allow: /travel/hotels/hotel-finder/$
+
+#Bots which make unnecessary bot traffic
+
+User-Agent: endeca
+Disallow: /archive/
+Disallow: /search/*
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+#Sitemap URLs
+Sitemap: https://www.telegraph.co.uk/sitemap.xml
+Sitemap: https://www.telegraph.co.uk/custom/authors/sitemap.xml  
+Sitemap: https://www.telegraph.co.uk/custom/main-pages/sitemap.xml  
+Sitemap: https://www.telegraph.co.uk/custom/daily-news/sitemap.xml
+Sitemap: https://www.telegraph.co.uk/vouchercodes/sitemap.xml

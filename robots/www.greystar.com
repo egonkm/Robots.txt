@@ -1,0 +1,10 @@
+User-agent: *
+Allow: *
+Disallow: /*?*greystar-opt-out=*
+Disallow: /example-pages/*
+Disallow: /ping
+Disallow: /for-review/*
+Disallow: prod-cm.greystarhosting.com/*
+Disallow: prod-cd.greystarhosting.com/*
+Sitemap: https://www.greystar.com/sitemap.xml
+Sitemap: https://www.greystar.com/sitemap-greystar-blog.xml

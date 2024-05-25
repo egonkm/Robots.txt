@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://workrule-kentei.jp/sitemap.xml
+
+Sitemap: https://workrule-kentei.jp/sitemap.xml

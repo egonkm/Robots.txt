@@ -1,0 +1,77 @@
+User-agent: *
+Disallow: /bin
+Disallow: /account
+Disallow: /apps
+Disallow: /crx
+Disallow: /system
+Disallow: /libs
+Disallow: /content
+Disallow: /vans/buy/used-vans.html/details/*
+Disallow: /vans/buy/used-vans.html/search/*
+Allow: /content/dam/hq/brand-logo
+Allow: /passengercars/content-pool/tool-pages/car-configurator.html*
+Allow: /content/dam/hq/passengercars/*.glb
+Allow: /content/dam/hq/passengercars/*.usdz
+Allow: /content/dam/hq/passengercars/cars/a-class/hatchback-w177-pi/a-class-hatchback-w177-hybrid-preconfiguration.jpg
+
+Allow: /content/*/mpc/*
+Disallow: /pab/
+Disallow: /sec/js/
+Disallow: /*.inc$
+Disallow: /*.wmv$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+Disallow: /*.swf
+Disallow: /*/mobile/
+Disallow: /*.popup.html$
+
+Disallow: /etc
+Allow: /etc/clientlibs/acs-commons
+Allow: /etc.clientlibs
+Allow: /etc/designs/embxp-wholesale
+
+Disallow: *content-pool
+Allow: *content-pool/*.jpg
+Allow: *content-pool/*.png
+Allow: *content-pool/*.svg
+Allow: *content-pool/*.jpeg
+Allow: /vans/*/content-pool/apps
+Allow: /vans/*/content-pool/tools/legal
+Allow: /vans/*/content-pool/forms
+
+Allow: /content/*.jpg
+Allow: /content/*.png
+Allow: /content/*.svg
+Allow: /content/*.jpeg
+Allow: /content/*.mp4
+Allow: /content/*.webm
+Allow: /content/*.ogv
+Allow: /content/*.vtt
+Allow: /content/*.gif
+Allow: /content/*.ico
+Allow: /content/*.svgz
+
+User-agent: MSNBot
+Crawl-delay: 16
+
+User-agent: bingbot
+Crawl-delay: 17
+
+User-agent: Slurp
+Crawl-delay: 18
+
+User-agent: Yahoo! Slurp
+Crawl-delay: 19
+
+Sitemap: https://www.mercedes-benz.de/sitemaponeweb/sitemap.index.xml.gz
+
+
+Sitemap: https://www.mercedes-benz.de/sitemaps/dlc/sitemap-de.xml
+
+Sitemap: https://www.mercedes-benz.de/sitemaps/emh/sitemap_de.xml
+
+Sitemap: https://www.mercedes-benz.de/passengercars/customer-service/sitemap/de_DE
+
+Sitemap: https://www.mercedes-benz.de/vans/sitemaps/vvs-vss/de.sitemap.vanstocksearch.xml
+
+

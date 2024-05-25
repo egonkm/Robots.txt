@@ -1,0 +1,4 @@
+# 15/12/2023
+User-agent: Amazonbot
+User-agent: Amazon
+Disallow: /

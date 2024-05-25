@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /content/redcross/*
+Disallow: /content/redcrossblood/*
+Disallow: /give.html/find-drive-advanced?zipSponsor=*
+Disallow: /give.html/drive-results?zipSponsor=*
+Disallow: /give.html/drive-results?order=*
+Disallow: /give/drive/driveSearchList.jsp?zipSponsor=*
+# IC 4875 4/6/23
+Disallow: /give.html/appointment-thank-you
+Disallow: /api/*
+# WL 4002 7/8/2022
+Disallow: /content/dam/redcrossblood/
+# IC 5313 6/12/19  
+Disallow: /content/dam/redcross/lp/  
+# IC 2442 5/24/21
+Disallow: /renew/blood-donor-prospect/land-prospect-thanks.html
+Disallow: /renew.html
+Disallow: /donate-blood/manage-my-donations/rapidpass/student-guide.html
+Disallow: /donate-blood/manage-my-donations/rapidpass/trali-information-sheet.html
+Disallow: /donate-blood/dlp/dunkin-gift-card-disclamers.html
+Disallow: /donate-blood/dlp/amazon-gift-card-disclaimers.html
+Disallow: /thanks-for-confirming.html
+Disallow: /hosting-a-blood-drive/manage-my-blood-drive/blood-drive-coordinator-toolkit/drive-management-system-overview/bdc/blood-drive-coordinatoronlinerequestform.html
+Disallow: /hosting-a-blood-drive/manage-my-blood-drive/blood-drive-coordinator-toolkit/drive-management-system-overview/blood-drive-management-system-terms-and-conditions.html
+Disallow: /donate-blood/dlp/appreciation-form.html
+Disallow: /donate-blood/dlp/blood-drive-appointment-assistance.html
+Disallow: /donate-blood/dlp/claim-gift.html
+Disallow: /donate-blood/dlp/covid-19-partner/covid-19-partner-assets.html
+Disallow: /donate-blood/dlp/donate-gift.html
+Disallow: /donate-blood/dlp/granulocytes-form.html
+Disallow: /donate-blood/dlp/missing-types-creative-test.html
+Disallow: /donate-blood/manage-my-donations/rapidpass/coronavirus-outbreak.html
+Disallow: /donate-blood/manage-my-donations/rapidpass/measles-exposure.html
+Disallow: /donate-blood/manage-my-donations/rapidpass/reds-survey.html
+Disallow: /donate-blood/manage-my-donations/rapidpass/trali-information-sheet.html
+Disallow: /facebook.html
+Disallow: /local-homepage/location/gainesville-american-red-cross.html
+
+Sitemap: https://www.redcrossblood.org/sitemap.xml

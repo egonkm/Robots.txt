@@ -1,0 +1,16 @@
+Sitemap: https://www.eeperformance.org/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: dotbot
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /http://europe.eeperformance.org/technical-forum.html
+Disallow: /https://docs.google.com/spreadsheets/d/1CstitwfWsc3GQlfUKPzBMdKnuMp5Guy8hquHpdw8r1o/pubhtml#
+Disallow: /icp-protocols.html
+Disallow: /http://europe.eeperformance.org
+Disallow: /building-button1.html

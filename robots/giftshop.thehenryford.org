@@ -1,0 +1,49 @@
+User-agent: *
+Disallow: /index.php/
+Disallow: /*?
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /*SID=
+
+# Disable version control folders and others
+Disallow: /*.git
+Disallow: /*.CVS
+Disallow: /*.Zip$
+Disallow: /*.Svn$
+Disallow: /*.Idea$
+Disallow: /*.Sql$
+Disallow: /*.Tgz$
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 1
+
+User-agent: AhrefsSiteAudit
+Crawl-delay: 1
+
+User-agent: MJ12bot
+Crawl-Delay: 10
+
+User-agent: Pinterest
+Crawl-delay: 1
+
+User-agent: Klaviyo/1.0
+Disallow:
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow:
+Sitemap: https://giftshop.thehenryford.org/media/sitemap/sitemap_thf.xml

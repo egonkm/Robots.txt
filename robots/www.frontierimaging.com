@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /Admin/
+Disallow: /App_Themes/
+Disallow: /Assets/
+Disallow: /Checkout/
+Disallow: /ClientApi/
+Disallow: /ConLib/
+Disallow: /FCKeditor/
+Disallow: /images/
+Disallow: /Install/
+Disallow: /Layouts/
+Disallow: /Members/
+Disallow: /webcharts/
+Disallow: /Basket.aspx
+Disallow: /BuyProduct.ashx

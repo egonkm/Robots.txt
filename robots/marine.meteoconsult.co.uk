@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /search-weather-forecasts
+Disallow: /purchases/*
+Disallow: /ajax/*
+Disallow: /payments/*
+Disallow: /vignette/*
+Disallow: /monitoring/*
+Disallow: */print$
+Disallow: */pdf$
+Disallow: */pdf-15$
+Disallow: */pdf-pro$
+User-agent: CCBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /

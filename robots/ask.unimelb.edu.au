@@ -1,0 +1,110 @@
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta name="google-site-verification" content="KiHLGxAwl4zjwIjD9ULlC8voyr4SkkKtdvKRTjjarWY">
+    <title>
+        ask.unimelb: 
+        Home
+    </title>
+        
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta name="google-site-verification" content="KiHLGxAwl4zjwIjD9ULlC8voyr4SkkKtdvKRTjjarWY">
+    <title>
+        ask.unimelb: 
+        404
+    </title>
+    <script src="//tags.tiqcdn.com/utag/unimelb/main/prod/utag.js" type="text/javascript" async=""></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tempusdominus-bootstrap-4/5.0.1/css/tempusdominus-bootstrap-4.min.css" />
+
+    <link rel="icon" href="/static/img/favicon.gif" type="image/gif" sizes="16x16">
+    <link href="/static/css/vendor/lightslider.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/vendor/bootstrap.min45.css">
+    <link rel="stylesheet" href="/static/css/main45.css" type="text/css">
+    <link rel="stylesheet" href="/static/css/custom.css" type="text/css">
+    <link rel="stylesheet" href="/static/css/all.min.css" type="text/css">
+    <link rel="stylesheet" href="/static/css/vendor/jquery-ui.css">
+    <link href="/static/css/vendor/introjs.css" rel="stylesheet">
+    
+    
+</head>
+<nav id="navbar" class="navbar navbar-expand-xl navbar-dark bg-primary py-1 mb-0  " style="background-color: #094183 !important;">
+
+
+        <a id="navbarBrand" class="navbar-brand" href="/">
+            <!-- LOGO -->
+            <img id="logo" src="/static/img/logo.svg" class="ml-2 d-inline-block align-top" alt="University of Melbourne">
+            <span class="text-brand ml-4" id="textBrand">­­­­
+                <svg width="20" height="2">
+                    <line x1="0" y1="0" x2="20" y2="0" style="stroke:rgb(255,255,255);stroke-width:2"></line>
+                </svg>
+                <br>ask.unimelb</span>
+        </a>
+        <button id="toggleMenu" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        
+        <div class="collapse navbar-collapse m-2" id="navbarTogglerDemo02">
+            <ul class="navbar-nav ml-auto" style="line-height: 40px;">
+                <li class="nav-item active ">
+                    <a id="homeLink" class="nav-link sizeMenu" href="/">Current student FAQs<span class="sr-only">(current)</span></a>
+
+                </li>
+               
+                
+               
+                
+            </ul>
+        </div>
+        
+    </nav>
+
+<div class="container" style="min-height:600px;">
+    <div class="row">
+        <div class="col-12 mt-5">
+            <i class="fad fa-sad-cry fa-5x text-primary"></i>
+
+            <h1>Sorry something went wrong!</h1>
+            <p>We will come back as soon as possible</p>
+            <p>Thank you for your patience</p>
+            <a href="/">Take me back to ask.unimelb home</a>
+        </div>
+    </div>
+</div>
+
+
+
+<footer id="footer" class="container-fluid bg-primary mt-0">
+        <div id="footerContainer" class="container py-5">
+            
+             <div class="row mt-4" id="footerRow">
+
+                
+
+                
+            </div>
+
+            <div class="row mt-3">
+                <div id="footercontent" class="col-12 footercontent">
+                    <div class="row" id="footerRow">
+<div class="col-6" id="footerLogoBox"><a href="https://unimelb.edu.au"><img alt="University of Melbourne" id="logo" src="https://d2glwx35mhbfwf.cloudfront.net/v4.8.0/logo.svg" style="width: 120px;"> </a></div>
+
+<div class="col-6 text-white">
+<form action="https://search.unimelb.edu.au" aria-hidden="true" class="page-footer-search" id="search">
+<div class="page-footer-search__field"><label for="q">University Search</label>
+
+<div class="input-group" style=" border-bottom: 2px solid rgb(173, 205, 240);">
+<div class="input-group-prepend" style="border:none !important; "><button class="input-group-text" onclick="submit()" style="border:none !important; background-color: transparent;"><i class="far text-white fa-search"></i><span style="display: none;">search</span></button></div>
+<input class="myInputSearch" id="q" name="q" placeholder="Type to search" style="" type="text"></div>
+</div>
+</form>
+</div>
+</div>
+                </div>
+            </div>
+        </div>
+    </footer>

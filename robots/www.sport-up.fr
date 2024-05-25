@@ -1,0 +1,69 @@
+User-agent: *
+
+# Admin
+Disallow: /cgi-bin/
+Disallow: /stats/
+Disallow: /back-office/
+
+# Page partenaire pour script
+Disallow: /partenaire/
+Disallow: /20kmgeneve/
+Disallow: /harmonygenevemarathon/
+Disallow: /haute_route/
+Disallow: /ltgt/
+Disallow: /dokeop/
+
+# Ancienne version
+Disallow: /website9/
+Disallow: /version2004/
+Disallow: /site/commun/
+
+# Test et dev
+Disallow: /xtrucbdd/
+Disallow: /test_lolo/
+Disallow: /test/
+Disallow: /bench_*
+
+# Cadavre
+Disallow: /==PLUS_ACCES/
+Disallow: /=site=/
+Disallow: /=website9=/
+Disallow: /semi-chalons-champagne/
+
+# Fichier img/pdf pas utile a referencer
+Disallow: /resultats_dl/
+Disallow: /diaporama/photo/
+Disallow: /organisateur/
+Disallow: /newsletter/
+
+# Autre
+Disallow: /gites-refuges/
+Disallow: /mobile/
+Disallow: /partenaire/
+Disallow: /signature_mail/
+Disallow: /resultat_dl/TMP/
+
+Disallow: /bon_retrait/
+Disallow: /boutique/
+Disallow: /www/include/
+
+Disallow: /www/protection-donnees-personnelles.htm
+Disallow: /www/droits-reserves.htm
+Disallow: /www/condition_generale.htm
+Disallow: /www/cvirtuellel/challenge-*-*.htm
+Disallow: /www/cvirtuellel/visuel-montage/tmp/
+Disallow: /www/resultat/pdf_diplome/
+Disallow: /www/resultat/resultat-*-*-*.htm
+Disallow: /www/resultat_virtuel/resultat-*-*-*.htm
+Disallow: /www/resultat_virtuel/medaille/
+Disallow: /www/resultat_virtuel/medaille-*
+Disallow: /www/resultat_virtuel/diplome/
+Disallow: /www/resultat_virtuel/diplome-*
+
+#BadBot
+User-agent: MJ12Bot
+User-agent: PetalBot
+User-agent: SEMrushBot
+User-agent: DotBot
+User-agent: AhrefsBot
+Disallow: /

@@ -1,0 +1,55 @@
+Crawl-delay: 2
+User-agent: GPTBot
+Disallow: /
+User-agent: TTD-Content
+Disallow: /
+User-agent: grapeshot
+Disallow: /
+User-agent: AhrefsBot
+disallow: /
+User-agent: spbot
+Disallow: /.
+User-agent: ezooms
+Disallow: /.
+User-agent: sistrix
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: sentibot
+Disallow: /
+User-agent: proximic
+Disallow: /
+User-agent: ias_crawler
+Disallow: /
+User-agent: Getintent Crawler
+Disallow: /
+User-agent: msnbot
+Crawl-delay: 10
+User-agent: bingbot
+Crawl-delay: 10
+User-agent: SklikBot
+Crawl-delay: 30
+User-agent: MJ12bot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+
+
+User-agent: *
+Disallow: /tmp
+Disallow: /modules
+Disallow: /lib/
+
+Allow: /
+
+Sitemap: https://www.jidlo.cz/sitemaptips.xml
+Sitemap: https://www.jidlo.cz/sitemapaatips.xml

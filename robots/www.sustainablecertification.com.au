@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /assets/
+Disallow: /client_app/
+Disallow: /fcpl_certificates/
+Disallow: /font/
+Disallow: /members/
+Disallow: /s3/
+Disallow: /Security/
+Disallow: /ufpdf/
+Disallow: /ver2/
+Disallow: /ver3/
+Disallow: /verify/
+

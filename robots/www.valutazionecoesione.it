@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /img/
+Disallow: /css/
+Disallow: /ajax/
+Disallow: /js/
+Disallow: /php/
+Disallow: /master/
+Disallow: /vendor/
+Disallow: /video/
+Disallow: /CHANGE/
+Disallow: /SNVlab/
+Disallow: /incontri/
+Disallow: /calendario/
+Disallow: /spopolamento-politiche/
+Disallow: /osservatorio/
+Disallow: /SNV-streaming/
+Disallow: /SNV-lab/
+Disallow: /seminario-SNV/
+Disallow: /OLDold/
+
+User-agent: Bingbot
+User-agent: Googlebot
+Allow: /

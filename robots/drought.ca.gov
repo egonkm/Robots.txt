@@ -1,0 +1,2443 @@
+<!--
+3/3/2023: 
+Files Changed: index.jsp, Snow_Eldorado.png
+ - Changed landing page photo. Changed SPEI Drought Map to Precipitation Map. Update descriptions for precipitation
+-->
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]-->
+<!--[if (gt IE 9)]><!-->
+<html class="no-js" lang="en-US">
+  <!--<![endif]-->
+
+  <head>
+    <!--
+  California State Template
+  Version 4.0
+
+  Based on Twitter Bootstrap
+    -->
+    <meta charset="utf-8">
+    <meta name="Author" content="State of California, Department of Water Resources, DWR" />
+    <meta name="Description" content="California Water Watch, Hydrology Update and Drought Status" />
+    <meta name="Keywords" content="California, Water Watch, State Hydrology Update, Drought Status, Drought Impacts Map, California Hydroclimate, Water Supply Conditions,Precipitation, Temperature, Reservoirs, Snowpack, Groundwater, Streamflow, Soil moisture, Vegetation conditions" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- http://t.co/dKP3o1e -->
+    <meta name="HandheldFriendly" content="True">
+    <!-- for Blackberry, AvantGo -->
+    <meta name="MobileOptimized" content="320">
+    <!-- for Windows mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+    <title>California Water Watch</title>
+
+    <!-- Google Fonts -->
+    <link href="/resources/css/googleapis.fonts.css" rel="stylesheet" type="text/css" />
+
+    <link rel="stylesheet" href="/resources/js/jquery/ui/1.12.1/jquery-ui.min.css" />
+    <!-- For iPad 3-->
+    <link rel="apple-touch-icon" sizes="144x144" href="/resources/images/apple-touch-icon-144x144.png" />
+    <!-- For iPhone 4 -->
+    <link rel="apple-touch-icon" sizes="114x114" href="/resources/images/apple-touch-icon-114x114.png" />
+    <!-- For iPad 1-->
+    <link rel="apple-touch-icon" sizes="72x72" href="/resources/images/apple-touch-icon-72x72.png" />
+    <!-- For iPhone 3G, iPod Touch and Android -->
+    <link rel="apple-touch-icon" href="/resources/images/apple-touch-icon-57x57.png" />
+    <!-- For Nokia -->
+    <link rel="shortcut icon" href="/resources/images/apple-touch-icon-57x57.png" />
+    <!-- For everything else -->
+    <link rel="shortcut icon" href="/resources/images/fav.ico">
+
+    <link rel="stylesheet" href="/resources/js/bootstrap/css/bootstrap.nomedia.min.css" />
+    
+    <!-- For all browsers -->
+    <link rel="stylesheet" href="/resources/css/colorscheme-oceanside.css?v=1.0.8" />
+    <link rel="stylesheet" href="https://js.arcgis.com/3.38/esri/themes/calcite/esri/esri.css?v=1.0.8">
+    <link rel="stylesheet" href="https://js.arcgis.com/3.38/esri/themes/calcite/dijit/calcite.css?v=1.0.8">
+    <link rel="stylesheet" href="/resources/css/dwr.core.css?v=1.0.8" />
+    <link rel="stylesheet" href="/resources/css/cagov.core.css?v=1.0.8" />
+    <link rel="stylesheet" href="/resources/css/sitewide.css?v=1.0.8" />
+    <style>
+      .searchExpandContainer, .searchInputGroup, .searchInputGroup input {
+        width: 88%;
+      }
+      .searchInputGroup, .searchInputGroup input {
+        width: 100% !important;
+      }
+      .searchSubmit {
+        float: right;
+      }
+      #nav-item-search > div {
+        margin-top: 32px;
+        border: 1px solid #ccc;
+        box-shadow: none;
+      }
+      .calcite .arcgisSearch .searchGroup .searchInput::-webkit-input-placeholder {
+        color: #aaa;
+      }
+      .container-fluid {
+        padding: 0;
+      }
+      #search {
+        width: 70%;
+        display: inline-block !important;
+      }
+      #nav-item-search {
+        width: 80%;
+      }
+      
+      .nav-group {
+        width: 100%;
+        text-align: right;
+      }
+      .nav-group li {
+        width: 20%!important;  
+        flex: none !important;
+        display: inline-block!important;
+      }
+      
+      h2, .h2 {
+        font-size: 1.8rem;
+      }
+      
+    </style>
+    <link rel="stylesheet" href="/resources/js/DataTables/extensions/Buttons/css/buttons.dataTables.min.css?v=1.0.8" />
+    <link rel="stylesheet" href="/resources/js/DataTables/media/css/jquery.dataTables.min.css?v=1.0.8" />
+    <link rel="stylesheet" href="/resources/js/chosen-bootstrap-1.6.1/chosen.min.css?v=1.0.8" />
+    <link rel="stylesheet" href="/resources/js/dropzone/dropzone.min.css?v=1.0.8" />
+    <link rel="stylesheet" href="/resources/js/datetimepicker/jquery.datetimepicker.css?v=1.0.8" />
+    <link rel="stylesheet" href="/resources/js/dropzone/dropzone.min.css?v=1.0.8"/>
+    <link rel="stylesheet" href="/resources/css/MyDataTable.css?v=1.0.8" />
+    <link rel="stylesheet" href="/resources/css/edit_watershed.css?v=1.0.8" />
+    <link rel="stylesheet" href="/resources/js/dygraphs.2.1.0/dygraph.css?v=1.0.8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="/resources/css/watershed/landing.css?v=1.0.8">
+    <style type="text/css">
+/*      #snowMap2 {
+        height: 100%;
+        width: 100%;
+      }*/
+      #snowMap2 {
+        height: 550px;
+        width: 100%;
+      }
+    </style><script src="/resources/js/libs/modernizr-2.0.6.min.js?v=1.0.8"></script>
+    <script src="/resources/js/libs/modernizr-extra.min.js?v=1.0.8"></script>
+    <script src="/resources/js/jquery/3.2.1/jquery.min.js?v=1.0.8" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="/resources/js/jquery/ui/1.12.1/jquery-ui.min.js?v=1.0.8" type="text/javascript"></script>
+    <script src="/resources/js/BaseApp.js?v=1.0.8"></script>
+    <script src="/resources/js/BSDialog.js?v=1.0.8"></script>
+    <script src="/resources/js/MyLoadMask.js?v=1.0.8"></script>
+    <script type="text/javascript" src="/resources/js/dialogs.js?v=1.0.8"></script>
+    <script src="/resources/js/cagov.core.js?v=1.0.8"></script>
+    <script src="/resources/js/html2canvas.js?v=1.0.8"></script>
+    <script defer src="https://alert.cdt.ca.gov"></script>
+    <script type="text/javascript" src="/resources/js/dygraphs.2.1.0/dygraph.min.js?v=1.0.8"></script>
+    <script type="text/javascript" src="/resources/js/plotly-2.4.2.min.js?v=1.0.8"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script><script src="https://js.arcgis.com/3.38/"></script>
+    
+    <script type="text/javascript">
+      window.onloads = [];
+      window.SERVER_HOST = location.protocol + "//" + location.host;
+      window.SERVER_CONTEXT = "";
+      window.SERVER_URL = window.SERVER_HOST + window.SERVER_CONTEXT;
+      window.loadmask = new MyLoadMask();
+      
+      
+      
+      $(document).ready(function() {
+        var width = 520;
+        var height = 400;
+        var winTop = window.parent.top.outerHeight / 2 + window.parent.top.screenY - ( height / 2);
+        var winLeft = window.parent.top.outerWidth / 2 + window.parent.top.screenX - ( width / 2);
+        $(".ca-gov-icon-facebook.share-icon").click(function() {
+          window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(window.location.href)+'&t='+document.title, 'sharer', 
+          'toolbar=0,resizable=yes,scrollbars=yes,height=' + height + ',width=' + width + ',top=' + winTop + ',left=' + winLeft);
+        });
+        $(".ca-gov-icon-twitter.share-icon").click(function() {
+          window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(window.location.href)+'&text='+document.title, 'sharer', 
+          'toolbar=0,resizable=yes,scrollbars=yes,height=' + height + ',width=' + width + ',top=' + winTop + ',left=' + winLeft);
+        });
+        $(".ca-gov-icon-email.share-icon").click(function() {
+          $(this).attr("href", "mailto:?subject=" + document.title + "&body=" + window.location.href);
+        });
+      });
+    </script>
+    <script type="text/javascript" src="/resources/js/watershed/index.js?v=1.0.8"></script>
+    <script type="text/javascript">
+      var snowDate = '05/24/2024';
+      var precipDate = '05/24/2024';
+      var tempDate = '05/24/2024';
+      var soilDate = '12/31/2023';
+      var evapDate = '05/24/2024';
+      var speiDate = '02/27/2023';
+      var riverDate = '05/24/2024';
+      var fileDate = '';
+      var hideSpei = true;
+    </script>
+    <script type="text/javascript" src="/resources/js/maps.js?v=1.0.8"></script>
+    <script type="text/javascript" src="/resources/js/maps_mobile.js?v=1.0.8"></script>
+    <script type="text/javascript" src="/resources/data/Snowpack_SWE.json?v=1.0.8-1"></script>
+    <script type="text/javascript" src="/resources/js/watershed/reservoir-levels.js?v=1.0.8"></script>
+    <script type="text/javascript" src="/resources/js/watershed/snowpack-levels.js?v=1.0.8-1"></script>
+    <script type="text/javascript">
+      window.MONTH_NAMES_SHORT = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+      $(document).ready(function () {
+//        document.head.appendChild(document.createElement('script')).src='https://alert.cdt.ca.gov/sample/sample-alert.js';
+//        $(".utility-header").before("<div class='special-message hide-mobile'><div class='container'><strong>Special Message: </strong>California completed a third year of extreme drought and we are preparing for a possible fourth year of drought. "
+//                + "Everyone can help by using water wisely. Visit <a href='https://saveourwater.com/' target='_blank'>saveourwater.com</a> for water-saving tips and resources. Go to <a href='https://drought.ca.gov/' target='_blank'>drought.ca.gov</a> for water shortage assistance and information on drought-related financial assistance programs. "
+//                + "<a href='/cww_info#special-messages' target='_blank'>Read more.</a></div></div>");
+        const mediaQuery = window.matchMedia('(max-width: 768px)');
+        if (!mediaQuery.matches) {
+          $("#main-content").css("padding-top", $(".global-header").height());
+        }
+        window.onscroll = function () {
+          var top = window.pageYOffset || document.documentElement.scrollTop;
+          if (top === 0 && !mediaQuery.matches) {
+            $("#main-content").css("padding-top", $(".global-header").height());
+          }
+        };
+        $(".map-link").click(function () {
+          $(".map-link").removeClass("active");
+          $(".toggle-content").hide();
+          $(this).addClass("active");
+          $("#" + $(this).attr("id") + "-content").show();
+          if ($(this).attr("id") === "snowpack") {
+            populateSnowChart();
+          }
+        });
+
+        $("#droughtIndicator").click(function (e) {
+          e.preventDefault();
+          window.open(SERVER_URL + '/droughtindicator');
+        });
+//        $("#hydroUpdate").attr("href", $("#hydroUpdate").attr("href") + "&_=" + new Date().valueOf());
+        $("#hydroUpdate").attr("href", $("#hydroUpdate").attr("href") + "?_=" + new Date().valueOf());
+        $("#search-on-map").click(function (e) {
+          window.open(SERVER_URL + '/map/select');
+        });
+        $("#cali-map").click(function (e) {
+          window.open(SERVER_URL + '/map/select');
+        });
+        
+//        $.ajax({
+//          url: window.location.origin + SERVER_CONTEXT + '/resources/data/spei_dates.json?v=2',
+//          dataType: 'json',
+//          success: function(result){
+//            if(result) {
+//              var enabledDates = result;//["01/05/2023", "01/10/2023"]
+//              for(var i = 1; i <= 31; i+=5) {
+//                enabledDates.push(jQuery.datepicker.formatDate('mm/dd/yy', new Date(2022, 11, i)));
+//              }
+//              $('#droughtDate').datepicker({
+//                changeMonth: true,
+//                changeYear: true,
+//                yearRange: '1980:' + new Date().getFullYear(),
+//                beforeShowDay: function(date){
+//                  var string = jQuery.datepicker.formatDate('mm/dd/yy', date);
+//                  return [ enabledDates.indexOf(string) > -1 ]
+//                }
+//              }).change(function(){
+//                $('#droughtTitleDate').text($(this).val());
+//                $('#hydroDroughtIndexMap img').attr('src', SERVER_CONTEXT + '/service/prism/image?type=day&dataType=val&layerType=spei&date=' + $(this).val())
+//              });
+//            }
+//          }
+//        })
+        
+
+        $.ajax({
+          url: SERVER_URL + "/service/prism/statesummary",
+          success: function (res) {
+            if (res.success) {
+              for (var i = 0; i < res.data.length; i++) {
+                var label = res.data[i].label;
+                var value = res.data[i].value.toFixed(2);
+                var $tr = $($("#precip-table tbody tr td:contains(" + label + ")")[0]).parent();
+                $tr.find(".value").text(value);
+                $tr.find(".per-color").css("width", value + "%");
+              }
+            }
+          }
+        });
+        populateResData();
+
+        var lastSunday = getLastSunday(new Date());
+        $(".gwDate").text(((lastSunday.getMonth() > 8) ? (lastSunday.getMonth() + 1) : ('0' + (lastSunday.getMonth() + 1))) + '/' + ((lastSunday.getDate() > 9) ? lastSunday.getDate() : ('0' + lastSunday.getDate())) + '/' + lastSunday.getFullYear());
+
+        require([
+          "esri/dijit/Search",
+          "dojo/domReady!"
+        ], function (Search) {
+          window.esriSearch = new Search({
+          }, "address-search");
+          esriSearch.startup();
+          $("#searchAddress_input").attr("title", "Input address to search");
+          $("#searchAddress_input").attr("placeholder", "Enter Address or Zip Code");
+          esriSearch.on('search-results', function (result) {
+            if (window.searched) {
+              if (result && result.value) {
+                window.location.href = SERVER_URL + '/info?address=' + result.value;
+              }
+            }
+            window.searched = true;
+          });
+        });
+        var date = precipDate.split('/')[2] + '-' + precipDate.split('/')[0] + '-' + precipDate.split('/')[1];
+        initPrecipChart('Statewide', 'PPT_YTD', date, true);
+        var url = window.location.origin + '/maps';
+        $('#precipitation-btn').click(function () {
+          window.open(url + "?tab=precipitation", "_blank")
+        });
+        $('#temperature-btn').click(function () {
+          window.open(url + "?tab=temperature", "_blank")
+        });
+        $('#reservoir-btn').click(function () {
+          window.open(url + "?tab=reservoir", "_blank")
+        });
+        $('#streamflow-btn').click(function () {
+          window.open(url + "?tab=streamflow", "_blank")
+        });
+        $('#gwLevels-btn').click(function () {
+          window.open(url + "?tab=gwLevels", "_blank")
+        });
+        $('#snowpack-btn').click(function () {
+          //window.open(url + "?tab=snowpack", "_blank")
+          window.open('https://snow.water.ca.gov', '_blank');
+        });
+        $('#soil-btn').click(function () {
+          window.open(url + "?tab=soil", "_blank")
+        });
+        $('#vegetation-btn').click(function () {
+          window.open(url + "?tab=vegetation", "_blank")
+        });
+        populateWellOutages();
+        
+        initSwiper();
+        
+        $('#wells-reported').css('width', $('#monitor-well').width() + 'px');
+        $(window).resize(function() {
+          $('#wells-reported').css('width', $('#monitor-well').width() + 'px');
+        });
+        
+//        $('.snow-graphic .data-viz-placement .snowpack-data-viz').hide();
+//        $('.snow-graphic .data-viz-footer').hide();
+      });
+      
+//      $(window).on('load', function() {
+//        $('.snow-graphic .data-viz-placement').append('<img src="' + window.SERVER_CONTEXT + "/resources/images/snow-coming-soon.jpg" + '" style="width: 100%;">');
+//        $('#snow-container').empty();
+//        $('#snow-container').append('<img src="' + window.SERVER_CONTEXT + "/resources/images/snow-coming-soon.jpg" + '" style="width: 100%; border: 1px solid lightgray;">');
+//      });
+
+      require([
+        "esri/dijit/Search",
+        "dojo/i18n!esri/nls/jsapi",
+        "dojo/domReady!"
+      ], function (Search, bundle) {
+        bundle.widgets.Search.main.placeholder = "";
+        var search = new Search({
+        }, "searchAddress");
+        search.startup();
+        search.on('search-results', function (result) {
+          if (result && result.value) {
+            window.location.href = SERVER_URL + '/info?address=' + result.value;
+          }
+        })
+      });
+
+      function populateSnowChart() {
+        $.ajax({
+          url: SERVER_URL + "/service/snow-data",
+          success: function (res) {
+            res = JSON.parse(res);
+            var data = [];
+            var sweMap = {};
+            var firstDate = "";
+            var firstYear = "";
+            var secondYear = "";
+            if (res.swe.length > 0) {
+              var temp = res.swe[0].swcDate.split("-");
+              firstYear = temp[0];
+              firstDate = new Date(firstYear, res.avg[0].month - 1, res.avg[0].day);
+              secondYear = parseInt(firstYear) + 1;
+            }
+            else {
+              firstYear = new Date().getFullYear();
+              secondYear = parseInt(firstYear) + 1;
+            }
+            //get x axis range
+            var year = firstYear;
+            for (var i = 0; i < res.avg.length; i++) {
+              if (parseInt(res.avg[i].month) < 10) {
+                year = secondYear;
+              }
+              var temp = new Date(year, res.avg[i].month - 1, res.avg[i].day);
+              var val = (res.avg[i].avgAvgSwc < 0) ? 0 : res.avg[i].avgAvgSwc;
+              data.push([temp, val]);
+            }
+            
+            //populate pctNormal and pctApril fields
+            var lastData = {pctNormal: 0, pctApr1: 0};
+            if (res.swe.length > 0) {
+              lastData = res.swe.pop();
+            }
+            $(".pctNormal").text(lastData.pctNormal + "%");
+            $(".pctApr1").text(lastData.pctApr1 + "%");
+            
+            //if there's no data for res.swe, hardcoded values
+            var currDate = new Date();
+            if (res.swe.length < 1 && currDate.getDate() < 21) {
+              res.swe = [
+//                {"swcDate":"2022-10-01","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-02","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-03","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-04","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-05","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-06","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-07","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-08","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-09","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-10","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-11","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-12","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-13","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-14","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-15","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-16","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-17","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-18","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+//                {"swcDate":"2022-10-19","numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0},
+              ];
+              
+              for (var i = 0; i < currDate.getDate(); i++) {
+                res.swe.push({"swcDate":"2022-10-" + (i+1),"numSta":99,"pctApr1":1,"pctNormal":5,"avgSwc":0});
+              }
+            }
+            for (var i = 0; i < res.swe.length; i++) {
+              var parts = res.swe[i].swcDate.split("-");
+              var temp = new Date(parts[0], parts[1] - 1, parts[2]);
+              sweMap[temp] = res.swe[i].avgSwc;
+            }
+            for (var i = 0; i < data.length; i++) {
+              if (sweMap[data[i][0]] !== null) {
+                data[i].push(sweMap[data[i][0]]);
+              } else {
+                data[i].push(null);
+              }
+            }
+            
+            var series = {};
+            series["Current Year"] = {
+              color: "#6f2d9f",
+              strokeWidth: 3.5
+            };
+            series["Average"] = {
+              fillGraph: true,
+              fillAlpha: 1,
+              color: "#c6d9f1"
+            };
+            var layout = {
+              legend: 'always',
+              title: 'Statewide Snowpack Chart as of ' + snowDate,
+              ylabel: 'Statewide Snow Water Equivalent (Inch)',
+              //                    dateWindow: [firstDate, Date.parse(new Date().getFullYear() + "/09/30")],
+              axes: {
+                x: {
+                  ticker: function (min, max, pixels, opts) {
+                    return Dygraph.getDateAxis(min, max, Dygraph.Granularity.MONTHLY, opts, this);
+                  },
+                  axisLabelFormatter: function (val, granularity, opts, dygraph) {
+                    return MONTH_NAMES_SHORT[val.getMonth()];
+                  }
+                }
+              },
+              series: series,
+              labels: ['Date', 'Average', 'Current Year']
+            };
+            var chart = new Dygraph(
+                    document.getElementById("snow-chart"),
+                    data,
+                    layout
+            );
+            var chart2 = new Dygraph (
+                    document.getElementById("snow-chart-mobile"),
+                    data,
+                    layout
+            );
+          }
+        });
+      }
+
+      function populateResData() {
+        var currentDate = new Date();
+        var startDate = new Date(new Date().setDate(currentDate.getDate() - 30));
+        currentDate = currentDate.getFullYear() + "-" + ('0' + (currentDate.getMonth() + 1)).slice(-2) + "-" + ('0' + (currentDate.getDate())).slice(-2);
+        startDate = startDate.getFullYear() + "-" + ('0' + (startDate.getMonth() + 1)).slice(-2) + "-" + ('0' + (startDate.getDate())).slice(-2);
+        $.ajax({
+          url: SERVER_URL + "/service/res-data",
+          data: {
+            date: currentDate
+          },
+          success: function (res) {
+            var data = JSON.parse(res)[0];
+            var storage = (data.storage !== null) ? (data.storage / 1000000).toFixed(2) + ' MAF*' : 'N/A';
+            var pctAvg = (data.pctAvg !== null) ? Math.round(data.pctAvg) + '%' : 'N/A';
+            $('.total-res-storage').text(storage);
+            $('.pct-hist-avg').text(pctAvg);
+
+            buildReservoirViz([data]);
+          }
+        });
+      }
+
+      function populateWellOutages() {
+        $.ajax({
+          url: SERVER_URL + "/service/well-data",
+          success: function (res) {
+            var data = JSON.parse(res).data;
+//            var temp = [];
+//            for (var i = 0; i < data.length; i++) {
+//              if (data[i].status !== 'Resolved' && data[i].status !== 'Interim Solution') {
+//                temp.push(data[i]);
+//              }
+//            }
+//            $('.well-outages').text(nFormatter(temp.length, 1));
+
+            $('.well-outages').text(data["YEAR_TO_DATE"]);
+          }
+        });
+      }
+      
+      function initSwiper() {
+        var swiper = new Swiper('.mobile-map-area', {
+          // Optional parameters
+          direction: 'horizontal',
+          loop: false,
+          autoHeight: true,
+          spaceBetween: 20,
+
+//          // If we need pagination
+//          pagination: {
+//            el: '.swiper-pagination',
+//          },
+//
+          // Navigation arrows
+          navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+          },
+        });
+        swiper.on('slideChange', function() {
+          var index = swiper.activeIndex;
+          var currSlide = swiper.slides[index];
+          var content = $(currSlide).attr('id').split('-')[0];
+          $('.mobile-map-area').find('.map-link').removeClass('active');
+          $('.mobile-map-area').find('.'+content).addClass('active');
+          if (content === "snowpack") {
+            populateSnowChart();
+          }
+          setTimeout(function(){
+            swiper.update();
+          },1000);
+        });
+      }
+      
+      function nFormatter(num, digits) {
+        const lookup = [
+          {value: 1, symbol: ""},
+          {value: 1e3, symbol: "k"},
+          {value: 1e6, symbol: "M"},
+          {value: 1e9, symbol: "G"},
+          {value: 1e12, symbol: "T"},
+          {value: 1e15, symbol: "P"},
+          {value: 1e18, symbol: "E"}
+        ];
+        const rx = /\.0+$|(\.[0-9]*[1-9])0+$/;
+        var item = lookup.slice().reverse().find(function (item) {
+          return num >= item.value;
+        });
+        return item ? (num / item.value).toFixed(digits).replace(rx, "$1") + item.symbol : "0";
+      }
+
+      function getLastSunday(d) {
+        var t = new Date(d);
+        t.setDate(t.getDate() - t.getDay());
+        return t;
+      }
+    </script></head>
+
+  <body class="calcite null">
+
+    <header role="banner" id="header" class="global-header fixed">
+  <div id="skip-to-content"><a href="#main-content">Skip to Main Content</a></div>
+  <!-- Location Bar -->
+  <div class="location-settings section section-standout collapse collapsed " id="locationSettings">
+  <div class="container p-y">
+    <button type="button" class="close" data-toggle="collapse" data-target="#locationSettings" aria-expanded="false" aria-controls="locationSettings" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+
+    <div class="form-group form-inline">
+      <label for="locationZipCode">Saving your location allows us to provide you with more relevant information.</label>
+      <input type="input" class="form-control" id="locationZipCode" placeholder="Zip Code" />
+      <button type="button" class="btn btn-primary">Set Location</button>
+    </div>
+  </div>
+</div>
+<!-- Settings Bar -->
+  <div class="site-settings section section-standout collapse collapsed" role="alert" id="siteSettings">
+  <div class="container  p-y">
+    <button type="button" class="close" data-toggle="collapse" data-target="#siteSettings" aria-expanded="false" aria-controls="siteSettings" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+
+    <div class="btn-group btn-group-justified-sm" role="group" aria-label="contrastMode">
+      <div class="btn-group"><button type="button" class="btn btn-standout disableHighContrastMode">Default</button></div>
+      <div class="btn-group"><button type="button" class="btn btn-standout enableHighContrastMode">High Contrast</button></div>
+    </div>
+
+    <div class="btn-group" role="group" aria-label="textSizeMode">
+      <div class="btn-group"><button type="button" class="btn btn-standout resetTextSize">Reset</button></div>
+      <div class="btn-group"><button type="button" class="btn btn-standout increaseTextSize"><span class="hidden-xs">Increase Font Size</span><span class="visible-xs">Font <small class="ca-gov-icon-plus-line"></small></span></button></div>
+      <div class="btn-group"><button type="button" class="btn btn-standout decreaseTextSize"><span class="hidden-xs">Decrease Font Size</span><span class="visible-xs">Font <small class="ca-gov-icon-minus-line"></small></span></button></div>
+    </div>
+  </div>
+</div><!-- Include Utility Header -->
+  <div class="utility-header hide-mobile">
+  <div class="container">
+    <div class="group">
+      <div class="half">
+
+        <ul class="utility-links social-media-links">
+          <li class="header-cagov-logo">
+            <a href="http://ca.gov" title="Go to ca.gov website"><span class="ca-gov-icon-logo" aria-hidden="true"></span></a>
+          </li>
+          <li>
+            <a href="/">
+              <span class="ca-gov-icon-home" aria-hidden="true"></span><span class="sr-only">Home</span>
+            </a>
+          </li>
+          <li><a href="javascript:void(0);" class="ca-gov-icon-facebook share-icon" title="Share via Facebook"><span class="sr-only">Facebook</span></a></li>
+          <li><a href="javascript:void(0);" class="ca-gov-icon-twitter share-icon" title="Share via Twitter"><span class="sr-only">Twitter</span></a></li>
+          <!--<li><a class="ca-gov-icon-google-plus" title="Share via Google+"><span class="sr-only">Google+</span></a></li>-->
+          <li><a href="javascript:void(0);" class="ca-gov-icon-email share-icon" title="Share via email"><span class="sr-only">Email</span></a></li>
+          
+        </ul>
+      </div>
+      <div class="half settings-links">
+        <ul class="utility-links ">
+          <li><a href="/cww_info#about" target="_blank">About</a></li>
+          <li><a href="https://www.water.ca.gov/Contact">Contact</a></li>
+          <!--<li><a href="https://www.surveymonkey.com/r/5DMFHCV">Feedback</a></li>-->
+          <li><a href="https://water.ca.gov/Current-Conditions">Current Conditions</a></li>
+<!--          <li><a role="button" 
+                 data-toggle="collapse"
+                 href="#siteSettings"
+                 aria-expanded="false"
+                 aria-controls="siteSettings">
+              <span class="ca-gov-icon-gear" aria-hidden="true"></span> Settings</a>
+          </li>-->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Include Branding -->
+  <!-- header branding -->
+<div class="branding">
+  <div class="header-organization-banner" style="height: inherit;">
+
+    <a href="/" style="max-width: 375px; height: inherit; display: flex; flex-direction: row; align-items: center; text-decoration: none; margin-top: 5px;">
+      <img src="/resources/images/dwrlogo.png"
+           alt="Department of Water Resources"
+           title="Department of Water Resources" style="vertical-align: middle; padding-right: 10px;"/>
+      <div style="display: flex; flex-direction: row;">
+        <h2 style="margin: 0; color: #257da4; font-size: 1.8rem;">California</h2>
+        <h2 style="margin: 0; margin-left: 5px; font-size: 1.8rem;"><span style="color: #3b1f16;">WATER</span> <span style="color: #c08774;">WATCH</span></h2>
+      </div>
+      <!--<h2 style="display: inline-block; color: black; vertical-align: middle;">California Water Watch</h2>-->
+    </a>
+  </div>
+</div><!-- Include Mobile Controls -->
+  <!-- mobile navigation controls -->
+<div class="mobile-controls">
+
+  <button class="mobile-control toggle-menu" aria-expanded="false" aria-controls="navigation"><span class="ca-gov-icon-menu" aria-hidden="true"></span><span class="sr-only">Menu</span></button>
+  <span class="mobile-control-group mobile-header-icons">
+
+    <!-- Add more mobile controls here. These will be on the right side of the mobile page header section -->
+  </span>
+  <span class="mobile-control toggle-search" style="visibility: hidden;"><span class="ca-gov-icon-search" aria-hidden="true"></span><span class="sr-only">Search</span></span>
+  <span class="mobile-control-group mobile-menu-icons">
+    <!-- Add more mobile controls here. These will be on the top right section of the expanded mobile menu -->
+  </span>
+</div><div class="navigation-search">
+    <div id="head-search" class="search-container"></div>
+    <nav id="navigation" class="main-navigation megadropdown">
+  <ul id="nav_list" class="top-level-nav" style="width: 40%; margin-left: auto;">
+    <!--        <li class="nav-item" style="margin-left:88%;">
+            <a href="javascript:void(0);" 
+               onclick="$('#').modal()"
+               class="first-level-link"><span class="ca-gov-icon-computer" aria-hidden="true"></span>Sign In</a>
+          </li>-->
+            <li class="nav-item active" id='nav-item-home'>
+              <a href="/" class="first-level-link">
+                <span class="ca-gov-icon-home" aria-hidden="true"></span>Home
+              </a>
+            </li>
+            <li class="nav-item " style="display: none !important;">
+              <a href="/maps" class="first-level-link"><span class="ca-gov-icon-globe" aria-hidden="true"></span>Map</a>
+            </li>
+  <!--          <li class="nav-item">
+              <a href="/resources/images/Latest_State_Hydrology_Update.pdf?_=2022-08-05" class="first-level-link" target="_blank"><span class="ca-gov-icon-pdf" aria-hidden="true"></span>Hydro Update</a>
+            </li>-->
+            <li class="nav-item">
+              <a href="/forecast" class="first-level-link"><span class="ca-gov-icon-severe-weather" aria-hidden="true"></span>Forecasting</a>
+            </li>
+            <li class="nav-item">
+              <a href="https://forms.office.com/r/p7WXkGcSpH" class="first-level-link" target="_blank"><span class="ca-gov-icon-page" aria-hidden="true"></span>Survey</a>
+            </li>
+            </ul>
+</nav></div>
+
+  <div class="header-decoration"></div>
+
+</header>
+<div id="main-content" class="main-content">
+      <div class="container">
+        <main class="main-primary m-b-md">
+          <div class="row intro" style="display: flex;">
+      <div class="left col-md-7 gray-bg" style="display: flex; flex-direction: column; margin-bottom: 15px;">
+        <h2>Track California Water Conditions</h2>
+        <p class="hide-mobile" style="font-size: 1.1875rem;">
+          Welcome to California Water Watch! This site offers the most current local and statewide water conditions down to your region and even your neighborhood. 
+          This information is updated dynamically from a <a href="/about-the-data" target="_blank">variety of data sources</a>. Everyone is welcome to research, learn, and stay 
+          informed about California's most precious resource -- water.
+        </p> 
+        <p class="hide-desktop" style="font-size: 1.1875rem; text-align: center; padding: 0px 10px;">
+          California Water Watch offers the most current local and statewide water conditions down to your region and even your neighborhood.
+        </p>
+        <img class="hide-desktop" src="/resources/images/Castaic_lake_levels.jpg" alt="Castaic Lake Levels" style="margin: 0px 20px; border: 1px solid black; max-width: 100%;"/>
+        <div class="search">
+          <h3>View Local Water Conditions</h3>
+          <div class="search-options gray-bg">
+            <div class="search-bar">
+              <h4 style="text-align: center;">Search by Address or Zip Code</h4>
+              <div style="display: flex; justify-content: space-around; margin-top: auto; margin-bottom: auto;">
+                <div id="searchAddress"></div>
+              </div>
+            </div>
+            <div class="search-map">
+              <div style="display: flex; flex-direction: column; align-items: center; margin-top: auto; margin-bottom: auto;">
+                <h4 id="search-on-map" style="cursor: pointer;">Search on Map</h4>
+                <a class="btn view-btn" href="/map/select" title="Visit the map selection page">View</a>
+              </div>
+              <img id="cali-map" src="/resources/images/map-icon-dark.png"/>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="right col-md-5 hide-mobile">
+        <figure>
+          <img src="/resources/images/cww_landing_page.jpg?v=4" alt="Bidwell Bar Bridge" style="height: auto; width:100%;"/>
+          <figcaption>An aerial view shows high water conditions at Oroville Dam located at Lake Oroville in Butte County, California. Photo taken May 9, 2024.</figcaption>
+        </figure>
+      </div>
+    </div>
+    <div class="gray-bg" style="padding: 15px;">
+      <div class="row">
+        <h2 class="hide-mobile">Tracking Reservoir Storage Conditions</h2>
+<!--        <h2 class="hide-mobile">Tracking Current Weather Conditions</h2>-->
+<!--        <h2 class="hide-mobile">California is in drought: Here are the conditions</h2>-->
+        <div class="row" style="display: flex; flex-wrap: wrap; margin-bottom: 20px;">
+          <figure class="col-md-7 drought-map" style="background: white;">
+            <h3 style="font-weight: bold; margin-bottom: 0px;">
+              <span>Reservoir Storage Map on <span id="droughtTitleDate">05/24/2024</span></span>
+              <span class="glyphicon glyphicon-calendar calendar-icon precipitationDateIcon" onclick="$('#droughtDate').focus();" style="float: right; margin-left: 5px; visibility: hidden;"></span>
+              <input id="droughtDate" class="form-control input-sm glyphicon glyphicon-calendar" title="Change drought layer based on date.  Only dates that have data will be enabled." placeholder="Enter Date" style="float:right; width: 100px; visibility: hidden;" value="02/27/2023"/>
+            </h3>
+<!--            <div id="snowMap2" class="map"></div>
+            <div id="snow-legend" class='legend shadow'>
+              <img class="legendWrapper" src="/resources/images/map/legend_snow_t.png"/>
+            </div>-->
+            
+            <div id="reservoirMap2" class="map">
+            </div>
+            <div id="hydroDroughtIndex-legend" class='legend'>
+              <img src="/resources/images/map/legend_storage_t.png"/>
+            </div>
+<!--            <div id="hydroDroughtIndexMap" class="map">
+              <img src="/service/prism/image?type=ytd&dataType=pa&layerType=ppt&date=05/24/2024"/>
+            </div>
+            <div id="hydroDroughtIndex-legend" class='legend'>
+              <img src="/resources/images/map/legend_precip_t.png"/>
+            </div>-->
+            
+            <figcaption style="font-size: 0.9rem;">
+              The map of California shows how reservoir conditions compare to their historical averages for this month.
+            </figcaption>
+<!--            <figcaption style="font-size: 0.9rem;">
+              Precipitation data shown here are Parameter-elevation Regressions on Independent Slopes Model (PRISM) data acquired via a licensing agreement with Oregon State University. For more information on this dataset see: <a href="https://prism.oregonstate.edu/" target="_blank">https://prism.oregonstate.edu/</a>
+            </figcaption>-->
+          </figure>
+<div class="col-md-5 drought-description">
+            <h2 class="hide-desktop">Tracking Current Weather Conditions</h2>
+            <p>
+              Climate change has fundamentally altered our state’s hydrologic system – intensifying severe weather as we swing from extreme dry to extreme wet situations.
+              The outlook for water year 2024 is still uncertain and El Nino is not the sole driver of how wet this year will turn out. It’s important to carefully manage reservoirs during the uncertainty of El Nino weather patterns and the possibility of extreme wet or dry conditions.
+            </p>
+            <p>
+              Extensive coordination with State and Federal agencies is being done, to both ensure reservoirs have flood space in case of another flood year and that as much water as possible will be stored in case of drought conditions. 
+            </p>
+            <p>
+              We will continue to work closely with the research community through partnerships with Scripps/NOAA/others to understand climate forces and continually improve our forecasting.
+            </p>
+            <!--<p>
+              Climate change has fundamentally altered our state’s hydrologic system – intensifying severe weather as we swing from extreme dry to extreme wet situations. 
+            </p>
+            <p>
+              We continue to monitor conditions across California, and while recent rain and snow has been promising, it will take more than a single wet year for California to fully recover from the last three years – the driest ever recorded in state history. 
+            </p>
+            <p>
+              Many rural areas are still experiencing water supply challenges, especially communities that rely on groundwater supplies which have been depleted due to prolonged drought. 
+            </p>
+<!--            <p>
+              In the coming weeks, we’ll be assessing the impact the latest round of storms has had on the drought. Drought recovery will need to be evaluated on a regional scale and will depend on local water supply conditions. 
+            </p>-->
+            <!--<h2 class="hide-desktop">California is in drought: Here are the conditions</h2>-->
+<!--            <p>
+              Climate change has fundamentally altered our state’s hydrologic system – intensifying extreme weather and leading to longer, drier periods. 
+              We are entering a fourth year of drought and need to use less water.
+            </p>
+            <p>
+              We ended Water Year 2022 on Sept. 30 following a year featuring continued extreme drought with historically dry months and a record-shattering heatwave. 
+            </p>
+            <p> 
+              The 2022 Water Year ended with total annual average statewide precipitation at <span style="font-weight: bold;">17.9"</span> and 76% of percent of historical average. Statewide reservoir storage ended the water year at <span style="font-weight: bold;">14.70</span> Million Acre Feet and 69% of historical average.
+            </p>
+            <p>
+              A growing body of evidence is starting to show that our current drought is an extension of the 2012-2016 drought, interrupted by just a few wet years.
+            </p>-->
+            <div class="btn-container" style="margin: 0 auto">
+              <!--<button id="droughtIndicatorBtn" class="btn btn-primary">Understanding Our Drought</button>-->
+              <a id="hydroUpdate" href="/service/document/hydroreport" class="btn btn-primary" target="_blank">Hydrology Update</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row data-viz-row" style="margin-bottom: 40px;">
+        <div class="row data-viz-container">
+          <div class="col-md-5 description">
+            <h2>Do we have enough water stored?</h2>
+            <p style="margin-top: 20px;">
+              In drier seasons, we rely on other sources of water. 
+              These include reservoirs and melted snowpack. 
+              But climate change is causing extreme weather and changing the amount of rain and snow we get, 
+              impacting how we are able to capture and distribute water. 
+              <!--Reservoir levels, which receive water from melting snowpack, have been impaired the last three years by a declining snowpack.-->
+            </p>
+            <p class="hide-mobile">
+              Californians must adapt to this new normal and adopt conservation as a way of life to make the most out of our limited water supplies across the state.
+            </p>
+          </div>
+          <div class="col-md-7 graphics">
+            <div class="row data-viz-container">
+              <div class="col-md-6 reservoir-graphic">
+                <style>
+  .popover-content {
+    position: absolute;
+    display: flex;
+    flex-direction: column-reverse;
+    row-gap: .5rem;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    background-color: white;
+    padding: 1rem;
+    z-index: 100;
+    outline: 0;
+    border-radius: .5rem;
+    overflow: visible;
+    pointer-events: none;
+    --shadow-color: 220 3% 15%;
+    --shadow-strength: 1%;
+    box-shadow:  0 -1px 2px 0 hsl(var(--shadow-color) / calc(var(--shadow-strength) + 2%)),
+      0 2px 1px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+      0 5px 5px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 3%)),
+      0 10px 10px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 4%)),
+      0 20px 20px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 5%)),
+      0 40px 40px -2px hsl(var(--shadow-color) / calc(var(--shadow-strength) + 7%));;
+  }
+  .popover-content:focus {
+    outline: 2px solid var(--highlight-color, #fec02f);
+  }
+
+  .popover-container {
+    position: relative;
+    width: fit-content;
+  }
+
+  .popover-content::before {
+    content: '';
+    position: absolute;
+    width: 1rem;
+    height: 1rem;
+    left: 0;
+    top: 50%;
+    background-color: white;
+    transform: translate(-50%, -50%) rotate(45deg);
+  }
+  .popover-revealed {
+    width: max-content;
+    height: max-content;
+    left: var(--x);
+    top: var(--y);
+    transform: translateY(-50%);
+  }
+  @media screen and (max-width: 950px) {
+    .popover-content::before {
+      content: none;
+    }
+    .popover-revealed {
+      left: calc(50% + var(--x-offset-m, 0%));
+      transform: translate(-50%, 0);
+    }
+  }
+
+  .popover-legend {
+    display: flex;
+    flex-direction: row;
+    gap: .75rem;
+    align-items: flex-start;
+  }
+
+  .popover-legend svg {
+    height: 1.5em;
+  }
+
+  .sr-only {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .popover-revealed p {
+    font-weight: 400;
+    font-size: 1em;
+  }
+
+  .popover-header {
+    margin: 0;
+  }
+
+  .popover-stat {
+    margin: 0 0 .5rem 0;
+  }
+
+  .reservoir-data-viz-graphic svg {
+    display: block;
+  }
+
+  .reservoir-data-viz-overall {
+    color: #B71234;
+  }
+
+  #basin-water {
+    fill: #003484;
+  }
+
+  #basin-water.highlighted,
+  #reservoir-details-filled svg,
+  .filled {
+    fill: #004ABC;
+  }
+
+  #basin-capacity {
+    fill: #E1E0E3;
+  }
+
+  #basin-capacity.highlighted,
+  #reservoir-details-capacity svg,
+  .capacity {
+    fill: #B3B2B8;
+  }
+
+  #historical-line, 
+  #reservoir-details-average svg,
+  .historical {
+    stroke: black;
+  }
+
+  #historical-line-hover-target {
+    opacity: 0;
+  }
+
+  #historical-line-hover-target.highlighted {
+    opacity: 0.3;
+    fill: yellow;
+  }
+
+  .data-viz {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.25rem;
+    background-color: #fff;
+    padding: 5px 10px;
+    height: 100%;
+  }
+
+  .data-viz-desc {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .data-viz-placement {
+    flex-grow: 5;
+    display: flex;
+    align-items: center;
+  }
+
+  .reservoir-data-viz {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+  }
+
+  .data-viz-footer {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: space-between;
+    font-size: .95rem;
+    column-gap: 1rem;
+  }
+
+  .data-viz-freq {
+    color: #6b6c77;
+    max-width: 60%;
+  }
+
+  .data-viz-more a {
+    color: var(--primary-700,#165ac2);
+    text-decoration: underline;
+  }
+
+  .data-viz-pct {
+    font-size: 3rem;
+    font-weight: 700;
+  }
+
+  [name="summary-stat"] {
+    font-size: 1.1rem;
+    margin: 0;
+  }
+</style>
+<div class="data-viz">
+  <h3 style="font-weight: bold;">
+    Major reservoir levels
+  </h3>
+  <div class="data-viz-desc">
+    <p style="font-size: 20px;">
+      Reservoirs get us through the dry months
+    </p>
+  </div>
+  <div class="data-viz-placement">
+    <div class="reservoir-data-viz">
+      <div class="reservoir-data-viz-overall">
+        <div class="sr-only">
+          <slot name="summary-header">Summary of current level</slot>
+        </div>
+        <slot name="summary-stat">
+          <span class="data-viz-pct"></span>
+          <br>
+          of average levels
+        </slot>
+      </div>
+
+      <div class="reservoir-data-viz-graphic popover-container">
+        <svg width="150" height="150" viewBox="0 0 150 150" aria-hidden="true">
+        <defs>
+        <!-- Clip in rounded corners on the bottom of the water. -->
+        <clipPath id="rounded-water-bottom">
+          <rect x="30" y="-15" width="90" height="150" rx="15" ry="15" />
+        </clipPath>
+        </defs>
+        <!-- Create the basin. It's static. -->
+        <path id="basin-capacity" d="M0,150 L15,0 h10 v125 a15,15 0 0 0 15,15 h70 a15,15 0 0 0 15,-15 v-125 h10 L150,150 z" />
+        <!-- Create the water. The bottom of the water is at y=135. -->
+        <rect id="basin-water" x="30" y="0" width="90" height="0" clip-path="url(#rounded-water-bottom)" />
+        <!-- Draw the dotted line for the average level. -->
+        <line id="historical-line" x1="0" y1="0" x2="150" y2="0" stroke-width="3" stroke-dasharray="3 6" stroke-linecap="round" />
+        <!-- Draw an invisible rectangle over the line, to help people hover over it. -->
+        <rect id="historical-line-hover-target" x="0" y="0" width="150" height="10" />
+        </svg>
+
+        <div tabindex="0" id="capacity-popover" class="popover-content">
+          <div class="popover-legend">
+            <svg width="13" height="13" viewBox="0 0 10 10" aria-hidden="true">
+            <rect x="0" y="0" width="10" height="10" class="capacity"></rect>
+            </svg>
+            <slot name="capacity-header">Total capacity</slot>
+          </div>
+          <slot name="capacity-stat"></slot>
+        </div>
+
+        <div tabindex="0" id="historical-popover" class="popover-content">
+          <div class="popover-legend">
+            <svg width="26" height="13" viewBox="0 0 26 13" aria-hidden="true">
+            <line x1="0" y1="7" x2="26" y2="7" stroke-width="2" stroke-dasharray="2 4" stroke-linecap="round" class="historical"></line>
+            </svg>
+            <slot name="historical-header">Average level historically</slot>
+          </div>
+          <slot name="historical-stat"></slot>
+        </div>
+
+        <div tabindex="0" id="current-popover" class="popover-content">
+          <div class="popover-legend">
+            <svg width="13" height="13" viewBox="0 0 10 10" aria-hidden="true">
+            <rect x="0" y="0" width="10" height="10" class="filled"></rect>
+            </svg>
+            <slot name="current-header">Current level</slot>
+          </div>
+          <slot name="current-stat"></slot>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <div class="data-viz-footer">
+    <p class="data-viz-freq">
+      Updated daily
+    </p>
+    <p class="data-viz-more">
+      <a href="https://cdec.water.ca.gov/resapp/RescondMain">
+        More about reservoirs
+      </a>
+    </p>
+  </div>
+</div>
+</div>
+              <div class="col-md-6 snow-graphic">
+                <style>
+  .snowpack-data-viz-overall {
+    color: #B71234;
+  }
+
+  #snowpack-graph {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  line {
+    stroke: #E1E0E3;
+  }
+
+  .avg {
+    stroke: #E5E5E5;
+    fill: #E5E5E5;
+  }
+
+  .current {
+    stroke: #003484;
+    stroke-width: 3;
+    fill: transparent;
+  }
+
+  .current-terminus {
+    fill: #003484;
+  }
+
+  #current-terminus-hover-target,
+  #historic-peak-hover-target {
+    fill: transparent;
+  }
+
+  #current-terminus-hover-target.highlighted,
+  #historic-peak-hover-target.highlighted {
+    opacity: 0.3;
+    fill: yellow;
+  }
+
+  .peak {
+    fill: #B71234;
+  }
+
+  text {
+    font-size: .9rem;
+  }
+
+  #snowpack-historical-peak-swe.popover-revealed {
+    left: var(--x, 200px);
+    top: var(--y, 20px);
+    transform: translateY(-50%);
+  }
+
+  #snowpack-current-swe.popover-revealed {
+    left: var(--x, 200px);
+    top: var(--y, 100px);
+    transform: translateY(-50%);
+  }
+</style>
+<div class="data-viz">
+  <h3 style="font-weight: bold;">
+    Statewide snowpack levels
+  </h3>
+  <div class="data-viz-desc">
+    <p style="font-size: 20px;">
+      Snow melt feeds our reservoirs & rivers
+    </p>
+  </div>
+  <div class="data-viz-placement">
+    <div class="snowpack-data-viz">
+      <div class="snowpack-data-viz-overall">
+        <div class="sr-only">
+          <slot name="summary-header"></slot>
+        </div>
+        <slot name="summary-stat">
+          <span class="data-viz-pct"></span>
+          <span>of average peak snowpack</span>
+        </slot>
+      </div>
+
+      <div class="popover-container">
+        <svg id="snowpack-graph" width="365" height="175" viewBox="0 0 365 175" aria-hidden="true">
+        <line x1="0" y1="145" x2="365" y2="145" stroke-width="1" />
+
+        <line x1="31" y1="0" x2="31" y2="145" stroke-width="1" />
+        <text x="31" y="160" dominant-baseline="middle" id="snowpack-month-11" text-anchor="middle"></text>
+
+        <line x1="92" y1="0" x2="92" y2="145" stroke-width="1" />
+        <text x="92" y="160" dominant-baseline="middle" id="snowpack-month-1" text-anchor="middle"></text>
+
+        <line x1="151" y1="0" x2="151" y2="145" stroke-width="1" />
+        <text x="151" y="160" dominant-baseline="middle" id="snowpack-month-3" text-anchor="middle"></text>
+
+        <line x1="212" y1="0" x2="212" y2="145" stroke-width="1" />
+        <text x="212" y="160" dominant-baseline="middle" id="snowpack-month-5" text-anchor="middle"></text>
+
+        <line x1="273" y1="0" x2="273" y2="145" stroke-width="1" />
+        <text x="273" y="160" dominant-baseline="middle" id="snowpack-month-7" text-anchor="middle"></text>
+
+        <line x1="335" y1="0" x2="335" y2="145" stroke-width="1" />
+        <text x="335" y="160" dominant-baseline="middle" id="snowpack-month-9" text-anchor="middle"></text>
+        </svg>
+
+        <div tabindex="0" id="historic-peak-popover" class="popover-content">
+          <div class="popover-legend">
+            <svg width="13" height="13" viewBox="0 0 10 10" aria-hidden="true">
+            <circle r="4" cx="5" cy="5" class="peak" />
+            </svg>
+            <slot name="historic-peak-header">Average peak snow water equivalent <br> from 1991-2020</slot>
+          </div>
+          <slot name="historic-peak-stat"></slot>
+        </div>
+
+        <div tabindex="0" id="current-snow-popover" class="popover-content">
+          <div class="popover-legend">
+            <svg width="26" height="13" viewBox="0 0 26 13" aria-hidden="true">
+            <line x1="0" y1="7" x2="26" y2="7" stroke-linecap="round" class="current" />
+            </svg>
+            <slot name="current-snow-header">Current snow water equivalent</slot>
+          </div>
+          <slot name="current-snow-stat"></slot>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="data-viz-footer">
+    <p class="data-viz-freq">Updated daily</p>
+    <p class="data-viz-more">
+      <a href="https://cdec.water.ca.gov/snowapp/sweq.action">
+        More about snowpack levels
+      </a>
+    </p>
+  </div>
+</div></div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="row data-viz-container">
+          <div class="col-md-5 description">
+            <h2>What about our groundwater supply?</h2>
+            <p class="hide-mobile">
+              Groundwater is a vital resource in California and accounts for
+              almost 60 percent of our State's water supply in drought years.
+            </p>
+            <p class="hide-mobile">
+              Multiple dry and drought years over recent decades have put a strain on California's groundwater resources. The data on the right show the number of monitoring wells that have water levels below average and the number of well outages across the state voluntarily reported to DWR. 
+              <a href="https://storymaps.arcgis.com/stories/f2b252d15a0d4e49887ba94ac17cc4bb">Visit California Groundwater Live</a> for more real-time groundwater information.
+            </p>
+<!--            <p class="hide-mobile">
+              Three years of drought in California are putting a strain on groundwater wells. 
+              The data on the right show the number of monitoring wells that have water levels 
+              below average and the number of unresolved well outages across the state reported to DWR. 
+              <a href="https://storymaps.arcgis.com/stories/f2b252d15a0d4e49887ba94ac17cc4bb">Visit California Groundwater Live</a> for more real-time well data.
+            </p>-->
+          </div>
+          <div class="col-md-7 data-viz-container">
+            <div class="row graphics well-graphics">
+              <div class="col-md-6">
+                <div class="data-box">
+                  <h4>Monitoring Wells<br/>Below Normal Level</h4>
+                  <div id="monitor-well">
+                    <iframe class="col-md-12" src="https://dwr.maps.arcgis.com/apps/dashboards/dd41ae10ee6340a88938b5382b7e3a81" style="border: none;"></iframe>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div  class="data-box">
+                  <h4>Dry Wells Reported - Year to Date<br/>&nbsp;</h4>
+                  <div id="wells-reported">
+                    <div class="col-md-12">
+                      <div style="border: #f8f8f8 8px solid;">
+                        <div style="background: #f8d7da; color: #b02029; display: flex; align-items: center; justify-content: center; height: 134px; border: #dfdfdf 1px solid;">
+                          <div>
+                            <span class="well-outages" style="font-size: 80px;"></span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="desktop-map-area map-area">
+      <center>
+        <div class="links">
+          <a class="map-link active precipitation" id="precipitation" href="javascript:void(0)"><img src="/resources/images/map/precip-blue.png"/>Precipitation</a> 
+          <a class="map-link snowpack" id="snowpack" href="javascript:void(0)"><img src="/resources/images/map/snow-blue.png"/>Snowpack</a> 
+          <a class="map-link reservoir" id="reservoir" href="javascript:void(0)"><img src="/resources/images/map/reservoir-blue.png"/>Reservoirs</a>
+          <a class="map-link gwLevels" id="gwLevels" href="javascript:void(0)"><img src="/resources/images/map/groundwater-blue.png"/>Groundwater</a> 
+          <a class="map-link temperature" id="temperature" href="javascript:void(0)"><img src="/resources/images/map/temp-blue.png"/>Temperature</a> 
+          <a class="map-link streamflow" id="streamflow" href="javascript:void(0)"><img src="/resources/images/map/flow-blue.png"/>Streamflow</a> 
+          <a class="map-link soil" id="soil" href="javascript:void(0)"><img src="/resources/images/map/soilmoisture-blue.png"/>Soil Moisture</a> 
+          <a class="map-link vegetation" id="vegetation" href="javascript:void(0)"><img src="/resources/images/map/vegetation-blue.png"/>Vegetation</a>
+        </div>
+        <br>
+      </center>
+      <div class="row toggle-content precipitation-content" id="precipitation-content">
+        <div class="toggle-left">
+          <div id="precipitationMap" class="map"></div>
+          <div id="precipitation-legend" class='legend shadow'>
+            <img class="legendWrapper" src="/resources/images/map/legend_precip_t.png"/>
+          </div>
+          <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="precipMapDownload"></a>
+        </div>
+        <div class="toggle-right">
+          <h2>Precipitation as of 05/24/2024*</h2>
+          <p>
+            California’s annual precipitation can vary greatly from year to year and region to region. The map of California shows how this water year’s precipitation compares to what has been observed historically. The chart below provides a summary of California’s current statewide precipitation statistics.
+          </p>
+          <div class="card blue-card row2-card" id="precip-stats">
+            <div class="card-header">
+              Precipitation Statistics <span style="font-size: 14px;">(period of record: 1981-current)</span>
+            </div>
+            <div class="card-body">
+              <div style="height: 100%; display: flex;">
+                <div style="width: 37%;">
+                  <div class="row">
+                    <div class="col-12">
+                      <div class="watershed-name">
+                        Statewide as of <span class="date">&nbsp;05/24/2024</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-12">
+                      <text>Water Year to Date: </text>
+                      <strong><span class="stat-val"></span></strong>
+                    </div>
+                  </div>
+                  <div class="row" style="margin-top: 5px;">
+                    <div class="col-12">
+                      <text>% of Average: </text>
+                      <strong><span class="stat-pavg"></span></strong>
+                    </div>
+                  </div>
+                  <div class="row" style="margin-top: 5px;">
+                    <div class="col-12">
+                      <text>Precipitation % of average for full water year through September 30th: </text>
+                      <strong><span class="stat-pavgYr"></span></strong>
+                    </div>
+                  </div>
+                  <br/>
+                  <div class="row">
+                    <div class="col-12">
+                      <text style="font-weight: bold;">Historical Record to Date:</text>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-12">
+                      <text>Max: </text>
+                      <strong><span class="stat-max"></span></strong>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-12">
+                      <text>Mean: </text>
+                      <strong><span class="stat-avg"></span></strong>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-12">
+                      <text>Min: </text>
+                      <strong><span class="stat-min"></span></strong>
+                    </div>
+                  </div>
+                </div>
+                <div style="padding-left: 0px; padding-right: 0; width: 63%; display: flex; flex-direction:column; align-items: center;">
+                  <a href="javascript:void(0);" class="download-div hide-div" id="download-plot"></a>
+                  <div class="precipChart" id="precipChart" style="width: 100%; height: 380px;"></div>
+                </div>
+              </div>
+              <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="precipChartDownload" style="  position: absolute;bottom: 5px;right: 5px;"></a> 
+            </div>
+
+          </div>
+
+          <table id="precip-table" style="display: none;">
+            <thead>
+              <tr>
+                <td>Percent of Average Precipitation (%)</td>
+                <td>Percent of State (%)</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="pct-label">0-19</td><td><div class="per-color" style="background: rgb(128,128,128);"></div><span class="value"></span></td>
+              </tr>
+              <tr>
+                <td class="pct-label">20-39</td><td><div class="per-color" style="background: rgb(192,0,0);"></div><span class="value"></span></td>
+              </tr>
+              <tr>
+                <td class="pct-label">40-59</td><td><div class="per-color" style="background: rgb(253,191,2);"></div><span class="value"></span></td>
+              </tr>
+              <tr>
+                <td class="pct-label">60-79</td><td><div class="per-color" style="background: rgb(215,251,4);"></div><span class="value"></span></td>
+              </tr>
+              <tr>
+                <td class="pct-label">80-99</td><td><div class="per-color" style="background: rgb(136,251,4);"></div><span class="value"></span></td>
+              </tr>
+              <tr>
+                <td class="pct-label">100-119</td><td><div class="per-color" style="background: rgb(4,251,25);"></div><span class="value"></span></td>
+              </tr>
+              <tr>
+                <td class="pct-label">120-139</td><td><div class="per-color" style="background: rgb(48,208,158);"></div><span class="value"></span></td>
+              </tr>
+              <tr>
+                <td class="pct-label">140-159</td><td><div class="per-color" style="background: rgb(110,185,236);"></div><span class="value"></span></td>
+              </tr>
+              <tr>
+                <td class="pct-label">160-179</td><td><div class="per-color" style="background: rgb(4,140,251);"></div><span class="value"></span></td>
+              </tr>
+              <tr>
+                <td class="pct-label">180-199</td><td><div class="per-color" style="background: rgb(2,22,253);"></div><span class="value"></span></td>
+              </tr>
+              <tr>
+                <td class="pct-label">>= 200</td><td><div class="per-color" style="background: rgb(147,4,251);"></div><span class="value"></span></td>
+              </tr>
+            </tbody>
+          </table>
+          <div style="font-style: italic;">California’s new Water Year began Oct. 1, 2023 and ends Sept. 30, 2024. Graphics on this site use data for WY 2023-24. To view WY 2022-23 data, visit <a href="/yearly-summary" target="_blank" style="text-decoration: underline;">the yearly summary page.</a>
+		  <br/>
+            *Updated daily at 1 pm from the prior day, as data is made available.
+	  </div>
+<!--          <div style="display: flex; align-items: center;">
+            <a href="/yearly-summary" target="_blank" style="text-decoration: underline;">2023 Water Year Summary</a>-->
+            <button class="btn moredataBtn" id="precipitation-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+          <!--</div>-->
+        </div>
+      </div>
+      <div class="row toggle-content temperature-content" id="temperature-content" style="display: none;">
+        <div class="toggle-left">
+          <div id="temperatureMap"></div>
+          <div id="temperature-legend" class='legend shadow'>
+            <img class="legendWrapper" src="/resources/images/map/legend_temp_t.png"/>
+          </div>
+          <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="tempMapDownload"></a>
+        </div>
+        <div class="toggle-right">
+          <h2>Temperature as of 05/24/2024*</h2>
+          <p>
+            Temperature plays a large role in California’s annual water conditions.  Higher than normal 
+            temperatures present several challenges to managing the state’s water supply.  The map of California shows
+            how this year’s temperatures compare to what has been observed historically.
+          </p>
+          <div style="font-style: italic;">California’s new Water Year began Oct. 1, 2023 and ends Sept. 30, 2024. Graphics on this site use data for WY 2023-24. To view WY 2022-23 data, visit <a href="/yearly-summary" target="_blank" style="text-decoration: underline;">the yearly summary page.</a>
+		  <br/>
+            *Updated daily at 1 pm from the prior day, as data is made available.
+	  </div>
+          <!--<div style="display: flex; align-items: center;">-->
+            
+            <button class="btn moredataBtn" id="temperature-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+          <!--</div>-->
+        </div>
+      </div>
+      <div class="row toggle-content reservoir-content" id="reservoir-content" style="display: none;">
+        <div class="toggle-left">
+          <div id="reservoirMap"></div>
+          <div id="reservoir-legend" class='legend shadow'>
+            <img class="legendWrapper" src="/resources/images/map/legend_storage_t.png" />
+          </div>
+          <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="resMapDownload"></a>
+        </div>
+        <div class="toggle-right">
+          <h2>Reservoirs as of 05/24/2024</h2>
+          <p>
+            The map of California shows how reservoir conditions compare to their historical averages for this month. The metrics below are an estimate of the current total statewide reservoir storage.
+          </p>
+          <!--<img src="/resources/images/temp-res-table.png" style="width: 70%; margin-bottom: 10px;"/>-->
+          <div class="row" style="font-weight: bold; font-size: 17px;">
+            <div style="display: flex;">
+              <span style="width: 65%;">Estimated Total Statewide Reservoir Storage:</span>
+              <span class="total-res-storage" style="margin-right: auto;">13.6 MAF*</span>
+            </div>
+            <div style="display: flex;">
+              <span style="width: 65%;">Percent of Historical Average:</span>
+              <span class="pct-hist-avg" style="margin-right: auto;">68%</span>
+            </div>
+            <p style="font-weight: normal; font-size: 16px; margin-top: 20px;">
+              *Million Acre Feet (MAF). On average, California receives about 200 million acre-feet of water per year in the form of rain and snow. One acre-foot of water is enough to serve two families of four for a year.
+            </p>
+          </div>
+          <br/>
+          <button class="btn moredataBtn" id="reservoir-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+        </div>
+      </div>
+      <div class="row toggle-content streamflow-content" id="streamflow-content" style="display: none;">
+        <div class="toggle-left">
+          <div id="streamflowMap"></div>
+          <div id="streamflow-legend" class='legend shadow'>
+            <img class="legendWrapper" src="/resources/images/map/legend_stream_t.png"/>
+          </div>
+          <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="streamflowMapDownload"></a>
+        </div>
+        <div class="toggle-right">
+          <h2>Streamflow as of 05/24/2024</h2>
+          <p>
+            The map of California shows how real-time streamflow at gaged locations compares to historical streamflow ranges for the same day of the year.
+          </p>
+          <button class="btn moredataBtn" id="streamflow-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+        </div>
+      </div>
+      <div class="row toggle-content gwLevels-content" id="gwLevels-content" style="display: none;">
+        <div class="toggle-left">
+          <div id="groundwaterMap"></div>
+          <div id="groundwater-legend" class='legend shadow'>
+            <img class="legendWrapper" src="/resources/images/map/gw-legend.png"/>
+          </div>
+          <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="groundwaterMapDownload"></a>
+        </div>
+        <div class="toggle-right">
+          <h2>Groundwater as of <span class="gwDate"></span></h2>
+<!--          <p>
+            The map of California shows groundwater level conditions across the state by comparing the most recent measurements 
+            at wells to the previous 10 years of measurements for the wells.  Most wells are only measured twice a year, in the spring and fall.  Few wells have monthly data. 
+          </p>-->
+          <p>
+            The map of California shows groundwater level conditions across the state by comparing the most recent groundwater level measurement at individual monitoring wells to historical measurements during the same month. For a well to appear on this map, the most recent measurement must have occurred within the last 18 months, and measurements from at least 10 years must exist for that month.
+           </p>
+          <p>
+            Currently, most monitoring wells are only measured twice a year, in the spring and fall. Few wells have monthly data, however the State and local groundwater monitoring agencies are working to improve and expand groundwater level data collection.
+          </p>  
+          <p>
+            We are collectively learning more than ever before about our groundwater basins from data being collected and reported by local groundwater agencies. These data are the foundation to support future decision-making related to land use and water resource planning.
+          </p>
+          <p>
+            The State and locals will continue monitoring and tracking groundwater conditions and collecting new data allowing locals to better manage water resources including implementing groundwater recharge during average and wet years to ensure groundwater will be available as a buffer for future dry and drought times when it is needed most.
+          </p>
+          <button class="btn moredataBtn" id="gwLevels-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+        </div>
+      </div>
+      <div class="row toggle-content snowpack-content" id="snowpack-content" style="display: none;">
+        <div class="toggle-left">
+          <div id="snowMap"></div>
+          <div id="snow-legend" class='legend shadow'>
+            <img class="legendWrapper" src="/resources/images/map/legend_snow_t.png"/>
+          </div>
+          <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="snowMapDownload"></a>
+        </div>
+        <div class="toggle-right">
+          <h2>Snowpack as of 05/24/2024</h2>
+          <p>
+            The map of California shows how snowpack conditions compare to the historical averages at various locations across the state. 
+            The plot below aggregates this same data to show how the cumulative statewide snowpack is tracking relative to the historical average.  
+            This allows us to see how well the snowpack is doing to date, as well as how much snow may still be needed to reach the average peak snowpack (i.e., April 1st snowpack)
+          </p>
+          <div id="snow-container">
+            <div id="snow-chart" style="width: 100%; height: 300px; margin-bottom: 10px;"></div>
+            <div style="display: flex; justify-content: space-around; margin-bottom: 35px; padding-top: 10px;">
+              <div>Percent of normal to date: <span class="pctNormal"></span></div>
+              <div>Percent of April 1st average: <span class="pctApr1"></span></div>
+            </div>
+          </div>
+          <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="snowChartDownload"></a>
+          <div style="font-style: italic;">California’s new Water Year began Oct. 1, 2023 and ends Sept. 30, 2024. Graphics on this site use data for WY 2023-24. To view WY 2022-23 data, visit <a href="/yearly-summary" target="_blank" style="text-decoration: underline;">the yearly summary page.</a></div>
+          <button class="btn moredataBtn" id="snowpack-btn">Track Snow Conditions <span class="glyphicon glyphicon-chevron-right"></span></button>
+        </div>
+      </div>
+      <div class="row toggle-content soil-content" id="soil-content" style="display: none;">
+        <div class="toggle-left">
+          <div id="soilMap"></div>
+          <div id="soil-legend" class='legend shadow'>
+            <img class="legendWrapper" src="/resources/images/map/legend_soil_t.png"/>
+          </div>
+          <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="soilMapDownload"></a>
+        </div>
+        <div class="toggle-right">
+          <h2>Soil Moisture as of 12/31/2023</h2>
+          <p>
+            This map shows relative values of estimated soil moisture at a depth of 100 cm, as calculated from satellite-based observations.
+          </p>
+          <button class="btn moredataBtn" id="soil-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+        </div>
+      </div>
+      <div class="row toggle-content vegetation-content" id="vegetation-content" style="display: none;">
+        <div class="toggle-left">
+          <div id="vegetationMap"></div>
+          <div id="vegetation-legend" class='legend shadow'>
+            <img class="legendWrapper" src="/resources/images/map/legend_veg_t.png"/>
+          </div>
+          <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="vegMapDownload"></a>
+        </div>
+        <div class="toggle-right">
+          <h2>Vegetation Conditions as of 05/24/2024</h2>
+          <p>
+            The map of California depicts vegetation conditions across the state based on the Evaporative Stress Index (ESI). 
+            ESI provides insight on how stressed vegetation is due to a lack of water, which is expressed as the statistical variation from average conditions.
+          </p>
+          <button class="btn moredataBtn" id="vegetation-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+        </div>
+      </div>
+    </div>
+    <div class="mobile-map-area map-area swiper">
+      <center>
+        <div class="links">
+          <a class="map-link active precipitation" id="precipitation" href="javascript:void(0)"><img src="/resources/images/map/precip-blue.png"/>Precipitation</a> 
+          <a class="map-link snowpack" id="snowpack" href="javascript:void(0)"><img src="/resources/images/map/snow-blue.png"/>Snowpack</a> 
+          <a class="map-link reservoir" id="reservoir" href="javascript:void(0)"><img src="/resources/images/map/reservoir-blue.png"/>Reservoirs</a>
+          <a class="map-link gwLevels" id="gwLevels" href="javascript:void(0)"><img src="/resources/images/map/groundwater-blue.png"/>Groundwater</a> 
+          <a class="map-link temperature" id="temperature" href="javascript:void(0)"><img src="/resources/images/map/temp-blue.png"/>Temperature</a> 
+          <a class="map-link streamflow" id="streamflow" href="javascript:void(0)"><img src="/resources/images/map/flow-blue.png"/>Streamflow</a> 
+          <a class="map-link soil" id="soil" href="javascript:void(0)"><img src="/resources/images/map/soilmoisture-blue.png"/>Soil Moisture</a> 
+          <a class="map-link vegetation" id="vegetation" href="javascript:void(0)"><img src="/resources/images/map/vegetation-blue.png"/>Vegetation</a>
+        </div>
+        <br>
+      </center>
+      <div class="swiper-wrapper">
+        <div class="row toggle-content precipitation-content swiper-slide" id="precipitation-content">
+          <div class="map-mask"></div>
+          <div class="toggle-left">
+            <div id="precipitationMapMobile" class="map"></div>
+            <div id="precipitation-legend" class='legend shadow'>
+              <img class="legendWrapper" src="/resources/images/map/legend_precip_t.png"/>
+            </div>
+            <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn hide-mobile" id="precipMapDownload"></a>
+          </div>
+          <div class="toggle-righ hide-mobile">
+            <h2>Precipitation as of 05/24/2024</h2>
+            <p>
+              California’s annual precipitation can vary greatly from year to year and region to region. The map of California shows how this water year’s precipitation compares to what has been observed historically. The chart below provides a summary of California’s current statewide precipitation statistics.
+            </p>
+            <div class="card blue-card row2-card" id="precip-stats">
+              <div class="card-header">
+                Precipitation Statistics <span style="font-size: 14px;">(period of record: 1981-current)</span>
+              </div>
+              <div class="card-body">
+                <div style="height: 100%; display: flex;">
+                  <div style="width: 37%;">
+                    <div class="row">
+                      <div class="col-12">
+                        <div class="watershed-name">
+                          Statewide as of <span class="date">&nbsp;05/24/2024</span>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-12">
+                        <text>Water Year to Date: </text>
+                        <strong><span class="stat-val"></span></strong>
+                      </div>
+                    </div>
+                    <div class="row" style="margin-top: 5px;">
+                      <div class="col-12">
+                        <text>% of Average: </text>
+                        <strong><span class="stat-pavg"></span></strong>
+                      </div>
+                    </div>
+                    <div class="row" style="margin-top: 5px;">
+                      <div class="col-12">
+                        <text>Precipitation % of average for full water year through September 30th: </text>
+                        <strong><span class="stat-pavgYr"></span></strong>
+                      </div>
+                    </div>
+                    <br/>
+                    <div class="row">
+                      <div class="col-12">
+                        <text style="font-weight: bold;">Historical Record to Date:</text>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-12">
+                        <text>Max: </text>
+                        <strong><span class="stat-max"></span></strong>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-12">
+                        <text>Mean: </text>
+                        <strong><span class="stat-avg"></span></strong>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-12">
+                        <text>Min: </text>
+                        <strong><span class="stat-min"></span></strong>
+                      </div>
+                    </div>
+                  </div>
+                  <div style="padding-left: 0px; padding-right: 0; width: 63%; display: flex; flex-direction:column; align-items: center;">
+                    <a href="javascript:void(0);" class="download-div hide-div" id="download-plot"></a>
+                    <div class="precipChart" id="precipChart-mobile" style="width: 100%; height: 380px;"></div>
+                  </div>
+                </div>
+                <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="precipChartDownload" style="  position: absolute;bottom: 5px;right: 5px;"></a> 
+              </div>
+
+            </div>
+
+            <table id="precip-table" style="display: none;">
+              <thead>
+                <tr>
+                  <td>Percent of Average Precipitation (%)</td>
+                  <td>Percent of State (%)</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="pct-label">0-19</td><td><div class="per-color" style="background: rgb(128,128,128);"></div><span class="value"></span></td>
+                </tr>
+                <tr>
+                  <td class="pct-label">20-39</td><td><div class="per-color" style="background: rgb(192,0,0);"></div><span class="value"></span></td>
+                </tr>
+                <tr>
+                  <td class="pct-label">40-59</td><td><div class="per-color" style="background: rgb(253,191,2);"></div><span class="value"></span></td>
+                </tr>
+                <tr>
+                  <td class="pct-label">60-79</td><td><div class="per-color" style="background: rgb(215,251,4);"></div><span class="value"></span></td>
+                </tr>
+                <tr>
+                  <td class="pct-label">80-99</td><td><div class="per-color" style="background: rgb(136,251,4);"></div><span class="value"></span></td>
+                </tr>
+                <tr>
+                  <td class="pct-label">100-119</td><td><div class="per-color" style="background: rgb(4,251,25);"></div><span class="value"></span></td>
+                </tr>
+                <tr>
+                  <td class="pct-label">120-139</td><td><div class="per-color" style="background: rgb(48,208,158);"></div><span class="value"></span></td>
+                </tr>
+                <tr>
+                  <td class="pct-label">140-159</td><td><div class="per-color" style="background: rgb(110,185,236);"></div><span class="value"></span></td>
+                </tr>
+                <tr>
+                  <td class="pct-label">160-179</td><td><div class="per-color" style="background: rgb(4,140,251);"></div><span class="value"></span></td>
+                </tr>
+                <tr>
+                  <td class="pct-label">180-199</td><td><div class="per-color" style="background: rgb(2,22,253);"></div><span class="value"></span></td>
+                </tr>
+                <tr>
+                  <td class="pct-label">>= 200</td><td><div class="per-color" style="background: rgb(147,4,251);"></div><span class="value"></span></td>
+                </tr>
+              </tbody>
+            </table>
+            <button class="btn moredataBtn" id="precipitation-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+          </div>
+        </div>
+        <div class="row toggle-content snowpack-content swiper-slide" id="snowpack-content">
+          <div class="map-mask"></div>
+          <div class="toggle-left">
+            <div id="snowMapMobile"></div>
+            <div id="snow-legend" class='legend shadow'>
+              <img class="legendWrapper" src="/resources/images/map/legend_snow_t.png"/>
+            </div>
+            <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn hide-mobile" id="snowMapDownload"></a>
+          </div>
+          <div class="toggle-right hide-mobile">
+            <h2>Snowpack as of 05/24/2024</h2>
+            <p>
+              The map of California shows how snowpack conditions compare to the historical averages at various locations across the state. 
+              The plot below aggregates this same data to show how the cumulative statewide snowpack is tracking relative to the historical average.  
+              This allows us to see how well the snowpack is doing to date, as well as how much snow may still be needed to reach the average peak snowpack (i.e., April 1st snowpack)
+            </p>
+            <div id="snow-container-mobile">
+              <div id="snow-chart-mobile" style="width: 100%; height: 300px; margin-bottom: 10px;"></div>
+              <div style="display: flex; justify-content: space-around; margin-bottom: 35px; padding-top: 10px;">
+                <div>Percent of normal to date: <span class="pctNormal"></span></div>
+                <div>Percent of April 1st average: <span class="pctApr1"></span></div>
+              </div>
+            </div>
+            <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn" id="snowChartDownload"></a>
+
+            <button class="btn moredataBtn" id="snowpack-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+          </div>
+        </div>
+        <div class="row toggle-content reservoir-content swiper-slide" id="reservoir-content">
+          <div class="map-mask"></div>
+          <div class="toggle-left">
+            <div id="reservoirMapMobile"></div>
+            <div id="reservoir-legend" class='legend shadow'>
+              <img class="legendWrapper" src="/resources/images/map/legend_storage_t.png" />
+            </div>
+            <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn hide-mobile" id="resMapDownload"></a>
+          </div>
+          <div class="toggle-right hide-mobile">
+            <h2>Reservoirs as of 05/24/2024</h2>
+            <p>
+              The map of California shows how reservoir conditions compare to their historical averages for this month. The metrics below are an estimate of the current total statewide reservoir storage.
+            </p>
+            <!--<img src="/resources/images/temp-res-table.png" style="width: 70%; margin-bottom: 10px;"/>-->
+            <div class="row" style="font-weight: bold; font-size: 17px;">
+              <div style="display: flex;">
+                <span style="width: 65%;">Estimated Total Statewide Reservoir Storage:</span>
+                <span class="total-res-storage" style="margin-right: auto;">13.6 MAF*</span>
+              </div>
+              <div style="display: flex;">
+                <span style="width: 65%;">Percent of Historical Average:</span>
+                <span class="pct-hist-avg" style="margin-right: auto;">68%</span>
+              </div>
+              <p style="font-weight: normal; font-size: 16px; margin-top: 20px;">
+                *Million Acre Feet (MAF). On average, California receives about 200 million acre-feet of water per year in the form of rain and snow. One acre-foot of water is enough to serve two families of four for a year.
+              </p>
+            </div>
+            <br/>
+            <button class="btn moredataBtn" id="reservoir-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+          </div>
+        </div>
+        <div class="row toggle-content gwLevels-content swiper-slide" id="gwLevels-content">
+          <div class="map-mask"></div>
+          <div class="toggle-left">
+            <div id="groundwaterMapMobile"></div>
+            <div id="groundwater-legend" class='legend shadow'>
+              <img class="legendWrapper" src="/resources/images/map/gw-legend.png"/>
+            </div>
+            <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn hide-mobile" id="groundwaterMapDownload"></a>
+          </div>
+          <div class="toggle-right hide-mobile">
+            <h2>Groundwater as of <span class="gwDate"></span></h2>
+            <p>
+              The map of California shows groundwater level conditions across the state by comparing the most recent measurements 
+              at wells to the previous 10 years of measurements for the wells.  Most wells are only measured twice a year, in the spring and fall.  Few wells have monthly data. 
+            </p>
+            <button class="btn moredataBtn" id="gwLevels-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+          </div>
+        </div>
+        <div class="row toggle-content temperature-content swiper-slide" id="temperature-content">
+          <div class="map-mask"></div>
+          <div class="toggle-left">
+            <div id="temperatureMapMobile"></div>
+            <div id="temperature-legend" class='legend shadow'>
+              <img class="legendWrapper" src="/resources/images/map/legend_temp_t.png"/>
+            </div>
+            <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn hide-mobile" id="tempMapDownload"></a>
+          </div>
+          <div class="toggle-right hide-mobile">
+            <h2>Temperature as of 05/24/2024</h2>
+            <p>
+              Temperature plays a large role in California’s annual water conditions.  Higher than normal 
+              temperatures present several challenges to managing the state’s water supply.  The map of California shows
+              how this year’s temperatures compare to what has been observed historically.
+            </p>
+            <button class="btn moredataBtn" id="temperature-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+          </div>
+        </div>
+        <div class="row toggle-content swiper-slide streamflow-content" id="streamflow-content">
+          <div class="map-mask"></div>
+          <div class="toggle-left">
+            <div id="streamflowMapMobile"></div>
+            <div id="streamflow-legend" class='legend shadow'>
+              <img class="legendWrapper" src="/resources/images/map/legend_stream_t.png"/>
+            </div>
+            <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn hide-mobile" id="streamflowMapDownload"></a>
+          </div>
+          <div class="toggle-right hide-mobile">
+            <h2>Streamflow as of 05/24/2024</h2>
+            <p>
+              The map of California shows how real-time streamflow at gaged locations compares to historical streamflow ranges for the same day of the year.
+            </p>
+            <button class="btn moredataBtn" id="streamflow-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+          </div>
+        </div>
+        <div class="row toggle-content soil-content swiper-slide" id="soil-content">
+          <div class="map-mask"></div>
+          <div class="toggle-left">
+            <div id="soilMapMobile"></div>
+            <div id="soil-legend" class='legend shadow'>
+              <img class="legendWrapper" src="/resources/images/map/legend_soil_t.png"/>
+            </div>
+            <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn hide-mobile" id="soilMapDownload"></a>
+          </div>
+          <div class="toggle-right hide-mobile">
+            <h2>Soil Moisture as of 12/31/2023</h2>
+            <p>
+              This map shows relative values of estimated soil moisture at a depth of 100 cm, as calculated from satellite-based observations.
+            </p>
+            <button class="btn moredataBtn" id="soil-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+          </div>
+        </div>
+        <div class="row toggle-content vegetation-content swiper-slide" id="vegetation-content">
+          <div class="map-mask"></div>
+          <div class="toggle-left">
+            <div id="vegetationMapMobile"></div>
+            <div id="vegetation-legend" class='legend shadow'>
+              <img class="legendWrapper" src="/resources/images/map/legend_veg_t.png"/>
+            </div>
+            <a href="javascript:void(0)" class="glyphicon glyphicon-download-alt pull-right export-btn hide-mobile" id="vegMapDownload"></a>
+          </div>
+          <div class="toggle-right hide-mobile">
+            <h2>Vegetation Conditions as of 05/24/2024</h2>
+            <p>
+              The map of California depicts vegetation conditions across the state based on the Evaporative Stress Index (ESI). 
+              ESI provides insight on how stressed vegetation is due to a lack of water, which is expressed as the statistical variation from average conditions.
+            </p>
+            <button class="btn moredataBtn" id="vegetation-btn">Get More Data <span class="glyphicon glyphicon-chevron-right"></span></button>
+          </div>
+        </div>
+      </div>
+            <!--<div class="swiper-pagination"></div>-->   
+            
+     <div class="swiper-button-prev"></div>  
+     <div class="swiper-button-next"></div>   
+    </div>
+  </div>
+  <br>
+  <div class="row more-info gray-bg" style="display: flex;">
+    <h3 class="more-info-header hide-mobile">More Information</h3>
+    <div class="col-md-4 link-section">
+      <a class="btn moredataBtn" href="https://drought.ca.gov/" target="_blank">California Drought Updates <span class="glyphicon glyphicon-chevron-right"></span></a>
+      <a id="droughtIndicator" class="btn moredataBtn" href="https://drought.ca.gov/" target="_blank">Understanding Our Drought <span class="glyphicon glyphicon-chevron-right"></span></a>
+<!--<a class="btn moredataBtn" href="/emergency-county" target="_blank">Counties Covered by Drought Emergency Proclamations <span class="glyphicon glyphicon-chevron-right"></span></a>-->
+    </div>
+    <div class="col-md-4 link-section">
+      <a class="btn moredataBtn" href="/defining-drought" target="_blank">History of Drought in CA <span class="glyphicon glyphicon-chevron-right"></span></a>
+      <a class="btn moredataBtn" href="https://saveourwater.com/" target="_blank">Save Our Water<span class="glyphicon glyphicon-chevron-right"></span></a>
+    </div>
+    <div class="col-md-4 link-section">
+      <a class="btn moredataBtn" href="https://droughtmonitor.unl.edu/" target="_blank">Federal Drought Monitor <span class="glyphicon glyphicon-chevron-right"></span></a>
+      <a class="btn moredataBtn" href="/water-use" target="_blank">How Water is Used in California <span class="glyphicon glyphicon-chevron-right"></span></a>
+    </div>
+  </div></main>
+      </div>
+    </div>
+    <!--</div>return-top-->
+
+    <!-- Global Footer -->
+<footer id="footer" class="global-footer">
+  <div class="container">
+    <div class="row">
+      <div class="three-quarters">
+        <ul class="footer-links">
+          <li><a href="#skip-to-content">Back to Top</a></li>
+          <li><a target="_blank" href="https://www.water.ca.gov/Conditions-of-Use">Conditions of Use</a></li>
+          <li><a target="_blank" href="https://www.water.ca.gov/Privacy-Policy">Privacy Policy</a></li>
+          <li><a target="_blank" href="https://www.water.ca.gov/Contact">Contact Us</a></li>
+          <li><a target="_blank" href="/cww_info#disclaimer">Disclaimer</a></li>
+          <li><a target="_blank" href="/cww_info#access-data">How to Access Data</a></li>
+        </ul>
+      </div>
+      <div class="quarter text-right">
+        <ul class="socialsharer-container">
+          <li><a target="_blank" href="https://pixel-ca-dwr.photoshelter.com/index"><img style="width: 24px; height: 24px; vertical-align: -3px;" src="/resources/images/pixel.png"><span class="sr-only">Pixel</span></a></li>
+          <li><a target="_blank" href="https://www.instagram.com/cadepartmentofwaterresources/"><span class="ca-gov-icon-instagram" aria-hidden="true"></span><span class="sr-only">Instagram</span></a></li>
+          <li><a target="_blank" href="https://twitter.com/CA_DWR"><span class="ca-gov-icon-twitter" aria-hidden="true"></span><span class="sr-only">Twitter</span></a></li>
+          <li><a target="_blank" href="https://www.youtube.com/@calwater"><span class="ca-gov-icon-youtube" aria-hidden="true"></span><span class="sr-only">YouTube</span></a></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Copyright Statement -->
+  <div class="copyright">
+    <div class="container">
+      Copyright &copy; <script>document.write(new Date().getFullYear())</script> State of California
+    </div>
+  </div>
+</footer>
+<!-- Extra Decorative Content -->
+<div class="decoration-last">&nbsp;</div>
+<script type="text/javascript" src="/resources/js/MyForm.js"></script>
+  <script type="text/javascript">
+    (function(){
+      setTimeout(function(){
+        window.signinform = new MyForm({
+          id:"sign-in-form"
+          ,listeners:{
+            onInit:function(){
+//              this.submitBtn.hide();
+//              this.formEl.modal({show:false});
+            }
+            ,onInitFields:function() {
+              try {
+                var formApp = this;
+                var enterPressedSubmit = function(e) {
+                  if (e.which == 13) {
+                    e.preventDefault();
+                    formApp.submit();
+                    return false;
+                  }
+                }
+                this.fields.username.keypress(enterPressedSubmit);
+                this.fields.password.keypress(enterPressedSubmit);
+
+                formApp.fields.rememberMe.change(function() {
+                  window.localStorage.setItem("pmmRememberMe", this.checked);
+                  if (this.checked) {
+                    var username = window.localStorage.getItem("pmmUsername");
+                    if (username) {
+                      // on load if username is already stored
+                      formApp.fields.username.val(username);
+                    } else if (formApp.fields.username.val().length > 0) { 
+                      // if username is already entered, then remember me is checked
+                      window.localStorage.setItem("pmmUsername", formApp.fields.username.val());
+                    }
+                    formApp.fields.username.blur(function() {
+                      window.localStorage.setItem("pmmUsername", $(this).val());
+                    });
+                  } else {
+                    window.localStorage.removeItem("pmmUsername");
+                    window.localStorage.removeItem("pmmRememberMe");
+                    formApp.fields.username.unbind("blur");
+                  }
+                });
+              } catch(ex) {
+                throw ex;
+              }
+            }
+            ,onSuccess:function(){
+              window.loadmask.hide();
+//              location.reload(true);
+              window.location.replace(window.SERVER_CONTEXT + "/admin/landing");
+            }
+            ,onSubmitError:function(r) {
+              window.loadmask.hide();
+              // new BSDialog() does not override existing dialog with the new config
+              if($("#error-dialog").length) {
+                $("#error-dialog").remove();
+              } 
+              
+              new BSDialog({
+                title:"Error"
+                ,id:"error-dialog"
+                ,message: r
+              }).show(); 
+            }
+            ,beforeSubmit:function(){
+              window.loadmask.show("Authenticating...");
+            }
+          }
+        });
+        
+        function initRememberMeEvents() {
+          try {
+            var $rememberMe = null;
+            if (($rememberMe = $("input[name='rememberMe']")).length == 0) {
+              throw "The system cannot find the remember checkbox!";
+            }
+
+            $rememberMe.change(function (evt,ui) {
+              var $form = null;
+              if (($form = $(this).parents("form")).length == 0) {
+                throw "The system cannot find the login form!";
+              }
+              var $username = null;
+              if (($username = $form.find("input[name='username']")).length == 0) {
+                throw "The system cannot find the username field!";
+              }
+
+              window.localStorage.setItem("pmmRememberMe", this.checked);
+
+              if (this.checked) {
+                var username = window.localStorage.getItem("pmmUsername");
+                if (username) {
+                  $username.val(username);
+                }
+                $username.blur(function () {
+                  window.localStorage.setItem("pmmUsername", $(this).val());
+                });
+              }
+              else {
+                window.localStorage.removeItem("pmmUsername");
+                window.localStorage.removeItem("pmmRememberMe");
+                $username.unbind("blur");
+              }
+            });
+
+            $rememberMe.each(function(){
+              var $this = $(this);
+              $this[0].checked = (window.localStorage.getItem("pmmRememberMe") == "true");
+              $this.trigger("change");
+            });
+          }
+          catch (e) {
+            window.errordialog.show("initRememberMeEvents() Error(s):\n" + e);
+          }
+        }
+
+        initRememberMeEvents();
+      },100)
+    })();
+  </script>
+  <!-- Trigger the modal with a button -->
+<!-- Modal -->
+<div id="sign-in-dialog" class="modal fade " role="dialog" data-backdrop="static">
+  <div class="modal-dialog ">
+    <!-- Modal content-->
+    <div class="modal-content ">
+      <div class="modal-header ">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title glyphicon glyphicon-lock">Secure Sign-In</h4>
+      </div>
+      <div class="modal-body " style="">
+        <form id="sign-in-form" action="/service/authenticate" method="POST">
+      <div Class="form-group"><label class="required">Email&nbsp;<input type="text" autocomplete="off" name="username" placeholder="eg. john@doe.com" required class="form-control input-sm" /></label></div><div Class="form-group"><label class="required">Password&nbsp;<input autocomplete="off" name="password" type="password" required class="form-control input-sm" /></label></div><div Class=""><label style="font-size:10pt;font-weight:normal;width:auto;"><input autocomplete="off" name="rememberMe" type="checkbox" style="width:inherit;" />&nbsp;Remember Email</label></div></form></div>
+      <div class="modal-footer">
+        <span class="required pull-left">Required Fields</span>
+    <a href="#" class="btn btn-link pull-right" data-dismiss="modal" data-target="#sign-in-dialog" tabindex="2">Cancel</a>
+    <a href="/mts/accounts/recovery" class="btn btn-link pull-right" data-target="#sign-in-dialog" tabindex="3">Password Recovery</a>
+    <button tabindex="1" 
+            class="btn btn-warning pull-right glyphicon glyphicon-send"
+            type="submit"
+            onclick="window.signinform.submit();return false;">Sign In</button></div>
+    </div>
+  </div>
+</div>
+
+<button class="hidden" data-toggle="modal" data-target="#success">success alert</button>
+      <!-- Trigger the modal with a button -->
+<!-- Modal -->
+<div id="success" class="modal fade " role="dialog" data-backdrop="static">
+  <div class="modal-dialog ">
+    <!-- Modal content-->
+    <div class="modal-content ">
+      <div class="modal-header ">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title ">Success</h4>
+      </div>
+      <div class="modal-body " style="">
+        <span style="color:#3c763d" class="text"></span></div>
+      <div class="modal-footer">
+        <button class="btn btn-primary" data-dismiss="modal">Ok</button></div>
+    </div>
+  </div>
+</div>
+
+<button class="hidden" data-toggle="modal" data-target="#error">error alert</button>
+      <!-- Trigger the modal with a button -->
+<!-- Modal -->
+<div id="error" class="modal fade " role="dialog" data-backdrop="static">
+  <div class="modal-dialog ">
+    <!-- Modal content-->
+    <div class="modal-content ">
+      <div class="modal-header ">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title ">Error(s)</h4>
+      </div>
+      <div class="modal-body " style="">
+        <span style="color:red;" class="text"></span></div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal" data-target="#error">Close</button>
+          </div>
+    </div>
+  </div>
+</div>
+
+<!-- Trigger the modal with a button -->
+<!-- Modal -->
+<div id="confirm" class="modal fade " role="dialog" data-backdrop="static">
+  <div class="modal-dialog ">
+    <!-- Modal content-->
+    <div class="modal-content ">
+      <div class="modal-header ">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title ">Confirmation</h4>
+      </div>
+      <div class="modal-body " style="">
+        <span class="text"></span></div>
+      <div class="modal-footer">
+        <button class="btn btn-warning btn-yes" data-dismiss="modal">Yes</button>
+        <button class="btn btn-link btn-no" data-dismiss="modal">Cancel</button></div>
+    </div>
+  </div>
+</div>
+
+<!-- Trigger the modal with a button -->
+<!-- Modal -->
+<div id="confirmyesno" class="modal fade " role="dialog" data-backdrop="static">
+  <div class="modal-dialog ">
+    <!-- Modal content-->
+    <div class="modal-content ">
+      <div class="modal-header ">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title ">Confirmation</h4>
+      </div>
+      <div class="modal-body " style="">
+        <span class="text"></span></div>
+      <div class="modal-footer">
+        <button class="btn btn-warning btn-yes" data-dismiss="modal">Yes</button>
+        <button class="btn btn-default btn-no" data-dismiss="modal">No</button></div>
+    </div>
+  </div>
+</div>
+
+<!-- Trigger the modal with a button -->
+<!-- Modal -->
+<div id="alert" class="modal fade " role="dialog" data-backdrop="static">
+  <div class="modal-dialog ">
+    <!-- Modal content-->
+    <div class="modal-content ">
+      <div class="modal-header ">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title ">Notice(s)</h4>
+      </div>
+      <div class="modal-body " style="">
+        <span class="text"></span></div>
+      <div class="modal-footer">
+        <button class="btn btn-warning btn-yes" data-dismiss="modal">Ok</button></div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+        var preventDefault = function(e){e.preventDefault();return false;};
+        //<editor-fold defaultstate="collapsed" desc="Alert Dialogs">
+        var BSAlert = function (id) {
+          var self = this;
+          self.dialogId = id;
+          if ((self.$dialog = $("#" + self.dialogId + "[role='dialog']")).length == 0) {
+            throw "The dialog id is not valid.";
+          }
+          self.$dialog.find(".modal-body").css({overflow: "auto"});
+          self.$title = self.$dialog.find(".modal-title");
+          self.$message = self.$dialog.find(".modal-body");
+          self.$footerBtn = self.$dialog.find(".modal-footer [data-dismiss='modal']");
+          self.show = function (msg, callback, target) {
+            if ((typeof callback == "function") && (self.$footerBtn.length > 0)) {
+              self.$footerBtn.unbind("click");
+              self.$footerBtn.click(callback);
+            }
+            else if (!callback) {
+              self.$footerBtn.unbind('click');
+            }
+            self.$dialog.find("span.text").html(msg); // update the dialog message
+            self.$dialog.on("shown.bs.modal",function(){
+              $(document.body).addClass("modal-open");
+            }).on("hidden.bs.modal",function(){
+              $(document.body).removeClass("modal-open");
+            });
+            self.$dialog.modal("show");// show the dialog
+
+            var $target = (target ? $(target) : $("body"));
+            $target.append($(".modal-backdrop").css({position: "absolute"}).show());
+            $target.append(self.$dialog.css({position: "absolute"}));
+            
+            //<editor-fold defaultstate="collapsed" desc="Calculation Visible Position">
+            var buffer = 20;
+            var docT = $(document).scrollTop();
+            var targetT = $target.offset().top;
+            var targetH = $target.height();
+            var winH = $(window).height();
+            var $modalDialog = self.$dialog.find(".modal-dialog");
+            var modalH = $modalDialog.height();
+            var newT = 0;
+            if (docT > targetT) {
+              newT = docT - targetT;
+            }
+            $modalDialog.css({top: newT + buffer});
+            //</editor-fold>
+
+            var $otherDialogs = null;
+            if (($otherDialogs = $(".modal[role='dialog']:visible").not(self.$dialog)).length > 0) {
+              var maxZIndex = 0;
+              $otherDialogs.each(function () {
+                maxZIndex = Math.max(maxZIndex, $(this).zIndex());
+              });
+              if (maxZIndex >= self.$dialog.zIndex()) {
+                self.$dialog.zIndex(maxZIndex + 1);
+              }
+            }
+//            self.$dialog.unbind("click");// ie click scroll fix, but prevents all click working properly including buttons.
+          }
+          self.setTitle=function(title) {
+            self.$title.html(title);
+          }
+          self.setMessage = function(message) {
+            self.$message.html(message);
+          }
+          self.hide = function () {
+            self.$dialog.modal("hide");// show the dialog
+          }
+        }
+
+        window.successdialog = new BSAlert("success");
+        window.errordialog = new BSAlert("error");
+        window.alertdialog = new BSAlert("alert");
+        //</editor-fold>
+
+        //<editor-fold defaultstate="collapsed" desc="Confirm Dialog">
+        var BSConfirm = function (id) {
+          var self = this;
+          self.dialogId = id;
+          if ((self.$dialog = $("#" + self.dialogId + "[role='dialog']")).length == 0) {
+            throw "The dialog id is not valid.";
+          }
+
+          self.$title = self.$dialog.find(".modal-title");
+          self.$dialog.find(".modal-body").css({overflow: "auto"});
+          self.$closeButton = self.$dialog.find(".modal-header > button.close");
+          self.$footer = null;
+          self.buttons = {};
+          if ((self.$footer = self.$dialog.find(".modal-footer")).length > 0) {
+            self.buttons.$yesBtn = self.$footer.find(".btn-yes");
+            self.buttons.$noBtn = self.$footer.find(".btn-no");
+          }
+
+          self.setNoBtnText = function (text) {
+            self.buttons.$noBtn.html(text);
+          };
+
+          self.setYesBtnText = function (text) {
+            self.buttons.$yesBtn.html(text);
+          };
+          self.show = function (title, msg, yesCallback, noCallback, target) {
+            if ((typeof yesCallback == "function") && (self.buttons.$yesBtn && self.buttons.$yesBtn.length > 0)) {
+              self.buttons.$yesBtn.unbind("click");
+              self.buttons.$yesBtn.click(function(evt,ui){
+                yesCallback.call(this, evt,ui,self)
+              });
+            }
+            else if (!yesCallback) {
+              self.buttons.$yesBtn.unbind('click');
+            }
+
+            if ((typeof noCallback == "function") && (self.buttons.$noBtn && self.buttons.$noBtn.length > 0)) {
+              self.buttons.$noBtn.unbind("click");
+              self.buttons.$noBtn.click(noCallback);
+            }
+            else if (!noCallback) {
+              self.buttons.$noBtn.unbind('click');
+            }
+
+            if ((typeof noCallback == "function") && (self.$closeButton && self.$closeButton.length > 0)) {
+              self.$closeButton.unbind("click").click(noCallback);
+            }
+
+            if (title) {
+              self.$title.html(title);
+            }
+            if (msg) {
+              self.$dialog.find("span.text").html(msg); // update the dialog message
+            }
+
+            self.$dialog.modal("show");// show the dialog
+
+            if(!target){
+              return;
+            }
+            var $target = (target ? $(target) : $("body"));
+            $target.append($(".modal-backdrop").css({position: "absolute"}).show());
+            $target.append(self.$dialog.css({position: "absolute", top: 0}));
+
+            //<editor-fold defaultstate="collapsed" desc="Calculation Visible Position">
+            var buffer = 20;
+            var docT = $(document).scrollTop();
+            var targetT = $target.offset().top;
+            var targetH = $target.height();
+            var winH = $(window).height();
+            var $modalDialog = self.$dialog.find(".modal-dialog");
+            var modalH = $modalDialog.height();
+            var newT = 0;
+            if (docT > targetT) {
+              newT = docT - targetT;
+            }
+            $modalDialog.css({top: newT + buffer});
+            //</editor-fold>
+
+            var $otherDialogs = null;
+            if (($otherDialogs = $(".modal[role='dialog']:visible").not(self.$dialog)).length > 0) {
+              var maxZIndex = 0;
+              $otherDialogs.each(function () {
+                maxZIndex = Math.max(maxZIndex, $(this).zIndex());
+              });
+              if (maxZIndex >= self.$dialog.zIndex()) {
+                self.$dialog.zIndex(maxZIndex + 1);
+              }
+            }
+          };
+
+          self.hide = function () {
+            self.$dialog.modal("hide");// show the dialog
+          };
+        };
+
+        window.confirmdialog = new BSConfirm("confirm");
+        window.confirmyesnodialog = new BSConfirm("confirmyesno");
+        //</editor-fold>
+      </script>
+    <script type="text/javascript">
+    (function(){
+      setTimeout(function(){
+        for (var i=0;i<window.onloads.length;++i) {
+          try {
+            window.onloads[i].call();
+          }
+          catch(e) {
+            if (console && console.error) {
+              console.error(e);
+            }
+          }
+        }
+      },1);
+    })();
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-221661194-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-222882229-1');
+    </script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G9NNQTSS8V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G9NNQTSS8V');
+</script>
+
+  </body>
+</html>

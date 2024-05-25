@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /uplatnit-poukaz
+Disallow: /product-category/
+Disallow: /muj-ucet/
+Disallow: /wordpress/wp-admin
+Disallow: /kosik/
+Disallow: /cart*
+Disallow: /front*
+Disallow: /feed*
+Disallow: /loginmodal*
+Disallow: /*gift=
+Disallow: /*attribute_pa_dostupnost=
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /

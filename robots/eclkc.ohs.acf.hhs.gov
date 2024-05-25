@@ -1,0 +1,109 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: web-standards-spider
+Allow: /
+
+User-agent: *
+# only Drupal content for Beta search
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$	
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Paths (clean URLs)
+Disallow: /es/admin/
+Disallow: /admin/
+Disallow: /filter/tips
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+# Paths (no clean URLs)
+Disallow: /index.php/es/admin/
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+# Remove Hyperwave
+Disallow: /*;
+Disallow: /0x
+Disallow: /Customer%20Demo
+Disallow: /ECLKC
+Disallow: /eclkc
+Disallow: /HSIPC
+Disallow: /hslc
+Disallow: /Restricted%20Admin%20Access
+Disallow: /Review
+Disallow: /system
+Disallow: /Test
+Disallow: /Training
+Disallow: /User%20Documents
+Disallow: /web-standards
+Disallow: /Workflow
+# Drupal excludes
+Disallow: /sites/default/files/
+Disallow: /internal-use
+Disallow: /contributors
+Disallow: /archive
+Disallow: /archivo
+Disallow: /es/archive
+Disallow: /es/archivo
+Disallow: /event
+Disallow: /upcoming-events
+Disallow: /es/upcoming-events
+Disallow: /user
+Disallow: /es/user
+Disallow: /job-center/job
+Disallow: /sites/default/files/pdf/no-search
+Disallow: /sites/default/files/audio/transcripts
+Disallow: /sites/default/files/video/transcripts
+Disallow: /taxonomy/term
+Disallow: /es/taxonomy/term
+Disallow: /playlist
+Disallow: /es/playlist
+Disallow: /book/export
+
+# External application excludes
+Disallow: /pgor
+Disallow: /ods
+Disallow: /pdguide
+
+# Sitemap
+Sitemap: https://eclkc.ohs.acf.hhs.gov/sitemap.xml
+
+#HSICC-542
+Disallow: /ipd/
+

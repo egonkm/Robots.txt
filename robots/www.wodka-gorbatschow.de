@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.wodka-gorbatschow.de/
+
+# Sitemaps
+Sitemap: https://www.wodka-gorbatschow.de/sitemap.xml

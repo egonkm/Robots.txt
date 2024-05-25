@@ -1,0 +1,989 @@
+<!doctype html>
+
+<html lang="cs" class="css-d">
+<head>
+    
+    <script>var Unidata = { "exdomena": "vice.idnes.cz", "ostrov": "servis", "rubrika": "servis", "zobrazeni": "home", "verze": "B", "score": "servis-DFB", "reklama": true, "timestamp": 1716670826714.0, "webtype": "full", "section": "Ostatní", "subSection": "", "pageType": "default", "authors": [""], "keywords": [], "isLogged": false, "noAd": 0, "lidskost": 174071448988566
+    };
+        var pp_gemius_extraparameters = new Array('content=free', 'premium=false', 'verze=B', 'webtype=full');
+    
+</script>
+
+    
+<script>   Unidata.prebidConfig = [
+{"wallpaper":{"code":"wallpaper","mediaTypes":{"banner":{"sizes":[[970,310],[750,100],[728,90],[970,250],[970,210]]}}},"branding":{"code":"branding","mediaTypes":{"banner":{"sizes":[[2000,1280],[998,200],[998,100],[750,100],[728,90],[2000,1400],[970,100],[970,210],[970,90]]}}}}
+   ]</script>
+
+    <meta charset="windows-1250">
+	<meta http-equiv="cache-control" content="no-cache">
+	
+
+
+
+<meta name="viewport" content="width=1030">
+
+<title>Poradny</title>
+
+<meta property="og:title" content="Poradny">
+
+<meta name="cXenseParse:pageclass" content="frontpage"/>
+<meta name="cXenseParse:qiw-typobsahu" content="home"/>
+<meta name="cXenseParse:qiw-subsection" content=""/>
+<meta name="cXenseParse:qiw-ostrov" content="servis"/>
+<meta name="cXenseParse:qiw-rubrika" content="servis"/>
+<meta name="cXenseParse:qiw-vylouceni" content="" data-separator=","/>
+<meta name="cXenseParse:qiw-iabgeneea" content="" data-separator=","/>
+
+
+<link rel="preload" href="https://1gr.cz/fotky/idnes/14/082/p135/JUP555640_IMG_0153_1.JPG" as="image">
+
+<meta property="og:type" content="website">
+
+<meta property="og:site_name" content="iDNES.cz">
+
+<meta property="article:author" content="https://www.facebook.com/iDNES.cz">
+<link rel="previewimage" href="https://1gr.cz/o/ogimage/idnes-new.jpg">
+<meta property="og:image" content="https://1gr.cz/o/ogimage/idnes-new.jpg">
+
+
+	<meta property="fb:app_id" content="120489248467">
+
+<meta property="fb:pages" content="100683176313" />
+
+
+<link rel="shortcut icon" href="//1gr.cz/u/favicon/idnes.ico">
+
+<link rel="apple-touch-icon" href="//1gr.cz/u/favicon/apple-touch-icon.png">
+
+<style type="text/css">
+ @import "//1gr.cz/css/idn4/uni.css?rr=1707398987108";
+ @import "//1gr.cz/css/externi/reklama.css?rr=1710492380665";
+ @import "//1gr.cz/css/idn4/portal.css?rr=1715949183036";
+ @import "//1gr.cz/css/idn4/layout.css?rr=1715330959922";
+ @import "//1gr.cz/css/idn4/supply.css?rr=1716537094435";
+ @import "//1gr.cz/css/idn4/vice.css?rr=1600854181684";
+</style>
+
+<script type="text/javascript" src="//1gr.cz/js/uni/uni.js?rr=1715004837843"></script>
+
+
+<script src="https://cdn.cpex.cz/cmp/v2/cpex-cmp.min.js" async></script>
+
+<script>var adformtag = window.adformtag = window.adformtag || []; adformtag.push(function () { adformtag.setRequestParam('gdpr', '1'); });</script>
+
+<script>
+    window.didomiOnReady = window.didomiOnReady || [];
+    window.didomiOnReady.push(() => {
+        const consent = Didomi.getUserConsentStatusForAll()
+        const granted = consent.purposes.disabled.length === 0
+        const firstParty = localStorage.getItem('euconsent-v2')
+        const testGroup = Didomi.getExperiment()?.group
+        if (!granted && !firstParty && testGroup === 'test') {
+            Didomi.notice.show()
+        }
+    })
+</script><!-- G:Up servis-->
+<!-- Gemius2013: Servis -->
+<script>
+if((/tech_max=[^;]*aplikace=1/.test(document.cookie)) || (/dCMP=[^;]*gemius=1/.test(document.cookie)) || !(typeof(Didomi) == "undefined" || !Didomi.getUserStatus().vendors.consent.enabled.includes(328)))
+{ 
+var pp_gemius_consent = true;
+} else
+{
+var pp_gemius_use_cmp = true; 
+}
+if(!/(^|;)\s*nogemius=/.test(document.cookie)){
+var pp_gemius_identifier = 'Bx01lGdoXRMTw5pOzh9zD6cV.KjUJ0yiN54T_c9B0qD.37';
+
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('gemius_init'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event'); gemius_pending('pp_gemius_init'); (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');gt.setAttribute('defer','defer'); gt.src=l+'://spir.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+}
+</script>
+<script>Log.carkovacka("d=D&c=F&a=F&v=B");</script><!-- Analytics: idnes -->
+<!-- Google Tag Manager -->
+<script>if(!dataLayer) var dataLayer = []; if(MujPAS.prihlasen) dataLayer.push({'userType': 'member'});</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WD22KH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WD22KH');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<script>
+    consentFunction = function () {
+        if (/dCMP=[^;]*piano=1/.test(document.cookie) || !(typeof (Didomi) == "undefined" || !Didomi.getUserStatus().vendors.consent.enabled.includes(412))) {
+            var id = document.cookies.read("_mmid");
+            var webIdCookie = document.cookies.read("\x5fwebid");
+            if (id) {
+                window.pdl = window.pdl || {};
+                window.pdl.browserId = id;
+                if (!Math.floor(Math.random() * 1000)) Log.ping(location.href, "logpiano\x5Fmmid\x5Fx1000");
+            }
+            else {
+                Log.ping(location.href, "logpiano\x5Fnommid\x5F" + (webIdCookie ? "" : "no") + "webid" + (webIdCookie ? "\x5F" + webIdCookie[0] : ""));
+            }
+            var s = document.createElement("script");
+            document.getElementsByTagName("head")[0].appendChild(s);
+            s.src = "https://cdn.tinypass.com/api/tinypass.min.js";
+        }
+
+
+
+
+        tp = window.tp || [];
+        tp.push(["setAid", 'ldpllFOBpe']);
+        tp.push(["setCxenseSiteId", "4732542837648372374"]);
+        tp.push(["setEndpoint", 'https://buy-eu.piano.io/api/v3']);
+        tp.push(["setEspEndpoint", 'https://api-esp-eu.piano.io']);
+        tp.push(["setUseTinypassAccounts", false]);
+        tp.push(["setUsePianoIdUserProvider", true]);
+        var userState = Unidata.isLogged ? (Unidata.isSubscriber ? ["subscriber"] : ["logged"]) : ["notlogged"];
+        tp.push(["setContentIsNative", Unidata.ostrov == "sdelenih"]);
+
+        tp.push(["setCustomVariable", "premTarif", "tarif-none"]);
+        tp.push(["setCustomVariable", "premFreq", "freq-none"]);
+        tp.push(["setCustomVariable", "premMethod", "meth-none"]);
+        tp.push(["setCustomVariable", "premAction", "act-none"]);
+        tp.push(["setCustomVariable", "premDiscount", "disc-none"]);
+        tp.push(["setCustomVariable", "premMkt", "mkt-0"]);
+        tp.push(["setCustomVariable", "premTime", "time-morepass"]);
+        tp.push(["setCustomVariable", "premTier", "_none"]);
+        tp.push(["setCustomVariable", "premPrice", "0"]);
+        tp.push(["setCustomVariable", "premNextPrice", "0"]);
+        tp.push(["setCustomVariable", "testVerze", "verze-B"]);
+        tp.push(["setCustomVariable", "webVerze", "full"]);
+        tp.push(["setCustomVariable", "userState", userState]);
+        tp.push(["setCustomVariable", "content", "free"]);
+        
+
+        var setCustomParameters = {
+            "qiw-premTarif": "tarif-none",    
+            "aev-premTarif": "tarif-none",    
+            "qiw-premFreq": "freq-none", 
+            "qiw-premMethod": "meth-none", 
+            "qiw-premAction": "act-none", 
+            "qiw-premDiscount": "disc-none", 
+            "qiw-premMkt": "mkt-0", 
+            "qiw-premTime": "time-morepass", 
+            "qiw-testVerze": "verze-B",
+            "qiw-webVerze": "full",
+            "qiw-content": "free"
+        };
+
+        var cX = cX || { options: { consent: true, consentVersion: 2 } }; cX.callQueue = cX.callQueue || [];
+        cX.callQueue.push(["setCustomParameters", setCustomParameters]);
+        cX.callQueue.push(['setCustomParameters', { 'userState': userState }]);
+        cX.callQueue.push(['setEventAttributes', { origin: 'qiw-idnes', persistedQueryId: '65782737c003a46ada22fb6a671d723069bfcc74' }]);
+
+        var consent = (/dCMP=[^;]*piano=1/.test(document.cookie) || !(typeof (Didomi) == "undefined" || !Didomi.getUserStatus().vendors.consent.enabled.includes(412)));
+        cX.callQueue.push(['setConsent', { pv: consent, segment: consent, ad: consent, recs: consent, geo: consent, device: consent }]);
+
+        tp.push(["init", function () {
+            tp.experience.init();
+        }]);
+    };
+
+    consentFunction();
+</script>
+</head>
+<body>
+    
+    <div id="main">
+        <div class="counters">
+            
+        </div>
+        <table id="r-leaderboardhp" class="r-main ahead s_branding"><tr><td><div class="r-head"><span></span></div><div class="r-body"><div id='branding'></div></div></td></tr></table>
+            <div class="m-bg-1">
+	            <div class="m-bg-2">
+		            <div class="m-bg-3">
+			            <div class="m-bg-4">
+                            <div class="iph" id="iph">
+	        <div id="iph-row" class="iph-row" score-box="menu2024-top">
+                
+		        <div class="iph-logo" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+                        <meta itemprop="url" content="https://www.idnes.cz">
+                        <meta itemprop="name" content="iDNES.cz">
+                        <a href="//www.idnes.cz/" title="iDNES.cz" score-place="1" score-type="Section" score-id="idnes" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">iDNES.cz<meta itemprop="url" content="https://1gr.cz/u/loga-n4/idnes.svg"></a> </div>
+		        <div class="iph-row-in">
+                    <div class="iph-prem"> 
+        <a href="https://www.idnes.cz/ucet/platba-jen-mesicni-3za49?url=https%3A%2F%2Fwww.idnes.cz%2Fpremium%3Fzdroj%3Dtopmenu" class="btn-prem"> Premium</a>
+		<p>Získejte všechny články mimořádně<br> jen&nbsp;za&nbsp;49&nbsp;Kč/3 měsíce</p>
+	</div>
+			        
+                    
+		        </div>
+		        <div class="iph-row-in">
+			        <ul class="iph-icolist">
+                        
+				        <li><a href="https://www.idnes.cz/ucet/prihlasit?url=https%3A%2F%2Fvice.idnes.cz%2Fporadna.aspx" class="ico-login0" score-place="1" score-type="Other" score-id="prihlasit">Přihlásit</a> <a href="https://www.idnes.cz/ucet" id="ico-login1" class="ico-login1" score-place="1" score-type="Other" score-id="mujucet">Můj účet</a></li>
+				        
+                        <li>
+                            
+                            <a onClick="element('iph-row').appendChild(element('portalmenu')); element('portalmenu').classes.toggle('visible'); element(this).classes.toggle('active');" class="ico-menu">Menu</a>
+					        </li>
+                    </ul>
+                    <script>
+                        if (Unidata.inbox)
+                            element('ico-login1').innerHTML = "<i>1</i> Můj účet";
+                    </script>
+		        </div>
+	        </div>
+			
+	        <ul class="iph-breadcrumb" id="iph-row2" score-box="menu2024-breadcrumb">
+                
+                    <li><a href="https://www.idnes.cz/sluzby" score-place="1" score-type="Other" score-id="servis" title="Služby">Služby</a>
+                        
+                    </li>
+                
+	        </ul>
+            
+	        <ul class="iph-menu1" id="iph-row3" score-box="menu2024-standard">
+                
+                    <li><a href="https://www.idnes.cz/zpravodajstvi-do-emailu" score-place="2" score-type="Other" score-id="" title="Zprávy do mailu">Zprávy do mailu</a>
+                        
+                    </li>
+                
+                    <li><a href="http://aplikace.idnes.cz/" score-place="2" score-type="Other" score-id="" title="Zprávy na mobil">Zprávy na mobil</a>
+                        
+                    </li>
+                
+                    <li><a href="http://rss.idnes.cz/" score-place="2" score-type="Other" score-id="" title="RSS">RSS</a>
+                        
+                    </li>
+                
+                    <li><a href="https://www.mafra.cz/volnamista/" score-place="2" score-type="Other" score-id="" title="Volná místa">Volná místa</a>
+                        
+                    </li>
+                
+                    <li><a href="http://sluzby.mafra.cz/" score-place="2" score-type="Other" score-id="" title="Reklama">Reklama</a>
+                        
+                    </li>
+                
+                    <li><a href="https://www.idnes.cz/kontakty" score-place="2" score-type="Other" score-id="" title="Kontakty">Kontakty</a>
+                        
+                    </li>
+                
+                    <li><a href="https://www.mafra.cz/portfolio.aspx?y=mafra/portfolio-idnes.htm&cat=internet" score-place="2" score-type="Other" score-id="" title="O iDNES.cz">O iDNES.cz</a>
+                        
+                    </li>
+                
+	        </ul>
+            
+        </div>
+        
+        <script>Misc.rozdelMenu()</script>
+        
+<style>
+#iph { position: sticky; top: 0; /*width: 1030px;*/ z-index:99; top: -10rem; box-shadow:0 .5rem 5rem rgba(0,0,0,0); transition: box-shadow 1s; }
+#iph.shadow { box-shadow:0 .5rem 1rem rgba(0,0,0,.08) }
+</style>
+<script>
+(function()
+{
+  var offset = pageYOffset;
+  var y = 0;
+  window.addEventListener("scroll", function()
+  {
+    var iph = element("iph");
+    var max = iph.offsetHeight * 1.1;
+    y = Math.min(Math.max(y - (pageYOffset - offset), -max), 0);
+    iph.style.top = y + "px";
+    iph.classes.toggle("shadow", y > -max && iph.parentNode.getBoundingClientRect().top < 0);
+    offset = pageYOffset;
+  }, false);
+})();
+</script>
+                            
+                                    <div id="content" class="content">
+                                        <!--reminderfcid-->
+	                                    <div class="col-a"><div id="poradny2">
+            <h1>Poradny</h1>
+            <div class="por-top">
+                <p>Nevíte si s něčím rady? Ptejte se odborníků ve specializovaných poradnách na iDNES.cz.</p>
+                <form action="" method="get">
+                    <div class="por-search">
+                        <input type="text" class="inp" name="q">
+                        <button type="submit" class="sbm" onclick="this.form.submit()">&nbsp;</button>
+                        <div class="fc0"></div>
+                    </div>
+                </form>
+                <div class="fc0"></div>
+            </div>
+            <h2>Aktuálně v poradnách</h2>
+            <div class="por-lactual">
+                
+                        <div class="por-art bg0">
+    <h3>
+        <a href="https://www.idnes.cz/onadnes/poradna-seznamovaci-a-vztahove-koucky-mgr-libuse-konopove.CFLIRTASEZNMEN">
+            <img alt="Libuše Konopov&#225;, vztahov&#225; koučka" src="//1gr.cz/fotky/idnes/14/082/p135/JUP555640_IMG_0153_1.JPG" title="Libuše Konopov&#225;, vztahov&#225; koučka" width="135" height="101">
+            <br class="h">
+            Poradna seznamovací a vztahové koučky Mgr. Libuše Konopové
+        </a>
+    </h3>
+    <p class="perex">Dobrý den, mám na vás otázku. Je mi 31 let a stýkám se několik měsíců s jedním mužem. Na začátku se mi zdál perfektní, hodně jsme si rozuměli, je svědomitý, má o mě velký zájem, znám jeho rodiče, hezky se o mě stará.
+<br>Pak jsme začali jezdit na...<a class="more" href="https://www.idnes.cz/onadnes/poradna-seznamovaci-a-vztahove-koucky-mgr-libuse-konopove.CFLIRTASEZNMEN&amp;idq=268975#por-discussion-top"><span></span>Přejít do poradny</a> </p>
+    <div class="fc0"></div>
+</div>
+                    
+                        <div class="por-art bg1">
+    <h3>
+        <a href="https://www.idnes.cz/onadnes/tyra-vas-partner-poradi-vam-socioterapeutka-zdena-prokopova.Ctyranezeny">
+            <img alt="Zdena Prokopov&#225;" src="//1gr.cz/fotky/idnes/10/051/p135/JUP32f2dd_ZdenaP.jpg" title="Zdena Prokopov&#225;" width="135" height="101">
+            <br class="h">
+            Týrá vás partner? Poradí vám socioterapeutka Zdena Prokopová
+        </a>
+    </h3>
+    <p class="perex">Dobrý den,
+<br>jsem ZTP, manžel mě likviduje, kde mohu požádat o ochranu osobnosti ?  Důkazy nemám žádné, rodina i můj lékař věří jemu. Ale mají to v rodě....<a class="more" href="https://www.idnes.cz/onadnes/tyra-vas-partner-poradi-vam-socioterapeutka-zdena-prokopova.Ctyranezeny&amp;idq=268969#por-discussion-top"><span></span>Přejít do poradny</a> </p>
+    <div class="fc0"></div>
+</div>
+                    
+                        <div class="por-art bg0">
+    <h3>
+        <a href="https://www.idnes.cz/onadnes/poradna-prakticke-lekarky-ludmily-mazylkinove-z-moje-ambulance.CA210126_948_poradna_jas">
+            <img alt="Praktick&#225; l&#233;kařka Ludmila Mazylkinov&#225; ze společnosti Moje ambulance" src="//1gr.cz/fotky/idnes/21/013/p135/PET890307_20200914_204427.jpg" title="Praktick&#225; l&#233;kařka Ludmila Mazylkinov&#225; ze společnosti Moje ambulance" width="135" height="101">
+            <br class="h">
+            Poradna praktické lékařky Ludmily Mazylkinové z Moje ambulance
+        </a>
+    </h3>
+    <p class="perex">Dobrý den, užívám penicilín na 10 dní k tomu od Naturproduktu laktobacily+bifidobakterie. Mám po dobrání ANTB ještě užívat další probiotika? jaká jsou nejlepší? Děkuji AN   <a class="more" href="https://www.idnes.cz/onadnes/poradna-prakticke-lekarky-ludmily-mazylkinove-z-moje-ambulance.CA210126_948_poradna_jas&amp;idq=268971#por-discussion-top"><span></span>Přejít do poradny</a> </p>
+    <div class="fc0"></div>
+</div>
+                    
+                        <div class="por-art bg1">
+    <h3>
+        <a href="https://www.idnes.cz/finance/financni-poradna-idnes-cz.CA150130_347_poradna_jas">
+            <img alt="David Kučera ze společnosti Partners" src="//1gr.cz/fotky/idnes/17/011/p135/JAN688980_resource.jpg" title="David Kučera ze společnosti Partners" width="135" height="101">
+            <br class="h">
+            Finanční poradna iDNES.cz
+        </a>
+    </h3>
+    <p class="perex">Dobrý den,
+<br>mám penzijní spoření (transformovaný fond), chtěl bych přejít na DPS. Letos mi bude 60 let. Pokud přejdu na DPS platí pro mě, že ho musím mít minimálně 10 let, nebo ho mohu ukončit dříve?
+<br>Pokud dříve, bude nějakým způsoben...<a class="more" href="https://www.idnes.cz/finance/financni-poradna-idnes-cz.CA150130_347_poradna_jas&amp;idq=268965#por-discussion-top"><span></span>Přejít do poradny</a> </p>
+    <div class="fc0"></div>
+</div>
+                    
+                        <div class="por-art bg0">
+    <h3>
+        <a href="https://www.idnes.cz/onadnes/dietologicka-poradna-radka-nemce.Cnemec7">
+            <img alt="Dietolog Radek Němec." src="//1gr.cz/fotky/idnes/10/061/p135/JB338a34_nemec.jpg" title="Dietolog Radek Němec." width="135" height="101">
+            <br class="h">
+            Dietologická poradna Radka Němce
+        </a>
+    </h3>
+    <p class="perex">Dobrý den, vždy jsem byla hubená. Teď skoro v 50 se blížím k nadváze. Kila mě moc netrápí, spíše obrovské břicho. Mám více v pase než přes boky (95cm). Jsem docela drobná 154 cm. Nevím co s tím. Snažím se jíst zdravě, hodně zeleniny, nejím sladké....<a class="more" href="https://www.idnes.cz/onadnes/dietologicka-poradna-radka-nemce.Cnemec7&amp;idq=268961#por-discussion-top"><span></span>Přejít do poradny</a> </p>
+    <div class="fc0"></div>
+</div>
+                    
+            </div>
+            <h2>Seznam poraden</h2>
+            <div class="por-category">
+                <div class="box"></ul><h3>Bez kategorie</h3><ul><li><a href="https://www.idnes.cz/finance/na-financovani-bydleni-se-ptejte-odbornika-z-csob.CA141119_261_poradna_ven"></a> </li></ul><h3>Zdraví</h3><ul><li><a href="https://www.idnes.cz/onadnes/dietologicka-poradna-radka-nemce.Cnemec7">Dietologická poradna</a> </li><li><a href="https://www.idnes.cz/onadnes/fyzioterapeuticka-poradna-tymu-z-centra-namao.CA210125_961_poradna_jas">Fyzioterapeutická poradna</a> </li><li><a href="https://www.idnes.cz/onadnes/poradna-dedka-korenare.Ckorenar">Bylinkářská poradna</a> </li><li><a href="https://www.idnes.cz/onadnes/poradna-gynekologa-mudr-jana-sulce.CULC">Gynekologické potíže</a> </li><li><a href="https://www.idnes.cz/onadnes/poradna-ivy-malkove-ze-stop-obezite.Cmalkova">Stop obezitě</a> </li><li><a href="https://www.idnes.cz/onadnes/poradna-lekarnika-a-dietologa-pharmdr-martina-stanka.CSTANEK">Parafarmaceutická poradna</a> </li><li><a href="https://www.idnes.cz/onadnes/poradna-prakticke-lekarky-ludmily-mazylkinove-z-moje-ambulance.CA210126_948_poradna_jas">Poradna praktické lékařky</a> </li><li><a href="https://www.idnes.cz/onadnes/psychologicka-poradna.CA200327_794_poradna_jas">Zeptejte se na to, co vás trápí?</a> </li><li><a href="https://www.idnes.cz/onadnes/zubni-poradna-tymu-lekaru-z-dental-office-h33.CA210126_759_poradna_jas">Zubní poradna</a> </li></div><div class="box"><h3>Sport</h3><ul><li><a href="https://www.idnes.cz/xman/treninkova-poradna-vojty-berana.CTRENINKOVAPORADNA">Tréninková poradna</a> </li><li><a href="https://rungo.idnes.cz/bezecka-poradna-0ij-/poradna.aspx?p=A151106_300_poradna_jas">Poradna</a> *</li><li><a href="https://rungo.idnes.cz/bezecka-poradna-rungo-0tx-/poradna.aspx?p=A140401_369_poradna_kov">Vítek Kněžínek</a> *</li><li><a href="https://www.idnes.cz/cestovani/cykloporadna.Ccykloharfa">Cykloporadna</a> *</li><li><a href="https://www.idnes.cz/cestovani/skiporadna-lyzarska-poradna-pro-ctenare-idnes.Cskiporadna">Lyžařská poradna</a> *</li></ul><h3>Krása</h3><ul><li><a href="https://www.idnes.cz/onadnes/dermatologicka-poradna-tymu-laseroveho-centra-andel.CA140513_293_poradna_brv">Dermatologie a kožní onemocnění</a> </li><li><a href="https://www.idnes.cz/onadnes/kosmeticka-poradna-aleny-kimlove.CKOSMETIKA">Kosmetická poradna</a> </li><li><a href="https://www.idnes.cz/onadnes/poradna-plastickeho-chirurga-jakuba-miletina.CPlastika">Plastická chirurgie</a> </li><li><a href="https://www.idnes.cz/onadnes/poradna-vizazistky-simony-bartove.Cvizaz">Vizážista radí</a> </li><li><a href="https://www.idnes.cz/xman/vyzivova-poradna-phdr-miroslava-petra-phd.CVYZIVOVAPORADNA">Výživová poradna</a> </li></div><div class="box"><h3>Auto</h3><ul><li><a href="https://www.idnes.cz/auto/autoporadna-auto-esa.CAUTOESA">Ptejte se na vše o nákupu a prodeji ojetého vozu</a> </li><li><a href="https://www.idnes.cz/auto/autoservis.CAUTOSERVIS">Autoservis</a> </li><li><a href="https://www.idnes.cz/auto/pneuporadna.C30">Pneuporadna</a> *</li></ul><h3>Domácnost</h3><ul><li><a href="https://www.idnes.cz/onadnes/pravni-poradna-judr-romany-luzne.CRODINNPRAVO">Rodinné právo</a> </li><li><a href="https://www.idnes.cz/hobby/poradna-o-vytapeni.Ctopeni">Poradna o vytápění</a> *</li></ul><h3>Práce a finance</h3><ul><li><a href="https://www.idnes.cz/finance/financni-poradna-idnes-cz.CA150130_347_poradna_jas">Zeptejte se odborníka na vše co souvisí s penězi a investicemi</a> </li><li><a href="https://www.idnes.cz/onadnes/financni-poradna-vratislava-svobody.CFINANCE">Jak investovat a jak ušetřit? Zeptejte se odborníka.</a> </li><li><a href="https://www.idnes.cz/finance/otazky-a-odpovedi-z-trhu-prace.CPORADNAJOBDNESCZ">Poradna pracovního portálu jobDNES.cz</a> </li></ul><h3>Ostatní</h3><ul><li><a href="https://www.idnes.cz/onadnes/partnerska-poradna-psycholozky-jitky-douchove.CPORADNA3">Partnerská psychologie</a> </li><li><a href="https://www.idnes.cz/onadnes/poradna-seznamovaci-a-vztahove-koucky-mgr-libuse-konopove.CFLIRTASEZNMEN">Ptejte se single-koučky</a> </li><li><a href="https://www.idnes.cz/onadnes/tyra-vas-partner-poradi-vam-socioterapeutka-zdena-prokopova.Ctyranezeny">Týrané ženy</a> </li></ul></div><p>*Ukončená poradna</p>
+            </div>
+        </div></div>
+                                        <div class="col-b">
+	                                        
+	                                        <div id="nejnej" class="b-box prep-1">
+  <h2 class="nav">
+    <a id="nejnej-a1" class="nava-1" href="#">Nejnovější</a>
+    <a id="nejnej-a2" class="nava-2" href="#">Nejčtenější</a>
+  </h2>
+  <div class="arts-1" score-box="nejnovejsi">
+    <ul class="normal-ol">
+    
+            
+        <li>
+            <span class="time" id="timeetim-_1" datetime="2024-05-25T22:19:00.0000000">
+                22:19
+            </span>
+            <a  href="https://www.idnes.cz/zpravy/zahranicni/ukrajina-hypermarket-charkov-rusko-utok-zraneni-mrtvi-zelenskyj.A240525_165449_zahranicni_pari" score-place="1" score-type="Article" score-id="A240525_165449_zahranicni_pari" name="_1">
+                    Rusko zasáhlo hypermarket v Charkově, zemřelo šest lidí</a>        
+        </li>
+    
+
+
+        
+            
+        <li>
+            <span class="time" id="timeetim-_2" datetime="2024-05-25T22:11:00.0000000">
+                22:11
+            </span>
+            <a  href="https://www.idnes.cz/zpravy/zahranicni/velka-britanie-stihaci-letoun-spitfire-nehoda-pilot-neprezil.A240525_215801_zahranicni_pari" score-place="2" score-type="Article" score-id="A240525_215801_zahranicni_pari" name="_2">
+                    V Británii se zřítil historický stíhací letoun spitfire. Pilot pád nepřežil</a>        
+        </li>
+    
+
+
+        
+            
+        <li>
+            <span class="time" id="timeetim-_3" datetime="2024-05-25T20:00:00.0000000">
+                20:00
+            </span>
+            <a  href="https://www.idnes.cz/zpravy/domaci/detska-skupina-vyhlaska-hasici-rekonstrukce-bezpecnost.A240524_191232_domaci_vals" score-place="3" score-type="Article" score-id="A240524_191232_domaci_vals" name="_3">
+                    Každé osmé dětské skupině hrozí konec. Kvůli novince v požární vyhlášce</a>        
+        </li>
+    
+
+
+        
+            
+        <li>
+            <span class="time" id="timeetim-_4" datetime="2024-05-25T20:00:00.0000000">
+                20:00
+            </span>
+            <a  href="https://www.idnes.cz/zpravy/zahranicni/neorealismus-teorie-vzdalenost-vliv-ukrajina-nato-rusko.A240524_153033_zahranicni_vals" score-place="4" score-type="Article" score-id="A240524_153033_zahranicni_vals" name="_4">
+                    KOMENTÁŘ: Putin jako šéf korporátu. Neorealisté to tak popsali už dávno</a>        
+        </li>
+    
+
+
+        
+            
+        <li>
+            <span class="time" id="timeetim-_5" datetime="2024-05-25T19:45:00.0000000">
+                19:45
+            </span>
+            <a  href="https://www.idnes.cz/zpravy/zahranicni/putin-zelenskyj-zpochybneni-legitimity-mirove-rozhovory.A240525_193237_zahranicni_pari" score-place="5" score-type="Article" score-id="A240525_193237_zahranicni_pari" name="_5">
+                    Putinovy výroky o mně? Nudné, to on je nelegitimní prezident, říká Zelenskyj</a>        
+        </li>
+    
+
+
+        
+</ul>
+  </div>
+  <div class="arts-2" score-box="nejctenejsi">
+    <ul class="normal-ol">
+      
+          <li >
+      <span class="time">1.</span>
+      <a href="https://www.idnes.cz/zpravy/zahranicni/yeagerova-pin-up-modelky-eroticka-fotografie-usa-playboy-pageova-hefner.A240514_154858_zahranicni_jhr"  score-place="1" score-type="Article" score-id="A240514_154858_zahranicni_jhr" name="_1">Královna fetiše rozdráždila Ameriku. Její fotografce se klaní i feministky</a>
+    </li>
+        
+          <li >
+      <span class="time">2.</span>
+      <a href="https://www.idnes.cz/volby/filip-turek-eurovolby-2024-prisaha-motoriste.A240523_174242_volby_rtn"  score-place="2" score-type="Article" score-id="A240523_174242_volby_rtn" name="_2">Turek: Z Nerudové mi bývá špatně, o hlasy komoušů a progresivistů nestojím</a>
+    </li>
+        
+          <li >
+      <span class="time">3.</span>
+      <a href="https://www.idnes.cz/zpravy/zahranicni/iran-prezident-raisi-vrtulnik-havarie.A240519_145806_zahranicni_vajo"  score-place="3" score-type="Article" score-id="A240519_145806_zahranicni_vajo" name="_3">Vrtulník íránského prezidenta havaroval v mlze, záchranáři po něm pátrají</a>
+    </li>
+        
+          <li >
+      <span class="time">4.</span>
+      <a href="https://www.idnes.cz/volby/volebni-model-pruzkum-ano-ods-top-09-kdu-csl-pirati.A240507_081603_domaci_svm"  score-place="4" score-type="Article" score-id="A240507_081603_domaci_svm" name="_4">Srovnání průzkumů: Lidovcům umřeli  voliči, Konečná v eurovolbách sráží ANO</a>
+    </li>
+        
+          <li >
+      <span class="time">5.</span>
+      <a href="https://www.idnes.cz/zpravy/domaci/prezident-pavel-motocykl-zraneni.A240523_200209_domaci_tbr"  score-place="5" score-type="Article" score-id="A240523_200209_domaci_tbr" name="_5">Pavel se zranil na motorce. V nemocnici na pozorování zůstane několik dní</a>
+    </li>
+        
+    </ul>
+  </div>
+  <div class="fc0"></div>
+</div>
+<script type="text/javascript">Misc.prepinac({ id: "nejnej", pamatovat: 0 })</script>
+<div id="tip-redakci-div-zpravodaj"></div>
+	                                        
+	                                        
+	                                        
+                                        </div>
+                                        <div class="fc0"> </div>
+                                    </div>
+                                    <link rel="stylesheet" type="text/css" href="https://1gr.cz/css/externi/eyes-idn.css?rr=1690457471644"><div class="idneyes"><span id="sticky-end"></span><h2><u>Najdete na <span>iDNES.cz</span></u></h2><div class="idneyes-list" data-recombee-replace="replace-kolotoc">
+  
+      
+
+<div class="idneyes-item">
+    <div class="idneyes-item-in">
+        <h4><a href="https://www.idnes.cz/kultura">Kultura</a></h4>
+        <a  href="/_servix/recombee/collector.aspx?recommendation=00000000-0000-0000-0000-000000000000&page=A240524_114753_show_aktual_vlc&url=https%3a%2f%2fwww.idnes.cz%2fkultura%2fdivadlo%2fjan-kacer-reziser-herec-smrt.A240524_114753_show_aktual_vlc%3fzdroj%3dvybava_idnes" class="art-link" score-place="1" score-type="Article" score-id="A240524_114753_show_aktual_vlc" name="_1">
+            <h3>Zemřel herec a režisér Jan Kačer, legenda nové vlny i Činoherního klubu</h3>
+            <div class="art-img">
+                <img alt="„Vlastně jsem nikdy neměl ctiž&#225;dost něco b&#253;t. Nikdy by mě nenapadlo, že budu..." src="//1gr.cz/fotky/idnes/21/064/w230/IHA8c6bdf_Kaer_mafra_Petr_Kozlk_2.jpg" title="„Vlastně jsem nikdy neměl ctiž&#225;dost něco b&#253;t. Nikdy by mě nenapadlo, že budu..." width="229" height="129">
+            </div>
+        </a>
+    </div>
+</div>
+<!--Modify:articlelistTop0-->
+
+    
+      
+
+<div class="idneyes-item">
+    <div class="idneyes-item-in">
+        <h4><a href="https://www.idnes.cz/ekonomika">Ekonomika</a></h4>
+        <a  href="/_servix/recombee/collector.aspx?recommendation=00000000-0000-0000-0000-000000000000&page=A240521_133413_eko-zahranicni_rie&url=https%3a%2f%2fwww.idnes.cz%2fekonomika%2fdoprava%2fturbulence-zraneni-singapur-londyn.A240521_133413_eko-zahranicni_rie%3fzdroj%3dvybava_idnes" class="art-link" score-place="2" score-type="Article" score-id="A240521_133413_eko-zahranicni_rie" name="_2">
+            <h3>Smrt v oblacích. Let do Singapuru má po silných turbulencích jednu oběť</h3>
+            <div class="art-img">
+                <img alt="Letadlo singapursk&#233; leteck&#233; společnosti na letištn&#237; ploše pot&#233;, co pož&#225;dalo o..." src="//1gr.cz/fotky/idnes/24/053/w230/PIT7a2e003801_35aporeairlines_thailand.jpg" title="Letadlo singapursk&#233; leteck&#233; společnosti na letištn&#237; ploše pot&#233;, co pož&#225;dalo o..." width="230" height="129">
+            </div>
+        </a>
+    </div>
+</div>
+<!--Modify:articlelistTop1-->
+
+    
+      
+
+<div class="idneyes-item">
+    <div class="idneyes-item-in">
+        <h4><a href="https://www.idnes.cz/cestovani">Cestování</a></h4>
+        <a  href="/_servix/recombee/collector.aspx?recommendation=00000000-0000-0000-0000-000000000000&page=A240512_224958_na-kolo_fdv&url=https%3a%2f%2fwww.idnes.cz%2fcestovani%2fna-kole%2fworthersee-kolo-gravel-zavod-vakoc.A240512_224958_na-kolo_fdv%3fzdroj%3dvybava_idnes" class="art-link" score-place="3" score-type="Article" score-id="A240512_224958_na-kolo_fdv" name="_3">
+            <h3>Zahoďte tlustý bajk. Obratný štěrkolet je univerzál a sluší i holkám</h3>
+            <div class="art-img">
+                <img alt="W&#246;rthersee Gravel Race 2024" src="//1gr.cz/fotky/idnes/24/052/w230/FDV930c83a80a_a7307125.jpg" title="W&#246;rthersee Gravel Race 2024" width="230" height="129">
+            </div>
+        </a>
+    </div>
+</div>
+<!--Modify:articlelistTop2-->
+
+    
+      
+
+<div class="idneyes-item">
+    <div class="idneyes-item-in">
+        <h4><a href="https://www.idnes.cz/ekonomika">Ekonomika</a></h4>
+        <a  href="/_servix/recombee/collector.aspx?recommendation=00000000-0000-0000-0000-000000000000&page=A240520_091306_ekonomika_vebe&url=https%3a%2f%2fwww.idnes.cz%2fekonomika%2fdomaci%2fdorohliku-omv-startup-jidlo-fast-food-nadvornik.A240520_091306_ekonomika_vebe%3fzdroj%3dvybava_idnes" class="art-link" score-place="4" score-type="Article" score-id="A240520_091306_ekonomika_vebe" name="_4">
+            <h3>Párkům odzvonilo. Podnikatel lije do rohlíků svíčkovou a dobývá benzinky</h3>
+            <div class="art-img">
+                <img alt="Rohl&#237;k je naplněn&#253; om&#225;čkami, vede kuře na paprice, ale lze si d&#225;t i divoč&#225;ka,..." src="//1gr.cz/fotky/idnes/24/053/w230/VEB53bd551bf1_131736_16408591.jpg" title="Rohl&#237;k je naplněn&#253; om&#225;čkami, vede kuře na paprice, ale lze si d&#225;t i divoč&#225;ka,..." width="230" height="129">
+            </div>
+        </a>
+    </div>
+</div>
+<!--Modify:articlelistTop3-->
+
+    
+</div></div><script src="https://1gr.cz/js/zpravy/recombee-replace.js?01"></script>
+                                
+                            <div id="r-wallpaper" class="r-main m54 s_wallpaper"><div class="r-head"><span></span></div><div class="r-body"><div id='wallpaper'></div><div class="fc0"></div></div></div>
+<!--Cached--><div class="lachtan-out">
+    <div class="lachtan1">
+        <div score-box="lachtan2023-top-1">
+            <h4><a score-place="0" href="https://www.idnes.cz/hokej/ms-2024">MS v hokeji 2024</a></h4>
+            <ul>
+                <li><a score-place="1" href="https://www.idnes.cz/hokej/ms-2024/cesko-zakladni-skupina-praha-ostrava-souperi.A230529_094734_ms-hokej-2024_ivt" onmousedown="Log.link(this,'lachtan2023topbox')">Program MS v hokeji</a></li><li><a score-place="2" href="https://www.idnes.cz/hokej/ms-2024/poradatelstvi-hokejove-ms-2024-cesko.A190524_105318_ms-hokej-2019_par" onmousedown="Log.link(this,'lachtan2023topbox')">MS v Česku</a></li><li><a score-place="3" href="https://www.idnes.cz/hokej/ms-2024/ms-v-hokeji-2024-tiskova-konference-logo-graficka-identita.A230411_110324_ms-hokej-2023_ivt" onmousedown="Log.link(this,'lachtan2023topbox')">Logo MS 2024</a></li><li><a score-place="4" href="https://www.idnes.cz/hokej/ms-2024/rusko-belorusko-zakaz-startu-ms-2024-cesko.A230322_171550_reprezentace_rou" onmousedown="Log.link(this,'lachtan2023topbox')">Rusko a Bělorusko</a></li><li><a score-place="5" href="https://www.idnes.cz/wiki/sport/alois-hadamczik.K459049" onmousedown="Log.link(this,'lachtan2023topbox')">Alois Hadamczik</a></li>
+            </ul>
+        </div><div score-box="lachtan2023-top-2">
+            <h4>Zaměstnání</h4>
+            <ul>
+                <li><a score-place="1" href="https://www.jobdnes.cz/nabidky-prace" onmousedown="Log.link(this,'lachtan2023topbox')">Nabídky práce</a></li><li><a score-place="2" href="https://www.jobdnes.cz/brigady" onmousedown="Log.link(this,'lachtan2023topbox')">Brigády</a></li><li><a score-place="3" href="https://www.jobdnes.cz/zivotopis/" onmousedown="Log.link(this,'lachtan2023topbox')">Životopis online</a></li><li><a score-place="4" href="https://www.idnes.cz/finance/archiv/zakonik-prace.K448197" onmousedown="Log.link(this,'lachtan2023topbox')">Zákoník práce</a></li><li><a score-place="5" href="https://www.idnes.cz/finance/archiv/minimalni-mzda.K448178" onmousedown="Log.link(this,'lachtan2023topbox')">Minimální mzda</a></li><li><a score-place="6" href="https://www.idnes.cz/finance/archiv/starobni-duchod.K448263" onmousedown="Log.link(this,'lachtan2023topbox')">Důchody</a></li>
+            </ul>
+        </div><div score-box="lachtan2023-top-3">
+            <h4>Střední školy</h4>
+            <ul>
+                <li><a score-place="1" href="https://www.idnes.cz/stredni-skoly" onmousedown="Log.link(this,'lachtan2023topbox')">Seznam všech škol</a></li><li><a score-place="2" href="https://www.idnes.cz/wiki/temata/prijimacky.K89001" onmousedown="Log.link(this,'lachtan2023topbox')">Přijímačky 2024</a></li><li><a score-place="3" href="https://www.lidovky.cz/orientace/vzdelavani/stredni-skola-vyber-prijimacky-prihlasky.A231121_123342_ln-vzdelavani_hma" onmousedown="Log.link(this,'lachtan2023topbox')">Jak vybrat SŠ</a></li><li><a score-place="4" href="https://www.lidovky.cz/domov/prijimaci-zkousky-stredni-skoly-skolstvi-2024.A240101_163509_ln_domov_hud" onmousedown="Log.link(this,'lachtan2023topbox')">Změny u přijímaček</a></li><li><a score-place="5" href="https://www.idnes.cz/zpravy/domaci/prijimaci-zkousky-stredni-skoly-cermat-odvolani-pravidla.A230502_101801_domaci_imat" onmousedown="Log.link(this,'lachtan2023topbox')">Jak napsat odvolání</a></li><li><a score-place="6" href="https://www.idnes.cz/zpravy/domaci/prijimaci-zkousky-stredni-skola-cermat-devataci-testy-vysledky.A230414_144925_domaci_imat" onmousedown="Log.link(this,'lachtan2023topbox')">Přijímačky testy 2023</a></li>
+            </ul>
+        </div><div score-box="lachtan2023-top-4">
+            <h4><a score-place="0" href="https://www.idnes.cz/sport/biatlon/biatlon-svetovy-pohar-2023-2024-program-vysledky.A230404_100642_biatlon_ikuc">Biatlon 23/24</a></h4>
+            <ul>
+                <li><a score-place="1" href="https://www.idnes.cz/sport/biatlon/mistrovstvi-sveta-nove-mesto-na-morave-2024-program-vysledky.A230413_093429_biatlon_czo" onmousedown="Log.link(this,'lachtan2023topbox')">MS biatlon 2024</a></li><li><a score-place="2" href="https://www.idnes.cz/sport/biatlon/mistrovstvi-sveta-nove-mesto-na-morave-2024-program-vysledky.A230413_093429_biatlon_czo" onmousedown="Log.link(this,'lachtan2023topbox')">Program MS v biatlonu</a></li><li><a score-place="3" href="https://www.idnes.cz/wiki/sport/michal-krcmar.K459574" onmousedown="Log.link(this,'lachtan2023topbox')">Michal Krčmář</a></li><li><a score-place="4" href="https://www.idnes.cz/wiki/sport/tereza-vobornikova.K466926" onmousedown="Log.link(this,'lachtan2023topbox')">Tereza Voborníková</a></li><li><a score-place="5" href="https://www.idnes.cz/wiki/sport/marketa-davidova.K460923" onmousedown="Log.link(this,'lachtan2023topbox')">Markéta Davidová</a></li><li><a score-place="6" href="https://www.idnes.cz/wiki/sport/anastasia-kuzminova.K459118" onmousedown="Log.link(this,'lachtan2023topbox')">Anastasia Kuzminová</a></li>
+            </ul>
+        </div><div score-box="lachtan2023-top-5">
+            <h4><a score-place="0" href="https://www.idnes.cz/wiki/obecne/vlada-ceske-republiky.K5101722">Vláda</a></h4>
+            <ul>
+                <li><a score-place="1" href="https://www.idnes.cz/wiki/politika/petr-fiala.K455098" onmousedown="Log.link(this,'lachtan2023topbox')">Petr Fiala</a></li><li><a score-place="2" href="https://www.idnes.cz/wiki/politika/vit-rakusan.K455753" onmousedown="Log.link(this,'lachtan2023topbox')">Vít Rakušan</a></li><li><a score-place="3" href="https://www.idnes.cz/wiki/politika/marian-jurecka.K455274" onmousedown="Log.link(this,'lachtan2023topbox')">Marian Jurečka</a></li><li><a score-place="4" href="https://www.idnes.cz/wiki/politika/ivan-bartos-ceska-piratska-strana.K455241" onmousedown="Log.link(this,'lachtan2023topbox')">Ivan Bartoš</a></li><li><a score-place="5" href="https://www.idnes.cz/wiki/politika/marketa-pekarova-adamova.K455453" onmousedown="Log.link(this,'lachtan2023topbox')">Markéta Pekarová Adamová</a></li><li><a score-place="6" href="https://www.idnes.cz/wiki/politika/vlastimil-valek.K455956" onmousedown="Log.link(this,'lachtan2023topbox')">Vlastimil Válek</a></li>
+            </ul>
+        </div><div score-box="lachtan2023-top-6">
+            <h4>Témata</h4>
+            <ul>
+                <li><a score-place="1" href="https://www.idnes.cz/wiki/obecne/migrace.K5000041" onmousedown="Log.link(this,'lachtan2023topbox')">Migrace</a></li><li><a score-place="2" href="https://www.idnes.cz/koronavirus" onmousedown="Log.link(this,'lachtan2023topbox')">Koronavirus</a></li><li><a score-place="3" href="https://www.idnes.cz/wiki/temata/zelena-dohoda-pro-evropu-green-deal.K5234473" onmousedown="Log.link(this,'lachtan2023topbox')">Green Deal</a></li><li><a score-place="4" href="https://pocasi.idnes.cz/sucho.aspx" onmousedown="Log.link(this,'lachtan2023topbox')">Sucho</a></li><li><a score-place="5" href="https://www.idnes.cz/auto/zpravodajstvi/elektromobil.K458127" onmousedown="Log.link(this,'lachtan2023topbox')">Elektromobilita</a></li><li><a score-place="6" href="https://www.idnes.cz/finance/archiv/euro.K448158" onmousedown="Log.link(this,'lachtan2023topbox')">Euro</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="lachtan2" score-box="lachtan2023-bottom">
+        <h4>Nepřehlédněte</h4>
+        <ul>
+            <li class="num5"><a score-place="1"  href="https://www.idnes.cz/hokej/ms-2024/cesko-svycarsko-finale-jan-rutta-disciplinarni-komise.A240525_221013_ms-hokej-2024_ivt" onmousedown="Log.link(this,'lachtan2023temata')">Oslabení před finále. Dodatečná stopka pro Ruttu, Krejčík musel do nemocnice</a></li><li class="num5"><a score-place="2"  href="https://www.idnes.cz/sport/golf/grayson-murray-umrti.A240525_224103_sport-golf_rou" onmousedown="Log.link(this,'lachtan2023temata')">Odhlásil se z turnaje a den poté americký golfista Murray zemřel</a></li><li class="num5"><a score-place="3"  href="https://www.idnes.cz/sport/volejbal/evropska-liga-muzu-ukrajina-cesko.A240525_223526_volejbal_rou" onmousedown="Log.link(this,'lachtan2023temata')">Volejbalisté si poradili i s Ukrajinou a v Evropské lize zůstávají bez ztráty</a></li><li class="num5"><a score-place="4"  href="https://www.idnes.cz/praha/zpravy/metro-vlak-clovek-kolejiste-pocicie.A240525_223258_praha-zpravy_pari" onmousedown="Log.link(this,'lachtan2023temata')">V metru ve stanici Náměstí Republiky spadl do kolejiště člověk, vlaky nejezdí</a></li><li class="num5"><a score-place="5"  href="https://www.idnes.cz/fotbal/prvni-liga/trener-radoslav-kovac-pardubice-liberec.A240525_222335_fotbal_min" onmousedown="Log.link(this,'lachtan2023temata')">Jdu do Liberce. Trenér Kováč po konci v Pardubicích potvrdil nové angažmá</a></li><li class="num5"><a score-place="6"  href="https://www.idnes.cz/hokej/ms-2024/semifinale-mistrovstvi-sveta-v-hokeji-kanada-svycarsko-zpravodajstvi-online.A240524_154840_ms-hokej-2024_czo" onmousedown="Log.link(this,'lachtan2023temata')">Kanada - Švýcarsko 2:3N. Andrighetto zařídil v Praze evropské finále</a></li><li class="num5"><a score-place="7"  href="https://www.idnes.cz/sport/motorsport/moderni-petiboj-svetovy-pohar-ankara.A240525_221752_motorsport_rou" onmousedown="Log.link(this,'lachtan2023temata')">Moderní pětibojařka Hlaváčková byla na finále SP patnáctá, Kuf šestnáctý</a></li><li class="num5"><a score-place="8"  href="https://www.idnes.cz/zpravy/zahranicni/ukrajina-hypermarket-charkov-rusko-utok-zraneni-mrtvi-zelenskyj.A240525_165449_zahranicni_pari" onmousedown="Log.link(this,'lachtan2023temata')">Rusko zasáhlo hypermarket v Charkově, zemřelo šest lidí</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="footer">
+	<div class="content">
+        <a class="f-idn" href="https://www.idnes.cz/">iDNES.cz</a>
+		<ul id="f-lnk">
+			<li><a href="//vice.idnes.cz/popup/kontakt.aspx" onclick="return !window.open(this.href, '_blank', 'width=700,height=400');">Napište nám</a></li>
+			<li><a href="//www.idnes.cz/kontakty-redakce">Kontakty</a></li>
+			<li><a href="//sluzby.mafra.cz/">Reklama</a></li>
+			<li><a href="//www.idnes.cz/ucet/podminky-pouzivani">VOP</a></li>
+			<li><a href="//www.mafra.cz/osobni-udaje">Osobní údaje</a></li>
+			<li><a onclick="Didomi.preferences.show()">Nastavení soukromí</a></li>
+			<li><a href="//www.mafra.cz/cookies">Cookies</a></li>
+			<li><a href="//vice.idnes.cz/av-sluzby.aspx">AV služby</a></li>
+			<li><a href="//www.mafra.cz/volnamista/">Kariéra</a></li>
+			<li><a href="//www.mfdnes.cz/">Předplatné MF DNES</a></li>
+		</ul>
+        <ul id="f-sls">
+			<li><a class="ico-mbl" href="//www.idnes.cz/?setver=touch" onmousedown="if(!document.querySelector) return; var link = document.querySelector('link[rel=canonical]'); if(link) this.href = link.href + (link.href.indexOf('?') > -1 ? '&' : '?') + 'setver=touch';" rel="nofollow">mobil</a></li>
+			<li><a class="ico-eml" href="https://www.idnes.cz/zpravodajstvi-do-emailu">e-mail</a></li>
+			<li><a class="ico-rss" href="https://www.idnes.cz/rss">RSS</a></li>
+			<li><a class="ico-fcb" href="//www.facebook.com/iDNES.cz">Facebook</a></li>
+			<li><a class="ico-twt" href="//twitter.com/iDNEScz">Twitter</a></li>
+			<li><a class="ico-ins" href="//instagram.com/idnescz/">Instagram</a></li>
+			
+            <li><a class="ico-tik" href="https://www.tiktok.com/@idnescz">Tiktok</a></li>
+            <li><a class="ico-tgr" href="https://t.me/idnescz">Telegram</a></li>
+		</ul>
+        <a class="f-top" onclick="Log.ping(this, 'narolujnahoru');return Misc.naroluj(this)" href="#main"></a> 
+		<div id="copyright">&copy; 1998&ndash;2024 <a href="https://www.mafra.cz/">MAFRA,&nbsp;a.&nbsp;s.</a> a dodavatelé <a target="_blank" class="profimedia" rel="nofollow" href="//www.profimedia.cz/">Profimedia</a>, Reuters, ČTK, AP. Rozmnožování obsahu pro účely automatizované analýzy textů nebo dat dle ustanovení § 39c autorského zákona je bez souhlasu MAFRA,&nbsp;a.&nbsp;s. zakázáno. Jakékoliv užití obsahu včetně převzetí, šíření či dalšího zpřístupňování článků a fotografií je bez souhlasu MAFRA,&nbsp;a.&nbsp;s. zakázáno. Provozovatelem serveru iDNES.cz je MAFRA,&nbsp;a.&nbsp;s. IČ: 45313351.</div>
+		<a href="//www.idnes.cz/?setver=touch" onmousedown="if(!document.querySelector) return; var link = document.querySelector('link[rel=canonical]'); if(link) this.href = link.href + (link.href.indexOf('?') > -1 ? '&' : '?') + 'setver=touch'; Log.link(this,'mobile_set');" class="btn-mob" rel="nofollow">mobilní verze</a>
+			
+        <!-- lev.bruncvik@idnes.cz -->
+	</div>
+</div>
+
+
+
+<div class="counters">
+    
+    <div id="portalmenu" class="portalmenu"><!-- plachta -->
+    
+<div class="portalmenu-list-out" score-box="plachta">
+
+	<div class="portalmenu-list">
+        
+        <ul>
+            
+                <li><a href="https://www.idnes.cz/zpravy2" score-place="1" score-type="Other" score-id="zpravy2">Zpravodajství</a></li>
+            
+                <li><a href="https://www.idnes.cz/zpravy/domaci" score-place="1" score-type="Other" score-id="domaci">Domácí</a></li>
+            
+                <li><a href="https://www.idnes.cz/zpravy/zahranicni" score-place="1" score-type="Other" score-id="zahranicni">Zahraniční</a></li>
+            
+                <li><a href="https://www.idnes.cz/zpravy/cerna-kronika" score-place="1" score-type="Other" score-id="cerna-kronika">Krimi</a></li>
+            
+                <li><a href="https://www.idnes.cz/ekonomika" score-place="1" score-type="Other" score-id="ekonomika">Ekonomika</a></li>
+            
+                <li><a href="https://www.idnes.cz/finance" score-place="1" score-type="Other" score-id="finance">Finance</a></li>
+            
+                <li><a href="https://www.idnes.cz/kultura" score-place="1" score-type="Other" score-id="kultura">Kultura</a></li>
+            
+                <li><a href="https://www.idnes.cz/kraje" score-place="1" score-type="Other" score-id="kraje">Kraje</a></li>
+            
+                <li><a href="https://www.idnes.cz/revue" score-place="1" score-type="Other" score-id="revue">Revue</a></li>
+            
+                <li><a href="https://www.idnes.cz/volby" score-place="1" score-type="Other" score-id="volby">Volby</a></li>
+            
+                <li><a href="https://blog.idnes.cz/" score-place="1" score-type="Other" score-id="blog">Blogy</a></li>
+            
+                <li><a href="https://www.idnes.cz/podcasty" score-place="1" score-type="Other" score-id="podcast">Podcasty</a></li>
+            
+                <li><a href="https://tv.idnes.cz/rozstrel" score-place="1" score-type="Other" score-id="rozstrel">Rozstřel</a></li>
+            
+                <li><a href="https://www.idnes.cz/zpravy/mediahub" score-place="1" score-type="Other" score-id="mediahub">Mediahub</a></li>
+            
+                <li><a href="https://tvprogram.idnes.cz/" score-place="1" score-type="Other" score-id="tvprogram">TV program</a></li>
+            
+        </ul>
+        
+        <ul class="touchh">
+            
+                <li><a href="https://www.idnes.cz/kraje" score-place="1" score-type="Other" score-id="kraje">Kraje</a></li>
+            
+                <li><a href="https://www.idnes.cz/praha" score-place="1" score-type="Other" score-id="praha">Praha a střední Čechy</a></li>
+            
+                <li><a href="https://www.idnes.cz/brno" score-place="1" score-type="Other" score-id="brno">Brno</a></li>
+            
+                <li><a href="https://www.idnes.cz/ceske-budejovice" score-place="1" score-type="Other" score-id="ceske-budejovice">České Budějovice</a></li>
+            
+                <li><a href="https://www.idnes.cz/hradec-kralove" score-place="1" score-type="Other" score-id="hradec-kralove">Hradec Králové</a></li>
+            
+                <li><a href="https://www.idnes.cz/jihlava" score-place="1" score-type="Other" score-id="jihlava">Jihlava</a></li>
+            
+                <li><a href="https://www.idnes.cz/karlovy-vary" score-place="1" score-type="Other" score-id="karlovy-vary">Karlovy Vary</a></li>
+            
+                <li><a href="https://www.idnes.cz/liberec" score-place="1" score-type="Other" score-id="liberec">Liberec</a></li>
+            
+                <li><a href="https://www.idnes.cz/olomouc" score-place="1" score-type="Other" score-id="olomouc">Olomouc</a></li>
+            
+                <li><a href="https://www.idnes.cz/ostrava" score-place="1" score-type="Other" score-id="ostrava">Ostrava</a></li>
+            
+                <li><a href="https://www.idnes.cz/pardubice" score-place="1" score-type="Other" score-id="pardubice">Pardubice</a></li>
+            
+                <li><a href="https://www.idnes.cz/plzen" score-place="1" score-type="Other" score-id="plzen">Plzeň</a></li>
+            
+                <li><a href="https://www.idnes.cz/usti" score-place="1" score-type="Other" score-id="usti">Ústí nad Labem</a></li>
+            
+                <li><a href="https://www.idnes.cz/zlin" score-place="1" score-type="Other" score-id="zlin">Zlín</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+                <li><a href="https://www.idnes.cz/sport" score-place="1" score-type="Other" score-id="sport">Sport</a></li>
+            
+                <li><a href="https://www.idnes.cz/hokej/ms-2024" score-place="1" score-type="Other" score-id="mshokej">MS v hokeji</a></li>
+            
+                <li><a href="https://www.idnes.cz/fotbal" score-place="1" score-type="Other" score-id="fotbal">Fotbal</a></li>
+            
+                <li><a href="https://www.idnes.cz/hokej" score-place="1" score-type="Other" score-id="hokej">Hokej</a></li>
+            
+                <li><a href="https://www.idnes.cz/sport/tenis/roland-garros.K5069600" score-place="1" score-type="Other" score-id="tenis">Roland Garros</a></li>
+            
+                <li><a href="https://www.idnes.cz/sport/tenis" score-place="1" score-type="Other" score-id="tenis">Tenis</a></li>
+            
+                <li><a href="https://www.idnes.cz/sport/cyklistika" score-place="1" score-type="Other" score-id="cyklistika">Cyklistika</a></li>
+            
+                <li><a href="https://www.idnes.cz/sport/atletika" score-place="1" score-type="Other" score-id="atletika">Atletika</a></li>
+            
+                <li><a href="https://www.idnes.cz/sport/basket" score-place="1" score-type="Other" score-id="basket">Basket</a></li>
+            
+                <li><a href="https://www.idnes.cz/sport/formule" score-place="1" score-type="Other" score-id="formule">Formule 1</a></li>
+            
+                <li><a href="https://www.idnes.cz/sport/mma" score-place="1" score-type="Other" score-id="mma">MMA</a></li>
+            
+                <li><a href="https://www.idnes.cz/sport/ostatni" score-place="1" score-type="Other" score-id="ostatni">Ostatní sporty</a></li>
+            
+                <li><a href="https://www.idnes.cz/oh/pariz-2024" score-place="1" score-type="Other" score-id="paris24">Paříž 2024</a></li>
+            
+                <li><a href="https://www.idnes.cz/sport/ostatni/reakce-sportu-na-valku-na-ukrajine.K35040" score-place="1" score-type="Other" score-id="rusko">Sport a Rusko</a></li>
+            
+                <li><a href="https://sport.idnes.cz/sportovni-vysledky.aspx" score-place="1" score-type="Other" score-id="sportovni-vysledky">Výsledky</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+                <li><a href="https://www.idnes.cz/magaziny" score-place="1" score-type="Other" score-id="magaziny-hp">Magazíny</a></li>
+            
+                <li><a href="https://www.idnes.cz/onadnes" score-place="1" score-type="Other" score-id="ona">Ona</a></li>
+            
+                <li><a href="https://www.idnes.cz/auto" score-place="1" score-type="Other" score-id="auto">Auto</a></li>
+            
+                <li><a href="https://www.idnes.cz/bydleni" score-place="1" score-type="Other" score-id="bydleni">Bydlení</a></li>
+            
+                <li><a href="https://www.idnes.cz/technet" score-place="1" score-type="Other" score-id="technet">Technet</a></li>
+            
+                <li><a href="https://www.idnes.cz/mobil" score-place="1" score-type="Other" score-id="mobil">Mobil</a></li>
+            
+                <li><a href="https://www.idnes.cz/cestovani" score-place="1" score-type="Other" score-id="cestovani">Cestování</a></li>
+            
+                <li><a href="https://www.idnes.cz/hobby" score-place="1" score-type="Other" score-id="hobby">Hobby</a></li>
+            
+                <li><a href="https://www.idnes.cz/xman" score-place="1" score-type="Other" score-id="xman">Xman</a></li>
+            
+                <li><a href="https://www.idnes.cz/hry" score-place="1" score-type="Other" score-id="hry">Bonusweb</a></li>
+            
+                <li><a href="https://www.idnes.cz/onadnes/zdravi" score-place="1" score-type="Other" score-id="zdravi">Zdraví</a></li>
+            
+                <li><a href="https://www.idnes.cz/kvizy" score-place="1" score-type="Other" score-id="kvizy-hp">Kvízy</a></li>
+            
+                <li><a href="https://www.idnes.cz/recepty" score-place="1" score-type="Other" score-id="recepty">Recepty</a></li>
+            
+                <li><a href="https://www.idnes.cz/krizovky/denni" score-place="1" score-type="Other" score-id="krizovky">Křížovky</a></li>
+            
+                <li><a href="https://pocasi.idnes.cz" score-place="1" score-type="Other" score-id="pocasi">Počasí</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+                <li><a href="https://www.expres.cz/" score-place="1" score-type="Other" score-id="expres">Expres</a></li>
+            
+                <li><a href="https://www.expres.cz/celebrity" score-place="1" score-type="Other" score-id="celebrity">Celebrity</a></li>
+            
+                <li><a href="https://www.expres.cz/video.aspx" score-place="1" score-type="Other" score-id="video">Video</a></li>
+            
+                <li><a href="https://www.expres.cz/zpravy" score-place="1" score-type="Other" score-id="zpravy">Zprávy</a></li>
+            
+                <li><a href="https://www.expres.cz/jenpromuze" score-place="1" score-type="Other" score-id="jenpromuze">Jen Pro Muže</a></li>
+            
+                <li><a href="https://www.expres.cz/speed" score-place="1" score-type="Other" score-id="speed">Speed</a></li>
+            
+                <li><a href="https://www.expres.cz/sport" score-place="1" score-type="Other" score-id="sport">Sport</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+                <li><a class="ttn" href="//tv.idnes.cz/" score-place="1" score-type="Other" score-id="idnes-tv">iDNES.tv</a></li>
+            
+                <li><a href="//tv.idnes.cz/archiv" score-place="1" score-type="Other" score-id="archiv">Zpravodajství</a></li>
+            
+                <li><a href="//tv.idnes.cz/zive.aspx" score-place="1" score-type="Other" score-id="zive">Živě</a></li>
+            
+                <li><a href="//tv.idnes.cz/slow.aspx" score-place="1" score-type="Other" score-id="slow">Slow</a></li>
+            
+                <li><a href="//tv.idnes.cz/porady.aspx" score-place="1" score-type="Other" score-id="porady">Pořady</a></li>
+            
+                <li><a href="//tv.idnes.cz/rozstrel.aspx" score-place="1" score-type="Other" score-id="rozstrel">Rozstřel</a></li>
+            
+                <li><a href="//kino.idnes.cz/" score-place="1" score-type="Other" score-id="kino">iDNES Kino</a></li>
+            
+        </ul>
+        
+	</div>
+    
+    <div class="portalmenu-idnprem"> 
+		<ul>
+            <li><a href="https://www.idnes.cz/premium" class="lgidnprem" onclick="">iDNES Premium</a></li>
+            
+                <li><a onclick=""  href="//www.idnes.cz/premium/clanky" score-place="1" score-type="Other" score-id="premium-clanky">Články</a></li>
+            
+                <li><a onclick=""  href="//www.idnes.cz/premium/sport" score-place="1" score-type="Other" score-id="premium-sport">Sport</a></li>
+            
+                <li><a onclick=""  href="//www.idnes.cz/premium/zdravi" score-place="1" score-type="Other" score-id="premium-zdravi">Zdraví</a></li>
+            
+                <li><a onclick=""  href="//www.idnes.cz/premium/sluzby" score-place="1" score-type="Other" score-id="premium-vyhody">Benefity</a></li>
+            
+        </ul>
+	</div>
+
+    
+</div>
+<div class="portalmenu-search">	
+    <form action="https://1gr.cz/log/search.aspx">
+		<div id="p-words">
+			<div id="words" ></div>
+		</div>
+		<input type="text" id="slovo" name="slovo" autocomplete="off" class="inp" placeholder="Zadejte hledaný výraz">
+		<input type="submit" value="Hledej na iDNES.cz" name="search" class="sen">
+	</form>   
+</div>
+
+<div class="portalmenu-sme-out" score-box="plachtasme">
+	<div class="portalmenu-sme">
+		
+        <ul>
+            
+                <li><a href="https://www.idnes.cz/hokej/ms-2024" score-place="1" score-type="Other" score-id="programMS">Program MS v hokeji</a></li>
+            
+                <li><a href="https://www.akcniceny.cz/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="akcniceny">AkčníCeny.cz</a></li>
+            
+                <li><a href="https://www.expres.cz/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="expres">Expres.cz</a></li>
+            
+                <li><a href="https://www.idnes.cz/sluzby" score-place="1" score-type="Other" score-id="sluzby">Ještě více</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+                <li><a href="https://www.idnes.cz/volby/evropsky-parlament/2024/kandidatky" score-place="1" score-type="Other" score-id="kandidatky">Kandidátky pro Eurovolby</a></li>
+            
+                <li><a href="https://www.vratnepenize.cz/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="vratnepenize">Vratné peníze</a></li>
+            
+                <li><a href="https://www.emimino.cz/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="emimino">eMimino.cz</a></li>
+            
+                <li><a href="https://www.jobdnes.cz/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="jobdnes">JobDNES.cz</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+                <li><a href="https://www.idnes.cz/volby/volby-evropsky-parlament-2024-volicsky-prukaz.A240522_113624_domaci_roku" score-place="1" score-type="Other" score-id="prukaz">Voličský průkaz</a></li>
+            
+                <li><a href="https://www.mojeportmonka.cz/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="mojeportmonka">Portmonka</a></li>
+            
+                <li><a href="https://www.rajce.net/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="rajce">Rajče.net</a></li>
+            
+                <li><a href="https://passmachine.eu" score-place="1" score-type="Other" score-id="passmachine">Digitální karty</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+                <li><a href="https://www.idnes.cz/fotbal/euro-2024" score-place="1" score-type="Other" score-id="euro24">Fotbalové Euro 2024</a></li>
+            
+                <li><a href="https://www.idnes.cz/slavnefotky" score-place="1" score-type="Other" score-id="slavnefoto">Slavné fotografie</a></li>
+            
+                <li><a href="https://www.modnipeklo.cz/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="modnipeklo">Módnípeklo.cz</a></li>
+            
+                <li><a href="https://jizdnirady.idnes.cz/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="jizdnirady">Jízdní řády</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+                <li><a href="https://www.idnes.cz/hokej/ms-2024/zakazane-uvolneni.K22127" score-place="1" score-type="Other" score-id="uvolneni">Zakázané uvolnění</a></li>
+            
+                <li><a href="https://www.mfdnes.cz/" score-place="1" score-type="Other" score-id="mfdnes">Předplatné MF DNES</a></li>
+            
+                <li><a href="https://reality.idnes.cz/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="reality">Reality.iDNES.cz</a></li>
+            
+                <li><a href="https://www.mobil.cz/#utm_source=sph.idnes&utm_medium=text&utm_content=navigace-dalsi" score-place="1" score-type="Other" score-id="mobilcz">MOBIL.CZ</a></li>
+            
+        </ul>
+        
+	</div>
+</div>
+ <div class="portalmenu-cookies">
+    <ul>
+        <li><a href="https://www.mafra.cz/o-spolecnosti.aspx?y=mafra_all/pouceni.htm&cat=pouceni#cookies">Cookies</a></li>
+        <li><a href="javascript:;" onclick="Didomi.preferences.show()">Nastavení cookies</a></li>
+    </ul>
+</div></div>
+    <div id="portalogin" class="portalogin"><ul class="portalogin-nav">
+    <li><a href="https://www.idnes.cz/ucet/prihlasit?url=https%3A%2F%2Fvice.idnes.cz%2Fporadna.aspx">Přihlášení</a></li>
+</ul></div>
+    
+</div>
+<div id="pianoreminder"></div>
+
+<script>
+    
+    moveReminder("pianoreminder");
+    
+    function moveReminder(name) {
+        var wrapper = element(name);
+        if (wrapper) {
+            var place = findPlace();
+            if (place) place.parentElement.insertBefore(wrapper, place);
+            else wrapper.classes.add("h");
+        }
+    }
+
+    function insertAfter(newNode, referenceNode) {
+        referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+    }
+
+    function findPlace() {
+        if (Unidata.touch) {
+            if (element("sphlist")) return element("sphlist").nextSibling;
+            if (element("packetbox-news")) return element("packetbox-news").nextSibling;
+            if (element("@.shp-opener")) return element("@.shp-opener").nextSibling;
+            if (element("@.art-full")) return element("@.art-full").firstChild;
+            if (element("wrapper")) return element("wrapper").firstChild;
+        } else {
+            if (element("@.row-top")) return element("@.row-top").nextSibling;
+            if (element("content")) return element("content").firstChild;
+        }
+        return null;
+    }
+    function closeReminder(wrapper, id) {
+        Loader.load(DATA_ASPX + "type=reminder&close=" + id);
+        element(wrapper).classes.add("h");
+    }
+</script>
+
+
+<script>
+    !function(n,t){"use strict";var e,r,i=t.createElement.bind(t),o="auto".replace("u","")+"b",a=F("tenntsidadvLeeEr",443),u=F("emifar",443),c=Math;try{r=n.btoa,e=n[o]}catch(n){t.currentScript.src="\r",function(){var n="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";function t(n){this.message=n}(t.prototype=new Error).name="InvalidCharacterError",r=function(e){for(var r,i,o=String(e),a=0,u=n,c="";o.charAt(0|a)||(u="=",a%1);c+=u.charAt(63&r>>8-a%1*8)){if(255<(i=o.charCodeAt(a+=.75)))throw new t("'bt oa' failed");r=r<<8|i}return c},e=function(e){var r=String(e).replace(/[=]+$/,"");if(r.length%4==1)throw new t("'at ob' failed");for(var i,o,a=0,u=0,c="";o=r.charAt(u++);~o&&(i=a%4?64*i+o:o,a++%4)?c+=String.fromCharCode(255&i>>(-2*a&6)):0)o=n.indexOf(o);return c}}()}var f=F("eicoko",443),l=y(e("dHMuZGVidWc9MQ=="))||y(e("dHNfbG9nPTE="))?console.log.bind(console,"[d]"):function(){};function m(n,e){var r=i(n||"div");return e&&(r.id=e,r.className=e),(t.body||t.head).appendChild(r),r}function s(n){n.parentNode.removeChild(n)}function d(n,e,r,i){var o="";i.t&&(o="domain=."+k(i.t)+";");var a=n+"=;expires="+p(-1)+";path=/;";v(a),v(a+"domain=."+location.hostname),v(a+"domain=."+k(2));var u="https:"===t.location.protocol?"Secure; SameSite=None;":"";v(n+"="+e+"; "+o+" expires="+p(r||30)+"; "+u+" path=/")}function v(n){t.cookie=n}function b(n,t){return c.floor(c.random()*(t-n+1))+n}function h(){return c.random().toString(36).replace(/[^a-z]+/g,"")}function p(n){var t=new Date;return t.setTime(t.getTime()+864e5*n),t.toUTCString()}function k(n){return location.hostname.split(".").slice(-n).join(".")}function y(n){return t[f].indexOf(n)>-1}function w(e){(function(){if(t.body){var e=i(u);e.style.display="none",t.body.appendChild(e);var r=e.contentWindow;c=r.Math;var o=r[a].bind(n);return s(e),o}})()("beforeunload",e)}function _(){try{var t=n.localStorage;return t&&t.getItem("tmp"),t}catch(n){return l("localStorage err"),null}}function Z(n){l("exit",n),n.i?(l(n.o+" on"),d("a.d.b.o.f.f",0,-1,n),d(n.u,1,30,n),d(n.l,h()+n.m+h(),1,30),function(n){if(!y(n.s+"=")){var t=b(9e3,9e10);d(n.v,t,30,n),d(n.s,h(),1/24,n),l(n.v,t)}}(n)):(l(n.o+" off"),d("a.d.b.o.f.f",1,2e-4,n),d(n.u,0,-1,n),d(n.l,0,-1,n),d(n.v,0,-1,n),d(n.s,0,-1,n)),n.h&&!n.p&&d(n.k,b(1,100),1,n)}function g(n){l("elem test");var r=e("YmFubmVyIHNrbGlrIHJla2xhbXkgcHJvbW8tYm94IHNrbGlrUmVrbGFtYSBiYW5uZXItd3JhcHBlciBsZWFkZXIgYm1vbmUybiBhZHZfY29udGFpbmVyIGFkdnRvcA==")+" "+e("YWZzX2FkcyBza2xpay1hZHMgc2tsaWstYWQgcmVrbGFtYSBldGFyZ2V0UmVrbGFtYSBBZFRvcA=="),o=m("div");o.className=r,setTimeout(function(){o.offsetParent?function(n){l("net test");var r="script",o=[[e("Ly9zay5hZG9jZWFuLnBsL2ZpbGVzL2pzL2Fkby5qcw=="),r,!1],[e("Ly9nby5ldS5iYmVsZW1lbnRzLmNvbS9wbGVhc2UvY29kZQ=="),r,!1],[e("Ly9jei5zZWFyY2guZXRhcmdldG5ldC5jb20v"),r,!1]].sort((function(){return.5-c.random()})).slice(0,2),a=i(u);a.style.cssText="position:absolute;left:-20000px;width:1px;height:1px;top:-10px;",t.body.appendChild(a),function(n,t){var r=new XMLHttpRequest;r.open("GET",e("aHR0cHM6Ly9jZG4ucGVyZm9ybWF4LmN6L2Fkcw==")),r.onload=function(){200===r.status?(l("is Brave"),n._="Brave",n.Z=!0,n.g="net200",W(n)):t()},r.onerror=function(){t()},r.send()}(n,(function e(){var r=o.pop();if(r){var u=r[0],c=r[1],f=r[2];l("net url",u),function(n,e,r,o,a){if(!n)return;var u=i(a=a||"script");u.onerror=function(t){l(a,"err",n),r(u),s(u)},u.onload=function(t){l(a,"loaded",n),e(u),s(u)},u.src=n,(o||t.body).appendChild(u)}(u,(function(){n.Z=!1,W(n)}),(function(){var t;0===((t=o)&&t.length||0)?(n.Z=!0,n.g="net",W(n)):e()}),f&&a,c)}else l("net end")}))}(n):(l("blocked elem"),n.Z=!0,n.g="elem",W(n)),s(o)}.bind(this),n.G)}function G(n){return{had:n.W,has:n.Z,by:n.g,newState:n.i,segment:n.p,enforce:n.F,plugin:n._,ver:"v1.65.0",mod:1}}function W(n){n.R=!0;var t=n.Z;n.h&&n.p&&n.Z&&n.p>n.h&&(l("segment off:",n.p,n.h),t=!1),null!==n.F&&(l(n.o+" force",n.F),t=n.F),n.i=t,n.L(G(n));var r=y(e("ZXhhcG9yb3hiZQ=="));l(n.W,"=>",n.i,n._,"prx:",r),d(n.V,Number(n.i),30,n),1===n.N||(n.i||n.i!==n.W||r)&&w(()=>{Z(n)}),n.Y.main()}function F(n,t){var e=n.length;n=n.split("");for(var r=e-1;r>-1;r--){var i=(t-r+r*r)%e,o=n[r];n[r]=n[i],n[i]=o}return n.join("")}function R(n){var i=n.S,a=t.createElement.bind(t);var u,f=e("a3VudW51X211bA=="),m=(u=_())&&u.getItem(f+"_f")||n.M||u&&u.getItem(f)||n.B;this.skipMe=function(){if(t.head.io32)return void l("[k]","duplicity");t.head.io32=!0;var n=c.random();if(l("[k]","loader "+n+" > "+m/100),n>m/100&&(l("[k]","skip"),!i))return!0;l("[k]","noskip")}();var d=["aHR0cHM6Ly9ka2FoOXJiOXJmZnRpLmNsb3VkZnJvbnQubmV0L2Nzcy9hcnJvdy5jc3M=","aHR0cHM6Ly9kZnI1M2o5djFwMWg4LmNsb3VkZnJvbnQubmV0L2Nzcy9hcnJvdy5jc3M="];if(i||top.css_arrow){var v=top.css_arrow||"/css/arrow.css";d=[r(v),"L25vdC1mb3VuZA=="]}function b(e){var r,i,o,u=(r="kuarrow",o=a(i||"div"),r&&(o.id=r,o.className=r),(t.body||t.head).appendChild(o),o),c=getComputedStyle(u),m=c.backgroundImage;return function(n){l("[k]","set mul",n);var t=_();t&&t.setItem(f,n)}(Number(c.zIndex)||n.B),s(u),m}function h(t,r){var i=new Function(t),a={multiple:m,mobile:p(navigator.userAgent),plugin:n._,arrow:r?r.target.href.match(/\/\/([^/]+)/)[1]:"inline_stat_js",ver:"v1.65.0",loader:n.N,loader_ver:n.H};a[e("aGFkQWRibG9jaw==")]=n.W,a[e("aGFzQWRibG9jaw==")]=n.Z,a[o]=e,i.call(a)}function p(n){var t=n.match(/(Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini))/);return l("mobile:",t&&t[1]),Boolean(t)}function k(n){var t=b(),r=t&&t.match(/base64,([^"]+)"?\)/);r&&(l("[k]","call"),h(e(r[1]).split("HuGo")[1],n))}this.main=function(){if(top.stat_code)return h(top.stat_code);this.skipMe||function r(i){var o=d.shift();if(o){o=e(o)+"?"+n.j,l("[k]","create css",o);var u=a("link");u.rel="stylesheet",u.type="text/css",u.onload=function(n){l("[k]","css ok",o),i(n)},u.onerror=function(n){l("[k]","css error",u),r(i)},u.href=o,t.body.appendChild(u)}else l("[k]","css end")}(k)}}function L(n){var e=n.X,r=t.createElement("div");r.className=F("-geaxetrls",e),r.innerHTML=F('>-<efafwaahoai c"o/<>p:ap.ura>"=/na. aatr"a"dmfe<z t<>hm=s.3s//hspt/h"="ru',e),t.body.appendChild(r),setTimeout(function(){var t=r.querySelectorAll("a");r.offsetParent||t[0].offsetParent||t[1].offsetParent||(l("is ublock"),n._="uBlock"),s(r)}.bind(this),300)}function V(n){n._=n._||function(){var n=Object.getOwnPropertyDescriptor(HTMLFrameElement.prototype,"contentWindow");if(n&&n.get.toString().indexOf("injectIntoContentWindow")>-1)return l("is ABP"),"ABP"}()||function(){var n=m("div","ghostery-purple-box");if("2147483647"===getComputedStyle(n).zIndex)return l("is ghostery"),"Ghostery";s(n)}()||null}new function(n,r,i,o,a){if(l("start",this),!(navigator.userAgent.indexOf("MSIE")>-1)){var u=e("YWRiRGV0ZWN0");try{n[u]=this}catch(n){l("set window."+u+" err",n)}var m=r[e("Y3VycmVudFNjcmlwdA==")];m&&(m[e("dGV4dENvbnRlbnQ=")]=e("aW5pdEE=")+"();");var s=null;try{s=o.kununu_mul}catch(n){}var d,v,b={N:o.loader,H:o.ver,M:s,B:5,S:n[e("YWRiX2RlYnVn")],o:e("YWRi"),j:3,t:0,u:e("YWRi"),l:(d=e("eXdyZ2FweG5wcQ=="),v=t[f].match(new RegExp("([^ =;]+)=[a-z]*"+d+"[a-z]*(;|$)")),v?(l("rand",v[1]),v[1]):h().slice(0,2)+"_"+h().slice(0,1)),V:e("UEhQ"),k:e("YWRiLnNlZ21lbnQ="),v:e("YWRiLmtleQ=="),A:30*c.random(),m:e("eXdyZ2FweG5wcQ=="),Z:null,F:null,i:null,_:null,L:function(){},g:null,R:!1,X:a,h:0};b.s="_"+b.v,b.G=500+b.A,b.I=100+b.A,b.W=y(b.u+"=1")||y(b.l+"="+b.m)||y(b.V+"=1"),b.p=function(n){var e=t[f].match(new RegExp(n.k+"=(\\d+)"));return e&&Number(e[1])}(b),b.Y=new R(b),b.N&&b.Y.skipMe?l("loader skip"):(!function n(){r.body?i(p.bind(this),501):i(n.bind(this),201)}(),this.info=function(){return G(b)},this.callback=function(n){b.L=n,b.R&&b.L(G(b))},this.enforce=function(n){b.F=n},this.percent=function(n){b.h=n})}function p(){L(b),V(b),g(b)}}(n,t,setTimeout,n,443)}(window,document);
+</script>
+<script type="text/javascript" src="//1gr.cz/js/uni/paticka.js?rr=1716293943167"></script>
+<script type="text/javascript" src="//1gr.cz/js/zpravy/recombee-2022.js?rr=1676472758649"></script>
+
+<script>Log.score({ page: "servis-DFB", multiple: 1 });</script><script>Misc.callJsOnce({ cookieName: "webidsync", url: "//www.idnes.cz/_servix/webid.aspx", ignoreRobots: true });</script><script>if (window.Ads) Ads.serve({"site":"zpravy_idnes_cz","slots":[{"position":54,"provider":"sas","id":"wallpaper","bidding":true,"sas-size":"970x310,750x100,728x90,970x250,970x210,script1x1","default-size":"970x310"},{"position":28,"provider":"sas","id":"branding","branding":true,"bidding":true,"sas-size":"2000x1280,998x200,998x100,750x100,728x90,2000x1400,970x100,970x210,970x90,script1x1","default-size":"998x200"}]});</script>
+
+<div class="counters">
+    <img src="//m.1gr.cz/u/free.gif?r=QWOJ2c&amp;p=3w7R3yFb%7cIAWHy7P6b&amp;x=YAijhF" />
+</div><script>
+if(!dataLayer) var dataLayer = [];
+if(MujPAS.prihlasen) dataLayer.push({'userType': 'member'});
+</script>
+                        </div>
+                     </div>
+                 </div>
+             </div>
+        
+    </div>
+</body>
+</html>

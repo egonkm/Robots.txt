@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+
+Disallow: /labs
+
+Sitemap: https://stackoverflow.co/sitemap.xml

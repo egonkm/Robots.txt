@@ -1,0 +1,8 @@
+User-agent: Baiduspider
+Disallow: /
+User-agent: YodaoBot
+Disallow: /
+User-agent: *
+Disallow: 
+Disallow: /usr/local/apache-tomcat-caq/work/Catalina/localhost/_/org/apache/jsp/html
+Disallow: /home/wwwroot/caq/html

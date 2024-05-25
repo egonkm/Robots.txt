@@ -1,0 +1,18 @@
+Sitemap: https://foundation.aaaa.org/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: dotbot
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /programs.html
+Disallow: /vanguard-2022.html
+Disallow: /scholarships.html
+Disallow: /events.html
+Disallow: /vanguard-2023.html
+Disallow: /awards.html
+Disallow: /vanguard-2024.html

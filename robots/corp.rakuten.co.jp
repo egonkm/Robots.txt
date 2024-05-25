@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /brand/
+Disallow: /com/
+Disallow: /common/
+Disallow: /company/
+Disallow: /en/
+Disallow: /info/
+Disallow: /ir/
+Disallow: /newsrelease/
+Disallow: /pr/
+Sitemap: https://corp.rakuten.co.jp/sitemap.xml

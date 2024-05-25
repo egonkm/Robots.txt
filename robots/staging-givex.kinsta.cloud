@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://staging-givex.kinsta.cloud/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

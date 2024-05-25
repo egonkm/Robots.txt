@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /developer.php
+Disallow: /login.php
+
+Sitemap: https://inevent.com/sitemap.xml

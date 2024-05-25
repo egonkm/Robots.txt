@@ -1,0 +1,63 @@
+# This is the robots.txt file for thetimes.co.uk 
+# The Times does not permit the unlicensed use of our content for large language models. Contact enquiries@newslicensing.co.uk for assistance
+
+User-agent: *
+Sitemap: https://www.thetimes.co.uk/sitemaps/sitemap.xml
+Disallow: /login.thetimes.co.uk/user/logout
+Disallow: /feeds.thetimes.co.uk/puzzles/
+Disallow: /feeds.thetimes.co.uk/timescrossword/
+Disallow: /archive/page/*
+Disallow: /archive/article/*
+Disallow: /*?s=* 
+Disallow: /*&s=* 
+Disallow: /*?p=*
+Disallow: /*?filter=*
+Allow: /past-six-days/$
+Allow: /past-six-days$
+Disallow: /past-six-days/*
+Disallow: /topic/bbc
+Disallow: /tto/*
+Disallow: /player/brightcove/
+Disallow: /my-articles
+Disallow: /my-articles/
+Disallow: /edition/null/
+Disallow: /goto
+Disallow: /?region=
+Disallow: /?_ga
+Disallow: /?CMP
+Disallow: /?ExternalDataReference
+Disallow: /article/category/
+Disallow: /article/this-article-has-been-deleted*
+Disallow: /article/this-article-has-been-removed*
+Disallow: /article/this-article-is-no-longer-available*
+Disallow: /search?*
+#Agent Specific Disallowed Sections
+User-agent: NewsNow
+Disallow: /
+User-agent: Omgili
+Disallow: /
+User-agent: WebVac
+Disallow: /
+User-agent: WebZip
+Disallow: /
+User-agent: psbot
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: Meltwater
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: cohere-ai
+Disallow: /
+User-Agent: omgilibot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: PiplBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+

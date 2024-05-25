@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /GesamtwBranchen/KonjunktPreise/BPI_LR.jsp
+Disallow: /GesamtwBranchen/KonjunktPreise/VPI_LR.jsp
+Disallow: /Hoelderlin/

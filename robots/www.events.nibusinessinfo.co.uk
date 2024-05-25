@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /eventsearch/
+Disallow: /eventalert/
+Disallow: /eventalertunsubscribe/
+Disallow: /bookbasket/
+Disallow: /bookbasketitem/
+Disallow: /bookingaccess/
+Disallow: /feedbackaccess/
+Disallow: /mediafiledownload/
+Disallow: /en/eventsearch/
+Disallow: /en/eventalert/
+Disallow: /en/eventalertunsubscribe/
+Disallow: /en/bookbasket/
+Disallow: /en/bookbasketitem/
+Disallow: /en/bookingaccess/
+Disallow: /en/feedbackaccess/
+Disallow: /en/mediafiledownload/
+
+Sitemap: https://www.events.nibusinessinfo.co.uk/sitemap.xml

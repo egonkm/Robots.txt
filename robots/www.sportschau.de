@@ -1,0 +1,6 @@
+Sitemap: https://www.sportschau.de/kompakt-sp-100~news.xml
+Sitemap: https://www.sportschau.de/index~sitemap_p-0.xml
+
+User-agent: *
+Disallow: /live-und-ergebnisse/widget/
+

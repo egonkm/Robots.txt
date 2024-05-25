@@ -1,0 +1,12 @@
+#Any search crawler can crawl our site
+User-agent: *
+
+#Allow only below mentioned paths
+Allow: /
+
+#Disallow everything else
+#Disallow: /
+
+#Crawl all sitemaps mentioned below
+Sitemap: https://www.att.com.mx/sitemap_index.xml
+#Sitemap: https://www.att.com.mx/negocios/sitemap.xml

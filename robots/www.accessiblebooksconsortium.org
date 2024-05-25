@@ -1,0 +1,22 @@
+# robots.txt for https://www.accessiblebooksconsortium.org
+User-agent: *
+Disallow: /o
+Allow: /o/adaptive-media/image
+Disallow: /c
+Disallow: /do
+Disallow: /group
+Disallow: /combo
+Disallow: /export
+Disallow: /system
+Disallow: /images
+Disallow: /shared
+Disallow: /adm
+Disallow: /tools
+Disallow: /publishing
+Disallow: /about
+Disallow: /capacity_building
+Disallow: /contact
+Disallow: /news
+Disallow: /portal
+Disallow: /sources
+Disallow: /globalbooks

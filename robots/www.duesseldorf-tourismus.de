@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /neos/*
+Disallow: /*/clipboard
+Disallow: /*clipboard_add/
+Disallow: /*clipboard_add
+Disallow: /*clipboard_remove/
+Disallow: /*clipboard_remove
+Disallow: /*cart/
+Disallow: /*config*
+Disallow: /*/shoppingcart*
+Disallow: /*/shoppingcart/*

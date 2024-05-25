@@ -1,0 +1,121 @@
+User-Agent: *
+
+Disallow: /category
+Disallow: /alpha
+Disallow: /beta
+Disallow: /beta1
+Disallow: /cgi-bin
+Disallow: /demo
+Disallow: /wp-admin
+Disallow: /wp-admin/images
+Disallow: /wp-admin/css
+Disallow: /wp-admin/js
+Disallow: /wp-admin/js
+Disallow: /wp-admin/plugins
+Disallow: /wp-admin/themes
+Disallow: /wp-admin/upgrade
+Disallow: /wp-admin/upload
+Disallow: /home-2/
+Disallow: /logout/?_wpnonce=81e935f4df
+Disallow: /your-profile/
+Disallow: /profile/
+Disallow: /es/profile/
+Disallow: /videvo-news/hello-world/
+Disallow: /account/
+Disallow: /protected/
+Disallow: /register/
+Disallow: /video-sitemap/
+Disallow: /test/
+Disallow: /contribute/
+Disallow: /email/
+Disallow: /posts/
+Disallow: /comments/
+Disallow: /links/
+Disallow: /textures/
+Disallow: /sample-page/
+Disallow: /archives/
+Disallow: /fblike/
+Disallow: /downloaded-code-6/
+Disallow: /search-results/
+Disallow: /new-home
+Disallow: /forums/
+Disallow: /test_upgrade
+Disallow: /search/
+Disallow: /home_cached.html
+Disallow: /royalty-free-music/mood/
+Disallow: /activation/
+Disallow: /?activation=false
+Disallow: /videvo-widget/
+Disallow: /api-gallery-builder/
+Disallow: /iapi/
+Dissalow: /iapi/v1/query-reverse/
+
+# DISALLOW MG TEMPLATES
+#EN
+Disallow: /video-templates
+#ES
+Disallow: /es/templates-video
+Disallow: /es/es
+#DE
+Disallow: /de/video-templates
+Disallow: /de/video-bearbeitung-templates
+Disallow: /de/de
+# Dissalow common language variations
+Disallow: /ar/
+Disallow: /az/
+Disallow: /be/
+Disallow: /bg/
+Disallow: /bs/
+Disallow: /cs/
+Disallow: /da/
+Disallow: /el/
+Disallow: /en/
+Disallow: /et/
+Disallow: /fi/
+Disallow: /fr/
+Disallow: /he/
+Disallow: /hi/
+Disallow: /hr/
+Disallow: /hu/
+Disallow: /is/
+Disallow: /if/
+Disallow: /it/
+Disallow: /ja/
+Disallow: /ka/
+Disallow: /kk/
+Disallow: /ko/
+Disallow: /lb/
+Disallow: /lt/
+Disallow: /lv/
+Disallow: /mk/
+Disallow: /mn/
+Disallow: /nl/
+Disallow: /no/
+Disallow: /pl/
+Disallow: /pt/
+Disallow: /ro/
+Disallow: /ru/
+Disallow: /rw/
+Disallow: /sk/
+Disallow: /sl/
+Disallow: /sq/
+Disallow: /sr/
+Disallow: /sv/
+Disallow: /tk/
+Disallow: /tr/
+Disallow: /uk/
+Disallow: /vi/
+Disallow: /zh/
+Disallow: /du/
+
+# Disallow similar-same and similar-audio
+Disallow: /livewire/message/similar-same
+Disallow: /livewire/message/similar-audio
+Disallow: /de/livewire/message/similar-same
+Disallow: /de/livewire/message/similar-audio
+Disallow: /es/livewire/message/similar-same
+Disallow: /es/livewire/message/similar-audio
+
+Allow: /
+
+Sitemap: https://www.videvo.net/sitemap.xml

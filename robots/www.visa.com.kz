@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /ru_KZ/content_library/modal/
+Disallow: /kk_KZ/content_library/modal/
+
+Sitemap: https://www.visa.com.kz/ru_KZ/sitemap.xml
+Sitemap: https://www.visa.com.kz/kk_KZ/sitemap.xml

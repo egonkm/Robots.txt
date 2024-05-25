@@ -1,0 +1,60 @@
+#Agent Specific Disallowed Sections
+
+User-agent: NewsNow
+
+Disallow: /
+
+User-agent: CCBot
+
+Disallow: / 
+
+User-agent: GPTBot
+
+Disallow: /
+
+User-agent: ChatGPT-User 
+
+Disallow: /
+
+User-agent: anthropic-ai 
+
+Disallow: /
+
+User-agent: cohere-ai
+
+Disallow: / 
+
+User-agent: ia_archiver 
+
+Disallow: / 
+
+User-agent: MJ12bot 
+
+Disallow: / 
+
+User-agent: PiplBot
+
+Disallow: / 
+
+User-agent: Google-Extended
+
+Disallow: /
+
+
+User-agent: *
+
+Disallow: /*/comments-*
+
+Disallow: /404
+
+Disallow: /enewsletters/*
+
+Disallow: /doublerainbow/*
+
+Disallow: /it-test-only/*
+
+
+
+Sitemap: https://www.cairnspost.com.au/sitemap.xml
+
+Sitemap: https://www.cairnspost.com.au/news-sitemap.xml

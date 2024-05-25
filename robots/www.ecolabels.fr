@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap: http://www.ecolabels.fr/post-sitemap.xml
+Sitemap: http://www.ecolabels.fr/page-sitemap.xml
+Sitemap: http://www.ecolabels.fr/category-sitemap.xml
+Sitemap: http://www.ecolabels.fr/en/post-sitemap.xml
+Sitemap: http://www.ecolabels.fr/en/page-sitemap.xml
+Sitemap: http://www.ecolabels.fr/en/category-sitemap.xml

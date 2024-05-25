@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="ミズノのスポーツサービスのご紹介。ミズノが行っているスポーツ施設の運営、サービスの紹介を行っています。">
+    <meta name="keywords" content="ミズノ,MIZUNO,スポーツ,スポーツサービス,ミズノジム,あそりーと,ミズノフットサルプラザ,ミズノスポーツプラザ,ミズノ卓球プラザ,ミズノテニスプラザ,ミズノゴルフスクール,ミズノウエルネス">
+    <meta property="og:image" content="/assets/img/common/ogp.jpg">
+    <link rel="apple-touch-icon" href="/assets/img/common/apple-touch-icon.png"/>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <title>お探しのページが見つかりません。 | ミズノ</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,700" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/common.css" media="all">
+    <link rel="stylesheet" href="/assets/css/style.css" media="all">
+    <link rel="index contents" href="/" title="ホーム">
+    <script src="/assets/js/jquery-1.8.3.min.js"></script>
+    <script src="/assets/js/biggerlink.js"></script>
+    <script src="/assets/js/script.js"></script>
+    <!--[if lt IE 9]>
+    <script src="/js/html5shiv-printshiv.js"></script>
+    <![endif]-->
+            <!-- <script src="//assets.adobedtm.com/d627966ecff78c91266d06333350ad5d30121bd0/satelliteLib-1391f960ede0e9e6a97326f8885a461e0fa7aef7.js"></script> -->
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9BSDXEHTVE"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-9BSDXEHTVE');
+    gtag('config', 'UA-131048969-2');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K34FSNM');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body id="page404">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K34FSNM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div id="wrapper">
+        <div id="container">
+            <header id="header">
+    <div class="headerInner clearfix">
+        <h1 id="logo"><a href="//mizuno.jp"><img src="/assets/img/common/logo.png" alt="Mizuno"></a><a href="/">スポーツサービス</a></h1>
+        <div class="hBlock clearfix">
+            <ul id="hNav">
+                <li class="topNav">
+                    <a href="/">TOP<span>トップ</span></a>
+                </li>
+                <li class="searchNav">
+                    <a href="/search/">SEARCH<span>施設検索</span></a>
+                </li>
+                <li class="brandNav">
+                    <a href="/brand/">BRAND<span>店舗ブランド</span></a>
+                </li>
+                <li class="kidsNav">
+                    <a href="/kids/">KIDS<span>キッズ</span></a>
+                </li>
+                <li class="schoolNav">
+                    <a href="/school/">SCHOOL<span>スクール</span></a>
+                </li>
+                <li class="programNav">
+                    <a href="/program/">PROGRAM<span>プログラム</span></a>
+                </li>
+                <li class="vclinicNav">
+                    <a class="disable" href="https://shisetsu.mizuno.jp/mizuno/events" target="_blank">EVENTS<span>イベント</span></a>
+                </li>
+                <li class="campNav">
+                    <a href="https://shisetsu.mizuno.jp/mizuno/training-camp" target="_blank">TRAINING <br>CAMP<span>合宿施設</span></a>
+                </li>
+            </ul>
+        </div>
+        <p class="btnMenu jsBtnNav"><a href="#"><span></span></a>メニュー</p>
+    </div>
+</header>
+            <div id="contents" class="bgWhite">
+                <div id="main">
+                    <div class="inner">
+                        <div class="errorBlock">
+                            <p class="logoError"><img src="/assets/img/404/logo404.jpg" alt="logo"></p>
+                            <h2 class="titleError">お探しのページが見つかりません。</h2>
+                            <p class="txtError"><span>404 error</span>Page not Found </p>
+                            <p class="detailError">誠に申し訳ございませんが、お探しのページが見つかりませんでした。<br/>お客様がアクセスしようとしたページは一時的にアクセスできないか、削除または移動された可能性があります。<br/>大変お手数ですが、下記のリンクよりお探しください。</p>
+                            <a href="/" class="btnError">スポーツサービス</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- /#main -->
+            </div>
+            <!-- / #contents -->
+            <footer id="footer">
+    <div class="inner clearfix">
+        <div class="fSocial">
+            <p class="sns">公式SNS</p>
+            <ul class="socialBox">
+                <li>
+                    <a href="https://www.youtube.com/channel/UCpHouXQ4VwkbnLiM1HMpjRA?view_as=subscriber" target="_blank">
+                        <span class="text">YouTube</span>
+                        <span class="image">
+                            <img src="/assets/img/common/icon_youtube.png" alt="YouTube">
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/mizuno.japan" target="_blank">
+                        <span class="text">Facebook</span>
+                        <span class="image">
+                            <img src="/assets/img/common/icon_facebook02.png" alt="Facebook">
+                        </span>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://twitter.com/mizunojp" target="_blank">
+                        <span class="text">X（旧 Twitter）</span>
+                        <span class="image">
+                            <img src="/assets/img/common/icon_social_x.png" alt="X（旧 Twitter）">
+                        </span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div id="fNav">
+            <div class="fCol">
+                <p class="titleCol"><a href="/">スポーツサービストップページ</a></p>
+                <ul class="fLink">
+                    <li><a href="/search/">施設検索</a></li>
+                    <li><a href="https://www.mizunoshop.net/" target="_blank">ミズノ公式オンラインショップ</a></li>
+                    <li><a href="https://sports-facilities.mizuno.jp/" target="_blank">スポーツ施設施工・運営受託</a></li>
+                    <li><a href="/kids/">キッズ</a></li>
+                </ul>
+            </div>
+            <!-- <div class="fCol fColHide">
+                <p class="titleCol"><a href="#">バドミントン</a></p>
+            </div> -->
+            <div class="fCol">
+                <!-- <p class="titleCol titleColHide"><a href="#">バドミントン</a></p> -->
+                <p class="titleCol"><a href="/brand/">店舗ブランド</a></p>
+                <ul class="fLink">
+                    <li><a href="http://www.mfpnet.com/" target="_blank">ミズノフットサルプラザ</a></li>
+                    <li><a href="/brand/sportsplaza_list.php">ミズノスポーツプラザ</a></li>
+                    <li><a href="/brand/tennisplaza_list.php">ミズノテニスプラザ</a></li>
+                    <li><a href="https://www.mizuno.jp/golf/golfschool/" target="_blank">ミズノゴルフスクール</a></li>
+                    <li><a href="https://shisetsu.mizuno.jp/m-7451" target="_blank">ミズノウエルネス</a></li>
+                </ul>
+            </div>
+            <div class="fCol">
+                <p class="titleCol"><a href="/school/">スクール</a></p>
+                <ul class="fLink">
+                    <li><a href="/school/kids_football/">サッカースクール</a></li>
+                    <li><a href="/school/tabletennis">卓球スクール</a></li>
+                    <li><a href="/school/tennis">テニススクール</a></li>
+                    <li><a href="/school/basketball">バスケットボールスクール</a></li>
+                    <li><a href="/school/badminton">バドミントンスクール</a></li>
+                    <li><a target="_blank" href="https://www.mizuno.jp/golf/golfschool/">ゴルフスクール</a></li>
+                    <li><a href="/school/swimming">スイミングスクール</a></li>
+                    <li><a href="/school/futsal">フットサルスクール</a></li>
+                    <li><a href="/school/volleyball">バレーボールスクール</a></li>
+                    <li><a href="/school/dance">ダンススクール</a></li>
+                </ul>
+            </div>
+            <div class="fCol">
+                <p class="titleCol"><a href="/program/">プログラム</a></p>
+                <ul class="fLink">
+                    <li><a href="/program/mizunoryu_ninjyagakko/">ミズノ流忍者学校</a></li>
+                    <li><a href="/program/hisshoujyuku/">運動会必勝塾</a></li>
+                    <li><a href="/program/hexathlon/">ヘキサスロン</a></li>
+                    <li><a href="/program/lalalafit/">60歳から始まる健康fit LaLaLaサーキット</a></li>
+                    <li><a target="_blank" href="https://www.mizuno.jp/fitness/nagara/">ながら運動</a></li>
+                    <li><a href="/program/yoga/">YOGA×OUTDOOR×MIZUNO</a></li>
+                    <li><a href="/program/office_stretch/">オフィスでカンタンストレッチ</a></li>
+                    <li><a href="/program/undoukai/">運動会</a></li>
+                    <li><a href="/program/sportsfes/">スポーツフェス</a></li>
+                    <li><a href="/program/play_circus/">PLAY CIRCUS</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="inner">
+            <ul class="bottomNav">
+                <li><a target="_blank" href="http://corp.mizuno.com/">企業情報</a></li>
+                <li><a target="_blank" href="http://www.mizuno.co.jp/customer/">ミズノお客様相談センター</a></li>
+                <li><a target="_blank" href="http://corp.mizuno.com/legal/terms.aspx">ご利用条件</a></li>
+                <li><a target="_blank" href="http://corp.mizuno.com/legal/privacy-policy.aspx">プライバシーポリシー</a></li>
+                <li><a target="_blank" href="https://www.mizuno.jp/socialmedia/">ソーシャルメディア</a></li>
+				<li><a href="/legal-notice/">特定商取引に基く表示（ミズノ：スポーツ施設サービス事業）</a></li>
+            </ul>
+            <p class="copy">&copy; MIZUNO Corporation</p>
+        </div>
+    </div>
+</footer>
+<div class="overlay"></div>
+        </div>
+        <!-- / #container -->
+    </div>
+    <!-- / #wrapper -->
+            <!-- <script type="text/javascript">_s_channel = "スクール施設";</script> -->
+<!-- <script type="text/javascript">_satellite.pageBottom();</script> -->
+    </body>
+</html>

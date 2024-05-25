@@ -1,0 +1,36 @@
+User-agent: Googlebot 
+Disallow: /api/
+Sitemap: https://www.spacely.com.au/sitemap.xml
+
+User-agent: APIs-Google 
+Disallow: /api/
+Sitemap: https://www.spacely.com.au/sitemap.xml
+
+User-agent: Mediapartners-Google 
+Disallow: /api/
+Sitemap: https://www.spacely.com.au/sitemap.xml
+
+User-agent: AdsBot-Google 
+Disallow: /api/
+Sitemap: https://www.spacely.com.au/sitemap.xml
+
+User-agent: AdsBot-Google-Mobile 
+Disallow: /api/
+Sitemap: https://www.spacely.com.au/sitemap.xml
+
+User-agent: AdsBot-Google-Mobile-Apps 
+Disallow: /api/
+Sitemap: https://www.spacely.com.au/sitemap.xml
+
+User-agent: Googlebot-Image 
+Disallow: /api/
+Sitemap: https://www.spacely.com.au/sitemap.xml
+
+User-agent: Googlebot-News 
+Disallow: /api/
+Sitemap: https://www.spacely.com.au/sitemap.xml
+
+User-agent: *
+Disallow: /api/
+Crawl-delay: 10
+Sitemap: https://www.spacely.com.au/sitemap.xml

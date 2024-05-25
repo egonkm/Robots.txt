@@ -1,0 +1,26 @@
+User-agent: abot
+Disallow: /visit/membership-calculator
+Disallow: /collections-and-research/ArtifactShare/
+Disallow: /collections-and-research/digital-collections/artifact/
+Disallow: /utility/resizedimage/
+Disallow: /ResourcePackages
+Disallow: /docs/default-source/
+Disallow: /Sitefinity
+Disallow: /utility
+Disallow: /login
+Disallow: /education/resources/results
+Disallow: /linked-image
+Disallow: /linkedpub-image
+Allow: /site-search-aggregate/
+
+User-agent: *
+Disallow: /Sitefinity
+Disallow: /ResourcePackages
+Disallow: /utility
+Disallow: /linked-image
+
+Disallow: /courses/disabilities-form-tracking
+Disallow: /courses/autism-spectrum-disorder-form-tracking
+Disallow: /global/generalpage
+
+Sitemap: https://www.thehenryford.org/sitemap.xml

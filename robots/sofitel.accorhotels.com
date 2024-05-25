@@ -1,0 +1,25 @@
+User-Agent:*
+Disallow: /*/reservation/
+Disallow: /*/profil/
+Disallow: /*/cancellation/
+Disallow: /*/fh/
+Disallow: /*.pdf
+Disallow: /*.mini
+Disallow: /security-certificate/
+Disallow: /ssr*
+Disallow: /identification/
+Disallow: /express/
+Disallow: /*.do
+Disallow: /*.action
+Disallow: /*/mini.shtml
+Disallow: /newsletter/
+Disallow: /geo/
+Disallow: */hotels/*/*room.html
+Disallow: */hotels/*/rooms/*
+Disallow: */hotels/*/restaurants/*
+Disallow: */hotels/*/wellness/*
+Disallow: /*generic-restaurant-pdp.html
+Disallow: /*generic-room-pdp.html
+Disallow: /*generic-wellness-pdp.html
+Disallow: /*footer-page.html
+Sitemap:  https://sofitel.accor.com/sitemap.xml

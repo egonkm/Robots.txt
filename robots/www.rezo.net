@@ -1,0 +1,17 @@
+# robots.txt
+# @url: https://rezo.net
+# @generator: SPIP 3.3.0-dev SVN [24028]
+# @template: plugins/rezo/robots.txt.html
+
+User-agent: *
+Disallow: /
+
+Disallow: /local/
+Disallow: /ecrire/
+Disallow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Disallow: /squelettes/
+
+
+Sitemap: https://rezo.net/sitemap.xml

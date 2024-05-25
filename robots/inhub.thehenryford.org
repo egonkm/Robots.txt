@@ -1,0 +1,10 @@
+User-agent: abot
+Disallow: /
+
+User-agent: *
+Disallow: /Sitefinity
+Disallow: /ResourcePackages
+Disallow: /utility
+
+User-agent: archive.org_bot
+Disallow:

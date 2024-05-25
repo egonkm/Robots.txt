@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /mobile
+Disallow: /old
+Disallow: /ui
+Disallow: /ViewArticleAction.do
+Disallow: /muj-ucet
+Disallow: /verejny-profil
+Disallow: /soukrome-zpravy
+
+User-agent: Googlebot-Image
+Disallow: /GoogleTrackingAction.do
+
+Sitemap: https://www.tipsport.cz/main.xml
+Sitemap: https://www.tipsport.cz/kurzy.xml
+Sitemap: https://www.tipsport.cz/live.xml
+Sitemap: https://www.tipsport.cz/vysledky.xml
+Sitemap: https://www.tipsport.cz/blogy.xml
+Sitemap: https://www.tipsport.cz/analyzy.xml
+Sitemap: https://www.tipsport.cz/souteze.xml
+Sitemap: https://www.tipsport.cz/bonusy.xml
+Sitemap: https://www.tipsport.cz/vegas.xml

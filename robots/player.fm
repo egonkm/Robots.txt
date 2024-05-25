@@ -1,0 +1,12 @@
+# /robots.txt generated at 2024-05-25T17:04:13+00:00
+# Humans, please 301 yourself to https://player.fm/humans.txt
+
+User-Agent: *
+Disallow: /episodes?q=
+Disallow: /series?q=
+Disallow: /channels?q=
+Disallow: /images
+Disallow: /search/*/
+Disallow: /*/search/*/
+Sitemap: https://sitemaps.player.fm/en/sitemap.xml.gz
+

@@ -1,0 +1,40 @@
+# Rule 1
+User-agent: Googlebot
+Allow: /
+Disallow: /uploads/
+Disallow: /de/
+Disallow: /suggest/?*
+Disallow: /author/?*
+
+
+# Rule 2
+User-agent: Bingbot
+Allow: /
+Disallow: /uploads/
+Disallow: /de/
+Disallow: /suggest/?*
+Disallow: /author/?*
+
+# Rule 3
+# Rule 5
+User-agent: AdsBot-Google
+Allow: /
+Disallow: /uploads/
+Disallow: /de/
+Disallow: /suggest/?*
+
+# Rule 4
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /uploads/
+Disallow: /de/
+Disallow: /suggest/?*
+
+# Rule 6
+User-agent: Googlebot-Mobile
+Allow: /
+Disallow: /uploads/
+Disallow: /de/
+Disallow: /suggest/?*
+
+Sitemap: https://eurodesk.eu/sitemap.xml

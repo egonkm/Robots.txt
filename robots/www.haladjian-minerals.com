@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: *.jpeg$
+Disallow: *.jpg$
+Disallow: *.gif$
+Disallow: *.png$
+Disallow: *.mp4$
+Disallow: *.webm$
+Disallow: *.woff$
+Disallow: *.woff2$
+Disallow: *.ttf$
+Disallow: *.eot$
+Disallow: *.webp$
+Sitemap: https://www.haladjian-minerals.com/wpms-sitemap-en.xml
+Sitemap: https://www.haladjian-minerals.com/mrm-hms/sitemapUK-2.xml

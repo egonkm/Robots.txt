@@ -1,0 +1,12 @@
+User-agent: D115Crawler
+Allow: /DE/Service/D115/
+User-agent: *
+Disallow: /SiteGlobals/
+Disallow: /DE/Service/
+Disallow: /EN/Service/
+Disallow: /SharedDocs/Downloads/DE/BSI/Zertifizierung/
+Allow: /SiteGlobals/Functions/JavaScript/
+Allow: /SiteGlobals/StyleBundles/
+Allow: /SiteGlobals/Frontend/
+Crawl-delay: 10
+Sitemap: https://www.allianz-fuer-cybersicherheit.de/_config_ACS/xml-sitemap/Sitemap_Index.xml

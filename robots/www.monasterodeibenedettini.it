@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /docs/
+Disallow: /files/
+Disallow: /foto_segnalazioni/
+Disallow: /gestione/
+Disallow: /images/
+Disallow: /img/
+Disallow: /server/
+Disallow: /wp-admin/

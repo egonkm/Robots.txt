@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /weather/
+Disallow: /includes/
+Allow: /

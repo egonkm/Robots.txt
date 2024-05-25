@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.businessinfo.cz/wp-sitemap.xml
+
+Disallow: /*?*q=*
+Disallow: /*?*t-*=*
+Disallow: /*?*in-content
+
+User-agent: SeekportBot
+Crawl-delay: 20
+
+User-agent: MJ12bot
+Crawl-delay: 20

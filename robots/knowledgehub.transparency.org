@@ -1,0 +1,7 @@
+# robots.txt for https://knowledgehub.transparency.org/
+# For a multi-environment setup, see: https://nystudio107.com/blog/prevent-google-from-indexing-staging-sites
+
+# Live - Don't allow web crawlers to index Craft
+
+User-agent: *
+Disallow: /craft/

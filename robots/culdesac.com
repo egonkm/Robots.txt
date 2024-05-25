@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /join-us
+Disallow: /join-us/
+Disallow: /pet-policy
+Disallow: /privacy-policy
+Disallow: /style-guide
+Disallow: /tempe/land-acknowledgment
+Disallow: /terms-and-conditions
+Sitemap: https://culdesac.com/sitemap-index.xml
+Host: https://culdesac.com

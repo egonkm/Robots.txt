@@ -1,0 +1,10 @@
+Sitemap: https://radionovelo.com.br/sitemap.xml
+Sitemap: https://radionovelo.com.br/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://radionovelo.com.br/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="de" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>ELEFAND</title>
+  <base href="/">
+  <link href="assets/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="styles.49043570826ccd84.css"></head>
+  <body>
+  <ele-root></ele-root>
+  <script src="runtime.202dfda244fe503f.js" type="module"></script><script src="polyfills.e3b53521ebc2b849.js" type="module"></script><script src="main.25c1f33eb63e7fdf.js" type="module"></script></body>
+</html>

@@ -1,0 +1,9 @@
+User-agent: *
+
+Sitemap: https://reflect.run/sitemap.xml
+Disallow: /testproject-alternative/
+Disallow: /mabl-alternative/
+Disallow: /testcomplete-alternative/
+Disallow: /testrigor-alternative/
+Disallow: /functionize-alternative/
+Disallow: /tricentis-alternative/

@@ -1,0 +1,4 @@
+User-agent: Sajaribot
+Disallow: /
+User-agent: *
+Disallow: /

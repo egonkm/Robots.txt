@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /images/
+Disallow: */login.jsp?redirect=jcms/
+Disallow: /work/
+Disallow: /jcms/j_193/portail-page-d-accueil?*
+Disallow: /upload/liseur/
+Disallow: /upload/docs/application/pdf/
+Disallow: /upload/docs/application/save/
+Disallow: /jcms/2025_DiscussionForum/operation-girardin-escroque
+Disallow: /jcms/p1_1332956/cass-3e-civ11052011-10-13679-logement-vente-trouble-de-fait?details=true
+Disallow: /jcms/fk_1200331/recherche-avancee
+Sitemap: http://partenaire.leparticulier.fr/plugins/LPSIServicePartenaire/jsp/sitemap.jsp

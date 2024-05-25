@@ -1,0 +1,5 @@
+User-agent: UIT Static Cache
+Disallow: 
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,27 @@
+Sitemap: https://favi.gr/sitemap/sitemap-index.xml
+
+User-agent: *
+Disallow: /proionta/sto-katastima/
+Disallow: /proionta*dwreanParadosi=
+Disallow: /proionta*timiApo=
+Disallow: /proionta*timiEws=
+Disallow: /proionta*diastaseis[*]=
+Disallow: /proionta*filtra=
+Disallow: /proionta*color=
+Disallow: /proionta*feature1=
+Disallow: /proionta*feature2=
+Disallow: /proionta*feature3=
+Disallow: /proionta*feature4=
+Disallow: /proionta*feature5=
+Disallow: /proionta*feature6=
+Disallow: /proionta*feature7=
+Disallow: /proionta*feature8=
+Disallow: /proionta*feature9=
+Disallow: /proionta*feature10=
+Disallow: /proionta*luxury=
+Disallow: /proionta*priceFrom=
+Disallow: /proionta*priceTo=
+Disallow: /proionta*sort=
+Disallow: /proionta*style=
+Disallow: /prosthiki-axiologisis/*
+Disallow: /profiles-user/

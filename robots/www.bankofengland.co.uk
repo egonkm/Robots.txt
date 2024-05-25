@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /boeapps/database/ShowChart.asp
+Disallow: /boeapps/database/_iadb-FromShowColumns.asp
+Disallow: /boeapps/iadb
+Disallow: /boeapps/titan
+Disallow: /error
+Disallow: /forms
+Disallow: /mfsd
+Disallow: /search
+Disallow: /test-folder
+Disallow: /-/media/boe/files/markets/benchmarks/sonia-statement-of-compliance-with-the-iosco-principles-for-financial-benchmarks.pdf
+
+Sitemap: https://www.bankofengland.co.uk/_api/sitemap/getsitemap
+Host: www.bankofengland.co.uk

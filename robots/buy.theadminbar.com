@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: private-matt/
+Disallow: private-sam/
+Disallow: private-matt-walkthrough/
+Disallow: private-pilotprogram-walkthrough/
+Disallow: mario-private-offer/
+Disallow: private-specialoffer/
+Disallow: sam-bakker-offer/
+Disallow: private-rickyspecial/
+Disallow: private-rickyoffer/

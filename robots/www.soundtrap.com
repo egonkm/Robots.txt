@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /api/*
+Disallow: /publicapi/*
+Disallow: /lms/*
+Disallow: /explore
+Disallow: /explore/
+Disallow: /forgotpassword/*
+Disallow: /changepassword/*
+Disallow: /invite/*
+Disallow: /soundtrap-spotify-premium-bundle/*
+Disallow: /content*?*
+Sitemap: https://www.soundtrap.com/public/sitemap.xml

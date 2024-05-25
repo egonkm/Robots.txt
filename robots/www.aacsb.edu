@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /DEMO
+Disallow: /Test Page
+Disallow: /404

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /*?*q=
+Disallow: /informationen/suche/*
+Allow: /typo3/sysext/frontend/Resources/Public/*
+Sitemap: https://www.ideas-magazin.de/sitemap.xml

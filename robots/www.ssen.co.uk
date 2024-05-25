@@ -1,0 +1,4 @@
+ï»¿User-agent: *
+Disallow: /EPiServer/CMS/
+Disallow: /Util/
+Disallow: /site-settings/

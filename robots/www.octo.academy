@@ -1,0 +1,12 @@
+Sitemap: https://www.octo.academy/wp-sitemap.xml
+
+User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

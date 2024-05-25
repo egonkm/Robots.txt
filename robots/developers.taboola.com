@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /edit/
+Disallow: /suggested-edits/
+Disallow: /login
+Disallow: /logout
+Disallow: /backstage-api/edit/
+Disallow: /taboolasdk/edit/
+Disallow: /recommendations-api$
+Disallow: /recommendations-api/
+Disallow: /web-integrations/edit/

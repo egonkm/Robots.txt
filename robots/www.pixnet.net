@@ -1,0 +1,7 @@
+# www.pixnet.net
+User-agent: *
+Sitemap: https://www.pixnet.net/sitemap.xml
+Sitemap: https://www.pixnet.net/sitemap-2.xml
+Sitemap: https://www.pixnet.net/sitemap-3.xml
+Disallow: /mainpage/api/
+Disallow: /pcard/api/

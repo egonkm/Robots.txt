@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Citrix Secure Sign In</title>
+        <link rel="shortcut icon" href="/identity/favicon.ico" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    </head>
+    <body style="background-color: #39404d">
+        <div id="app"></div>
+        <script nonce="L6m95Cwlt15GVwvy0i1/lqyRN8w8XsEmV3C503sBtdQ=">
+            __REACT_DEVTOOLS_GLOBAL_HOOK__ = parent.__REACT_DEVTOOLS_GLOBAL_HOOK__
+        </script>
+        <script nonce="L6m95Cwlt15GVwvy0i1/lqyRN8w8XsEmV3C503sBtdQ=" id="modelJson" type="application/json">{&quot;responseCode&quot;:null,&quot;idpUi&quot;:null,&quot;brandingInfo&quot;:null,&quot;captchaSiteKey&quot;:&quot;6LdQbG0UAAAAANSoekJyhGOfeaKeWqinFXkRZgfU&quot;,&quot;enrollmentInput&quot;:{&quot;userName&quot;:null,&quot;oid&quot;:null,&quot;authDomainName&quot;:null,&quot;productName&quot;:null,&quot;credentialId&quot;:null,&quot;deviceName&quot;:null},&quot;signInPolicy&quot;:null,&quot;loginUrl&quot;:&quot;https://accounts.cloud.us/core/login?ReturnUrl=%2Fcore%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DBxHIjY8sdnnBYmDsqCCOUw%253D%253D%26redirect_uri%3Dhttps%253A%252F%252Fcitrix.cloud.us%252Foauth%26response_type%3Dcode%26scope%3Dopenid%2520email%2520profile%2520ctx_principal_aliases%2520offline_access%2520ctx_universal%2520ctx_adoid%2520allow_compressed_groups%26state%3Dhttps%253A%252F%252Fcitrix.cloud.us%252Foauth.12c37725-90cc-4fc0-bfa3-4a8cef9aa612&quot;,&quot;antiForgery&quot;:{&quot;name&quot;:&quot;idsrv.xsrf&quot;,&quot;value&quot;:&quot;CfDJ8FHk1Knd0c1Gl_9KNA8zbgnTFB_Mnz-rp0MaG1EsQ_JRZCxRODl54lMeMhNYOM92BroHbjf6tdiYlLDCSD3ujINf3HYJeSGyxU1tdjdy1e_XfdhKYSkKxzPAUjbVj97f-ObwGHNslli2pPNO8wg9QvY&quot;},&quot;allowRememberMe&quot;:false,&quot;rememberMe&quot;:false,&quot;username&quot;:null,&quot;externalProviders&quot;:null,&quot;additionalLinks&quot;:null,&quot;clientName&quot;:&quot;citrix-cloud-production-gov&quot;,&quot;clientUrl&quot;:&quot;government&quot;,&quot;clientLogoUrl&quot;:null,&quot;employeeLoginUrl&quot;:null,&quot;includeTracking&quot;:true,&quot;errorMessage&quot;:null,&quot;requestId&quot;:&quot;00-d25ab967a31d58d64cd227f8db5ce935-04864a277faa3eb3-00&quot;,&quot;transactionId&quot;:null,&quot;siteUrl&quot;:&quot;https://accounts.cloud.us/core&quot;,&quot;siteName&quot;:&quot;Citrix Secure Sign In&quot;,&quot;currentUser&quot;:null,&quot;logoutUrl&quot;:&quot;logout&quot;,&quot;theme&quot;:&quot;government&quot;,&quot;custom&quot;:{&quot;enabledFeatures&quot;:[&quot;BackupEmail&quot;],&quot;companyCredentialsUrl&quot;:&quot;citrix.cloud.us/go/&quot;},&quot;mfaStatus&quot;:null,&quot;nonceValue&quot;:&quot;L6m95Cwlt15GVwvy0i1/lqyRN8w8XsEmV3C503sBtdQ=&quot;}</script>
+    <script nonce="L6m95Cwlt15GVwvy0i1/lqyRN8w8XsEmV3C503sBtdQ=" type="text/javascript" src="/identity/assetsv2/common.js"></script><script nonce="L6m95Cwlt15GVwvy0i1/lqyRN8w8XsEmV3C503sBtdQ=" type="text/javascript" src="/identity/assetsv2/app.js"></script></body>
+</html>

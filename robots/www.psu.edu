@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /components
+Disallow: /404
+Disallow: /js
+# Disallow: /psu-edu-assets
+# Disallow: /impact-assets
+Disallow: /academics/campuses.html
+Disallow: /academics/colleges.html
+Disallow: /search/gss/index.html
+Disallow: /search/department/index.html
+Disallow: /search/departments/index.html
+Disallow: /abington-rfi/index.html
+Disallow: /altoona-rfi/index.html
+Disallow: /beaver-rfi/index.html
+Disallow: /behrend-rfi/index.html
+Disallow: /berks-rfi/index.html
+Disallow: /brandywine-rfi/index.html
+Disallow: /dubois-rfi/index.html
+Disallow: /fayette-rfi/index.html
+Disallow: /great-valley-rfi/index.html
+Disallow: /greater-allegheny-rfi/index.html
+Disallow: /harrisburg-rfi/index.html
+Disallow: /hazleton-rfi/index.html
+Disallow: /lehigh-valley-rfi/index.html
+Disallow: /mont-alto-rfi/index.html
+Disallow: /new-kensington-rfi/index.html
+Disallow: /schuylkill-rfi/index.html
+Disallow: /scranton-rfi/index.html
+Disallow: /shenango-rfi/index.html
+Disallow: /penn-state-rfi/index.html
+Disallow: /wilkes-barre-rfi/index.html
+Disallow: /york-rfi/index.html
+Disallow: /commonwealth-campuses/index.html
+Disallow: /commonwealth-campuses/
+Disallow: /news/update
+Disallow: /news/update/
+Disallow: /advocate-penn-state/
+
+User-agent: Twitterbot
+Disallow: *
+Allow: /psu-edu-assets
+Allow: /impact-assets
+
+Sitemap: https://www.psu.edu/sitemap.xml

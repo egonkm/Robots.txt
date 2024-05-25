@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /newsroom?start=*
+Disallow: /newsroom?*
+Disallow: /sites/default/files/2022-09/Charter-2021-ESG-Report.pdf
+Disallow: /esg-report.pdf
+Disallow: /search?*
+Sitemap: https://corporate.charter.com/sitemap/sitemap-index.xml
+Sitemap: https://corporate.charter.com/image-sitemap.xml
+Host: https://corporate.charter.com

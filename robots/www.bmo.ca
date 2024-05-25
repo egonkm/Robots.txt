@@ -1,0 +1,112 @@
+User-agent: *
+# Algolia-Crawler-Verif: 51E0FD6F100B4AEF80A
+
+#BMO US
+Disallow: /new_banner_test/
+Disallow: /*/dp-*
+Disallow: /hob/message/*
+Disallow: /hobtest/*
+Disallow: /products-services/*
+Disallow: /us/personal-finance/mortgages/mortgage-selector-print
+Disallow: /us/hob/rates/*
+Disallow: /vgn/interstitials/*
+Disallow: /us/popups/hob/login-criteria
+Disallow: /us/popups/personal/auto-save
+Disallow: /us/popups/personal/card-safety
+Disallow: /us/popups/personal/online-enrollment
+Disallow: /vgn/CheckingProducts/Outage.html
+Disallow: /vgn/olbb/*
+Disallow: /mortgage-promo/*
+Disallow: /promo/*
+Disallow: /landing-pages/*
+Disallow: /vgn/s1/*
+Disallow: /vgn/mortgage-email/*
+Disallow: /ci/backlog/*
+Disallow: /*/tel:
+Disallow: /pdf/My%20Home*
+Disallow: /us/commercial/perspectives/*
+Disallow: /vgn/mobile/privacy*
+Disallow: /main/personal/credit-cards/tsystest-pub
+Disallow: /main/personal/credit-cards/tsystest-pub/*
+Disallow: /pdf/sb/AgreementsoftheBorrower.pdf
+Disallow: /pdf/sb/Guaranty.pdf
+Disallow: /pdf/sb/BMOHarrisCreditAgreement.pdf
+Disallow: /pdf/sb/EcommunicationConsent.pdf
+Disallow: /pdf/sb/CreditBureauAuthorization.pdf
+Disallow: /pdf/sb/ElectronicNoticeandConsentAgreement.pdf
+Disallow: /pdf/sb/CreditCardTermsandConditions.pdf
+Disallow: /us/personal-finance/checking-accounts/rates
+Disallow: /vgn/getmorebank/*
+Disallow: /main/milwaukee-holiday
+Disallow: /main/personal/credit-cards/alshf*
+Disallow: /products-services/credit-cards/alshf*
+Disallow: /us/about/legal
+
+#BMO 
+Disallow: /pensioners
+Disallow: /pensionnes
+Disallow: /retiree
+Disallow: /retraites
+Disallow: /credit-cards/bmo-world-elite-mastercard/golf/
+Disallow: /gam/ca/advisor/advisor-support
+Disallow: /gma/ca/conseiller/soutien-conseiller
+Disallow: /gam/ca/advisor/advisor-support/practice-management
+Disallow: /gma/ca/conseiller/soutien-conseiller/gestion-exercice-professionnel
+Disallow: /gam/ca/advisor/advisor-support/fee-disclosure
+Disallow: /gma/ca/conseiller/soutien-conseiller/divulgation-des-frais
+Disallow: /applepayconditions
+Disallow: /creditcards/pdf/applepayconditions.pdf
+Disallow: /smallbusinesstoolkit
+Disallow: /main/business/smallbusinesstoolkit
+Disallow: /insurance/search?query=
+Disallow: /gam/uk/etf/search
+Disallow: /privatebank/asia/en/search/results
+Disallow: /home/search/results
+Disallow: /home/about/banking/corporate-info/about-us/canadapost
+Disallow: /accueil/a-propos-de-bmo/services-bancaires/information-entreprise/de-nous/postescanada
+Disallow: /pdf/summary_bmoii_complaint_procedures.pdf
+Disallow: /specializedsales/*
+Disallow: /financementspecialise/*
+Disallow: /pccgprefix
+Disallow: /*/dp-*
+Disallow: /nesbittburns/yourwealth
+Disallow: /nesbittburns-francais/votrepatrimoine
+Disallow: /img/private-banking/hpb/uk-eu-referendum-leave-june-23-2016.pdf
+Disallow: /img/private-banking/hpb/Global-Counsel-Impact-of-Brexit.pdf
+Disallow: /img/private-banking/hpb/Le-Brexit-Une-Surprise-Globale.pdf
+Disallow: /main/personal/bank-accounts/bankup/*
+Disallow: /principal/particuliers/comptes-bancaires/illimite/*
+Disallow: /astack/*
+Disallow: /olb/help-centre/en/my-accounts/investment/
+Disallow: /olb/help-centre/en/my-accounts/investment/objectives.html
+Disallow: /olb/help-centre/en/my-accounts/investment/purchase/
+Disallow: /olb/help-centre/en/my-accounts/investment/exchange/
+Disallow: /olb/help-centre/en/my-accounts/investment/redeem/
+Disallow: /olb/help-centre/en/my-accounts/investment/set-up/
+Disallow: /olb/help-centre/en/my-accounts/investment/pending-transactions.html
+Disallow: /olb/help-centre/en/my-accounts/investment/disbursement.html
+Disallow: /olb/help-centre/en/my-accounts/investment/fees.html
+Disallow: /olb/help-centre/en/my-accounts/investment/products.html
+Disallow: /olb/help-centre/fr/my-accounts/investment/
+Disallow: /olb/help-centre/fr/my-accounts/investment/objectives.html
+Disallow: /olb/help-centre/fr/my-accounts/investment/purchase/
+Disallow: /olb/help-centre/fr/my-accounts/investment/exchange/
+Disallow: /olb/help-centre/fr/my-accounts/investment/redeem/
+Disallow: /olb/help-centre/fr/my-accounts/investment/set-up/
+Disallow: /olb/help-centre/fr/my-accounts/investment/pending-transactions.html
+Disallow: /olb/help-centre/fr/my-accounts/investment/disbursement.html
+Disallow: /olb/help-centre/fr/my-accounts/investment/fees.html
+Disallow: /olb/help-centre/fr/my-accounts/investment/products.html
+Disallow: /open-account/*
+
+Allow: /
+
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+
+sitemap: https://www.bmo.com/sitemap.xml

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /promotion/click
+Disallow: /p/click
+Disallow: /promotion/view
+Disallow: /p/view
+Disallow: /promotion/image
+Disallow: /p/image
+Disallow: /promotion/script
+Disallow: /default
+Disallow: /view.php
+Disallow: /click.php
+Disallow: /img.php
+Disallow: /nachrichten/9661
+Sitemap: https://www.adcell.de/sitemap.xml

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*-g/
+Disallow: /*-10544/
+Disallow: /*-10514/
+Disallow: /*-10656/
+Disallow: /*-19924/
+Disallow: /*-40005/
+Disallow: /*/personalizza
+Disallow: /*/search
+Allow: /
+Sitemap: https://www.musement.com/sitemap.xml

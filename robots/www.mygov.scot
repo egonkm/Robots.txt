@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*.pdf$
+Disallow: /search$
+Disallow: /search?
+Disallow: /binaries/
+Disallow: /assets/
+Sitemap: https://www.mygov.scot/sitemap.xml

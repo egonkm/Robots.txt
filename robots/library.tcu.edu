@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /_mm/
+Disallow: /_baks/
+Disallow: /_notes/
+Disallow: /info/
+Disallow: /howto/
+Disallow: /library-access.asp
+Disallow: /MMWIP/
+Disallow: /new/
+Disallow: /PURL/
+Disallow: /research/
+Disallow: /reserves/
+Disallow: /reserves.asp
+Disallow: /reserves-course.asp
+Disallow: /reserves/graduate-and-brite.asp
+Disallow: /reserves/library-website-search.asp
+Disallow: /services/
+Disallow: *.csi
+Allow: /
+
+Sitemap: https://library.tcu.edu/sitemap.txt
+
+User-agent: Amazonbot               # Amazon's user agent
+Disallow: /do-not-crawl/            # disallow this directory
+Allow: /do-not-crawl/except-this/   # allow this subdirectory
+
+User-agent: *                # any robot
+Disallow: /not-allowed/      # disallow this directory

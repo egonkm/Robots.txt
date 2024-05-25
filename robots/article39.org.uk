@@ -1,0 +1,5 @@
+Sitemap: https://article39.org.uk/sitemap.xml
+Sitemap: https://article39.org.uk/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

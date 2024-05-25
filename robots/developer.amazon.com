@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /rp/
+Disallow: /application/
+Disallow: /myapps.html
+Disallow: /myaccount.html
+Disallow: /*/alexa/error
+Disallow: /*/alexa/techdoc-template
+Disallow: /libs/granite/core/content/login.html
+Sitemap: https://developer.amazon.com/sitemap-alexa-tech-docs.xml
+Sitemap: https://developer.amazon.com/sitemap-alexa-blog.xml
+Sitemap: https://developer.amazon.com/sitemap-alexa-xml-blog-old.xml
+Sitemap: https://developer.amazon.com/sitemap-alexa-marketing.xml
+Sitemap: https://developer.amazon.com/sitemap-amazon-appstore.xml

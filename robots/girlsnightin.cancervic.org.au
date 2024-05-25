@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /customcode
+Disallow: /management
+Disallow: /funraisin
+Disallow: /cron
+Disallow: /api

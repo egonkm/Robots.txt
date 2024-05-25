@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*?id=*
+Disallow: /*?tx_form_formframework*
+
+Sitemap: https://www.kfzgewerbe.de/sitemap.xml

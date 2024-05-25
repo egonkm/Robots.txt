@@ -1,0 +1,6 @@
+User-agent: Twitterbot
+Allow: /i/
+Allow: /files/
+
+User-agent: *
+Disallow: /

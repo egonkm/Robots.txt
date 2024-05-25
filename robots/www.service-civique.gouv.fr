@@ -1,0 +1,4 @@
+# All robots allowed
+User-agent: *
+# Sitemap files
+Sitemap: https://www.service-civique.gouv.fr/api/media/sitemap/sitemap.xml

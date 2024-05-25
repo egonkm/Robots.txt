@@ -1,0 +1,9 @@
+User-agent: *
+Host: https://www.ravenol.de
+Allow: /
+Disallow: /de/suche?
+Disallow: /en/search?
+Disallow: /de/forgot-password
+Disallow: /en/forgot-password
+
+Sitemap: https://www.ravenol.de/sitemap.xml

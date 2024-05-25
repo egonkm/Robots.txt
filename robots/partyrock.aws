@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta name="description" content="An Amazon Bedrock playground">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="og:title" content="PartyRock">
+    <meta name="og:description" content="An Amazon Bedrock playground">
+    <meta name="og:image" content="/assets/9ae045f54a8a657a8f17/og/image.png">
+    <meta charset="utf-8" />
+    <meta name="user-status" value="anonymous" />
+    <meta name="stage-name" value="prod" />
+    <meta name="llm-username" value="" />
+    <meta name="useDataForServiceImprovement" value="null" />
+    <meta name="nonce" value="Ue6XBi37WTrMLL5SRUOsdg==" />
+    <meta property="csp-nonce" nonce="Ue6XBi37WTrMLL5SRUOsdg==" />
+    <meta name="assetsHashPrefix" value="9ae045f54a8a657a8f17" />
+    <meta name="rum-config" value="{&quot;guestRoleArn&quot;:&quot;arn:aws:iam::915417107451:role/PartyRock-prod-AppCloudwatchRumIdentityPoolUnauthe-1IFECG8INU7YU&quot;,&quot;identityPoolId&quot;:&quot;us-east-1:8c8cd43d-404c-4034-8912-89744e0100f6&quot;,&quot;applicationId&quot;:&quot;0c01bad7-9ae0-419b-8575-b7bb9be4f03c&quot;,&quot;region&quot;:&quot;us-east-1&quot;}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="cognito-domain" value="https://partyrock-prod-us-east-1.auth.us-east-1.amazoncognito.com" />
+    <meta name="viewer-data" value="{&quot;city&quot;:&quot;Barbera Del Valles&quot;,&quot;country&quot;:&quot;ES&quot;}" />
+        <meta name="captcha-api-key" value="NcbTA2HVRjvm7SLW2SDe7Mu/VHdvi9RCd1GYSbWg/ijXLUeqvh3CSc3oyVh8E7veuD51RdVB86A4fPnLpJoRAWz60USrswireAL19DHsBIPNPVwxxNeGY5tD/bm1SKaospgk408V2N8pTRZJH7dpdfmbyA4YUv7Y4yMAElLM4l1QnTnMXmSN4v2Vbk+gLYPfYyMhy3ezqkaj4Daa/FXNQpUXn5dwWqwdmoX3BUneGZhZ2FaXXXPFfLXws+Fiw/w3mDY9BEbK8GtzY1T7+Puk1hokuqhB9EGXtUlgNhPjnr5C8RlV08EZKB/ktA8JxpnGHtnALAwhRlxCnobT45a+mhRuonxzpW6Ulhuxp5xERSPmiv2qXn15z1xRbRb8E3f+04U/VjKVRwVF5huD1boIYplHGowhyYyqUIDHZjUg5s9/YmTk7WQ5j4Mj0I7/9ZZhYpOaqVHQ2GzkM4tDPT85xpm2htOb9e9GknvA2SsGn0I5eL/+rnXh8TO11GNY3CQtxF1dOzsmqiN8BPreXPNluc1hqwwemSYOqT4ebiIO3YYnALoA37UVDvu9kNt5vPtNCBLVUBDiK7AqRoPgC2N+94lSlBpFFOqInWSRcN1hOU4dqtPWC38BGxDRGsk8ungxDsm5eWaNZaAZsWl1VFy4tc/BQr5J2sQ10L3jJKXeUeQ=_1_1" />
+                              <meta name="marketo-config" value="{&quot;baseUrl&quot;:&quot;https://pages.awscloud.com&quot;,&quot;munchkinId&quot;:&quot;112-TZM-766&quot;,&quot;formId&quot;:70202}" />
+    
+    <link rel="icon" type="image/x-icon" href="/assets/9ae045f54a8a657a8f17/favicon.ico" />
+  
+    <link rel="preload" href="/assets/9ae045f54a8a657a8f17/fonts/dm-sans-latin-300-normal.woff2" as="font" type="font/woff2" />
+    <link rel="preload" href="/assets/9ae045f54a8a657a8f17/fonts/dm-sans-latin-400-normal.woff2" as="font" type="font/woff2" />
+    <link rel="preload" href="/assets/9ae045f54a8a657a8f17/fonts/dm-sans-latin-500-normal.woff2" as="font" type="font/woff2" />
+    <link rel="preload" href="/assets/9ae045f54a8a657a8f17/fonts/dm-sans-latin-600-normal.woff2" as="font" type="font/woff2" />
+    <link rel="preload" href="/assets/9ae045f54a8a657a8f17/fonts/dm-sans-latin-700-normal.woff2" as="font" type="font/woff2" />
+    <link rel="preload" href="/assets/9ae045f54a8a657a8f17/fonts/dm-mono-latin-400-normal.woff2" as="font" type="font/woff2" />
+    <link rel="preload" href="/assets/9ae045f54a8a657a8f17/fonts/dm-mono-latin-500-normal.woff2" as="font" type="font/woff2" />
+
+          <script defer type="text/javascript" nonce="Ue6XBi37WTrMLL5SRUOsdg==" src="https://aaeb641c9260.edge.captcha-sdk.awswaf.com/aaeb641c9260/jsapi.js"></script>
+        
+    <link rel="preload" as="image" href="/assets/9ae045f54a8a657a8f17/images/haiku.webp" />
+    <link rel="preload" as="image" href="/assets/9ae045f54a8a657a8f17/images/podcast.webp" />
+
+          <script defer nonce="Ue6XBi37WTrMLL5SRUOsdg==" src="https://pages.awscloud.com/js/forms2/js/forms2.min.js"></script>
+    
+    <style nonce="Ue6XBi37WTrMLL5SRUOsdg==">
+
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 300;
+        src: url("/assets/9ae045f54a8a657a8f17/fonts/dm-sans-latin-300-normal.woff2") format("woff2");
+        font-display: swap;
+      }
+
+
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 400;
+        src: url("/assets/9ae045f54a8a657a8f17/fonts/dm-sans-latin-400-normal.woff2") format("woff2");
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 500;
+        src: url("/assets/9ae045f54a8a657a8f17/fonts/dm-sans-latin-500-normal.woff2") format("woff2");
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 600;
+        src: url("/assets/9ae045f54a8a657a8f17/fonts/dm-sans-latin-600-normal.woff2") format("woff2");
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 700;
+        src: url("/assets/9ae045f54a8a657a8f17/fonts/dm-sans-latin-700-normal.woff2") format("woff2");
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: "DM Mono";
+        src: url("/assets/9ae045f54a8a657a8f17/fonts/dm-mono-latin-400-normal.woff2") format("woff2");
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: "DM Mono";
+        src: url("/assets/9ae045f54a8a657a8f17/fonts/dm-mono-latin-500-normal.woff2") format("woff2");
+        font-weight: 500;
+        font-style: normal;
+        font-display: swap;
+      }
+    </style>
+  </head>
+
+
+  <body>
+    <div id="root"></div>
+          <script nonce="Ue6XBi37WTrMLL5SRUOsdg==" type="module" src="/website/9ae045f54a8a657a8f17/index.js"></script>
+      <link nonce="Ue6XBi37WTrMLL5SRUOsdg==" rel="stylesheet" type="text/css" href="/website/9ae045f54a8a657a8f17/index.css" />
+     
+  </body>
+</html>

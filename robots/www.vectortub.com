@@ -1,0 +1,13 @@
+user-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3_src-4.5.3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /t3lib/
+Disallow: /tslib/
+Disallow: /awstats/
+Disallow: /fileadmin/
+Disallow: /uploads/
+Disallow: /stats/
+Disallow: /cgi-bin/

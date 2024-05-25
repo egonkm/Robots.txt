@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /data/
+Disallow: /recall-notice/
+Disallow: /owners_support/id_agreement/pdf/

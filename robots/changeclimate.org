@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /styleguide
+
+Sitemap: https://www.changeclimate.org/sitemap.xml

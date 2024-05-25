@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /ajax/*
+Disallow: /monitoring/*
+Disallow: /webhook/*
+Sitemap: https://figaronautisme.meteoconsult.fr/sitemap/sitemap-index.xml
+
+User-agent: CCBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /

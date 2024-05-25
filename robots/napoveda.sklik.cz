@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://napoveda.sklik.cz/sitemap.xml
+Sitemap: https://napoveda.sklik.cz/en/sitemap.xml
+Sitemap: https://napoveda.sklik.cz/en/sitemap.xml

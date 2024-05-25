@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /edit/
+Disallow: /suggested-edits/
+Disallow: /login
+Disallow: /logout
+Disallow: /fiserv-private$
+Disallow: /fiserv-private/
+Disallow: /fiserv-public/edit/
+Disallow: /public-omni$
+Disallow: /public-omni/

@@ -1,0 +1,9 @@
+# robots.txt
+# @url: https://moncompte.amis.monde-diplomatique.fr
+# @generator: SPIP 4.2.11
+# @template: plugins-dist/dist/nursit/ariel/robots.txt.html
+
+User-agent: *
+Disallow: /
+ 
+

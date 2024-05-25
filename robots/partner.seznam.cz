@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://partner.seznam.cz/sitemap.xml
+Sitemap: https://partner.seznam.cz/en/sitemap.xml
+Sitemap: https://partner.seznam.cz/napoveda/sitemap.xml

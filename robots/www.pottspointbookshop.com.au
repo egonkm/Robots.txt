@@ -1,0 +1,32 @@
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 5
+Disallow: /cart/
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 5
+Disallow: /cart/
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 5
+Disallow: /cart/
+User-agent: Yandex
+Allow: /
+Crawl-delay: 5
+Disallow: /cart/
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 5
+Disallow: /cart/
+User-agent: CirclePOS
+Allow: /
+Crawl-delay: 5
+Disallow: /cart/
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://www.pottspointbookshop.com.au/sitemap.xml

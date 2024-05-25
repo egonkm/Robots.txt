@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.maminka.cz/sitemap.ashx
+Sitemap: http://supermamy.maminka.cz/sitemap.xml
+Sitemap: https://www.maminka.cz/sitemaps/news.ashx

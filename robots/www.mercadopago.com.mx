@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /checkout/*
+Disallow: /growth*
+Disallow: /registration-mp*
+Disallow: /point/preference*
+Disallow: /point/buyingflow*
+Disallow: /ayuda/form*
+User-agent: Googlebot-Image
+Disallow:
+User-agent: Mediapartners-Google
+Disallow:
+User-agent: Adsbot-Google
+Disallow:
+User-agent: Twitterbot
+Disallow:

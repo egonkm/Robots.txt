@@ -1,0 +1,217 @@
+User-agent: *
+
+sitemap: https://www.euipo.europa.eu/sitemap.xml
+
+# ############
+# Databases
+# ############
+
+disallow: /eSearch/
+disallow: /eSearchCLW/
+disallow: /sim/
+disallow: /eurolocarno/
+disallow: /designclass/
+disallow: /orphanworks/
+
+
+# ############
+# REQ000000737081
+# ############
+disallow: /ohimportal/vi/
+
+
+#32949183
+disallow: /knowledge/login/index_euipo.php
+
+
+# ############
+# Certified copies
+# ############
+
+disallow: /ohimportal/bg/certified-copies/
+disallow: /ohimportal/cs/certified-copies/
+disallow: /ohimportal/da/certified-copies/
+disallow: /ohimportal/de/certified-copies/
+disallow: /ohimportal/el/certified-copies/
+disallow: /ohimportal/en/certified-copies/
+disallow: /ohimportal/es/certified-copies/
+disallow: /ohimportal/et/certified-copies/
+disallow: /ohimportal/fi/certified-copies/
+disallow: /ohimportal/fr/certified-copies/
+disallow: /ohimportal/hu/certified-copies/
+disallow: /ohimportal/hr/certified-copies/
+disallow: /ohimportal/it/certified-copies/
+disallow: /ohimportal/mt/certified-copies/
+disallow: /ohimportal/nl/certified-copies/
+disallow: /ohimportal/pt/certified-copies/
+disallow: /ohimportal/lv/certified-copies/
+disallow: /ohimportal/lt/certified-copies/
+disallow: /ohimportal/ro/certified-copies/
+disallow: /ohimportal/sk/certified-copies/
+disallow: /ohimportal/sl/certified-copies/
+disallow: /ohimportal/sv/certified-copies/
+
+# ############
+# Forms and filings
+# ############
+
+disallow: /ohimportal/bg/login/forms-and-filings/
+disallow: /ohimportal/cs/login/forms-and-filings/
+disallow: /ohimportal/da/login/forms-and-filings/
+disallow: /ohimportal/de/login/forms-and-filings/
+disallow: /ohimportal/el/login/forms-and-filings/
+disallow: /ohimportal/en/login/forms-and-filings/
+disallow: /ohimportal/es/login/forms-and-filings/
+disallow: /ohimportal/et/login/forms-and-filings/
+disallow: /ohimportal/fi/login/forms-and-filings/
+disallow: /ohimportal/fr/login/forms-and-filings/
+disallow: /ohimportal/hu/login/forms-and-filings/
+disallow: /ohimportal/hr/login/forms-and-filings/
+disallow: /ohimportal/it/login/forms-and-filings/
+disallow: /ohimportal/mt/login/forms-and-filings/
+disallow: /ohimportal/nl/login/forms-and-filings/
+disallow: /ohimportal/pt/login/forms-and-filings/
+disallow: /ohimportal/lv/login/forms-and-filings/
+disallow: /ohimportal/lt/login/forms-and-filings/
+disallow: /ohimportal/ro/login/forms-and-filings/
+disallow: /ohimportal/sk/login/forms-and-filings/
+disallow: /ohimportal/sl/login/forms-and-filings/
+disallow: /ohimportal/sv/login/forms-and-filings/
+
+# ############
+# Login
+# ############
+
+disallow: /ohimportal/bg/web/guest/login/
+disallow: /ohimportal/cs/web/guest/login/
+disallow: /ohimportal/da/web/guest/login/
+disallow: /ohimportal/de/web/guest/login/
+disallow: /ohimportal/el/web/guest/login/
+disallow: /ohimportal/en/web/guest/login/
+disallow: /ohimportal/es/web/guest/login/
+disallow: /ohimportal/et/web/guest/login/
+disallow: /ohimportal/fi/web/guest/login/
+disallow: /ohimportal/fr/web/guest/login/
+disallow: /ohimportal/hu/web/guest/login/
+disallow: /ohimportal/hr/web/guest/login/
+disallow: /ohimportal/it/web/guest/login/
+disallow: /ohimportal/mt/web/guest/login/
+disallow: /ohimportal/nl/web/guest/login/
+disallow: /ohimportal/pt/web/guest/login/
+disallow: /ohimportal/lv/web/guest/login/
+disallow: /ohimportal/lt/web/guest/login/
+disallow: /ohimportal/ro/web/guest/login/
+disallow: /ohimportal/sk/web/guest/login/
+disallow: /ohimportal/sl/web/guest/login/
+disallow: /ohimportal/sv/web/guest/login/
+
+#
+
+# ############
+# TEST pages
+# ############
+
+disallow: /ohimportal/bg/web/guest/dev/*
+disallow: /ohimportal/cs/web/guest/dev/*
+disallow: /ohimportal/da/web/guest/dev/*
+disallow: /ohimportal/de/web/guest/dev/*
+disallow: /ohimportal/el/web/guest/dev/*
+disallow: /ohimportal/en/web/guest/dev/*
+disallow: /ohimportal/es/web/guest/dev/*
+disallow: /ohimportal/et/web/guest/dev/*
+disallow: /ohimportal/fi/web/guest/dev/*
+disallow: /ohimportal/fr/web/guest/dev/*
+disallow: /ohimportal/hu/web/guest/dev/*
+disallow: /ohimportal/hr/web/guest/dev/*
+disallow: /ohimportal/it/web/guest/dev/*
+disallow: /ohimportal/mt/web/guest/dev/*
+disallow: /ohimportal/nl/web/guest/dev/*
+disallow: /ohimportal/pl/web/guest/dev/*
+disallow: /ohimportal/pt/web/guest/dev/*
+disallow: /ohimportal/lv/web/guest/dev/*
+disallow: /ohimportal/lt/web/guest/dev/*
+disallow: /ohimportal/ro/web/guest/dev/*
+disallow: /ohimportal/sk/web/guest/dev/*
+disallow: /ohimportal/sl/web/guest/dev/*
+disallow: /ohimportal/sv/web/guest/dev/*
+
+#
+
+# ############
+# TEST pages 2
+# ############
+
+disallow: /ohimportal/bg/dev/*
+disallow: /ohimportal/cs/dev/*
+disallow: /ohimportal/da/dev/*
+disallow: /ohimportal/de/dev/*
+disallow: /ohimportal/el/dev/*
+disallow: /ohimportal/en/dev/*
+disallow: /ohimportal/es/dev/*
+disallow: /ohimportal/et/dev/*
+disallow: /ohimportal/fi/dev/*
+disallow: /ohimportal/fr/dev/*
+disallow: /ohimportal/hu/dev/*
+disallow: /ohimportal/hr/dev/*
+disallow: /ohimportal/it/dev/*
+disallow: /ohimportal/mt/dev/*
+disallow: /ohimportal/nl/dev/*
+disallow: /ohimportal/pl/dev/*
+disallow: /ohimportal/pt/dev/*
+disallow: /ohimportal/lv/dev/*
+disallow: /ohimportal/lt/dev/*
+disallow: /ohimportal/ro/dev/*
+disallow: /ohimportal/sk/dev/*
+disallow: /ohimportal/sl/dev/*
+disallow: /ohimportal/sv/dev/*
+
+#
+
+#old website#
+Allow: /ohimportal/bg/news/*
+Allow: /ohimportal/cs/news/*
+Allow: /ohimportal/da/news/*
+Allow: /ohimportal/de/news/*
+Allow: /ohimportal/el/news/*
+Allow: /ohimportal/en/news/*
+Allow: /ohimportal/es/news/*
+Allow: /ohimportal/et/news/*
+Allow: /ohimportal/fi/news/*
+Allow: /ohimportal/fr/news/*
+Allow: /ohimportal/hu/news/*
+Allow: /ohimportal/hr/news/*
+Allow: /ohimportal/it/news/*
+Allow: /ohimportal/mt/news/*
+Allow: /ohimportal/nl/news/*
+Allow: /ohimportal/pl/news/*
+Allow: /ohimportal/pt/news/*
+Allow: /ohimportal/lv/news/*
+Allow: /ohimportal/lt/news/*
+Allow: /ohimportal/ro/news/*
+Allow: /ohimportal/sk/news/*
+Allow: /ohimportal/sl/news/*
+Allow: /ohimportal/sv/news/*
+Allow: /ohimportal/bg/web/guest/-/news/*
+Allow: /ohimportal/cs/web/guest/-/news/*
+Allow: /ohimportal/da/web/guest/-/news/*
+Allow: /ohimportal/de/web/guest/-/news/*
+Allow: /ohimportal/el/web/guest/-/news/*
+Allow: /ohimportal/en/web/guest/-/news/*
+Allow: /ohimportal/es/web/guest/-/news/*
+Allow: /ohimportal/et/web/guest/-/news/*
+Allow: /ohimportal/fi/web/guest/-/news/*
+Allow: /ohimportal/fr/web/guest/-/news/*
+Allow: /ohimportal/hu/web/guest/-/news/*
+Allow: /ohimportal/hr/web/guest/-/news/*
+Allow: /ohimportal/it/web/guest/-/news/*
+Allow: /ohimportal/mt/web/guest/-/news/*
+Allow: /ohimportal/nl/web/guest/-/news/*
+Allow: /ohimportal/pl/web/guest/-/news/*
+Allow: /ohimportal/pt/web/guest/-/news/*
+Allow: /ohimportal/lv/web/guest/-/news/*
+Allow: /ohimportal/lt/web/guest/-/news/*
+Allow: /ohimportal/ro/web/guest/-/news/*
+Allow: /ohimportal/sk/web/guest/-/news/*
+Allow: /ohimportal/sl/web/guest/-/news/*
+Allow: /ohimportal/sv/web/guest/-/news/*
+Disallow: /ohimportal/*

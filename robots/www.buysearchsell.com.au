@@ -1,0 +1,15 @@
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Disallow: /record/hit/*
+Disallow: /my-account/*
+Disallow: /subscriptions/*
+Disallow: /comments/flag/*
+Disallow: /flag/*
+Disallow: /header/*
+Disallow: /footer/*
+Disallow: /admin/*
+Crawl-delay: 5
+
+Sitemap: https://www.buysearchsell.com.au/sitemap.xml

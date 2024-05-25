@@ -1,0 +1,14 @@
+# postmaster@uni-konstanz.de  12.2.2004
+#
+# alle Robots von allen Dateien ausschließen
+# gemäß: http://www.robotstxt.org/wc/exclusion-admin.html
+User-agent: *
+Disallow: /
+Allow: /pipermail/basex-talk
+Allow: /mailman/listinfo/basex-talk
+
+# Otto.Stolz@uni-konstanz.de 2005-02-28
+# Link-Checker zulassen
+User-Agent: W3C-checklink
+Disallow:
+

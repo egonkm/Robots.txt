@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="fr">
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta property="og:url" content="https://help.reclameici.fr/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Centre d'aide RéclameICI" />
+	<meta property="og:site_name" content="Centre d'aide RéclameICI" />
+	<meta property="og:description" content="Le Centre d'aide RéclameICI destiné à répondre aux questions des utilisateurs du plus grand réseau social de consommateurs." />
+	<meta property="og:image" content="https://help.reclameici.fr/assets/helpdesk/images/facebook_post.png" />
+	<!-- CSS -->
+	<link href="https://help.reclameici.fr/favicon.ico" rel="icon" type="image/x-icon" /><link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet" type="text/css" /><link href="https://help.reclameici.fr/assets/components/fontawesome/css/all.min.css" rel="stylesheet" type="text/css" /><link href="https://help.reclameici.fr/assets/components/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" /><link href="https://help.reclameici.fr/assets/components/select2/css/select2.min.css" rel="stylesheet" type="text/css" /><link href="https://help.reclameici.fr/assets/components/select2/css/select2-bootstrap.min.css" rel="stylesheet" type="text/css" /><link href="https://help.reclameici.fr/assets/helpdesk/css/helpdesk.css?v=b2f3581b8f561482d22201b868c9145f" rel="stylesheet" type="text/css" /><script async src="https://www.googletagmanager.com/gtag/js?id=G-2MLKLDMCT8"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-2MLKLDMCT8'); </script>	<title>Page non trouvée</title>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="https://help.reclameici.fr/"><img src="https://help.reclameici.fr/assets/helpdesk/images/logo-mini.svg" title="RéclameICI" class="mr-2" height="50">Centre d'aide</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav ml-auto">
+				<li class="nav-item mr-2">
+					<a class="nav-link " href="https://help.reclameici.fr/">Accueil</a>
+				</li>
+				<li class="nav-item mr-2">
+					<a class="nav-link " href="https://help.reclameici.fr/support">Aidez-moi</a>
+				</li>
+				<li class="nav-item mr-2">
+					<a class="nav-link " href="https://help.reclameici.fr/faqs">FAQs</a>
+				</li>
+				<a class="btn btn-outline-light btn-rounded text-center ml-2" href="https://reclameici.fr"><i class="fas fa-sign-in-alt"></i> Retour à RéclameICI</a>
+			</ul>
+		</div>
+	</div>
+</nav>
+	<div class="container mt-5">
+		<div class="mb-5">
+					</div>
+
+		<div class="row">
+			<div class="col-12 my-5">
+				<div class="container text-center">
+	<h1 style="color: #BFBFBF; font-size: 160px;">404</h1>
+	<h1 class="heading mb-2">
+		Page non trouvée	</h1>
+	<div class="my-2">
+		<p>Vous accédez peut-être à une ancienne connexion ou à un favori obsolète.</p>
+	</div>
+	<div class="mt-5">
+		<form action="https://help.reclameici.fr/search" method="get" accept-charset="utf-8">
+			<div class="input-group input-group-lg searchbox-bar">
+				<input type="text" name="keyword" value="" placeholder="Quel est votre doute ?" class="form-control">
+				<div class="input-group-append">
+					<i class="fa fa-search"></i>
+					<button type="submit" class="btn btn-primary btn-block btn-search"><span class="hidden-xs">Rechercher</span></button>
+				</div>
+			</div>
+		</form>	</div>
+</div>
+			</div>
+		</div>
+	</div>
+<div id="footer">
+	<div class="container">
+		<div class="text-center copyright">
+			Copyright &copy; RéclameICI made with ❤ by <a target="_blank" href="https://consumerstrust.co/">ConsumersTrust</a></div>
+		</div>
+	</div>
+</div>
+<!-- Javascript -->
+<script src="https://help.reclameici.fr/assets/components/jquery/jquery.min.js" type="text/javascript"></script><script src="https://help.reclameici.fr/assets/components/bootstrap/js/bootstrap.bundle.min.js" type="text/javascript"></script><script src="https://help.reclameici.fr/assets/components/select2/js/select2.min.js" type="text/javascript"></script><script src="https://help.reclameici.fr/assets/helpdesk/js/helpdesk.js" type="text/javascript"></script></body>
+</html>

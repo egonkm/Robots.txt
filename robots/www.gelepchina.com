@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Disallow: /*statistic.php
+Disallow: /*search.php
+Disallow: /guide/
+
+User-agent: MJ12bot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Applebot
+Disallow: /
+User-agent: SeznamBot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wordpress/wp-admin/
+Disallow: /?s=
+Disallow: /*/page/*
+Disallow: /clientlogin/*
+Disallow: /registration/*
+Crawl-delay: 1
+
+Sitemap: https://www.designweek.co.uk/sitemap.xml

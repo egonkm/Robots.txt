@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*/ConfirmResponse
+Disallow: /*/XmlHttpError
+Disallow: /Shares/*
+Disallow: /*/Shares/*

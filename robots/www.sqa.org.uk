@@ -1,0 +1,64 @@
+User-agent: *
+Sitemap: https://www.sqa.org.uk/sitemap_index.xml.gz
+
+# Block ffora URLs - Bugzilla ticket: 16965
+Disallow: /sqa/*?*topic=
+Disallow: /sqa/*?*comment=
+Disallow: /sqa/*?*ffora-*
+
+# Last Updated 22-02-22
+# Webpages
+Disallow: /sqa/35884.html
+Disallow: /sqa/36589.html
+Disallow: /sqa/42560.html
+Disallow: /sqa/5184.html
+Disallow: /sqa/63143.html
+Disallow: /sqa/63144.html
+Disallow: /sqa/65101.html
+Disallow: /sqa/65112.html
+Disallow: /sqa/65115.html
+Disallow: /sqa/68030.html
+Disallow: /sqa/68693.html
+Disallow: /sqa/69849.html
+Disallow: /sqa/70286.html
+Disallow: /sqa/77375.html
+Disallow: /myalerts/;*
+Disallow: /myalerts/signup;*
+Disallow: /myalerts/forgotpassword;*
+
+# Files
+Disallow: /assets
+Disallow: /e-learning
+Disallow: /files/hn$
+Disallow: /files/HNCmanagement$
+Disallow: /files/nq$
+Disallow: /files/nu$
+Disallow: /files/hn/$
+Disallow: /files/HNCmanagement/$
+Disallow: /files/nq/$
+Disallow: /files/nu/$
+Disallow: /mini$
+Disallow: /mini/
+Disallow: /files_ccc/nafsa.html
+Disallow: /files_ccc/XJekiCkJeS.js
+
+# Resources
+Disallow: /sqa/controller?p_service=FrontMetadata.termDetail
+Disallow: /sqa/dt_2010_info_sheet_htmlview.jsp
+Disallow: /sqa/popup.jsp
+Disallow: /sqa/servlet/controller?p_service=EComm.trackOrder&pXSL=full_receipt.xsl&pOrderID=
+Disallow: /sqa/timeline_box.jsp
+Disallow: /sqa/video/mediaplayer.swf
+Disallow: /the_taylor_family
+Disallow: /sqa/dt_2011_CFE_page_final.jsp
+Disallow: /sqa/dt_2011_CFE_page.jsp
+
+# Noindex of form error page
+Noindex: /sqa/104367.html
+# Noindex ffora user URL
+Noindex: /user/
+Noindex: /sqa/user/
+
+# Allow PowerMapper full access
+User-agent: PowerMapper
+Allow: /

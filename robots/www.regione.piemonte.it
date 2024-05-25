@@ -1,0 +1,81 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+
+User-agent: *
+
+# Directories
+Disallow: /web/core/
+Disallow: /web/profiles/
+# Files
+Disallow: /web/README.txt
+Disallow: /web/web.config
+Disallow: /web/404
+Disallow: /web/403
+# Paths (clean URLs)
+Disallow: /web/admin/
+Disallow: /web/comment/reply/
+Disallow: /web/filter/tips
+Disallow: /web/node/add/
+Disallow: /web/search/
+Disallow: /web/user/register/
+Disallow: /web/user/password/
+Disallow: /web/user/login/
+Disallow: /web/user/logout/
+# Paths (no clean URLs)
+Disallow: /web/index.php/admin/
+Disallow: /web/index.php/comment/reply/
+Disallow: /web/index.php/filter/tips
+Disallow: /web/index.php/node/add/
+Disallow: /web/index.php/search/
+Disallow: /web/index.php/user/password/
+Disallow: /web/index.php/user/register/
+Disallow: /web/index.php/user/login/
+Disallow: /web/index.php/user/logout/
+
+# Percorsi esterni a Drupal
+Disallow: /aves/include/
+Disallow: /aves/css/
+Disallow: /datipnrr/index.shtml
+Disallow: /datipnrr/index_altri_soggetti.shtml
+
+
+
+
+#
+# Blocca i motori di ricerca stranieri
+#
+
+# GIAPPONESI
+User-agent: moget
+User-agent: ichiro
+# KOREANI
+User-agent: NaverBot
+User-agent: Yeti
+# CINESI
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: sogou spider
+User-agent: YoudaoBot
+# RUSSI
+User-agent: Yandex
+User-agent: YandexBot
+Disallow: /
+
+#
+# Definizione Sitemap
+#
+Sitemap: https://www.regione.piemonte.it/web/sitemap.xml

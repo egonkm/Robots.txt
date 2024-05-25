@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /fileadmin/
+Disallow: /uploads/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /*&type=98
+Disallow: /index.php?eID=tx_nawsecuredl*

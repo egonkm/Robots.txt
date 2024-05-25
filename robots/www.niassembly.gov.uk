@@ -1,0 +1,4 @@
+ï»¿Sitemap: http://www.niassembly.gov.uk/sitemap.xml
+User-agent: *
+Disallow: /static/css/
+Disallow: /static/js/

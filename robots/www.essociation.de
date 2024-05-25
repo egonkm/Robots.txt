@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /fileadmin/
+Disallow: /uploads/
+Disallow: /misc/
+Disallow: /search
+Disallow: /_nuxt/
+Disallow: /event/booking/form
+Allow: /
+Sitemap: https://api.essociation.de/sitemap.xml
+User-agent: Googlebot
+Allow: *.js
+Allow: *.css
+Allow: *.gzip

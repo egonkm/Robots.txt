@@ -1,0 +1,19 @@
+# $Header: /home/cvs/cvsroot/site_data/001/00000001/static_data/robots.txt,v 1.4 2001/09/13 00:25:08 dave Exp $
+User-agent: *
+Disallow: /site/Calendar
+Disallow: /site/TellAFriend
+Disallow: /site/search.html
+Disallow: /site/DocServer
+Disallow: /about-nas/events/regional-meetings/cambridge-uk-regional-meeting.html
+Disallow: /publications/biographical-memoirs/memoir-status/
+Disallow: /about-nas/events/regional-meetings/uk-regional-meeting.html
+Disallow: /about-nas/events/regional-meetings/urbana.html
+Disallow: /about-nas/events/annual-meeting/
+Disallow: /about-nas/events/annual-meeting/schedule-at-a-glance.html
+Disallow: /about-nas/events/annual-meeting/annual-meeting-registration.html
+Disallow: /about-nas/events/annual-meeting/annual-meeting-hotels.html
+Disallow: /about-nas/events/regional-meetings/ 
+
+
+User-agent: gsa-crawler
+Crawl-delay: 2 

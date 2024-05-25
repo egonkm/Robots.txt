@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /dashboard/*
+Disallow: /preview/*
+Disallow: /comparison-info
+Disallow: /lp1
+Disallow: /sundae
+Sitemap: https://www.smarty.co.uk/sitemap.xml

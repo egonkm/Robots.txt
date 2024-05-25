@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /*?
+Disallow: /ru-kz/
+Disallow: /ru/
+Disallow: /*=
+Disallow: /*index$
+Disallow: /*_includes
+Disallow: /*_tutorials
+Disallow: /*_qa
+Disallow: /_*
+Sitemap: https://cloud.yandex.com/sitemap_index.xml
+Host: cloud.yandex.com

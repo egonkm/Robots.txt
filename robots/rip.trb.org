@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /actions.aspx
+Disallow: /document
+Disallow: /edit
+Disallow: /browse
+Disallow: /loginrequest
+Allow: /
+
+Sitemap: https://rip.trb.org/Sitemap/Index

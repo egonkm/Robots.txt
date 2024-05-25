@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /WEB-INF/
+Disallow: /blueprint/WEB-INF/
+Disallow: /static/appdata/
+
+Sitemap: https://brasil.diplo.de/br-de/sitemap_index.xml
+Sitemap: https://brasil.diplo.de/br-pt/sitemap_index.xml

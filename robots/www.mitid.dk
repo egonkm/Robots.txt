@@ -1,0 +1,660 @@
+
+<!doctype html>
+<html lang="en-GB">
+<head>
+
+    <title>Page Not Found (404) - MitID</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="robots" content="noindex, nofollow" />
+    
+
+    <link rel="canonical" href="https://www.mitid.dk/en-gb/404/" />
+
+                <link rel="alternate" hreflang="da-dk" href="https://www.mitid.dk/404/" />
+            <link rel="alternate" hreflang="en-gb" href="https://www.mitid.dk/en-gb/404/" />
+    <link rel="alternate" hreflang="x-default" href="https://www.mitid.dk/404/" />
+
+        <meta name="twitter:card" content="summary" />
+    <meta property="og:title" content="Page Not Found (404) - MitID" />
+    <meta property="og:url" content="https://www.mitid.dk/en-gb/404/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en-GB" />
+
+            <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":{"@type":"ListItem","name":"404","item":{"@type":"Thing","@id":"https://www.mitid.dk/en-gb/404/"},"position":1}}
+        </script>
+
+
+    <link rel="stylesheet" href="/css/generated/style-mitid.css?v=638519652000000000">
+
+    <link rel="manifest" href="/webmanifest/site.webmanifest" />
+    <link rel="icon" type="image/x-icon" href="/webmanifest/images/icons/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/webmanifest/images/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/webmanifest/images/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/webmanifest/images/icons/favicon-16x16.png" />
+
+</head>
+<body translate="no">
+    <span id="site-context" data-value="MITID_DK"></span>
+    
+
+    <div class="service-info-container-top"></div>
+    <header>
+        
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="mitid-mitid--header">
+                <div id="eu_header_label" class="navbar navbar-light bg-white" aria-label="MitID">
+                    <div class="mitid-menu-popup" id="menu-search-wrap" role="dialog" aria-modal="true" aria-hidden="true" tabindex="-1">
+                        <div class="menu-inner">
+                            
+<form id="menu-search-form" class="form-inline" action="/en-gb/search/" method="get">
+    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" id="query" name="keywords" />
+    <button id="eu_header_search_input_button" class="btn btn-primary" type="submit">
+        <span class="btn-text">Search</span>
+        <span class="material-icons float-right" translate="no" width="24" aria-hidden="true">search</span>
+    </button>
+</form>
+<button id="eu_header_search_input_close" class="navbar-toggler-close" aria-label="Close search" data-target="menu-search-wrap">
+    <span class="material-icons" translate="no" aria-hidden="true">close</span>
+</button>
+                        </div>
+                    </div>
+                    <div class="brand-wrap" id="eu_header_logo_wrapper">
+                        <a class="navbar-brand logo mitid--brand-blue header-button" id="eu_header_logo_image" title="Front page" aria-label="Front page" href="/en-gb/"></a>
+                    </div>
+                    <div class="flex-wrapper">
+
+                        <div id="search-account-wrap" class="search-account-wrap">
+
+                            <div id="search-wrap" class="search-wrap">
+                                <button class="header-button navbar-toggler justify-content-center h-100 w-100" id="eu_header_search_link" type="button" data-target="menu-search-wrap" title="Search" aria-label="Search">
+        <svg version="1.1" width="32px" id="eu_header_search_icon" class="header-icon" height="32px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve" translate="no" aria-hidden="true">
+        <style type="text/css">
+            .search-icon-path {
+                fill-rule: evenodd;
+                clip-rule: evenodd;
+                fill: #001C44;
+            }
+        </style>
+        <path class="search-icon-path" d="M20.3,18.3h-1.1l-0.4-0.4c1.7-2,2.4-4.6,2-7.1c-0.6-3.7-3.7-6.7-7.5-7.1c-2.7-0.3-5.3,0.6-7.2,2.5
+                                                                                    s-2.8,4.6-2.5,7.2c0.5,3.7,3.4,6.8,7.1,7.5c2.5,0.4,5.2-0.3,7.1-2l0.4,0.4v1.1L24,26c0.5,0.5,1.4,0.5,2,0c0.5-0.5,0.5-1.4,0-2
+                                                                                    L20.3,18.3z M12.3,18.3c-3.3,0-6-2.7-6-6s2.7-6,6-6s6,2.7,6,6S15.6,18.3,12.3,18.3z" />
+                </svg>
+                                    <span id="eu_header_search_label" class="text mt-1 d-none d-md-inline">Search</span>
+                                </button>
+                            </div>
+                            <div class="header-language-region d-flex align-items-center position-relative" id="header-language-region">
+                                <button class="header-button d-flex flex-column align-items-center justify-content-center h-100 w-100" id="mitid-language-btn" title="Language" aria-label="Language">
+        <svg class="header-icon" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.986 2.66667C8.62602 2.66667 2.66602 8.64001 2.66602 16C2.66602 23.36 8.62602 29.3333 15.986 29.3333C23.3594 29.3333 29.3327 23.36 29.3327 16C29.3327 8.64001 23.3594 2.66667 15.986 2.66667ZM25.226 10.6667H21.2927C20.866 9.00001 20.2527 7.40001 19.4527 5.92001C21.906 6.76001 23.946 8.46667 25.226 10.6667ZM15.9993 5.38667C17.106 6.98667 17.9727 8.76001 18.546 10.6667H13.4527C14.026 8.76001 14.8927 6.98667 15.9993 5.38667ZM5.67935 18.6667C5.46602 17.8133 5.33268 16.92 5.33268 16C5.33268 15.08 5.46602 14.1867 5.67935 13.3333H10.186C10.0793 14.2133 9.99935 15.0933 9.99935 16C9.99935 16.9067 10.0793 17.7867 10.186 18.6667H5.67935ZM6.77268 21.3333H10.706C11.1327 23 11.746 24.6 12.546 26.08C10.0927 25.24 8.05268 23.5467 6.77268 21.3333ZM10.706 10.6667H6.77268C8.05268 8.45334 10.0927 6.76001 12.546 5.92001C11.746 7.40001 11.1327 9.00001 10.706 10.6667ZM15.9993 26.6133C14.8927 25.0133 14.026 23.24 13.4527 21.3333H18.546C17.9727 23.24 17.106 25.0133 15.9993 26.6133ZM19.1194 18.6667H12.8793C12.7593 17.7867 12.666 16.9067 12.666 16C12.666 15.0933 12.7593 14.2 12.8793 13.3333H19.1194C19.2393 14.2 19.3327 15.0933 19.3327 16C19.3327 16.9067 19.2393 17.7867 19.1194 18.6667ZM19.4527 26.08C20.2527 24.6 20.866 23 21.2927 21.3333H25.226C23.946 23.5333 21.906 25.24 19.4527 26.08ZM21.8127 18.6667C21.9193 17.7867 21.9993 16.9067 21.9993 16C21.9993 15.0933 21.9193 14.2133 21.8127 13.3333H26.3193C26.5327 14.1867 26.666 15.08 26.666 16C26.666 16.92 26.5327 17.8133 26.3193 18.6667H21.8127Z" fill="black" />
+        </svg>
+                                    <span class="text mt-1 d-none d-md-inline">English</span>
+                                </button>
+                                <div id="language-dropdown-content" class="language-dropdown-content">
+                                    <nav aria-label="Language selector">
+                                        <ul>
+                                                    <li class="link">
+                                                        <a href="/404/?language=da-dk">Dansk</a>
+                                                    </li>
+                                                    <li class="link">
+                                                        <a href="/en-gb/404/?language=en-gb" class="font-weight-bold">English</a>
+                                                    </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                            <div class="account-wrap header-anonymous-region" id="header-anonymous-region">
+                                <button class="header-button d-flex flex-column align-items-center justify-content-center h-100 w-100" id="mitid-login-btn" title="Log in" aria-label="Log in" data-href="/self-service/portal/login" data-idp="true">
+        <svg class="header-icon user-icon" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M25.4551 27C24.916 20.3204 20.9172 17.5231 15.999 17.5231C11.0809 17.5231 7.08207 20.3204 6.54297 27H25.4551Z" fill="#001C44" />
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2329 10.2461C21.2329 13.1436 18.8892 15.4923 15.9983 15.4923C13.1072 15.4923 10.7637 13.1436 10.7637 10.2461C10.7637 7.34884 13.1072 5 15.9983 5C18.8892 5 21.2329 7.34884 21.2329 10.2461Z" fill="#001C44" />
+        </svg>
+                                    <span class="text mt-1 d-none d-md-inline">Log on</span>
+                                </button>
+                            </div>
+                            <div class="account-wrap header-user-region" id="header-user-region">
+                                <button class="header-button d-flex flex-column align-items-center justify-content-center h-100 w-100" id="user-dropdown-btn" title="User menu" aria-label="User menu">
+                                    <span class="position-relative">
+        <svg class="header-icon user-icon" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M25.4551 27C24.916 20.3204 20.9172 17.5231 15.999 17.5231C11.0809 17.5231 7.08207 20.3204 6.54297 27H25.4551Z" fill="#001C44" />
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2329 10.2461C21.2329 13.1436 18.8892 15.4923 15.9983 15.4923C13.1072 15.4923 10.7637 13.1436 10.7637 10.2461C10.7637 7.34884 13.1072 5 15.9983 5C18.8892 5 21.2329 7.34884 21.2329 10.2461Z" fill="#001C44" />
+        </svg>
+                                    </span>
+                                    <span class="text mt-1 d-none d-md-inline" id="eu_header_user_link_label">Profile</span>
+                                </button>
+                                <div id="user-dropdown-content" class="user-dropdown-content">
+                                    <nav aria-label="User menu">
+                                        <ul>
+                                                <li class="header d-flex align-items-center">
+                                                    <span>
+                                                        <svg class="user-icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path d="M8 8C10.21 8 12 6.21 12 4C12 1.79 10.21 0 8 0C5.79 0 4 1.79 4 4C4 6.21 5.79 8 8 8ZM8 10C5.33 10 0 11.34 0 14V15C0 15.55 0.45 16 1 16H15C15.55 16 16 15.55 16 15V14C16 11.34 10.67 10 8 10Z" fill="#0060E6" />
+                                                        </svg>
+                                                    </span>
+                                                    <span class="user-name ml-2" id="eu_header_user_link_name"></span>
+                                                </li>
+                                                    <li class="link first-item">
+                                                        <a href="/self-service/portal">MitID profile</a>
+                                                    </li>
+                                                    <li class="link">
+                                                        <a href="/self-service/portal/authenticators">My authenticators</a>
+                                                    </li>
+                                                    <li class="link">
+                                                        <a href="/self-service/portal/view-eid/view-audit-log">My activities</a>
+                                                    </li>
+                                            <li class="action">
+                                                <button id="mitid-logout-btn" title="Log out" aria-label="Log out">
+                                                    <span class="material-icons" aria-hidden="true">
+                                                        logout
+                                                    </span>
+                                                    <span>Log out</span>
+                                                </button>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                            <div class="toggler-wrap" id="eu_header_menu_wrapper">
+                                <button id="btn-menu-main" class="header-button d-flex flex-column align-items-center justify-content-center h-100 w-100" type="button" data-target="menu-main-wrap" aria-expanded="false" title="Menu" aria-label="Menu">
+        <svg version="1.1" width="32px" height="32px" id="eu_header_menu_icon" class="header-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve" translate="no" aria-hidden="true">
+        <style type="text/css">
+            .header-menu-icon-path {
+                fill-rule: evenodd;
+                clip-rule: evenodd;
+                fill: #001C44;
+            }
+        </style>
+        <g>
+        <g transform="translate(-188.000000, -35.000000)">
+        <g transform="translate(188.000000, 35.000000)">
+        <path id="Path" class="header-menu-icon-path" d="M3.4,16.5h23.1c0.8,0,1.4-0.7,1.4-1.5s-0.6-1.5-1.4-1.5H3.4C2.7,13.5,2,14.2,2,15
+                                                                                                        S2.7,16.5,3.4,16.5z" />
+        <path id="Path-Copy" class="header-menu-icon-path" d="M3.4,25.5h23.1c0.8,0,1.4-0.7,1.4-1.5s-0.6-1.5-1.4-1.5H3.4C2.7,22.5,2,23.2,2,24
+                                                                                                        S2.7,25.5,3.4,25.5z" />
+        <path id="Path-Copy_1_" class="header-menu-icon-path" d="M3.4,7.5h23.1C27.4,7.5,28,6.8,28,6s-0.6-1.5-1.4-1.5H3.4C2.7,4.5,2,5.2,2,6
+                                                                                                        S2.7,7.5,3.4,7.5z" />
+                                                                                                                                                    </g>
+                                                                                                                                                </g>
+                                                                                                                                            </g>
+                </svg>
+                                    <span class="text mt-1 d-none d-md-inline" id="eu_header_menu_label">Menu</span>
+                                </button>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="menu-main-wrap" class="mitid-menu-popup" role="dialog" aria-modal="true" aria-hidden="true" tabindex="-1">
+
+    <div class="menu-inner">
+        <div class="menu-header">
+            <button class="navbar-toggler navbar-toggler-back" title="Back" aria-label="Back" data-target="menu-main-wrap">
+                <span class="material-icons" translate="no" aria-hidden="true">arrow_backward</span>
+                <span class="button-text">Back</span>
+            </button>
+            <button class="navbar-toggler navbar-toggler-close pr-0" title="Close" aria-label="Close" data-target="menu-main-wrap">
+                <span class="button-text">Close</span>
+                <span class="material-icons" translate="no" aria-hidden="true">close</span>
+            </button>
+        </div>
+
+        <div class="menu-content">
+            <div class="main-menu-content">
+                    <nav aria-label="Main menu">
+                        <ul class="main-menu">
+                                <li>
+                                    <a href="/en-gb/get-started-with-mitid/" title="Get started with MitID" class="d-inline-flex align-items-center" data-has-sublinks="0" data-id="popup-contentba1ce97f-cf23-42b5-920e-c863b6a28738">
+                                        <span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span>
+                                        Get started with MitID
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/en-gb/get-started-with-mitid/mitid-authenticators/" title="This is how you use MitID" class="d-inline-flex align-items-center" data-has-sublinks="0" data-id="popup-content87782ccc-1c1e-41c9-a61f-18ac2ace13f4">
+                                        <span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span>
+                                        This is how you use MitID
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/en-gb/help/help-universe/" title="Help and support" class="d-inline-flex align-items-center" data-has-sublinks="0" data-id="popup-contentbaf477a6-8251-49fe-8fb1-ed5f92e405df">
+                                        <span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span>
+                                        Help and support
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/en-gb/help/messages-from-mitid/" title="About messages from MitID" class="d-inline-flex align-items-center" data-has-sublinks="0" data-id="popup-contentd2711493-df2c-4b1f-80ec-a9cef263cd2c">
+                                        <span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span>
+                                        About messages from MitID
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/en-gb/about-mitid/" title="About MitID" class="d-inline-flex align-items-center" data-has-sublinks="0" data-id="popup-content06a5c67e-db1d-4c50-9a84-c1bea53c5cfc">
+                                        <span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span>
+                                        About MitID
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/en-gb/help/help-universe/blocking/" title="Blocking" class="d-inline-flex align-items-center" data-has-sublinks="0" data-id="popup-content70ceda76-8cdb-43be-8afa-ae9533d47ee6">
+                                        <span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span>
+                                        Blocking
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/en-gb/help/help-universe/mitid-guides/" title="Guides" class="d-inline-flex align-items-center" data-has-sublinks="0" data-id="popup-contente80a3562-738f-4467-8eb6-89e2805d465e">
+                                        <span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span>
+                                        Guides
+                                    </a>
+                                </li>
+                        </ul>
+                    </nav>
+
+            </div>
+
+                <nav aria-label="Sub menu">
+                </nav>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+
+        
+
+    <div class="mitid-shared--breadcrumb container">
+        <nav>
+            <ol>
+                    <li>
+                            <a title="Home" href="/en-gb/">
+                                Home
+                            </a>
+                        <span class="material-icons" translate="no" aria-hidden="true" width="24">chevron_right</span>
+                       
+                    </li>
+
+                <li>
+                    Page Not Found (404)
+                </li>
+            </ol>
+        </nav>
+        
+    </div>
+
+    </header>
+            <div class="container d-none" id="language-notification-box">
+            <div class="row">
+                <div class="col-12">
+                        <div id="lang-notification-content-da-dk" class="mitid-shared--notification-box mitid-shared--notification-box-warning mt-4 d-none">
+                            <div class="title">
+                                <span class="material-icons-round notification-icon" translate="no" width="24"></span>
+                                <div class="heading"><strong>Siden er ikke tilg&#xE6;ngelig p&#xE5; det valgte sprog</strong></div>
+                            </div>
+                            <div class="text">
+                                    <div>
+                                        Siden er ikke tilg&#230;ngelig p&#229; dit &#248;nskede sprog. De tilg&#230;ngelige sprog er n&#230;vnt nedenst&#229;ende.
+                                    </div>
+
+                                    <div class="mt-2">
+                                                <a href="/404/?language=da-dk" class="btn-link p-0 d-flex align-items-center bold text-capitalize mr-4">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M9.99 0C4.47 0 0 4.48 0 10C0 15.52 4.47 20 9.99 20C15.52 20 20 15.52 20 10C20 4.48 15.52 0 9.99 0ZM16.92 6H13.97C13.65 4.75 13.19 3.55 12.59 2.44C14.43 3.07 15.96 4.35 16.92 6ZM10 2.04C10.83 3.24 11.48 4.57 11.91 6H8.09C8.52 4.57 9.17 3.24 10 2.04ZM2.26 12C2.1 11.36 2 10.69 2 10C2 9.31 2.1 8.64 2.26 8H5.64C5.56 8.66 5.5 9.32 5.5 10C5.5 10.68 5.56 11.34 5.64 12H2.26ZM3.08 14H6.03C6.35 15.25 6.81 16.45 7.41 17.56C5.57 16.93 4.04 15.66 3.08 14ZM6.03 6H3.08C4.04 4.34 5.57 3.07 7.41 2.44C6.81 3.55 6.35 4.75 6.03 6ZM10 17.96C9.17 16.76 8.52 15.43 8.09 14H11.91C11.48 15.43 10.83 16.76 10 17.96ZM12.34 12H7.66C7.57 11.34 7.5 10.68 7.5 10C7.5 9.32 7.57 8.65 7.66 8H12.34C12.43 8.65 12.5 9.32 12.5 10C12.5 10.68 12.43 11.34 12.34 12ZM12.59 17.56C13.19 16.45 13.65 15.25 13.97 14H16.92C15.96 15.65 14.43 16.93 12.59 17.56ZM14.36 12C14.44 11.34 14.5 10.68 14.5 10C14.5 9.32 14.44 8.66 14.36 8H17.74C17.9 8.64 18 9.31 18 10C18 10.69 17.9 11.36 17.74 12H14.36Z" fill="#0060E6" />
+        </svg>
+                                                    <span class="ml-2 text-primary">
+                                                        dansk
+                                                    </span>
+                                                </a>
+                                                <a href="/en-gb/404/?language=en-gb" class="btn-link p-0 d-flex align-items-center bold text-capitalize mr-4 disabled">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M9.99 0C4.47 0 0 4.48 0 10C0 15.52 4.47 20 9.99 20C15.52 20 20 15.52 20 10C20 4.48 15.52 0 9.99 0ZM16.92 6H13.97C13.65 4.75 13.19 3.55 12.59 2.44C14.43 3.07 15.96 4.35 16.92 6ZM10 2.04C10.83 3.24 11.48 4.57 11.91 6H8.09C8.52 4.57 9.17 3.24 10 2.04ZM2.26 12C2.1 11.36 2 10.69 2 10C2 9.31 2.1 8.64 2.26 8H5.64C5.56 8.66 5.5 9.32 5.5 10C5.5 10.68 5.56 11.34 5.64 12H2.26ZM3.08 14H6.03C6.35 15.25 6.81 16.45 7.41 17.56C5.57 16.93 4.04 15.66 3.08 14ZM6.03 6H3.08C4.04 4.34 5.57 3.07 7.41 2.44C6.81 3.55 6.35 4.75 6.03 6ZM10 17.96C9.17 16.76 8.52 15.43 8.09 14H11.91C11.48 15.43 10.83 16.76 10 17.96ZM12.34 12H7.66C7.57 11.34 7.5 10.68 7.5 10C7.5 9.32 7.57 8.65 7.66 8H12.34C12.43 8.65 12.5 9.32 12.5 10C12.5 10.68 12.43 11.34 12.34 12ZM12.59 17.56C13.19 16.45 13.65 15.25 13.97 14H16.92C15.96 15.65 14.43 16.93 12.59 17.56ZM14.36 12C14.44 11.34 14.5 10.68 14.5 10C14.5 9.32 14.44 8.66 14.36 8H17.74C17.9 8.64 18 9.31 18 10C18 10.69 17.9 11.36 17.74 12H14.36Z" fill="#0060E6" />
+        </svg>
+                                                    <span class="ml-2 text-primary">
+                                                        English
+                                                    </span>
+                                                </a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div id="lang-notification-content-en-gb" class="mitid-shared--notification-box mitid-shared--notification-box-warning mt-4 d-none">
+                            <div class="title">
+                                <span class="material-icons-round notification-icon" translate="no" width="24"></span>
+                                <div class="heading"><strong>The page is not available in the selected language</strong></div>
+                            </div>
+                            <div class="text">
+                                    <div>
+                                        Unfortunately, the page is not available in the selected language. The page is available in the languages listed below.
+                                    </div>
+
+                                    <div class="mt-2">
+                                                <a href="/404/?language=da-dk" class="btn-link p-0 d-flex align-items-center bold text-capitalize mr-4">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M9.99 0C4.47 0 0 4.48 0 10C0 15.52 4.47 20 9.99 20C15.52 20 20 15.52 20 10C20 4.48 15.52 0 9.99 0ZM16.92 6H13.97C13.65 4.75 13.19 3.55 12.59 2.44C14.43 3.07 15.96 4.35 16.92 6ZM10 2.04C10.83 3.24 11.48 4.57 11.91 6H8.09C8.52 4.57 9.17 3.24 10 2.04ZM2.26 12C2.1 11.36 2 10.69 2 10C2 9.31 2.1 8.64 2.26 8H5.64C5.56 8.66 5.5 9.32 5.5 10C5.5 10.68 5.56 11.34 5.64 12H2.26ZM3.08 14H6.03C6.35 15.25 6.81 16.45 7.41 17.56C5.57 16.93 4.04 15.66 3.08 14ZM6.03 6H3.08C4.04 4.34 5.57 3.07 7.41 2.44C6.81 3.55 6.35 4.75 6.03 6ZM10 17.96C9.17 16.76 8.52 15.43 8.09 14H11.91C11.48 15.43 10.83 16.76 10 17.96ZM12.34 12H7.66C7.57 11.34 7.5 10.68 7.5 10C7.5 9.32 7.57 8.65 7.66 8H12.34C12.43 8.65 12.5 9.32 12.5 10C12.5 10.68 12.43 11.34 12.34 12ZM12.59 17.56C13.19 16.45 13.65 15.25 13.97 14H16.92C15.96 15.65 14.43 16.93 12.59 17.56ZM14.36 12C14.44 11.34 14.5 10.68 14.5 10C14.5 9.32 14.44 8.66 14.36 8H17.74C17.9 8.64 18 9.31 18 10C18 10.69 17.9 11.36 17.74 12H14.36Z" fill="#0060E6" />
+        </svg>
+                                                    <span class="ml-2 text-primary">
+                                                        dansk
+                                                    </span>
+                                                </a>
+                                                <a href="/en-gb/404/?language=en-gb" class="btn-link p-0 d-flex align-items-center bold text-capitalize mr-4 disabled">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M9.99 0C4.47 0 0 4.48 0 10C0 15.52 4.47 20 9.99 20C15.52 20 20 15.52 20 10C20 4.48 15.52 0 9.99 0ZM16.92 6H13.97C13.65 4.75 13.19 3.55 12.59 2.44C14.43 3.07 15.96 4.35 16.92 6ZM10 2.04C10.83 3.24 11.48 4.57 11.91 6H8.09C8.52 4.57 9.17 3.24 10 2.04ZM2.26 12C2.1 11.36 2 10.69 2 10C2 9.31 2.1 8.64 2.26 8H5.64C5.56 8.66 5.5 9.32 5.5 10C5.5 10.68 5.56 11.34 5.64 12H2.26ZM3.08 14H6.03C6.35 15.25 6.81 16.45 7.41 17.56C5.57 16.93 4.04 15.66 3.08 14ZM6.03 6H3.08C4.04 4.34 5.57 3.07 7.41 2.44C6.81 3.55 6.35 4.75 6.03 6ZM10 17.96C9.17 16.76 8.52 15.43 8.09 14H11.91C11.48 15.43 10.83 16.76 10 17.96ZM12.34 12H7.66C7.57 11.34 7.5 10.68 7.5 10C7.5 9.32 7.57 8.65 7.66 8H12.34C12.43 8.65 12.5 9.32 12.5 10C12.5 10.68 12.43 11.34 12.34 12ZM12.59 17.56C13.19 16.45 13.65 15.25 13.97 14H16.92C15.96 15.65 14.43 16.93 12.59 17.56ZM14.36 12C14.44 11.34 14.5 10.68 14.5 10C14.5 9.32 14.44 8.66 14.36 8H17.74C17.9 8.64 18 9.31 18 10C18 10.69 17.9 11.36 17.74 12H14.36Z" fill="#0060E6" />
+        </svg>
+                                                    <span class="ml-2 text-primary">
+                                                        English
+                                                    </span>
+                                                </a>
+                                    </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="container d-none" id="cookie-notification-box">
+            <div class="row">
+                <div class="col-12">
+                        <div id="cookie-notification-content-da-dk" class="mitid-shared--notification-box mitid-shared--notification-box-warning mt-4 d-none">
+                            <div class="title">
+                                <span class="material-icons-round notification-icon" translate="no" width="24"></span>
+                                <div class="heading"><strong>Siden kan vises p&#xE5; dit foretrukne sprog</strong></div>
+                            </div>
+                            <div class="text">
+
+                                    <div class="mt-2">
+                                            <a href="/404/?language=da-dk" class="btn-link p-0 d-flex align-items-center bold text-capitalize mr-4">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M9.99 0C4.47 0 0 4.48 0 10C0 15.52 4.47 20 9.99 20C15.52 20 20 15.52 20 10C20 4.48 15.52 0 9.99 0ZM16.92 6H13.97C13.65 4.75 13.19 3.55 12.59 2.44C14.43 3.07 15.96 4.35 16.92 6ZM10 2.04C10.83 3.24 11.48 4.57 11.91 6H8.09C8.52 4.57 9.17 3.24 10 2.04ZM2.26 12C2.1 11.36 2 10.69 2 10C2 9.31 2.1 8.64 2.26 8H5.64C5.56 8.66 5.5 9.32 5.5 10C5.5 10.68 5.56 11.34 5.64 12H2.26ZM3.08 14H6.03C6.35 15.25 6.81 16.45 7.41 17.56C5.57 16.93 4.04 15.66 3.08 14ZM6.03 6H3.08C4.04 4.34 5.57 3.07 7.41 2.44C6.81 3.55 6.35 4.75 6.03 6ZM10 17.96C9.17 16.76 8.52 15.43 8.09 14H11.91C11.48 15.43 10.83 16.76 10 17.96ZM12.34 12H7.66C7.57 11.34 7.5 10.68 7.5 10C7.5 9.32 7.57 8.65 7.66 8H12.34C12.43 8.65 12.5 9.32 12.5 10C12.5 10.68 12.43 11.34 12.34 12ZM12.59 17.56C13.19 16.45 13.65 15.25 13.97 14H16.92C15.96 15.65 14.43 16.93 12.59 17.56ZM14.36 12C14.44 11.34 14.5 10.68 14.5 10C14.5 9.32 14.44 8.66 14.36 8H17.74C17.9 8.64 18 9.31 18 10C18 10.69 17.9 11.36 17.74 12H14.36Z" fill="#0060E6" />
+        </svg>
+                                                <span class="ml-2 text-primary">
+                                                    dansk
+                                                </span>
+                                            </a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div id="cookie-notification-content-en-gb" class="mitid-shared--notification-box mitid-shared--notification-box-warning mt-4 d-none">
+                            <div class="title">
+                                <span class="material-icons-round notification-icon" translate="no" width="24"></span>
+                                <div class="heading"><strong>The page is available in your preferred language</strong></div>
+                            </div>
+                            <div class="text">
+
+                                    <div class="mt-2">
+                                            <a href="/404/?language=da-dk" class="btn-link p-0 d-flex align-items-center bold text-capitalize mr-4">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M9.99 0C4.47 0 0 4.48 0 10C0 15.52 4.47 20 9.99 20C15.52 20 20 15.52 20 10C20 4.48 15.52 0 9.99 0ZM16.92 6H13.97C13.65 4.75 13.19 3.55 12.59 2.44C14.43 3.07 15.96 4.35 16.92 6ZM10 2.04C10.83 3.24 11.48 4.57 11.91 6H8.09C8.52 4.57 9.17 3.24 10 2.04ZM2.26 12C2.1 11.36 2 10.69 2 10C2 9.31 2.1 8.64 2.26 8H5.64C5.56 8.66 5.5 9.32 5.5 10C5.5 10.68 5.56 11.34 5.64 12H2.26ZM3.08 14H6.03C6.35 15.25 6.81 16.45 7.41 17.56C5.57 16.93 4.04 15.66 3.08 14ZM6.03 6H3.08C4.04 4.34 5.57 3.07 7.41 2.44C6.81 3.55 6.35 4.75 6.03 6ZM10 17.96C9.17 16.76 8.52 15.43 8.09 14H11.91C11.48 15.43 10.83 16.76 10 17.96ZM12.34 12H7.66C7.57 11.34 7.5 10.68 7.5 10C7.5 9.32 7.57 8.65 7.66 8H12.34C12.43 8.65 12.5 9.32 12.5 10C12.5 10.68 12.43 11.34 12.34 12ZM12.59 17.56C13.19 16.45 13.65 15.25 13.97 14H16.92C15.96 15.65 14.43 16.93 12.59 17.56ZM14.36 12C14.44 11.34 14.5 10.68 14.5 10C14.5 9.32 14.44 8.66 14.36 8H17.74C17.9 8.64 18 9.31 18 10C18 10.69 17.9 11.36 17.74 12H14.36Z" fill="#0060E6" />
+        </svg>
+                                                <span class="ml-2 text-primary">
+                                                    dansk
+                                                </span>
+                                            </a>
+                                    </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+
+<script type="text/javascript">
+    var enCulture = "en-gb";
+    var daCulture = "da-dk";
+    var klCulture = "kl-gl";
+
+    var languageNotification = document.getElementById("language-notification-box");
+    var cookieNotification = document.getElementById("cookie-notification-box");
+    var languageURLs = {"da-dk":"/404/","en-gb":"/en-gb/404/"};
+    var cookieLanguage = getCookie("mitid-language");
+    var sessionLanguage = window.sessionStorage.getItem("mitid-language");
+    var browserLanguageValue = navigator.language.toLowerCase();
+    var browserLanguage = browserLanguageValue.startsWith("da") ? daCulture : browserLanguageValue.startsWith("kl") ? klCulture : enCulture;
+    var paramLanguage = getQueryParam('language');
+    var userLanguage = cookieLanguage ? cookieLanguage : sessionLanguage ? sessionLanguage : browserLanguage;
+    var selectedLanguage = paramLanguage ? paramLanguage : userLanguage;
+    selectedLanguage = selectedLanguage.toLowerCase();
+    var languageURL = languageURLs[selectedLanguage];
+
+
+    if (languageURL) {
+        if (window.location.pathname !== languageURL && languageURL != "#") {
+            window.location.href = languageURL;
+        }
+    } else {
+        var langNotificationContent = document.getElementById("lang-notification-content-" + selectedLanguage);
+        if (langNotificationContent)
+            langNotificationContent.classList.remove('d-none');
+
+        languageNotification.classList.remove('d-none');
+    }
+
+    if (paramLanguage) {
+        paramLanguage = paramLanguage.toLowerCase();
+        window.sessionStorage.setItem("mitid-language", paramLanguage);
+        var languageURL = languageURLs[paramLanguage];
+        if (languageURL) {
+            if (window.location.pathname !== languageURL && languageURL != "#") {
+                window.location.href = languageURL + "?language=" + paramLanguage;
+            } else if (cookieLanguage && cookieLanguage != paramLanguage) {
+
+                var cookieNotificationContent = document.getElementById("cookie-notification-content-" + userLanguage);
+                if (cookieNotificationContent)
+                    cookieNotificationContent.classList.remove('d-none');
+                cookieNotification.classList.remove('d-none');
+            }
+        }
+    }
+
+    function getQueryParam(param) {
+        var rx = new RegExp("[?&]" + param + "=([^&]+).*$");
+        var returnVal = window.location.search.match(rx);
+        return returnVal === null ? "" : returnVal[1];
+    }
+
+    function getCookie(cname) {
+        let name = cname + "=";
+        let ca = document.cookie.split(';');
+        for (let i = 0; i < ca.length; i++) {
+            let c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+</script>
+
+
+
+    <main>
+        
+<div class="mitid-shared--error-page container-outer info mitid--content">
+        <div class="container-xs error-header mitid--content">
+            <div class="row">
+                <div class="col-12 d-flex align-items-center">
+                    <span class="material-icons" translate="no" aria-hidden="true" width="24">error</span><h1>Page Not Found (404)</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-xs container-white-bordered mitid--content pt-5 pb-5">
+            <div class="row">
+                <div class="col-12 content">
+                    <div class="container-info-light">
+                        <div class="row">
+                            <div class="col-12">
+                                This page might have been moved or removed.
+                            </div>
+                        </div>
+                    </div>
+
+                        <div class="row mt-4">
+                            <div class="col-12">
+                                <a class="btn btn-primary float-right min-width-s" title="HOMEPAGE" href="/en-gb/">
+                                    HOMEPAGE
+                                    <span class="material-icons float-right" translate="no" width="24" aria-hidden="true">arrow_forward</span>
+                                </a>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+</div>
+    </main>
+
+    
+<footer class="mitid-shared--footer">
+        <div class="container footer-primary">
+            <div class="row">
+                    <div class="mitid-shared--footer-box col-md-4">
+                        <h2>About MitID</h2>
+                            <ul>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/help/mitid-support/" title="Contact"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">Contact</span></a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/about-mitid/" title="About MitID"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">About MitID</span></a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/about-mitid/press/" title="Press"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">Press</span></a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/about-mitid/news/" title="News"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">News</span></a>
+                                    </li>
+                            </ul>
+                    </div>
+                    <div class="mitid-shared--footer-box col-md-4">
+                        <h2>More from MitID</h2>
+                            <ul>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/legal/cookie-policy-1/" title="Cookies"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">Cookies</span></a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/legal/privacy-notice/" title="Privacy notice"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">Privacy notice</span></a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/security/" title="Security"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">Security</span></a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/legal/mitid-terms-and-conditions/" title="Terms and conditions"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">Terms and conditions</span></a>
+                                    </li>
+                            </ul>
+                    </div>
+                    <div class="mitid-shared--footer-box col-md-4">
+                        <h2>Shortcuts</h2>
+                            <ul>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/get-started-with-mitid/" title="Get started with MitID"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">Get started with MitID</span></a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/help/help-universe/" title="Help universe"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">Help universe</span></a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/help/help-universe/mitid-guides/" title="Guides"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">Guides</span></a>
+                                    </li>
+                                    <li>
+                                        <a class="btn btn-link footer-link" href="/en-gb/mitid-business/" title="Companies and associations"><span class="material-icons" translate="no" aria-hidden="true">arrow_forward</span><span class="btn-text">Companies and associations</span></a>
+                                    </li>
+                            </ul>
+                    </div>
+
+            </div>
+        </div>
+
+        <div class="container footer-secondary">
+            <ul>
+                    <li>
+                        <a href="https://www.was.digst.dk/mitid-dk" target="_blank" title="Accessibility report for MitID.dk (in Danish)">Accessibility report for MitID.dk (in Danish)</a>
+                    </li>
+                    <li>
+                        <a href="https://www.was.digst.dk/app-mitid-app" target="_blank" title="Accessibility report for MitID app (in Danish)">Accessibility report for MitID app (in Danish)</a>
+                    </li>
+            </ul>
+        </div>
+</footer>
+
+
+            <div id="mitid-shared--cookie-warning-popup-overlay" class="mitid-shared--cookie-warning-popup-overlay d-none"></div>
+        <div id="mitid-shared--cookie-warning-popup-modal-wrapper" class="mitid-shared--cookie-warning-popup-modal-wrapper d-none" role="dialog" aria-modal="true" aria-hidden="true" tabindex="-1">
+
+                <div class="mitid-shared--cookie-warning-popup-modal d-none" id="modal-content-da-dk">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="mitid-shared--cookie-warning-popup-modal-heading mb-3">
+                                    <div class="heading">Gem sprogvalg</div>
+                                </div>
+                                <div class="mitid-shared--cookie-warning-popup-modal-body">
+                                        <div>
+                                            <p>Vi bruger en cookie for at gemme dit sprogvalg, sÃ¥ nÃ¦ste gang du Ã¥bner MitID.dk, vil siden vises pÃ¥ det sprog du har valgt. Du kan altid Ã¦ndre dit sprogvalg.<br />Hvis du vÃ¦lger âGem ikkeâ vil du ikke modtage en cookie.</p>
+                                        </div>
+                                        <div class="links d-flex mb-3">
+                                                <a href="/juridisk/cookie-politik/" class="mr-3">Cookies</a>
+                                                <a href="/juridisk/privatlivspolitik/" class="mr-3">Privatlivspolitik</a>
+                                        </div>
+                                    <div class="mitid-shared--cookie-warning-popup-modal-body-actions d-md-flex justify-content-end">
+                                        <button class="button-decline-cookie-policy btn btn-outline-primary mr-md-3 mb-3 mb-md-0 mitid-shared--cookie-warning-popup-modal-body-actions-decline" title="Gem ikke" aria-label="Gem ikke">
+                                            Gem ikke
+                                        </button>
+                                        <button class="button-accept-cookie-policy btn btn-primary mitid-shared--cookie-warning-popup-modal-body-actions-accept" title="Gem" aria-label="Gem">
+                                            Gem
+                                            <span class="material-icons float-right" translate="no" aria-hidden="true" width="24">arrow_forward</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mitid-shared--cookie-warning-popup-modal d-none" id="modal-content-en-gb">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="mitid-shared--cookie-warning-popup-modal-heading mb-3">
+                                    <div class="heading">Save language selection</div>
+                                </div>
+                                <div class="mitid-shared--cookie-warning-popup-modal-body">
+                                        <div>
+                                            <p>We use a cookie to save your language selection, so the next time you open MitID.dk, the site will open in the language you selected. You can always change your selected language.<br />If you select âDo not Saveâ, you will not receive a cookie.</p>
+                                        </div>
+                                        <div class="links d-flex mb-3">
+                                                <a href="/en-gb/legal/cookie-policy-1/" class="mr-3">Cookies</a>
+                                                <a href="/en-gb/legal/privacy-notice/" class="mr-3">Privacy notice</a>
+                                        </div>
+                                    <div class="mitid-shared--cookie-warning-popup-modal-body-actions d-md-flex justify-content-end">
+                                        <button class="button-decline-cookie-policy btn btn-outline-primary mr-md-3 mb-3 mb-md-0 mitid-shared--cookie-warning-popup-modal-body-actions-decline" title="Do not save" aria-label="Do not save">
+                                            Do not save
+                                        </button>
+                                        <button class="button-accept-cookie-policy btn btn-primary mitid-shared--cookie-warning-popup-modal-body-actions-accept" title="Save" aria-label="Save">
+                                            Save
+                                            <span class="material-icons float-right" translate="no" aria-hidden="true" width="24">arrow_forward</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+
+
+
+    <script src="/js/generated/scripts.vendor.js?v=638519652000000000"></script>
+    <script src="/js/generated/scripts.js?v=638519652000000000"></script>
+
+</body>
+</html>

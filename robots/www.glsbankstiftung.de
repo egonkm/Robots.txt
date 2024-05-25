@@ -1,0 +1,9 @@
+Sitemap: https://glsbankstiftung.gls-treuhand.de/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+Disallow: /*?id=*
+Disallow: /*cHash

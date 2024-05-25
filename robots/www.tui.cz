@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /hotel/configurator/
+Disallow: /hotel/offers/
+Disallow: /checkout/
+Disallow: /pz/
+Disallow: /service-unavailable
+
+User-agent: AdsBot-Google
+Allow: /

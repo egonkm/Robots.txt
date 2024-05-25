@@ -1,0 +1,11 @@
+User-agent: Scrapy
+Allow: /
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /portfolio-cache/
+Disallow: /cancellations/
+Disallow: /creative-services/virtual-tours/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.innermedia.co.uk/sitemap.xml

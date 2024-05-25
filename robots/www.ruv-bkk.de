@@ -1,0 +1,20 @@
+Sitemap: https://www.ruv-bkk.de/sitemap.xml
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: URLpuls
+Disallow: /
+
+User-Agent: *
+Allow: /bonolino/content/illus/
+
+User-agent: *
+Disallow: /images/
+Disallow: /vwr/
+Disallow: /unternehmen/verwaltungsrat/
+Disallow: /kontakt/ansprechpartner/
+Disallow: /temp/
+Disallow: /bonolino/content/images/
+Disallow: /bonolino/content/js/
+Disallow: /media/

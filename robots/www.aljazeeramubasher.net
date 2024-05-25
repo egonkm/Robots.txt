@@ -1,0 +1,12 @@
+User-agent: *
+Sitemap: https://aljazeeramubasher.net/sitemap.xml
+Sitemap: https://aljazeeramubasher.net/news-sitemap.xml 
+Sitemap: https://aljazeeramubasher.net/sitemaps/article-archive.xml
+Sitemap: https://aljazeeramubasher.net/sitemaps/article-new.xml
+Sitemap: https://aljazeeramubasher.net/sitemaps/video-archive.xml
+Sitemap: https://aljazeeramubasher.net/sitemaps/video-new.xml
+Disallow: /api
+Disallow: /asset-manifest.json
+Allow: /search/$
+Disallow: /search/
+Disallow: /home/search?q=

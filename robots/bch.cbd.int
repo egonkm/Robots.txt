@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /ar/pdf/
+Disallow: /en/pdf/
+Disallow: /es/pdf/
+Disallow: /fr/pdf/
+Disallow: /ru/pdf/                
+Disallow: /zh/pdf/
+Allow: /

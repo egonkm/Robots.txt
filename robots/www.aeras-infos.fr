@@ -1,0 +1,20 @@
+# permet l'indexation pour tous les moteurs de recherche
+# a modifier s'il faut bloquer l'indexation de certaines pages ou repetoires
+
+User-agent: *
+Disallow: /pages-hors-arborescence/
+Disallow: /page-erreurs/
+Disallow: /plan-de-site.html
+Disallow: /mentions-legales.html
+Disallow: /donnees-personnelles.html
+Disallow: /accessibilite.html
+Disallow: /politique-de-confidentialite.html
+Disallow: /resultats-de-recherche.html
+Disallow: /envoyer-a-un-ami.html
+Disallow: /pre-home.html
+Disallow: /recherche-avancee.html
+allow: /
+
+
+# indiquer le chemin vers le sitemap du site
+Sitemap: https://www.aeras-infos.fr/sites/aeras/accueil.sitemap.xml

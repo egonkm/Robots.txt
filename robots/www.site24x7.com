@@ -1,0 +1,27 @@
+# $Id: Robots.txt $
+User-agent: *
+Disallow: /app/
+Disallow: /cs/
+Disallow: /sp/
+Disallow: /api/
+Disallow: /new/
+Disallow: /abtest/
+Disallow: /v2/
+Disallow: /ml-base/
+Disallow: /tools/v2/
+Disallow: /v0/
+Disallow: /search.html
+Disallow: /sv.do
+Disallow: /public/dashboard
+Disallow: /pv.do
+Disallow: /help/pdf/test.html
+Disallow: /opmanager-site24x7-comparison.html
+Disallow: /de/opmanager-site24x7-comparison.html
+Disallow: /pt/opmanager-site24x7-comparison.html
+Disallow: /es/opmanager-site24x7-comparison.html
+Disallow: /fr/opmanager-site24x7-comparison.html
+Disallow: /appmanager-site24x7-comparison.html
+Sitemap: https://www.site24x7.com/sitemap.xml
+Disallow: /log360-alternative.html
+Disallow: /competitors.html
+Disallow: /price-calculator.html

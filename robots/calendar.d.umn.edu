@@ -1,0 +1,4 @@
+Sitemap: https://calendar.d.umn.edu/sitemap.livewhale.xml
+
+User-agent: *
+Disallow: *?replytocom

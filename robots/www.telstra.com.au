@@ -1,0 +1,44 @@
+
+
+Sitemap: http://www.telstra.com.au/sitemap.xml
+
+User-agent: Swiftbot
+Allow: /aboutus/media/jump-page
+
+User-agent: Elastic-Crawler Elastic Cloud
+Allow: /aboutus/media/jump-page
+
+User-agent: Elastic-Crawler
+Allow: /aboutus/media/jump-page
+
+User-agent: Elastic Cloud
+Allow: /aboutus/media/jump-page
+
+User-agent: *
+Disallow: /mobile/mobiles/
+Disallow: /partners
+Disallow: /uberprod
+Disallow: /uberprod/
+Disallow: /idc
+Disallow: /idc/
+Disallow: /abouttelstra/media-centre/tv-reel
+Disallow: /abouttelstra/media-centre/tv-reel/
+Disallow: /misc/mobile-site/
+Disallow: /abouttelstra/education-centre/
+Disallow: /styleguide
+Disallow: /telstraprepaidplus/myprepaid/
+Disallow: /mobile-phones/product-catalogue/
+Disallow: /small-business/product-catalogue/
+Allow: /misc/mobile-site/index.html
+Disallow: /aboutus/media/jump-page
+Disallow: /products/
+Disallow: /search
+Disallow: /content/dam/tcom/personal/my-account/pdf/chown-teg-form.pdf
+Disallow: /content/dam/tcom/business-enterprise/telstra-connect-guides/telstra_connect_guide_mobility_services.pdf
+Disallow: /content/dam/tcom/business-enterprise/telstra-connect-guides/telstra_connect_guide_networks_and_internet.pdf
+Disallow: /content/dam/tcom/business-enterprise/telstra-connect-guides/telstra_connect_guide_store.pdf
+Disallow: /content/dam/tcom/business-enterprise/telstra-connect-guides/telstra_connect_guide_tracking_and_orders.pdf
+Disallow: /content/dam/tcom/business-enterprise/telstra-connect-guides/telstra_connect_guide_user_management.pdf
+Disallow: /content/dam/tcom/business-enterprise/telstra-connect-guides/telstra_connect_guide_incidents.pdf
+Disallow: /content/dam/tcom/business-enterprise/telstra-connect-guides/telstra_connect_guide_billing.pdf
+

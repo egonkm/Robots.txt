@@ -1,0 +1,9 @@
+User-Agent:*
+Disallow:/mt-static/
+Disallow:/header.html
+Disallow:/footer.html
+Disallow:/notice/notice.html
+Disallow:/news/news_recent.html
+Disallow:/news/news.html
+Disallow:/sustainability/news_recent.html
+Sitemap:https://www.z-holdings.co.jp/sitemap.xml

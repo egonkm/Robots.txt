@@ -1,0 +1,17 @@
+User-agent: *
+
+Disallow: /terms-and-conditions/apple-pay.html
+Disallow: /loans/personal-car-and-motor-loans.html
+Disallow: /terms-and-conditions/apple-pay.html
+Disallow: /loans/personal-car-and-motor-loans.html
+Disallow: /credit-cards/visa-offers.html?search=Skydive%20Australia
+Disallow: /credit-cards/visa-offers.html?search=Helicopter%20Aerial%20Tour%20-%20Dubai
+Disallow: /credit-cards/visa-offers.html?search=Swissotel%20Hotels%20%26%20Resorts
+Disallow: /credit-cards/visa-offers.html?search=Preferred%20Hotels%20%26%20Resorts
+Disallow: /credit-cards/visa-offers.html?search=Bernice%20Pauahi%20Bishop%20Museum
+Disallow: /quotes/car-loan-quote.html
+Disallow: /insurance/*
+Disallow: /creditcardchanges/
+
+Host: www.latitudefinancial.com.au
+Sitemap: https://www.latitudefinancial.com.au/sitemap.xml

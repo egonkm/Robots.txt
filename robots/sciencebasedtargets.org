@@ -1,0 +1,6 @@
+Sitemap: https://sciencebasedtargets.org/sitemap.xml
+
+
+User-agent: *
+Disallow: /cpresources/
+

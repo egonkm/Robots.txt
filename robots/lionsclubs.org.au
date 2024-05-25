@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /error/
+Disallow: /images/
+Disallow: /phorms/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /_mm/
+
+User-agent: Yanga
+Disallow: /
+
+User-agent: googlebot
+Disallow: *.csi
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: Yandex
+Disallow: /

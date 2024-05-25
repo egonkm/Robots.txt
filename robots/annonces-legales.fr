@@ -1,0 +1,9 @@
+User-agent: *
+ # Pages filtrÃÂ©es
+ Disallow: *?department=
+ Disallow: */api/*
+ Disallow: */file-storage/*
+ Disallow: /translations
+ Disallow: */bundles*
+ Disallow: */build*
+ Disallow: */recherches/*

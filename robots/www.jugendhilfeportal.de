@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3conf/ext/
+Disallow: /typo3temp/
+
+# parameters
+Disallow: /*?id=*
+Disallow: /*?tx_*
+Disallow: /*cHash
+Disallow: /*tx_form_formframework

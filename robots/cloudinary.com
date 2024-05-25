@@ -1,0 +1,16 @@
+User-agent: 008
+Disallow: /
+User-agent: Semrushbot-SA
+Allow: /
+User-agent: Semrushbot-SI
+Allow: /
+User-agent: *
+Disallow: /blog/tag/*
+Disallow: /blog/author/*
+Disallow: /blog/20*
+Disallow: /careers/jobs/*
+Disallow: /demos/*
+Disallow: /documentation/sdks/*
+Disallow: /invites/*
+Disallow: /users/*
+Sitemap: https://cloudinary.com/sitemap.xml

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /SiteGlobals/
+Disallow: /DE/Service/
+Disallow: /EN/Service/
+Disallow: /DE/startseite/_configuration/
+Allow: /SiteGlobals/Modules/
+Allow: /SiteGlobals/StyleBundles/
+Allow: /SiteGlobals/Frontend/
+Crawl-delay: 10
+User-agent: Amazonbot
+Disallow: /
+Sitemap: https://www.bmi.bund.de/Sitemap_Index.xml

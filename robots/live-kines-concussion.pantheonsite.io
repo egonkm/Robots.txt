@@ -1,0 +1,15 @@
+# Pantheon's documentation on robots.txt: https://pantheon.io/docs/bots-and-indexing/
+User-agent: *
+Disallow: /
+
+User-agent: RavenCrawler
+User-agent: rogerbot
+User-agent: dotbot
+User-agent: SemrushBot
+User-agent: SiteAuditBot
+User-agent: SplitSignalBot
+User-agent: PowerMapper
+User-agent: Swiftbot
+User-agent: lyticsbot
+User-agent: Dubbotbot
+Allow: /

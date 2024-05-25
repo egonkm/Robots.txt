@@ -1,0 +1,14 @@
+
+Sitemap: https://www.acba.am/sitemap.xml
+
+
+User-agent: *
+Disallow: /uploaded/
+Disallow: /assets/
+Disallow: /thumbs/
+Disallow: /files/
+Disallow: /images/
+Disallow: /css/
+Disallow: /pics/
+Disallow: /js/
+Disallow: /calc/

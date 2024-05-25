@@ -1,0 +1,45 @@
+# If the Joomla site is installed within a folder such as at
+# e.g. www.example.com/joomla/ the robots.txt file MUST be
+# moved to the site root at e.g. www.example.com/robots.txt
+# AND the joomla folder name MUST be prefixed to the disallowed
+# path, e.g. the Disallow rule for the /administrator/ folder
+# MUST be changed to read Disallow: /joomla/administrator/
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+#
+# For syntax checking, see:
+# http://tool.motoricerca.info/robots-checker.phtml
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+
+Disallow: /dimosiopoiisi
+Disallow: /dimosiopoiisi/sub-foreis
+Disallow: /dimosiopoiisi/sub-enoseis
+
+Disallow: /img/pdf/EA_1.PDF
+Disallow: /img/pdf/HCP_2022-06.pdf
+Disallow: /img/pdf/VE-23170_Disclosure-2022%20HCP-individually.pdf
+Disallow: /img/pdf/VE20216_EA_INDIVIDUALLY.pdf
+Disallow: /img/pdf/EA_INDIVIDUALLY_2022-06.pdf
+Disallow: /img/pdf/VE23171_Disclosure-2022.pdf
+Disallow: /img/pdf/VE20216_HCO_INDIVIDUALLY.pdf
+Disallow: /img/pdf/HCO_INDIVIDUALLY_2022-06.pdf
+Disallow: /img/pdf/VE23173_Disclosure-2022-HCO.pdf

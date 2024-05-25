@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/*
+Disallow: /referentiel/*
+Allow: /wp-admin/admin-ajax.php
+
+
+Sitemap: https://aife.economie.gouv.fr/wp-sitemap.xml

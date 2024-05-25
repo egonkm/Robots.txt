@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /map/building/
+Sitemap: https://www.osu.edu/sitemap.xml
+User-agent: *
+Disallow: /static/

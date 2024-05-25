@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*/pdf
+Disallow: /*/doc
+Disallow: /ecommerce/*
+Disallow: /taglib/*
+Disallow: /smarttag/*
+Disallow: /company/index/autocomplete/*
+Disallow: /*/get-file/*
+Sitemap: /sitemap.xml

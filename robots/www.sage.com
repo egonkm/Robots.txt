@@ -1,0 +1,23 @@
+User-agent: *
+Allow: */markets/*css
+Allow: */markets/*js
+Allow: */imagesandvideo/
+Allow: /*/blog/error*
+Disallow: */markets/
+Disallow: /NoRobots 
+Disallow: /*/sitecore
+Disallow: /*/search
+Disallow: /*/error
+Disallow: /*/test-pages
+Disallow: *?year=*
+Disallow: *?month=* 
+Disallow: *&year=*
+Disallow: *&month=*
+Disallow: /en-us/-/media/files/sagedotcom/master/documents/pdf/sage_people_wywiw_report.pdf
+Disallow: */-/media/files/form assets/
+Disallow: */-/media/files/form%20assets/
+Disallow: */content/snippet*
+User-agent: BUbiNG
+Disallow: /
+User-agent: MJ12bot
+Disallow: /

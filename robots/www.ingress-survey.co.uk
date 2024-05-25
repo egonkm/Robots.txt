@@ -1,0 +1,11 @@
+# robots.txt
+Sitemap: http://www.ingress.de/sitemap.xml
+
+Disallow: /Kontakt/
+Disallow: /Kontakt/Newsletter-Anmeldung/
+Disallow: /Kontakt/Newsletter-Anmeldung/Vielen-Dank/
+
+
+Disallow: /Kontakt/Kontaktformular/
+Disallow: /Kontakt/Kontaktformular/Vielen-Dank/
+Disallow: /Kontakt/ModalTermin/Unternehmen/Datenschutzerklaerung/

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /tp/
+Disallow: /t/
+Disallow: /embed/
+Disallow: /subtitle/
+Disallow: /tv/

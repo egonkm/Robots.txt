@@ -1,0 +1,6 @@
+User-agent: * 
+Disallow: /admin
+Disallow: /agb
+Disallow: /datenschutz
+User-agent: SEOkicks-Robot 
+Disallow: /

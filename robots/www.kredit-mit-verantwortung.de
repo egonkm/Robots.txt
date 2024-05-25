@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Folders
+Disallow: /matomo
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# Parameters
+Disallow: /*?id=*
+Disallow: /*cHash
+Disallow: /*tx_form_formframework
+Disallow: /*?tx_news_pi1*
+
+# Sitemap
+Allow: /sitemap.xml?sitemap=*&cHash=*
+Sitemap: https://www.kredit-mit-verantwortung.de/sitemap.xml

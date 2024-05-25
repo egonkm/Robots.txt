@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Disallow pages
+User-agent: *
+Disallow: /reserve/
+Disallow: /purchase/
+Disallow: /banner/
+Disallow: /banner_tag/
+Disallow: /deal/popup/
+Disallow: /special/
+Crawl-delay:5

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /api
+Disallow: /api/*
+Disallow: /pages/footer
+Disallow: /pages/topbar
+Disallow: /link/*
+Disallow: /signin/*
+Disallow: /cdn-cgi/
+Disallow: /home-logged-in
+Disallow: /home-ja
+Sitemap: https://certification.apptweak.com/sitemap.xml

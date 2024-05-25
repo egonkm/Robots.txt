@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /Basket/
+Disallow: /Checkout/
+Disallow: /Account/
+Sitemap: http://books.telegraph.co.uk/sitemap.xml
+
+
+# Google adsbot ignores robots.txt unless specifically named!
+User-agent: adsbot-google
+Disallow: /Basket/
+Disallow: /Checkout/
+Disallow: /Account/

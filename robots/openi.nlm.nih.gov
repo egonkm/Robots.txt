@@ -1,0 +1,13 @@
+Sitemap: https://openi.nlm.nih.gov/sitemap.xml
+
+User-agent: *
+
+Disallow: 
+
+Disallow: /legacy/
+
+Disallow: /server/
+
+Disallow: /gbcf-v3/
+
+Disallow: /includes/

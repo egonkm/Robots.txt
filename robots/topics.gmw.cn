@@ -1,0 +1,11 @@
+User-agent:*
+Disallow: /*2013
+Disallow: /*2014
+Disallow: /*2015
+Disallow: /*2016
+
+Allow:/
+Sitemap:http://topics.gmw.cn/baidu_topics.xml
+Sitemap:http://topics.gmw.cn/google_topics.xml
+Sitemap:http://topics.gmw.cn/bing_topics.xml
+Sitemap:http://topics.gmw.cn/sogou_topics.xml

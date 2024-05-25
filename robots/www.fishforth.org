@@ -1,0 +1,5 @@
+Sitemap: https://www.fishforth.org/sitemap.xml
+Sitemap: https://www.fishforth.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

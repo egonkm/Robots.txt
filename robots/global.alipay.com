@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /docs
+Allow: /docs$
+Allow: /doc
+Allow: /doc$
+Allow: /platform/site/
+Allow: /ilogin/account_login.htm
+Allow: /open/account/register.htm
+Disallow: /open
+Disallow: /api
+Disallow: /merchant
+Disallow: /member
+Disallow: /account
+Disallow: /console

@@ -1,0 +1,32 @@
+User-agent: Vegi bot
+Disallow: /
+
+User-agent: msnbot
+Crawl-delay: 5
+
+User-agent: bingbot
+Crawl-delay: 5
+
+User-agent: *
+Disallow: /menu/
+Disallow: /script/
+Disallow: /*_old/
+Disallow: /_*/
+Disallow: /studentapps/
+Disallow: /tools/
+Disallow: /oasis/
+Disallow: /cmsadmin/
+Disallow: /cms4/admin/
+Disallow: /wgvustore/
+Disallow: /reference_files/
+Disallow: /facultygov/online/
+Disallow: /s/jt
+Disallow: /it/abuse/
+Disallow: /it/blocked/
+Disallow: /it/virus/
+Disallow: /financialaid/files/scholarshipuploads/
+Disallow: /CFIDE/
+Disallow: /includes/
+Disallow: /reserve/
+
+Sitemap: https://www.gvsu.edu/sitemap.xml

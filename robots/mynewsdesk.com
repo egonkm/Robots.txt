@@ -1,0 +1,9 @@
+Sitemap: https://sitemaps.mynewsdesk.com/sitemap.xml
+Sitemap: https://www.mynewsdesk.com/post-sitemap.xml
+Sitemap: https://www.mynewsdesk.com/page-sitemap.xml
+Sitemap: https://www.mynewsdesk.com/customer_case-sitemap.xml
+User-agent: *
+Disallow: /analytics/
+Disallow: https://resources.mynewsdesk.com/image/upload/fl_attachment/*
+Disallow: https://resources.mynewsdesk.com/image/upload/f_pdf,fl_attachment/*
+Disallow: /*.pdf$

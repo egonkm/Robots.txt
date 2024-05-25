@@ -1,0 +1,32 @@
+User-agent: *
+
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /trackback
+Disallow: /feed
+Disallow: /comments
+Disallow: /category/*/*
+Disallow: */trackback
+Disallow: */feed
+Disallow: */comments
+Disallow: /*.pdf$
+Disallow: /*?*
+Disallow: /*?
+Disallow: /wp-login.php
+Disallow: /wp-content/themes/V4/assets/js/optim/*
+
+Allow: /wp-content/uploads
+
+User-agent: Googlebot
+Disallow: /*.php$
+Disallow: /*.inc$
+Disallow: /*.gz$
+Disallow: /*.pdf$
+
+# Autoriser Google Image
+Disallow:
+Allow: /*
+
+Sitemap: https://wp-rocket.me/sitemap_index.xml

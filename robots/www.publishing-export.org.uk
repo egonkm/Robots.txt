@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://www.publishing-export.org.uk/sitemap.xml
+Sitemap: https://www.publishing-export.org.uk/sitemap.rss
+

@@ -1,0 +1,141 @@
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: PortalBSpider
+Disallow: /
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: Yahoo Pipes 1.0
+Disallow: /
+
+# disallow any urls with ? in
+User-Agent: AhrefsBot
+Disallow: /*?
+Disallow: /info/datenschutz
+Disallow: /info/impressum
+Disallow: /info/bedingungen
+
+User-Agent: dotbot
+Disallow: /*?
+Disallow: /info/datenschutz
+Disallow: /info/impressum
+Disallow: /info/bedingungen
+
+
+User-agent: tadcrawler
+Allow: /info/datenschutz
+Allow: /info/impressum
+Allow: /info/bedingungen
+Allow: /feiertage/*/2021
+Allow: /feiertage/*/2022
+Allow: /feiertage/*/2023
+Allow: /feiertage/*/2024
+Allow: /feiertage/*/2025
+Disallow: /*y1=
+Disallow: /*nojs=
+Disallow: /feiertage/*
+Disallow: /kalender/identisch?
+Disallow: /stadt/zeitumstellung*?
+Disallow: /stadt/zeitzone/*?
+Disallow: /info/kontakt?*
+Disallow: /sonne/*?
+Disallow: /mond/*?
+
+User-agent: *
+Disallow: /kalender/*?year*&
+Allow: /kalender/*?year=20
+Allow: /kalender/gestalten.html?*jahr=202
+Allow: /kalender/gestalten.html?*jahr=203
+Disallow: /createshort.html
+Disallow: /bm/
+Disallow: /scripts/goappstore.php
+Disallow: /scripts/gomeeting.php
+Disallow: /scripts/goweather.php
+Disallow: /scripts/ics.php
+Disallow: /scripts/moon.php
+Disallow: /scripts/savecustom.php
+Disallow: /scripts/savepersonal.php
+Disallow: /scripts/wquery.php
+Disallow: /astronomie/mond/mondlicht-weltkarte?iso
+Disallow: /astronomie/tag-nacht-karte?iso
+Disallow: /finsternis/in/*?iso
+Allow: /finsternis/in/*?iso=20
+Disallow: /kalender/*?year=
+Disallow: /kalender/ausdrucken?
+Disallow: /kalender/erstellen?
+Disallow: /kalender/erstellt?
+Disallow: /kalender/gestalten?
+Disallow: /kalender/drucken?
+Disallow: /stadt/zeitverschiebung?*sort*
+Disallow: /stadt/zeitverschiebung?*continent
+Disallow: /uhrzeit/ortszeit-vollbild?n
+Disallow: /gfx/stock/
+Disallow: /kalender/gestalten.html?*jahr=
+Disallow: /kalender/gestalten.html?*df=
+Disallow: /adverts/
+Disallow: /advgifs/
+Disallow: /astronomie/mond/mondkalender?year=10
+Disallow: /astronomie/mond/mondkalender?year=11
+Disallow: /astronomie/mond/mondkalender?year=12
+Disallow: /astronomie/mond/mondkalender?year=13
+Disallow: /astronomie/mond/mondkalender?year=14
+Disallow: /astronomie/mond/mondkalender?year=15
+Disallow: /astronomie/mond/mondkalender?year=16
+Disallow: /astronomie/mond/mondkalender?year=17
+Disallow: /astronomie/mond/mondkalender?year=18
+Disallow: /astronomie/mond/mondkalender?year=21
+Disallow: /astronomie/mond/mondkalender?year=22
+Disallow: /astronomie/mond/mondkalender?year=23
+Disallow: /astronomie/mond/mondkalender?year=24
+Disallow: /astronomie/mond/mondkalender?year=25
+Disallow: /astronomie/mond/mondkalender?year=26
+Disallow: /astronomie/mond/mondkalender?year=27
+Disallow: /astronomie/mond/mondkalender?year=28
+Disallow: /astronomie/mond/mondkalender?year=29
+Disallow: /astronomie/mond/mondkalender?year=3
+Disallow: /astronomie/mond/mondkalender?year=4
+Disallow: /astronomie/mond/mondkalender?year=5
+Disallow: /astronomie/mond/mondkalender?year=6
+Disallow: /astronomie/mond/mondkalender?year=7
+Disallow: /astronomie/mond/mondkalender?year=8
+Disallow: /astronomie/mond/mondkalender?year=9
+Disallow: /astronomie/mond/mondkalender?year=&
+Disallow: /astronomie/mond/mondkalender?year=2006&
+Disallow: /astronomie/mond/mondkalender?year=2007&
+Disallow: /astronomie/mond/mondkalender?year=2008&
+Disallow: /wetter/*sort
+Disallow: /wetter/*?hd=
+Disallow: /wetter/*/stunden?
+# Disallow: /wetter/*/rueckblick?
+Disallow: /wetter/*/stunden?
+# Disallow: /sonne/*?
+Disallow: /mond/*?
+Disallow: /reisen/entfernung?p1
+Disallow: /reisen/entfernung-ergebnis
+Disallow: /reisen/entfernung-ergebnis?p1
+Disallow: /stadt/zeitumstellung*year=1
+Disallow: /stadt/zeitumstellung*year=200
+Disallow: /stadt/zeitumstellung*year=201
+Disallow: /stadt/zeitumstellung*year=2025
+Disallow: /stadt/zeitumstellung*year=2026
+Disallow: /stadt/zeitumstellung*year=2027
+Disallow: /stadt/zeitumstellung*year=2028
+Disallow: /stadt/zeitumstellung*year=2029
+Disallow: /stadt/zeitumstellung*year=203
+Disallow: /stadt/zeitumstellung*year=204
+Disallow: /stadt/zeitumstellung*year=205
+Disallow: /zeitzonen/event?
+Disallow: /zeitzonen/events?
+Disallow: /zeitzonen/konferenz?
+Disallow: /zeitzonen/konferenzplaner?
+Disallow: /zeitzonen/zeitzonenrechner?
+Disallow: /zeitzonen/zeitzonenrechner-klassisch?
+Disallow: /countdown/erstellen?
+Disallow: /countdown/finsternis?
+Disallow: /countdown/vollbild?
+Disallow: /countdown/zu?
+Disallow: /info/datenschutz
+Disallow: /info/impressum
+Disallow: /info/bedingungen

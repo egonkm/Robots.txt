@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /profile.cfm
+Disallow: /email_confirmation.cfm
+Disallow: /client_uploads/
+Disallow: /temp/
+Disallow: /pdf/
+Disallow: /images/
+Disallow: /modules/
+Disallow: /FTP/
+Disallow: /*/profile.cfm
+Disallow: /*/email_confirmation.cfm
+Disallow: /*/client_uploads/
+Disallow: /*/temp/
+Disallow: /*/pdf/
+Disallow: /*/images/
+Disallow: /*/modules/
+Disallow: /*/FTP/

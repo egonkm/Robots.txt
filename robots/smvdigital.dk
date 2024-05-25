@@ -1,0 +1,89 @@
+Sitemap: https://smvdigital.dk/content/sitemap.xml
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/
+
+User-agent: APIs-Google
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/
+
+User-agent: Mediapartners-Google
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/
+
+User-agent: AdsBot-Google-Mobile
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/
+
+User-agent: AdsBot-Google-Mobile
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/
+
+User-agent: AdsBot-Google
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/
+
+User-agent: Googlebot
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/
+
+User-agent: Googlebot-Image
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/
+
+User-agent: Googlebot-News
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/
+
+User-agent: Googlebot-Video
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/
+
+User-agent: AdsBot-Google-Mobile-Apps
+Crawl-delay: 10
+Disallow: /content/redaktion/
+Allow: /api/media/medier/
+Disallow: /api/
+Disallow: /graphql/
+Disallow: /erhvervsfremme/auth/

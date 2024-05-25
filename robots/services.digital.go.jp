@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://services.digital.go.jp/sitemap-index.xml

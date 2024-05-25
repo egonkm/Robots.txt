@@ -1,0 +1,6 @@
+Sitemap: https://www.londontheatredirect.com/sitemap.xml
+User-agent: Googlebot-News
+Disallow: *
+Allow: /news
+User-agent: *
+Disallow: /admin/

@@ -1,0 +1,23 @@
+User-agent: Twitterbot
+Allow: http://cdn.buyee.jp/images/common/buyee_logo_twitter.png
+
+User-agent: *
+Sitemap:https://buyee.jp/sitemap_en.xml
+Sitemap:https://buyee.jp/sitemap_chs.xml
+Sitemap:https://buyee.jp/sitemap_cht.xml
+Sitemap:https://buyee.jp/sitemap_shop_en.xml
+Sitemap:https://buyee.jp/sitemap_shop_cht.xml
+Sitemap:https://buyee.jp/sitemap_shop_chs.xml
+Sitemap:https://buyee.jp/sitemap_mercari_en.xml
+Sitemap:https://buyee.jp/sitemap_mercari_cht.xml
+Sitemap:https://buyee.jp/sitemap_mercari_chs.xml
+
+User-agent: Baiduspider
+Allow: /images/common/logo_buyee.png
+Disallow: /*.jpg
+Disallow: /*.gif
+Disallow: /*.jpeg
+Disallow: /*.png
+
+User-agent: PetalBot
+Disallow: /

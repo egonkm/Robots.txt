@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /sample-*
+Disallow: /blog/sample-*
+sitemap: https://english.kb.kundo.se/sitemap.xml
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /share/
+Disallow: /ajax/
+Disallow: /facebook/
+Disallow: /twitter/
+Disallow: /connect/

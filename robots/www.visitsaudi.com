@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Sitemap: https://www.visitsaudi.com/content/sauditourism/ar/sitemap.xml
+Sitemap: https://www.visitsaudi.com/content/sauditourism/de/sitemap.xml
+Sitemap: https://www.visitsaudi.com/content/sauditourism/en/sitemap.xml
+Sitemap: https://www.visitsaudi.com/content/sauditourism/fr/sitemap.xml
+Sitemap: https://www.visitsaudi.com/content/sauditourism/ja/sitemap.xml
+Sitemap: https://www.visitsaudi.com/content/sauditourism/es/sitemap.xml
+Sitemap: https://www.visitsaudi.com/content/sauditourism/ru/sitemap.xml
+Sitemap: https://www.visitsaudi.com/content/sauditourism/zh/sitemap.xml

@@ -1,0 +1,4 @@
+User-Agent: *
+Sitemap: https://www.rakuten-insurance.co.jp/sitemap.xml
+Sitemap: https://www.rakuten-insurance.co.jp/media/sitemap.xml
+Disallow: /shared/inc/

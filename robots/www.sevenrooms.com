@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /.v/
+Disallow: /.a/
+Disallow: /.t/
+Disallow: /.c/
+Disallow: /.h/
+Disallow: /direct/
+Disallow: /embed/
+Disallow: /booker.html
+Disallow: /iframe
+Disallow: /x

@@ -1,0 +1,11 @@
+Disallow: /-/media/files/premium/
+Disallow: /-/media/files/apac/jp/premium/
+Disallow: /-/media/files/dach/premium/
+Disallow: /-/media/files/emea/cz/premium/
+Disallow: /-/media/files/emea/nl/premium/
+Disallow: /-/media/files/emea/ukiza/premium/
+Disallow: /-/media/files/latam/br/premium/
+Disallow: /-/media/files/latam/mx/premium/
+Disallow: /-/media/files/noram/premium/
+Disallow: /-/media/publishing-documents/
+Sitemap: https://www.softwareone.com/sitemap.xml

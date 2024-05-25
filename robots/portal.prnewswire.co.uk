@@ -1,0 +1,146 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <style type="text/css">
+      body {
+        font-family: Helvetica,Arial,sans-serif;
+        color: #333
+        font-size: 16px;
+        line-height: 24px;
+        margin-top: 0;
+      }
+      .container {
+        margin: 0 auto;
+        padding: 0 22px;
+        width: 925px;
+      }
+      
+      h1 {
+        font-family: Georgia, "Times New Roman", Times, Palatino, serif;
+        color: #333333;
+        font-size: 29px;
+        padding-bottom: 25px;
+        line-height: 30px;
+        border-bottom: 2px solid #ccc;
+        font-weight: normal;
+      }
+      
+      h3 {
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 5px;
+      }
+      
+      .call-out {
+        background-color: #efefef;
+        padding: 25px;
+        margin-bottom: 30px;
+      }
+      
+      a {
+        color:#1099d8;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: #333;
+        text-decoration: underline;
+      }
+      
+      .button {
+         background: #8bb13a none repeat scroll 0 0;
+         color: #fff;
+         font-size: 18px;
+         line-height: 32px;
+         margin: 10px 0;
+         padding: 5px 20px;
+         border: medium none;
+         border-radius: 5px;
+         box-sizing: border-box;
+         cursor: pointer;
+         display: inline-block;
+         font-weight: normal;
+         height: auto;
+         margin-bottom: 0;
+         text-align: center;
+         text-decoration: none;
+         transition: all 0.5s ease 0s;
+      }
+      .button:hover {
+        background: #a7d446 none repeat scroll 0 0;
+        transition: all 0.5s ease 0s;
+        color: #fff;
+        text-decoration: none;
+      }
+      .footer {
+        color: #333;
+        font-family: Georgia,"Times New Roman",Times,Palatino,serif;
+        text-align: center;
+        font-size: 12px;
+        border-top: 2px solid #ccc;
+        margin-top: 30px;
+        padding-top: 30px;
+      }
+      
+      .footer li {
+        display: inline;
+        border-right: 1px solid #666;
+        padding-right: 5px;
+        padding-left: 3px;
+      }
+</style>
+    <title>Under Going Maintenance</title>
+  </head>
+  <body>
+    <div class="container">
+      <div style="margin-top:0; margin-bottom:30px;">
+                    <img width="168" border="0" height="46" alt="PR Newswire | Cision" src="https://mma.prnewswire.com/media/1160536/cision_logo.jpg" style="padding-top: 25px;">
+       </div>
+      <h1>This online ordering system is no longer active.</h1>
+      <p style="margin-top: 25px;">Please follow the instructions below to send a release.</p>
+      <div class="call-out">
+        <h3></h3>
+        <p style="margin-bottom: 5px;">Email your release to <a href="mailto:indiaops@prnewswire.co.in">indiaops@prnewswire.co.in</a> and be sure to include the following:</p>
+        <ol style="padding-left: 20px; margin-top: 0;">
+          <li>Your news release text and images as attachments </li>
+          <li>Where you would like to distribute to </li>
+          <li>When you would like it distributed (immediately or future date/time) and,</li>
+          <li>Your Account Number, a call-back number and any Special Instructions.</li>
+        </ol>
+        <div style="text-align: center;">
+          <a href="mailto:indiaops@prnewswire.co.in" class="button">Email your news release</a>
+        </div><!--.Centre-->
+      </div><!--.call-out-->
+      <h3 style="margin-bottom: 3px; margin-top: 30px;">Need to contact our Client Services team for further assistance?</h3>
+      <p style="margin-top: 0;">If you need to contact our Client Services team (London-based) to discuss a release distribution, please call <strong>+44 (0)207 454 5111</strong> or email <a href="mailto:indiaops@prnewswire.co.in">indiaops@prnewswire.co.in</a></p>
+      <p style="margin-top: 0;">For questions about your account, subscriptions or Visibility Reports, please contact your Account Manager directly or email <a href="mailto:IndiaSales@prnewswire.co.in">IndiaSales@prnewswire.co.in</a></p>
+      <div class="footer">
+          <ul style="list-style: none; margin: 0; padding: 0; margin-bottom: -10px; margin-top: -20px;">
+              <li>
+                  <a target="_blank" href="https://www.prnewswire.co.uk/" style="color: #666666;">
+                      News
+                      &amp; Information
+                  </a>
+              </li>
+              <li><a style="color: #666666;" href="https://www.prnewswire.co.uk/products-services/" target="_blank" onclick="OmnitureLogin46_44_Tracker('link','Footer-EMEA Services');">PR Newswire Services</a></li>
+              <li>
+                  <a target="_blank" href="https://prnmedia.prnewswire.com/" style="color: #666666;">
+                      For Journalists
+                  </a>
+              </li>
+          </ul>
+          <ul style="margin-bottom: 0px;">
+              <li><a target="_blank" href="https://www.prnewswire.com/terms-of-use/" style="color: #666666;">Privacy & Terms of Use</a></li>
+			  <li><a style="color: #666666;" href="https://gdpr.cision.com/" target="_blank" >Privacy and Cookie Policy</a></li>
+              <li><a style="color: #666666;" href="https://emeaportal.prnewswire.com/Popup/facts.aspx?supportedbrowser=true" target="_blank" onclick="OmnitureLogin46_44_Tracker('link','Footer-Supported Browsers');">Supported Browsers</a></li>
+              <li><a target="_blank" href="https://www.prnewswire.co.uk/contact-us/" style="color: #666666;">Contact Us</a></li>
+          </ul>
+          <p style="margin-bottom: 0px;padding: 0;margin-top: 0px;font-family: Helvetica, Arial, sans-serif;">
+              Copyright &copy;
+              <script>document.write(new Date().getFullYear())</script>
+              PR Newswire Europe Limited. All Rights Reserved. A Cision company.
+          </p>
+      </div><!--.footer-->
+    </div><!--.container-->
+
+  </body>
+</html>

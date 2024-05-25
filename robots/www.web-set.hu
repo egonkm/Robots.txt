@@ -1,0 +1,28 @@
+User-agent: 008
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Riddler
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: *
+Crawl-delay: 3
+Disallow: /WEBSET_APPLICATION/
+Disallow: /WEBSET_FORUM/
+Disallow: /WEBSET_HTMLv32/
+Disallow: /WEBSET_ITEMSv32/
+Disallow: /WEBSET_LOGS/
+Disallow: /WEBSET_SABLONCSOPORTOK/
+Disallow: /WEBSET_SABLONOK/
+Disallow: /WEBSET_SEMAK/
+Disallow: /WEBSET_STILUSOK/
+Disallow: /WEBSET_WEBLAPOK/
+Disallow: /wsApplication/

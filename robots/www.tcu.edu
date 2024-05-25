@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /_resources/
+Allow: /_resources/css/
+Allow: /_resources/emergency-alerts/
+Allow: /_resources/images/
+Allow: /_resources/js/
+Allow: /_resources/ou-alerts/
+Allow: /_resources/static/
+Allow: /_resources/video/
+Disallow: /files/
+Disallow: /_forms/
+Disallow: /jobs/
+Disallow: /ou-alerts/

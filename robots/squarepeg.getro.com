@@ -1,0 +1,1 @@
+Sitemap: https://squarepeg.getro.com/sitemap.xml

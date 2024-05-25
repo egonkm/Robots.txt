@@ -1,0 +1,29 @@
+# static robots.txt...
+User-agent: *
+Disallow:  /kati-cgi/kati/
+
+
+
+# Sitemaps for https://standconstruction.messe-duesseldorf.de (lang=2, https=1)
+
+# oid=1728, Messen & Events
+Sitemap: https://standconstruction.messe-duesseldorf.de/it_sitemap_1728_01_01.xml
+
+# oid=1730, Allgemeine Informationen
+Sitemap: https://standconstruction.messe-duesseldorf.de/it_sitemap_1730_02_01.xml
+
+# oid=1768, Home
+Sitemap: https://standconstruction.messe-duesseldorf.de/it_sitemap_1768_01_01.xml
+
+# oid=1772, Kontakt & Anreise
+Sitemap: https://standconstruction.messe-duesseldorf.de/it_sitemap_1772_01_01.xml
+
+# oid=262, [hidden]
+Sitemap: https://standconstruction.messe-duesseldorf.de/it_sitemap_262_02_01.xml
+
+
+
+
+# Sitemaps for https://standconstruction.messe-duesseldorf.de (lang=2, https=1)
+
+# ... does not exist

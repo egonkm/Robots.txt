@@ -1,0 +1,27 @@
+User-agent: *
+Allow:/home
+Allow:/Acesso
+Allow:/noticias
+Allow:/servicos/institucional
+Allow:/servicos/contato
+Allow:/servicos/acesso-a-sistemas
+Allow:/servicos/dados-abertos
+Allow:/servicos/area-de-imprensa
+Allow:/servicos/planos-e-programas
+Allow:/seus-direitos
+Allow:/sua-protecao
+Allow:/sua-seguranca
+
+
+Disallow:/login
+Disallow:/author
+Disallow:/sua-seguranca
+Disallow:/sua-seguranca/grandes-eventos/coesrio/area-restrista
+Disallow:/sua-seguranca/seguranca-publica
+Disallow:/sua-seguranca/seguranca-publica
+Disallow:/sua-seguranca/forca-nacional
+Disallow:/sua-seguranca/grandes-eventos
+Disallow:/sua-seguranca/policia-federal
+Disallow:/sua-seguranca/controle-de-armas
+Disallow:/sua-seguranca/ribpg
+Disallow:/sua-seguranca/policia-rodoviaria-federal

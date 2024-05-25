@@ -1,0 +1,6 @@
+Sitemap: http://plus.telstra.com.au/sitemap.xml
+
+User-agent: *
+Disallow: /opt-out
+Disallow: /history
+Disallow: /transfer

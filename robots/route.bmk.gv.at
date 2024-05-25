@@ -1,0 +1,4 @@
+# robots.txt for HAFAS CGI
+User-agent: *
+Disallow: /hafas
+Disallow: /hafas-res

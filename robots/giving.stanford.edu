@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /editor/
+Sitemap: https://giving.stanford.edu/sitemap/sitemap-index.xml
+Host: https://giving.stanford.edu

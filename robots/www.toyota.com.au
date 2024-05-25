@@ -1,0 +1,10 @@
+User-agent: * Allow: / 
+Disallow: /promo/* 
+Disallow: /live-rav4ward/* 
+Disallow: /archive/* 
+Sitemap: https://www.toyota.com.au/-/media/project/toyota/toyota/MvcSitemaps/sitemap-tmca.xml 
+Sitemap: https://www.toyota.com.au/-/media/project/toyota/toyota/MvcSitemaps/sitemap-fleet.xml 
+Sitemap: https://www.toyota.com.au/-/media/project/toyota/toyota/MvcSitemaps/sitemap-finance.xml 
+Sitemap: https://www.toyota.com.au/-/media/project/toyota/toyota/MvcSitemaps/sitemap-uv.xml
+Sitemap: https://www.toyota.com.au/-/media/project/toyota/toyota/mvcsitemaps/sitemap-uv-listing.xml?rev=d9c9c022-b198-4031-af3c-6e9f86e792f0
+Sitemap: https://www.toyota.com.au/sitemap.xml

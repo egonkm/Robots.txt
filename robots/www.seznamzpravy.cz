@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+
+Sitemap: https://www.seznamzpravy.cz/sitemaps/sitemap_articles.xml
+Sitemap: https://www.seznamzpravy.cz/sitemaps/sitemap_news.xml
+Sitemap: https://www.seznamzpravy.cz/sitemaps/sitemap_sections.xml
+Sitemap: https://www.seznamzpravy.cz/sitemaps/sitemap_tags.xml

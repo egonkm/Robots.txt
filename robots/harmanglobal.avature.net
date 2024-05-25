@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /icalendar/
+# Disallowed portals are included as Allowed to use noindex strategy: https://developers.google.com/search/docs/advanced/crawling/block-indexing
+Allow: /talentcommunity
+Sitemap: https://harmanglobal.avature.net/talentcommunity/sitemap_index.xml
+Allow: /recordedinterview
+Sitemap: https://harmanglobal.avature.net/recordedinterview/sitemap_index.xml
+Allow: /hiringmanager
+Sitemap: https://harmanglobal.avature.net/hiringmanager/sitemap_index.xml
+Allow: /liveinterview
+Sitemap: https://harmanglobal.avature.net/liveinterview/sitemap_index.xml
+Allow: /Events
+Sitemap: https://harmanglobal.avature.net/Events/sitemap_index.xml
+Allow: /timeslots
+Sitemap: https://harmanglobal.avature.net/timeslots/sitemap_index.xml
+Allow: /agency
+Sitemap: https://harmanglobal.avature.net/agency/sitemap_index.xml
+Allow: /careers
+Allow: /*/careers
+Sitemap: https://jobs.harman.com/careers/sitemap_index.xml
+Disallow: /

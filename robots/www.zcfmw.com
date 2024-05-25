@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /images/
+Disallow: /css/
+Disallow: /script/
+Disallow: /delArticle/
+Disallow: /fckeditor/
+Disallow: /user/
+Disallow: /yellowpage/
+Disallow: /ueditor/
+Disallow: /ProductQueryAction!showProductList.do*
+Disallow: /BusinessQueryAction!businessList.do*
+Disallow: /NewsQueryAction!newsList.do*
+Disallow: /NewsQueryAction!showNewsList.do*
+Disallow: /CompanyQueryAction!showCompanyList.do*
+Disallow: /JobQueryAction!showJobList.do*

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /campaign
+Disallow: /help/legal-and-privacy/terms-and-conditions
+Disallow: /help/legal-and-privacy/contact-promise
+Disallow: /register
+Disallow: /login
+Disallow: /Register
+Disallow: /Login
+
+

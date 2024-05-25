@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="ja">
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-W2FLSKF');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Google Tag Manager Clarityç¨ -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5GBC4ZDC');</script>
+    <!-- End Google Tag Manager Clarityç¨ -->
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="keyword" content="ã·ã³ã»ãã­ã°">
+    <title>404 Not Found | ç¡æã§ããã«ä½¿ããåå¿èåãWordPressãã·ã³ã»ãã­ã°ã</title>
+        <link rel="icon" href="https://www.wpxblog.jp/img/common/favicon.ico?date=20240314">
+    <link rel="icon" type="shortcut icon" href="https://www.wpxblog.jp/img/common/apple-touch-icon-precomposed.png">
+    <meta name="viewport" content="width=device-width">
+    <link href="https://www.wpxblog.jp/css/site.css?date=20240304061040" rel="stylesheet" type="text/css">
+    </head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2FLSKF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager (noscript) ClarityÍÑ -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GBC4ZDC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) ClarityÍÑ --><div class="container">
+    <header class="header">
+        <div class="wrap">
+            <div class="headerColumns">
+                <div class="headerColumns__col">
+                    <div class="sitelogo"><a href="https://www.wpxblog.jp/"><img src="https://www.wpxblog.jp/img/common/logo_shinblog_head.png" alt="ã·ã³ã»ãã­ã°"></a></div>
+                </div>
+                <div class="headerColumns__col">
+                    <nav class="gnav">
+                        <input type="checkbox" id="drawerCheckbox" class="gnavToggle__checkbox">
+                        <label for="drawerCheckbox" class="gnavToggle__overlay"></label>
+                        <label for="drawerCheckbox" class="gnavToggle__icon">
+                            <span class="gnavToggle__icon--parts"></span>
+                        </label>
+                        <div class="navContents">
+                            <div class="navColumns">
+                                <div class="navColumns__col">
+                                    <ul class="headerLinks">
+                                        <li><a href="https://www.wpxblog.jp/service/pro.php" class="">ã·ã³ã»ãã­ã°PRO</a></li>
+                                        <li><a href="https://www.wpxblog.jp/service/domain.php" class="">ãã¡ã¤ã³</a></li>
+                                        <li><a href="https://www.wpxblog.jp/download.php" class="">ã¢ããªãã¦ã³ã­ã¼ã</a></li>
+                                        <li><a href="https://support.wpxblog.jp/hc/ja/" target="_blank">ãµãã¼ã<i class="ico ico--newWindow"></i></a></li>
+                                    </ul>
+                                </div>
+                                <div class="navColumns__col">
+                                    <ul class="userAuthLinks">
+                                        <li><a href="https://secure.wpx.ne.jp/wpxinfo/?action_register_wpxblog_index=true" target="_blank" class="btn btn--registry">ãã­ã°ãå§ãã(ç¡æ)</a></li>
+                                        <li><a href="https://secure.wpx.ne.jp/wpxinfo/?action_login_wpxaccount_index=true&service=wpxblog" target="_blank" class="btn">ã­ã°ã¤ã³</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="main">
+        <div class="pageHeader">
+            <div class="wrap"><h1 class="pageTitle">404 Not Found</h1></div>
+        </div>
+        <div class="pageBody">
+            <div class="wrap">
+                <div class="pageContents">
+                    <section class="section">
+                        <h2>ãæ¢ãã®ãã¼ã¸ãè¦ã¤ããã¾ããã§ãã</h2>
+                        <p>ãå®¢æ§ããæ¢ãã®ãã¼ã¸ã¯ãåé¤ãããããã¢ãã¬ã¹ãå¤æ´ãããå¯è½æ§ãããã¾ãã<br>
+                            ããã¯ãã¼ã¯ãç»é²ããã¦ããå ´åã¯ããææ°ã§ããè¨­å®ã®å¤æ´ããé¡ããããã¾ãã</p>
+                        <div class="btnTemplate tac">
+                            <a href="index.php" class="btn">ããããã¼ã¸ã¸æ»ã</a>
+                        </div>
+                    </section>
+                </div>
+                <!-- /pageBody -->
+            </div>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="footerRegistry">
+            <div class="registryColumn">
+                <div class="registryColumn__caption">ç³ãè¾¼ã¿ã¯ã¨ã£ã¦ãããããï¼<br>ä»ããç¡æã§ã¹ã¿ã¼ãï¼</div>
+                <div class="registryColumn__btns"><a href="https://secure.wpx.ne.jp/wpxinfo/?action_register_wpxblog_index=true" target="_blank" class="btn btn--large btn--registry">ä»ãããã­ã°ãå§ãã(ç¡æ)</a></div>
+            </div>
+        </div>
+        <div class="footerHelps">
+            <div class="wrap">
+                <div class="footerHelpsColumns">
+                    <div class="footerHelps__caption">ãç³ãè¾¼ã¿ããµã¼ãã¹ã®ä½¿ãæ¹ãªã©ã<br class="viewPC">ããããªãäºã¯ããã«è§£æ±ºï¼</div>
+                    <div class="footerHelps__links">
+                        <div class="footerHelps__linksItem">
+                            <div class="footerHelps__linksItem--caption">åç¨®ããã¥ã¢ã«ã®ç¢ºèªã«</div>
+                            <div class="footerHelps__linksItem--actions"><a href="https://support.wpxblog.jp/hc/ja/" class="btn" target="_blank">ãµãã¼ããµã¤ã<i class="ico ico--newWindow"></i></a></div>
+                        </div>
+                        <div class="footerHelps__linksItem">
+                            <div class="footerHelps__linksItem--caption">ã¦ã¼ã¶ã¼åå£«ã®äº¤æµãç¥è­ã®å±æã«</div>
+                            <div class="footerHelps__linksItem--actions"><a href="https://support.wpxblog.jp/hc/ja/community/topics" class="btn" target="_blank">ã³ãã¥ããã£<i class="ico ico--newWindow"></i></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footerBase">
+            <div class="wrap">
+                <div class="footerLogo"><a href="https://www.wpxblog.jp/"><img src="https://www.wpxblog.jp/img/common/logo_shinblog_foot.png" alt="ã·ã³ã»ãã­ã°"></a></div>
+                <div class="footerLinks">
+                    <div class="footerLinks__wrap">
+                        <ul class="footerLinks__list">
+                            <li><a href="https://www.wpxblog.jp/company.php">ä¼æ¥­æå ±</a></li>
+                            <li><a href="https://www.wpxblog.jp/rule.php">å©ç¨è¦ç´</a></li>
+                            <li><a href="https://www.wpxblog.jp/sitepolicy.php">å½ãµã¤ãã®ãå©ç¨ã«ã¤ãã¦</a></li>
+                            <li><a href="https://www.wpxblog.jp/privacy.php">ãã©ã¤ãã·ã¼ããªã·ã¼</a></li>
+                            <li><a href="https://www.wpxblog.jp/commerce.php">ç¹å®ååå¼æ³ã«åºã¥ãè¡¨ç¤º</a></li>
+                            <!--<li><a href="">ãåãåãã</a></li>-->
+                        </ul>
+                        <ul class="footerLinks__socialLink">
+                            <li><a class="hover" href="https://www.facebook.com/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B7%E3%83%B3%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-107028348145067" target="_blank" rel="nofollow"><img src="https://www.wpxblog.jp/img/common/ico_sns_facebook.svg" alt="Facebook" width="32" height="32"></a></li>
+                            <li><a class="hover" href="https://twitter.com/shin__pr" target="_blank" rel="nofollow"><img src="https://www.wpxblog.jp/img/common/ico_sns_x.svg" alt="X" width="32" height="32"></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footerAppBnr">
+                    <ul class="footerAppBnr__list">
+                        <li><a href="https://apps.apple.com/jp/app/wpx%E3%83%96%E3%83%AD%E3%82%B0/id1600837791?l=ja&ls=1&mt=8
+" target="_blank"><img src="https://www.wpxblog.jp/img/common/bnr_app_store.svg" alt="App Storeãããã¦ã³ã­ã¼ã"></a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=jp.co.xserver.wpxblog
+" target="_blank"><img src="https://www.wpxblog.jp/img/common/bnr_google_play_store.png" alt="Google Playã§æã«å¥ããã"></a></li>
+                        <li class="aff"><a href="https://www.wpxblog.jp/affiliate.php"><img src="https://www.wpxblog.jp/img/common/bnr_affiliate.png" alt="ã¢ãã£ãªã¨ã¤ãã®ãæ¡å"></a></li>
+                    </ul>
+                </div>
+                <div class="footerPr">
+                    <div class="footerPr__item footerPr__siteseal">
+                        <div class="footerPr__item--logo">
+                            <script type="text/javascript" src="//seal.securecore.co.jp/js/ss_130-50.js" defer="defer"></script><noscript><img src="//seal.securecore.co.jp/image/noscript_130x50.png"></noscript>
+                        </div>
+                        <p class="footerPr__item--txt">ã¯ã©ã¦ãã»ã­ã¥ã¢ã®ãµã¤ãã·ã¼ã«ã¯å®å¿ã®è¨¼ã§ãã</p>
+                    </div>
+                </div>
+                <div class="footerCopyright"><small class="copyright">&copy; 2024 Shin Cloud Inc.</small></div>
+            </div>
+        </div>
+    </footer>
+</div>
+<script src="https://www.wpxblog.jp/js/jquery.min.js?date=20210311041722" type="text/javascript"></script>
+<script src="https://www.wpxblog.jp/js/lib.min.js?date=20210311041722" type="text/javascript"></script>
+<script src="https://www.wpxblog.jp/js/common.min.js?date=20210407025627" type="text/javascript"></script></body>
+</html>

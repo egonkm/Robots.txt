@@ -1,0 +1,8 @@
+# robots.txt for http://www.bartelme.at/
+User-agent: *
+Disallow: /_system/
+Disallow: /hochzeit/
+Disallow: /poltern/
+Disallow: /invoices/
+Disallow: /old/
+Disallow: /themes/

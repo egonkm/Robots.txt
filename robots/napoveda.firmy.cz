@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://napoveda.firmy.cz/sitemap.xml
+Sitemap: https://napoveda.firmy.cz/en/sitemap.xml

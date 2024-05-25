@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /SchoolPortals/*
+Disallow: /schoolportals/*
+Disallow: /CustomApi/*
+Disallow: /customapi/*
+Disallow: /Sitefinity/*
+Disallow: /sitefinity/*
+Disallow: /*/Action/*
+Disallow: /*/action/*
+Disallow: /System/*
+Disallow: /system/*
+Disallow: /Sitefinity/Authenticate/*
+
+# The sitemap file(s) for the site
+Sitemap: https://www.schools.nyc.gov/sitemap/sitemap.xml

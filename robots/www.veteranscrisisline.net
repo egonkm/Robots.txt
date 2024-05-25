@@ -1,0 +1,6 @@
+ï»¿User-agent: *
+#Directories
+Disallow: /umbraco/
+
+#Sitemaps
+Sitemap: https://veteranscrisisline.net/xmlsitemap

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /private-data/
+Disallow: /nonexistent-category/
+Disallow: /fake-page.html

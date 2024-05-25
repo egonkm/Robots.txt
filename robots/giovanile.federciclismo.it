@@ -1,0 +1,7 @@
+# MAIN RULEs
+User-agent: *
+Disallow: /Bin/
+Disallow: /Views/
+
+# SITEMAPs
+sitemap: https://giovanile.federciclismo.it/it/sitemap/

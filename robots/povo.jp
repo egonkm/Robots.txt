@@ -1,0 +1,221 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /point_mnp_2024_05_1
+
+# *
+User-agent: *
+Disallow: /support/dataonly_compare
+
+# *
+User-agent: *
+Disallow: /support/dataonly_comparison_button
+
+# *
+User-agent: *
+Disallow: /point_for_r
+
+# *
+User-agent: *
+Disallow: /campaign/rusuban-start-cpn_2024_05
+
+# *
+User-agent: *
+Disallow: /120G_365d-topping-cpn_2024_04
+
+# *
+User-agent: *
+Disallow: /birthday-cpn_2024_05
+
+# *
+User-agent: *
+Disallow: /roulette_terms_2024_04
+
+# *
+User-agent: *
+Disallow: /trial-coke-on_cpn_2024_04_2
+
+# *
+User-agent: *
+Disallow: /birthday-cpn_2024_04
+
+# *
+User-agent: *
+Disallow: /big-data-trial-cpn_2024_03
+
+# *
+User-agent: *
+Disallow: /chatbot_denpasupport
+
+# *
+User-agent: *
+Disallow: /birthday-cpn_2024_03
+
+# *
+User-agent: *
+Disallow: /data-topping-trial-cpn_2024_02
+
+# *
+User-agent: *
+Disallow: /assets/img
+
+# *
+User-agent: *
+Disallow: /birthday-cpn_2024_02
+
+# *
+User-agent: *
+Disallow: /data-topping-trial-cpn_2024_01
+
+# *
+User-agent: *
+Disallow: /buy1_get_1free_closed_cpn_2024_01
+
+# *
+User-agent: *
+Disallow: /data-topping-repeat-cpn_2024_01
+
+# *
+User-agent: *
+Disallow: /sub-data-trial-cpn_2024_01
+
+# *
+User-agent: *
+Disallow: /data-trial-cpn_2024_01
+
+# *
+User-agent: *
+Disallow: /lucky-bag-premium_2024_01
+
+# *
+User-agent: *
+Disallow: /lucky-bag_2024_01
+
+# *
+User-agent: *
+Disallow: /trial-cpn_ad_2023_12
+
+# *
+User-agent: *
+Disallow: /topping-trial-cpn_2024_01
+
+# *
+User-agent: *
+Disallow: /trial_buy1_get_1free_cpn_2023_12
+
+# *
+User-agent: *
+Disallow: /big-data-trial-cpn_2023_11
+
+# *
+User-agent: *
+Disallow: /topping-trial-cpn_2023_12
+
+# *
+User-agent: *
+Disallow: /self_referral_aupay_cpn_2023_11
+
+# *
+User-agent: *
+Disallow: /data-trial-cpn_2023_11
+
+# *
+User-agent: *
+Disallow: /entry-topping-trial-cpn_2023_11
+
+# *
+User-agent: *
+Disallow: /general_terms/test
+
+# *
+User-agent: *
+Disallow: /app_privacy/test
+
+# *
+User-agent: *
+Disallow: /data-trial-cpn_2023_10
+
+# *
+User-agent: *
+Disallow: /halloween_wallpaper_2023_10
+
+# *
+User-agent: *
+Disallow: /big-data-trial-cpn_2023_10
+
+# *
+User-agent: *
+Disallow: /dazn-cpn_2023_10
+
+# *
+User-agent: *
+Disallow: /roulette_terms_2023
+
+# *
+User-agent: *
+Disallow: /promo_code_2023_09
+
+# *
+User-agent: *
+Disallow: /big-data-trial-cpn_2023_09
+
+# *
+User-agent: *
+Disallow: /data-trial-cpn_2023_09
+
+# *
+User-agent: *
+Disallow: /data-trial-cpn_2023_08
+
+# *
+User-agent: *
+Disallow: /spec/test-gkit
+
+# *
+User-agent: *
+Disallow: /point_01
+
+# *
+User-agent: *
+Disallow: /point_for_uq_mobile
+
+# *
+User-agent: *
+Disallow: /chatbot_billing
+
+# *
+User-agent: *
+Disallow: /voice_loto_gb_2023_07
+
+# *
+User-agent: *
+Disallow: /service/international_roaming/area
+
+# *
+User-agent: *
+Disallow: /data-trial-cpn_2023_06
+
+# *
+User-agent: *
+Disallow: /spec/giga_trade/product
+
+# *
+User-agent: *
+Disallow: /search
+
+# *
+User-agent: *
+Disallow: /thanks-summer_2022_2023_test_test_test123456789
+
+# *
+User-agent: *
+Disallow: /procedure_bot
+
+# Host
+Host: https://povo.jp
+
+# Sitemaps
+Sitemap: https://povo.jp/sitemap.xml

@@ -1,0 +1,11 @@
+User-agent: Mediapartners-Google 
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: / 
+
+User-agent: *
+Disallow: /studienangebote?*
+Noindex: /studienangebote?*
+Disallow: /hochschulen?*
+Noindex: /hochschulen?*

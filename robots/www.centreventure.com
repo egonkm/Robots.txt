@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /about/
+Disallow: /services/
+Disallow: /projects/
+Disallow: /news/
+Disallow: /the-shed/
+Disallow: /market-lands/
+Disallow: /reports/
+Disallow: /the-site/
+Disallow: /the-waterfront/
+Disallow: /submission-marketlands-design-competition/
+Disallow: /registration-marketlands-design-competition/
+Disallow: /get-engaged/
+Disallow: /market-lands-design-competition/
+Disallow: /rfp-northern-development-site-submission/
+Disallow: /eoi-public-market-building-submission/
+SITEMAP: https://www.centreventure.com/sitemap.xml

@@ -1,0 +1,15 @@
+User-agent: Googlebot-Image
+Disallow: /blog/wp-content/uploads/IMG_0080.jpg
+
+User-agent: *
+Disallow: /*.mp4
+Disallow: /cloud/pdf/ds-spec_ClosedTrial.pdf
+Disallow: /cloud/docs/
+Disallow: /rentalserver/mm/
+Disallow: /rentalserver/common/
+Disallow: /rentalserver/pdf/report/
+Disallow: /rentalserver/senyu.jp/
+Disallow: /rentalserver/search02/
+Disallow: /inquiry/download/media/pdf/itmedia_dc-high-power_202203.html
+
+Sitemap: http://www.idcf.jp/sitemap.xml

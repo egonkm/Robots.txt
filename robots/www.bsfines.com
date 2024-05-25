@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /storage/
+Disallow: /data/
+Disallow: /404.htm
+Sitemap: /sitemap.xml
+Disallow: /Ueditor/net/controller.ashx
+Disallow: /admin/Ueditor/net/controller.ashx
+Disallow: /editor/Ueditor/net/controller.ashx
+Disallow: /manager/Ueditor/net/controller.ashx
+Disallow: /Controls/Ueditor/net/controller.ashx
+Disallow: /content/Ueditor/net/controller.ashx
+Disallow: /Plugin/ueditor/net/controller.ashx
+Disallow: /Scripts/ueditor/net/controller.ashx
+Disallow: /x403.html
+Disallow: /Admin/Ueditor/index?action=uploadimage
+Disallow: //?s=captcha&test=-1

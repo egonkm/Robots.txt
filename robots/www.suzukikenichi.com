@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /video/
+Disallow: /blog/wp-admin/
+Disallow: /trackback/$
+Disallow: /poll/
+Disallow: /cloaking/
+Disallow: /blog/?s=*
+Disallow: /blog/offline.html
+Disallow: /wp-json/
+Disallow: /mod_pagespeed_beacon/
+User-agent: Megalodon
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: Updownerbot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: BUbiNG
+Disallow: /
+User-agent: Genieo
+Disallow: /
+User-agent: grapeshot
+Disallow: /
+User-agent: JamesBOT
+Disallow: /
+User-agent: ltx71 - (http://ltx71.com/)
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+User-agent: SeznamBot
+Disallow: /
+User-agent: dotbot
+Disallow: /

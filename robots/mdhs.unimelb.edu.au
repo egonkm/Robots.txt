@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /search/
+Disallow: /dental-clinic/assets/
+Disallow: /dental-clinic/search/
+Disallow: /_museums_designs/
+
+Sitemap: http://mdhs.unimelb.edu.au/sitemap.xml

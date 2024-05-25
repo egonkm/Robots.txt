@@ -1,0 +1,60 @@
+# digg mirror
+User-agent: duggmirror
+Disallow: /
+
+# global
+User-agent: *
+Disallow: /1077259/
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /trackback/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: */trackback/
+Disallow: */comments/
+Disallow: */attachment/
+Disallow: */?attachment_id*
+Disallow: */.needs-rebuild
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+
+# upday User Agent
+User-agent: Mozilla/5.0 (compatible; upday/1.0; +http://www.upday.com/)
+Allow: /feed/
+
+User-agent: AhrefsBot
+Crawl-delay: 60
+
+User-Agent: DotBot
+Crawl-Delay: 5
+
+User-agent: grapeshot
+Crawl-Delay: 10
+
+User-agent: JobboerseBot
+Crawl-delay: 60
+
+User-Agent: MegaIndex.ru
+Crawl-Delay: 10
+
+User-Agent: MJ12bot
+Crawl-Delay: 10
+
+User-Agent: SemrushBot
+Crawl-Delay: 10
+
+User-agent: Slurp
+Crawl-delay: 5
+
+User-agent: YandexBot
+Crawl-delay: 10
+
+User-agent: SEOkicks
+Crawl-delay: 10
+
+User-agent: upday
+Crawl-delay: 10
+
+User-agent: Qwantify
+Crawl-delay: 10

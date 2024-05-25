@@ -1,0 +1,538 @@
+<!doctype html>
+<html class="">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markenwelt</title>
+    <meta name="description" content="" />
+    <base href="https://www.freixenet.de/" />
+    <link href="css/app_frx.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/tiny-slider.css">
+    <link rel="canonical" href="https://freixenet-gewinnspiel.de//" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+    <script defer src="https://unpkg.com/alpinejs@3.10.5/dist/cdn.min.js"></script>
+</head>
+<body class="bg-background text-font min-h-screen relative lg:pb-40" >
+    <div x-data="cookie()">
+        <div
+          x-cloak
+          x-show="!cookie.consent || !ageconsent"
+          class="fixed z-50 bg-black bg-opacity-75 h-screen w-full p-4 flex justify-center items-center">
+            
+            <div x-show="!ageconsent" class="bg-white rounded-xl p-8 w-full sm:max-w-xl lg:-translate-y-1/4">
+                <h2 class="defaultheading text-center">Willkommen bei Freixenet</h2>
+                <div class="mt-4 text-sm text-center">
+                    <p>
+                    Freixenet setzt sich für einen verantwortungsvollen Umgang mit alkoholischen Getränken ein.
+                    </p>
+                    <p class="mt-2">Da diese Website Informationen zu alkoholischen Getränken enthält, bitten wir Sie, Ihre Volljährigkeit zu bestätigen.</p>
+                </div>          
+
+                <div class="mt-6 grid sm:grid-cols-2 gap-4">
+                    <div class="text-center">
+                        <button @click="acceptAge" class="py-2 px-12 inline-block uppercase bg-[#C7A66A] text-white">
+                            Ja
+                        </button>
+                        <div class="mt-2 text-xs font-bold">ich bin bereits 18 Jahre alt.</div>
+                    </div>
+                    <div class="text-center">
+                        <a href="https://www.freixenet.de/age-check-goodbye" class="py-2 px-12 inline-block uppercase bg-secondary hover:bg-secondary-hover text-font">
+                            Nein
+                        </a>
+                         <div class="mt-2 text-xs font-bold">ich bin noch keine 18 Jahre alt.</div>
+                    </div>
+                </div>
+
+
+                <!-- <div x-show="no18" x-transition class="mt-4 text-xs">
+                    Wir freuen uns über Ihr Interesse. Allerdings müssen Sie mindestens 18 Jahre alt sein, um
+                    unsere Aktionsseite besuchen zu dürfen.
+                </div> -->
+            </div>
+            <div x-show="!cookie.consent && ageconsent" class="bg-white rounded-xl p-8 max-w-2xl max-h-screen overflow-y-auto">
+                <h2 class="defaultheading text-left">Cookie-Einstellungen</h2>
+                <div class="mt-4 text-sm">Wir verwenden Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien anbieten zu können und die Zugriffe auf unserer Website zu analysieren. Sie können selbst
+                    auswählen, welchen Kategorien Sie zustimmen möchten. Aufgrund Ihrer Einstellungen besteht die Möglichkeit, dass Ihnen einzelne Funktionen der Seite nicht zur Verfügung stehen.
+                </div>            
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-5 gap-y-2 my-8">
+                    <div>
+                        <label class="flex space-x-2">
+                            <input class="form-checkbox h-6 w-6 text-[#C7A66A] focus:outline-none focus:ring-primary opacity-70" type="checkbox" checked="checked" disabled="disabled">
+                            <span>Notwendig</span>
+                        </label>
+                    </div>
+                    <div>
+                        <label class="flex space-x-2">
+                            <input class="form-checkbox h-6 w-6 text-[#C7A66A] focus:outline-none focus:ring-primary" type="checkbox" x-model="cookie.consentsettings.performance">
+                            <span>Performance</span>
+                        </label>
+                    </div>
+                </div>
+            
+                <div class="flex justify-end">
+                    <button class="flex space-x-2 underline text-sm" @click="showDetails = !showDetails">
+                        Details anzeigen
+                    </button>
+                </div>
+            
+                <div x-show="showDetails" class="my-8 lg:grid lg:grid-cols-2 gap-5 space-y-4 lg:space-y-0 text-xs">
+                    <div>
+                        <strong>Notwendig:</strong><br>
+                        Damit unsere Website immer einwandfrei funktioniert und grundlegende Funktionen gewährleistet sind, müssen wir bestimmte Cookies und ähnliche Technologien nutzen. Dies umfasst zum Beispiel das Speichern von Einstellungen und die korrekte Darstellung der Website. Da dies für die Nutzung unserer Website zwingend notwendig ist, können Sie diese Cookies nicht abwählen.
+                    </div>
+                    <div>
+                        <strong>Performance:</strong><br>
+                        Um Ihnen künftig ein noch besseres Erlebnis bei der Nutzung unserer Website bieten zu können, verarbeiten wir mit diesen Cookies Ihr Nutzerverhalten auf unserer Website. Das hilft uns dabei, unser Angebot für Sie stetig zu verbessern.
+                    </div>
+                </div>
+            
+                <div class="mt-8 flex justify-items-end space-x-2">
+                    <button @click="acceptCookie" class="p-2 block w-full uppercase bg-secondary hover:bg-secondary-hover text-font shadow transition-colors">Auswahl bestätigen</button>
+                    <button @click="acceptCookieAll" class="p-2 block w-full uppercase bg-[#C7A66A] text-white transition-colors">Alles auswählen</button>
+                </div>
+            </div>
+        </div>        
+    </div>
+    <script type="text/javascript">
+        window.cookie = () => {
+            return {
+                no18: false,
+                ageconsent: sessionStorage.getItem("ageconsent") ? JSON.parse(sessionStorage.getItem("ageconsent")) : false, 
+                showDetails: false,
+                cookie: {age: false, consent: false, consentsettings: { performance: true }},
+    
+                async acceptAge() {
+                    this.no18 = false
+                    this.cookie.age = true
+                    this.ageconsent = true
+                    sessionStorage.setItem("ageconsent", true);
+                    await this.sendCookie()
+                },
+
+                acceptCookie() {
+                    this.cookie.consent = true
+                    this.sendCookie()
+                    document.body.classList.remove('overflow-hidden');
+                },
+
+                acceptCookieAll() {
+                    this.cookie.consentsettings.performance = true
+
+                    this.acceptCookie()
+                    document.body.classList.remove('overflow-hidden');
+                },
+
+                async sendCookie() {
+                    const response = await fetch('/api/cookie/store', {
+                        method: 'POST',
+                        body: JSON.stringify(this.cookie)
+                    })
+                    if (!response.ok) {
+                        try {
+                            const errors = await response.json()
+                            console.log(errors)
+                        } catch (err) {
+                            console.error(err)
+                        }
+                    } else {
+                        const result = await response.json()
+                        console.log(result)
+                    }
+
+                },
+
+                init() {
+                    if (!this.cookie.age || !this.cookie.consent) {
+                        document.body.classList.add('overflow-hidden');
+                    } else {
+                        document.body.classList.remove('overflow-hidden');
+                    }
+                },
+            }
+        }
+    </script>
+    <header class="relative z-30">
+    <!-- desktop -->
+    <div x-data="{scrollAtTop: true}"
+        class="hidden lg:flex lg:flex-col z-30 top-0 left-0 w-full" >
+        <div
+          @scroll.window="scrollAtTop = (window.pageYOffset > 270) ? false : true"
+          class="logo logo__container py-10 flex justify-center items-center">
+            <a href='/'><img src='/images/base/Freixenet_Logo_schwarz.png' alt='frx' class='w-full max-w-48' /></a>
+        </div>
+        <!-- nav desktop -->
+        <div class="w-full p-4 bg-background-dark transition-all duration-500" :class="scrollAtTop ? '':'fixed'">
+
+            <ul class="flex justify-center items-center space-x-4"><li>
+    <a href="gewinnspiel/" title="Gewinnspiel"  class="navlinkdesktop navlink-special">Gewinnspiel</a>
+    
+</li>
+
+
+<li>
+    <a href="https://www.freixenet.de/" title="Markenwelt"  class="navlinkdesktop navlinkdesktop__active">Markenwelt</a>
+    
+</li>
+
+
+<li>
+    <a href="freixenet-sekt/" title="Freixenet Sekt"  class="navlinkdesktop">Freixenet Sekt</a>
+    
+</li>
+
+
+<li>
+    <a href="freixenet-carta-blanca/" title="Freixenet Carta Blanca"  class="navlinkdesktop">Freixenet Carta Blanca</a>
+    
+</li>
+
+
+<li>
+    <a href="freixenet-wine-collection/" title="Freixenet Wine Collection"  class="navlinkdesktop">Freixenet Wine Collection</a>
+    
+</li>
+
+
+<li>
+    <a href="freixenet-mederaño/" title="Freixenet Mederaño"  class="navlinkdesktop">Freixenet Mederaño</a>
+    
+</li>
+
+
+<li>
+    <a href="freixenet-mía/" title="Freixenet MÍA"  class="navlinkdesktop">Freixenet MÍA</a>
+    
+</li>
+
+
+<li>
+    <a href="social-media/" title="Social Media"  class="navlinkdesktop">Social Media</a>
+    
+</li>
+
+
+<li>
+    <a href="presse/" title="Presse"  class="navlinkdesktop last">Presse</a>
+    
+</li>
+
+
+</ul>
+
+        </div>
+    </div>
+
+    <!-- mobile -->
+    <div class="lg:hidden" x-data="{navOpen: false}">
+        <!-- nav mobile -->
+        <div x-cloak x-show="navOpen" x-transition @click.outside="navOpen = false"
+             class="p-5 pb-20 fixed z-20 bottom-0 right-0 w-3/4 bg-background drop-shadow-2xl  border">
+
+            <ul class="divide-y divide-gray-700"><li>
+    <a href="gewinnspiel/" title="Gewinnspiel"  class="py-4 uppercase text-xl text-font text-center block navlink-special">Gewinnspiel</a>
+    
+</li>
+
+
+<li>
+    <a href="https://www.freixenet.de/" title="Markenwelt"  class="py-4 uppercase text-xl text-font text-center block py-4 uppercase text-xl text-font text-center block font-bold">Markenwelt</a>
+    
+</li>
+
+
+<li>
+    <a href="freixenet-sekt/" title="Freixenet Sekt"  class="py-4 uppercase text-xl text-font text-center block">Freixenet Sekt</a>
+    
+</li>
+
+
+<li>
+    <a href="freixenet-carta-blanca/" title="Freixenet Carta Blanca"  class="py-4 uppercase text-xl text-font text-center block">Freixenet Carta Blanca</a>
+    
+</li>
+
+
+<li>
+    <a href="freixenet-wine-collection/" title="Freixenet Wine Collection"  class="py-4 uppercase text-xl text-font text-center block">Freixenet Wine Collection</a>
+    
+</li>
+
+
+<li>
+    <a href="freixenet-mederaño/" title="Freixenet Mederaño"  class="py-4 uppercase text-xl text-font text-center block">Freixenet Mederaño</a>
+    
+</li>
+
+
+<li>
+    <a href="freixenet-mía/" title="Freixenet MÍA"  class="py-4 uppercase text-xl text-font text-center block">Freixenet MÍA</a>
+    
+</li>
+
+
+<li>
+    <a href="social-media/" title="Social Media"  class="py-4 uppercase text-xl text-font text-center block">Social Media</a>
+    
+</li>
+
+
+<li>
+    <a href="presse/" title="Presse"  class="py-4 uppercase text-xl text-font text-center block last">Presse</a>
+    
+</li>
+
+
+</ul>
+
+        </div>
+        <!-- menu mobile -->
+        <div
+             class="fixed z-30 bottom-0 w-full left-0 bg-background-dark h-20 px-10 flex items-center justify-between shadow">
+            <div class="logo mobile">
+                <a href='/'><img src='/images/base/Freixenet_Logo_schwarz.png' alt='frx' class='w-full max-w-28 max-h-20 py-2' /></a>
+            </div>
+            <div class="nav">
+                <button @click="navOpen = !navOpen">
+                    <svg x-show="!navOpen" class="w-8 h-8" viewBox="0 0 100 100">
+                        <rect y="25" width="100" height="5"></rect>
+                        <rect y="50" width="100" height="5"></rect>
+                        <rect y="75" width="100" height="5"></rect>
+                    </svg>
+                    <svg x-cloak x-show="navOpen" class="w-8 h-8" viewBox="0 0 100 100"
+                         overflow="visible" stroke="black" stroke-width="4"
+                         stroke-linecap="round">
+                        <line x2="100" y2="100" />
+                        <line x1="100" y2="100" />
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="lg:hidden logo__container flex justify-center items-center">
+        <a href='/'><img src='/images/base/Freixenet_Logo_schwarz.png' alt='frx' class='w-full max-w-48' /></a>
+    </div>
+</header>
+    
+
+    <div class="content defaultcontainer  lg:pt-4 lg:pb-0 pb-10 flex-grow">
+
+    
+
+        
+        <div class="wysiwyg"></div>
+        
+        <section id="section_1" class="defaultsection " data-idx="1">
+    <h2 class="defaultheading">Entdecke unsere Marken!</h2>
+    
+    
+    <div class="slider-wrapper mb-8 mt-8 relative z-10" x-data="{topPosition: 0 }"  x-init="setTimeout(() => {
+        topPosition = $refs.sliderimg_1.clientHeight / 2
+     }, 200);"  @resize.window="topPosition = $refs.sliderimg_1.clientHeight / 2">
+    
+        <!-- slider nav -->
+        <div x-cloak x-show="topPosition > 0" x-transition.opacity.duration.1000ms
+             class="text-primary controlscontainer lg:hidden absolute top-0 w-full flex justify-between z-20 pointer-events-none -translate-y-1/2"
+             :style="{ top: topPosition + 'px'}">
+            <button class="prev pointer-events-auto">
+                <svg class="h-12 w-12" fill="none" viewBox="0 0 24 24"
+                     stroke="currentColor" stroke-width="1">
+                    <path stroke-linecap="round" stroke-linejoin="round"
+                          d="M15 19l-7-7 7-7" />
+                </svg>
+            </button>
+            <button class="next pointer-events-auto">
+                <svg class="h-12 w-12" fill="none" viewBox="0 0 24 24"
+                     stroke="currentColor" stroke-width="1">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+                </svg>
+            </button>
+        </div>
+        <div class="md:px-10">            
+            <!-- slider -->
+            <div class="slider">
+                <div class="item">
+    <div class="relative h-full">
+        <a href="save/freixenet-sekt/" target="_self">
+            <img x-ref="sliderimg_1" class="w-full" src="images/Startseite/Kachel_Freixenet.jpg" alt="Freixenet Sekt">
+        </a>
+        <div class="absolute bottom-2 bg-white bg-opacity-80 w-full py-1 px-2 text-center text-lg lg:text-xs">
+            Freixenet Sekt
+        </div>
+    </div>
+    <div class="w-full flex justify-center">
+        <a class="mt-2 btn-small btn-primary" href="save/freixenet-sekt/" target="_self">JETZT ENTDECKEN!</a>
+    </div>
+</div><div class="item">
+    <div class="relative h-full">
+        <a href="save/freixenet-carta-blanca/" target="_self">
+            <img x-ref="sliderimg_2" class="w-full" src="images/Startseite/Kachel_Carta_Blanca.jpg" alt="Freixenet Carta Blanca">
+        </a>
+        <div class="absolute bottom-2 bg-white bg-opacity-80 w-full py-1 px-2 text-center text-lg lg:text-xs">
+            Freixenet Carta Blanca
+        </div>
+    </div>
+    <div class="w-full flex justify-center">
+        <a class="mt-2 btn-small btn-primary" href="save/freixenet-carta-blanca/" target="_self">JETZT ENTDECKEN!</a>
+    </div>
+</div><div class="item">
+    <div class="relative h-full">
+        <a href="freixenet-wine-collection/" target="_self">
+            <img x-ref="sliderimg_3" class="w-full" src="images/Startseite/Kachel_Wine_Collection.jpg" alt="Freixenet Wine Collection">
+        </a>
+        <div class="absolute bottom-2 bg-white bg-opacity-80 w-full py-1 px-2 text-center text-lg lg:text-xs">
+            Freixenet Wine Collection
+        </div>
+    </div>
+    <div class="w-full flex justify-center">
+        <a class="mt-2 btn-small btn-primary" href="freixenet-wine-collection/" target="_self">JETZT ENTDECKEN!</a>
+    </div>
+</div><div class="item">
+    <div class="relative h-full">
+        <a href="freixenet-mederaño/" target="_self">
+            <img x-ref="sliderimg_4" class="w-full" src="images/Startseite/Kachel_Mederano.jpg" alt="Freixenet Mederaño">
+        </a>
+        <div class="absolute bottom-2 bg-white bg-opacity-80 w-full py-1 px-2 text-center text-lg lg:text-xs">
+            Freixenet Mederaño
+        </div>
+    </div>
+    <div class="w-full flex justify-center">
+        <a class="mt-2 btn-small btn-primary" href="freixenet-mederaño/" target="_self">JETZT ENTDECKEN!</a>
+    </div>
+</div><div class="item">
+    <div class="relative h-full">
+        <a href="freixenet-mía/" target="_self">
+            <img x-ref="sliderimg_5" class="w-full" src="images/Startseite/Kachel_Mia.jpg" alt="Freixenet Mía">
+        </a>
+        <div class="absolute bottom-2 bg-white bg-opacity-80 w-full py-1 px-2 text-center text-lg lg:text-xs">
+            Freixenet Mía
+        </div>
+    </div>
+    <div class="w-full flex justify-center">
+        <a class="mt-2 btn-small btn-primary" href="freixenet-mía/" target="_self">JETZT ENTDECKEN!</a>
+    </div>
+</div>
+            </div>
+        </div>    
+    </div>
+    <script>
+        tns({
+            container: '#section_1 .slider',
+            controlsContainer: '#section_1 .controlscontainer',
+            navPosition: 'bottom',
+            items: 1,
+            responsive: {
+                640: {
+                    edgePadding: 20,
+                    gutter: 20,
+                    items: 1
+                },
+                768: {
+                    items: 3,
+                    gutter: 20,
+                },
+                1024: {
+                    items: 5,
+                    nav: false,
+                },
+                1280: {
+                    items: 5,
+                    nav: false,
+                }
+            }
+        });
+    </script>
+    
+    <div class="wysiwyg"></div>
+</section>
+<section id="section_2" class="defaultsection " data-idx="2">
+    <h2 class="defaultheading">Deine Chance auf exklusive Sommergewinne!</h2>
+<p><a href="gewinnspiel/">
+<img class="hidden lg:block mt-16 w-full" src="/images/Startseite/FRX_Markenhub_Gewinnspiel_Teaser_2024_web.jpg" alt="Duplikat von Gewinnspiel" /></a><a href="gewinnspiel/"><img class="block lg:hidden mt-8 w-full" src="images/Startseite/FRX_Markenhub_Gewinnspiel_Teaser_2024_mobile.jpg" alt="Duplikat von Gewinnspiel" /></a></p>
+<div class="wysiwyg">&nbsp;</div>
+</section>
+<section id="section_3" class="defaultsection " data-idx="3">    
+    
+        
+    <div class="space-y-8 divide-y-2 divide-secondary lg:divide-y-0 lg:divide-none lg:space-y-0 lg:flex lg:justify-between lg:-mx-4">
+        <div class="teaseritem flex-1 mx-4 lg:!mt-auto">
+    <h2 class="defaultheading">ZUM ONLINESHOP</h2>
+    <a href="https://www.freixenet-onlineshop.de/" target="_blank">
+        <img class="mt-4 w-full" src="images/Startseite/Kachel_Online_Shop.jpg" alt="ZUM ONLINESHOP">
+    </a>
+    <div class="flex justify-center mt-4">
+        <a class="btn btn-primary" href="https://www.freixenet-onlineshop.de/" target="_blank">JETZT BESTELLEN!</a>
+    </div>
+</div><div class="teaseritem flex-1 mx-4 lg:!mt-auto">
+    <h2 class="defaultheading">SOCIAL MEDIA</h2>
+    <a href="social-media/" target="_self">
+        <img class="mt-4 w-full" src="images/Startseite/Kachel_Social_Media.jpg" alt="SOCIAL MEDIA">
+    </a>
+    <div class="flex justify-center mt-4">
+        <a class="btn btn-primary" href="social-media/" target="_self">JETZT ENTDECKEN!</a>
+    </div>
+</div><div class="teaseritem flex-1 mx-4 lg:!mt-auto">
+    <h2 class="defaultheading">PRESSE</h2>
+    <a href="presse/" target="_self">
+        <img class="mt-4 w-full" src="images/Startseite/Kachel_Presse.jpg" alt="PRESSE">
+    </a>
+    <div class="flex justify-center mt-4">
+        <a class="btn btn-primary" href="presse/" target="_self">MEHR ERFAHREN!</a>
+    </div>
+</div>
+    </div>    
+    <div class="wysiwyg"></div>
+</section>
+
+    
+    
+
+    </div>
+    <div class="block lg:hidden py-4 mb-24">
+    <ul class="flex justify-center items-end space-x-4">
+        <li>
+            <a href="https://www.facebook.com/freixenetDE"><img class="w-10"
+                     src="images/base/facebook.png" alt="facebook" /></a>
+        </li>
+        <li>
+            <a href="https://www.instagram.com/freixenet_de/"><img class="w-10" src="images/base/ig.png"
+                     alt="ig" /></a>
+        </li>        
+    </ul>
+    <ul class="mt-4 flex justify-center items-center text-center">
+        <li><a href="allgemeine-datenschutzerklaerung" class="text-xs">Datenschutzerklärung</a></li>
+        <li class="w-6 flex justify-center">&middot;</li>
+        <li><a href="impressum" class="text-xs">Impressum</a></li>
+        <li class="w-6 flex justify-center">&middot;</li>
+        <li><a href="kontakt/" class="text-xs">Kontakt</a></li>
+    </ul>
+</div>
+
+
+<footer class="hidden lg:block bg-background-dark py-0 lg:py-4 absolute bottom-0 left-0 w-full">
+    <div class="defaultcontainer flex justify-between items-center">
+        <ul class="footer-nav flex items-end space-x-4">
+            <li>
+               <a href="https://www.facebook.com/freixenetDE"><img class="w-10" src="images/base/facebook.png" alt="facebook" /></a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/freixenet_de/"><img class="w-10" src="images/base/ig.png" alt="ig" /></a>
+            </li>
+            <li><a href="allgemeine-datenschutzerklaerung" class="text-sm">Datenschutzerklärung</a></li>
+            <li><a href="impressum" class="text-sm">Impressum</a></li>
+            <li><a href="kontakt/" class="text-sm">Kontakt</a></li>
+        </ul>
+        <div class="logo" class="">
+            <a href='/'><img src='/images/base/Freixenet_Logo_schwarz.png' alt='frx' class='w-full max-w-28 max-h-20 py-2' /></a>
+        </div>
+    </div>
+
+</footer>
+
+
+
+
+    
+
+</body>
+</html>

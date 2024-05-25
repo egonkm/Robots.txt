@@ -1,0 +1,16 @@
+User-agent: *
+Sitemap: https://casinobonusca.com/sitemap.xml
+Sitemap: https://casinobonusca.com/fr/sitemap.xml
+Sitemap: https://casinobonusca.com/ontario/sitemap.xml
+Disallow: /old/
+Disallow: /redir/
+Disallow: /details/
+Disallow: /search/
+Disallow: /games-search/
+Disallow: /rt/
+Disallow: /tools/
+Disallow: /cdn-cgi/
+Disallow: /addemail/
+Disallow: /nz/
+Disallow: /?wtime
+Allow: /

@@ -1,0 +1,20 @@
+#Diese Webcrawler werden ausgeschlossen
+#Disallow_Webcrowler_Start
+#Disallow_Webcrowler_end
+#Diese Verzeichnisse/Dateien sollen nicht durchsucht werden
+#Disallow_Path_Start
+#Disallow_Path_end
+
+#Alle Suchmaschinen wird der Zugang verweigert zu den angegebenen Verzeichnissen
+
+User-agent: *
+
+Disallow: /admin
+Disallow: /preview
+Disallow: /data/private_media
+
+#e-mail Sammler von der Site fernhalten
+User-agent: EmailCollector
+Disallow: /
+
+Sitemap: http://www.huette-rockt.de/de/home/site/google-sitemap/

@@ -1,0 +1,9 @@
+ï»¿User-agent: * 
+Noindex: /Application 
+Disallow: /Application
+Noindex: /Form
+Disallow: /Form
+Noindex: /AdditionalEvidence
+Disallow: /AdditionalEvidence
+Noindex: /Account
+Disallow: /Account

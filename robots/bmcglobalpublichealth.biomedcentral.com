@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /search
+Disallow: */1000$
+Disallow: /epdf/
+Disallow: tab=
+Disallow: /about/institutional-support/membership/
+Disallow: /about/membership/members/
+Disallow: /about/oa-funding-and-policy-support/
+Disallow: /*/*/*/sharedit
+Sitemap: https://bmcglobalpublichealth.biomedcentral.com/sitemap.xml

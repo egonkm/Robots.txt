@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+
+# Disallow pages
+User-agent: *
+Disallow: /gclub/
+Disallow: /coupon/detail/
+Disallow: /final-sale-secret/
+Disallow: /rsv/
+Disallow: /resource/images/lib_gbu/shares/
+Disallow: /search_date=*/
+Disallow: /SITE=LW.*/
+Disallow: /region=*/
+Disallow: /*?nomo=1
+Disallow: /*?nomo=2
+Disallow: /calendar/GCOURSE_ID/
+Disallow: /holiday/1/
+Disallow: /holiday/2/
+Disallow: /holiday/3/
+Disallow: /holiday/4/
+Disallow: /holiday/5/
+Disallow: /holiday/6/
+Disallow: /rdir/phone/
+Disallow: /s/api/
+Disallow: /panorama/
+Disallow: /yahoo/ladder/
+Disallow: /s/search/coursename/
+Disallow: /golf-course/plan-detail/
+Disallow: /golf-course/map/*/route
+Crawl-delay:5
+
+# Sitemap files
+Sitemap: https://reserve.golfdigest.co.jp/sitemap_index.xml
+Sitemap: https://reserve.golfdigest.co.jp/sitemap_static.xml

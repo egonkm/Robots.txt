@@ -1,0 +1,23 @@
+User-agent: *
+
+Disallow: */tvhelp/*
+Disallow: /electronics/vodnik-za-darila/ideje-za-bozicna-darila
+
+Disallow: /my-favorites
+Disallow: */electronics/support*/results
+Disallow: */electronics/support/serial-number-checker/*
+Disallow: /tv-oddaje-priporoca-netflix
+Disallow: /tv-oddaje-dolby-vision-atmos
+Disallow: /prostorocno-glasovno-iskanje-tv-oddaj
+Disallow: /netflix-umerjeni-nacin-za-pametne-televizorje
+
+Disallow: */electronics/televizorji-bravia-xr*
+
+Disallow: */electronics/kakovost-slike*
+Disallow: */electronics/kakovost-zvoka*
+
+Disallow: /home-theatre-sound-bars/neckband-speakers
+
+Sitemap: https://www.sony.si/electronics/gwtsitemapindex.xml
+Sitemap: https://www.sony.si/gwxsitemapindex.xml
+Sitemap: https://www.sony.si/alphauniverse/ausitemapindex.xml

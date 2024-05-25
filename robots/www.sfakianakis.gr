@@ -1,0 +1,4 @@
+ï»¿User-agent: * 
+Disallow: #{RobotsDisallowScope} 
+ 
+Sitemap: http://www.sfakianakis.gr/sitemap.xml

@@ -1,0 +1,5 @@
+Sitemap: https://interprofessional.umich.edu/sitemap.xml
+Sitemap: https://interprofessional.umich.edu/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

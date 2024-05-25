@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: admin
+Disallow: installation
+Disallow: upgrade
+Disallow: search
+Disallow: /topic/*/vote/add/*
+Disallow: /article/*/vote/add/*
+Disallow: /ticket/*
+Disallow: /profile/*

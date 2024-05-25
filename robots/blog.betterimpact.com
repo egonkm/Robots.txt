@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /page/
+Disallow: /tag/
+Disallow: /author/
+Sitemap: https://blog.betterimpact.com/sitemap.xml
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/

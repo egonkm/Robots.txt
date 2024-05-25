@@ -1,0 +1,59 @@
+User-agent: Twitterbot
+Disallow:
+
+User-agent: facebookexternalhit
+Disallow:
+
+User-agent: *
+Disallow: /a/
+Disallow: /article/
+Disallow: /content/incoming/
+Disallow: /divers/
+Disallow: /embed/
+Disallow: /*/embed/
+Disallow: /flux/
+Disallow: /g/
+Disallow: /galeries/
+Disallow: /hbv7/
+Disallow: /imports/
+Disallow: /medias/*/
+Disallow: /medias/*.html
+Disallow: /play/radio/
+Disallow: /profile/
+Disallow: /rts/
+Disallow: /rts-online/
+Disallow: /tsr/
+Disallow: /v/
+Disallow: /recherche/
+Disallow: /*/recherche/
+Disallow: /services/recherche/
+Disallow: /archives/tv/
+Disallow: /archives/radio/
+Disallow: /divertissement/
+Disallow: /docs/
+Disallow: /info/video/
+Disallow: /kids/vod/
+Disallow: /sport/mecanises/
+Disallow: /sport/football/international/
+Disallow: /tv/
+Disallow: /video/
+Disallow: /mediaList/
+Disallow: /la-1ere/programmes/*.html
+Disallow: /espace-2/programmes/*.html
+Disallow: /couleur3/programmes/*.html
+Disallow: /option-musique/programmes/*.html
+Disallow: /podcasts-originaux/programmes/*.html
+Disallow: /*/quel-titre/?d=*
+Disallow: /*/quel-titre/?date=*
+Disallow: /*/page/
+Disallow: /*?token=*
+Disallow: /*?*dm=
+Disallow: /*?*dh=
+Disallow: /*?*q=
+Disallow: /*?*page=
+Disallow: /*?*date=
+Disallow: /*?*lastDate=
+Disallow: /*?*rts_source=
+
+Sitemap: https://www.rts.ch/sitemap/sitemap.xml
+Sitemap: https://www.rts.ch/sitemap/sitemap-news.xml

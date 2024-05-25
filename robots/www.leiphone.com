@@ -1,0 +1,22 @@
+User-agent: * 
+Disallow: /dynamic/
+Disallow: /myProduct/
+Disallow: /create/
+Disallow: /admin/
+Disallow: /toutiao/
+Disallow: /feed/
+Disallow: /xiaozhi/
+Disallow: /main/
+Disallow: /*?type=preview*
+Disallow: /otherProduct/
+Disallow: /my/
+Disallow: /businessApply/
+Disallow: /search/
+Disallow: /uc/
+Disallow: /appnews/
+Disallow: /feed/wifikeyDetail/
+Disallow: /yidian/
+Disallow: /category/private/
+
+User-agent: Googlebot
+Disallow: /category/robot/0w28T1V1yz3S3Vvn.html

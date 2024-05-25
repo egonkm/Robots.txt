@@ -1,0 +1,28 @@
+User-Agent: *
+Disallow: /*.jpeg$ 
+Disallow: /*.jpg$ 
+Disallow: /*.png$ 
+Disallow: /*.gif$
+Disallow: /es/
+Disallow: /hu/
+Disallow: /zh/
+Disallow: /nl/
+Disallow: /pt/
+Disallow: /sv/
+Disallow: /fr/
+Disallow: /ar/
+Disallow: /ja/
+Disallow: /de/
+Disallow: /ca/
+Disallow: /fi/
+Disallow: /combo/
+Disallow: /documents/
+Disallow: /image/
+Disallow: */c/portal/login
+Disallow: *&p_p_id=20*
+Disallow:  */recent-posts*
+
+User-agent: Googlebot-Image 
+Disallow: /
+
+Sitemap: https://liferay.dev/sitemap.xml

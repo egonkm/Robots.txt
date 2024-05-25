@@ -1,0 +1,11 @@
+# robots.txt for https://id-informationsdesign.de/
+# file created: 20.12.2016
+User-agent: *
+Allow: /
+Disallow: /css/   # exclude robots from specified tree
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /mail/
+
+Sitemap: https://www.id-informationsdesign.de/sitemap.xml

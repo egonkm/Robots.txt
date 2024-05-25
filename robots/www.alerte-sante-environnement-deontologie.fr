@@ -1,0 +1,18 @@
+
+        
+# robots.txt
+
+    # @url: https://cpp.alerte-sante-environnement-deontologie.fr
+
+User-agent: *
+Allow: /local/
+Disallow: /ecrire/
+Disallow: /plugins-dist/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Disallow: /squelettes/
+Crawl-delay: 1
+
+Sitemap: https://www.alerte-sante-environnement-deontologie.fr/sitemap.xml

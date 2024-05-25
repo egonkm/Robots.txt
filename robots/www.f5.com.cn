@@ -1,0 +1,7 @@
+User-Agent: * 
+Disallow: /content/f5-com/  
+Disallow: /content/dam/campaigns/norobo/   
+
+# Sitemaps  
+Sitemap: https://www.f5.com.cn/sitemap.xml
+Sitemap: https://www.f5.com/hreflang_sitemap.xml

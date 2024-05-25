@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+Allow: /current/picturebook
+Allow: /eventcalendar
+Allow: /facultyprofiles
+Allow: /mediaGuide

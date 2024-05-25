@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+
+# Disable OpenAI bots
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+
+# Disable AhrefsBot
+User-agent: AhrefsBot
+Disallow: /

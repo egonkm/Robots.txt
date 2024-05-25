@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /resources/epaper/
+Disallow: /de/votings/
+Disallow: /ignaz/filterlist/
+
+Sitemap: https://www.mainova.de/service-sitemap-3bae3f2eb2f6f425fa3354b9cc3950f3-sitemap_index.xml

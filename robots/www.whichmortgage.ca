@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*.pdf$
+Disallow: /*id=*
+Disallow: /*share/
+Disallow: /1042886/
+Disallow: /site-search/
+Disallow: *asmx*
+Disallow: /business-news/
+
+Sitemap: https://www.whichmortgage.ca/sitemap.xml

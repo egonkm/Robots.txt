@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-Delay: 30
+Visit-time: 0000-0600
+Request-rate: 2/1m

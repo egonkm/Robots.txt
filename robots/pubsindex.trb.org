@@ -1,0 +1,12 @@
+User-agent: gsa-crawler
+Disallow: /actions.aspx
+Disallow: /feeds
+Disallow: /document
+Allow: /
+
+User-agent: *
+Disallow: /actions.aspx
+Disallow: /feeds
+Disallow: /document
+Disallow: /view
+Allow: /

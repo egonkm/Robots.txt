@@ -1,0 +1,8 @@
+ï»¿User-agent: *
+
+Disallow: /profil/
+
+Sitemap: https://www.derstandard.at/sitemaps/news.xml
+Sitemap: https://www.derstandard.at/sitemaps/sitemap.xml
+
+Crawl-delay: 1

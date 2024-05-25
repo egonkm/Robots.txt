@@ -1,0 +1,17 @@
+User-agent: AdsBot-Google
+
+Allow: /fahrzeug
+
+User-agent: Mediapartners-Google
+
+Allow: /fahrzeug
+
+User-agent: AdsBot-Google-Mobile
+
+Allow: /fahrzeug
+
+User-agent: *
+
+Disallow: /fahrzeug
+
+Sitemap: https://www.juhu.auto/sitemap-index.xml

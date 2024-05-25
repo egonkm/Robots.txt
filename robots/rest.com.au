@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /member/tools/calculators/tal-calculator/
+Disallow: /member/tools/news/insurance-changes
+Disallow: /k12-components-doc/
+Disallow: /k12-components-doc-1/
+Disallow: /newinsuranceguide
+Disallow: /Document-Library/Page-Types/
+Disallow: /Document-Library/Page-Types/Investment-Guide
+Disallow: /Document-Library/Page-Types/Insurance-Guide-REST-Super
+Disallow: /advice/onlineadvice
+Disallow: /awsinstancecheck
+Disallow: /awsinstancecheck1
+Disallow: /employer/resources/toolkit
+Disallow: /modal/holiday-hours-2020
+Disallow: /search/
+Disallow: /member/investments/super-options/Structured-Options
+Disallow: /member/investments/ttr-options/Structured-Options
+Disallow: /member/investments/pension-options/Structured-Options
+Disallow: /tools-advice/resources/forms/compensation-payment
+Disallow: /why-rest/about-rest/contact-us/employer-form
+Disallow: /why-rest/about-rest/contact-us/employer-form/
+Disallow: /why-rest/about-rest/contact-us/adviser-form
+Disallow: /why-rest/about-rest/contact-us/adviser-form/
+Disallow: /why-rest/campaigns/rest-rewards-competition-terms-and-conditions
+Disallow: /why-rest/campaigns/advice-competition-terms-and-conditions
+
+Sitemap: https://www.rest.com.au/sitemap.xml

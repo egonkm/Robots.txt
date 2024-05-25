@@ -1,0 +1,2 @@
+Sitemap: https://careers.gcfglobal.org/sitemap.xml
+Host: https://careers.gcfglobal.org

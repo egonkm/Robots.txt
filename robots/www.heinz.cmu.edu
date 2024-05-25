@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /heinz-shared/_files/php/
+Disallow: /heinz-playground/
+Disallow: /~acquisti/beta/
+
+Sitemap: https://www.heinz.cmu.edu/sitemap.xml

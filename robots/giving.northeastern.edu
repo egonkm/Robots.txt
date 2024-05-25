@@ -1,0 +1,4 @@
+Sitemap: https://giving.northeastern.edu/sitemap.livewhale.xml
+
+User-agent: *
+Disallow: *?replytocom

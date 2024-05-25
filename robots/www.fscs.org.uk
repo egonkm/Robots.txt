@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*?q=*
+Disallow: /*?skip=*
+Disallow: /archive
+Disallow: /search
+Disallow: /Recycle-Bin/
+Disallow: /making-a-claim/customer-info/customer-support
+
+Sitemap: https://www.fscs.org.uk/sitemap.xml

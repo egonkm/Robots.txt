@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
+Allow: /limestore
+Allow: /references
+Disallow: /

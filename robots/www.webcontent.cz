@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /adm
+
+
+
+Sitemap: http://www.webcontent.cz/sitemap.xml

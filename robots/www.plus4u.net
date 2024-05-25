@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /*
+Disallow: 
+Sitemap: https://www.plus4u.net/sitemap.xml

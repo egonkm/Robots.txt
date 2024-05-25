@@ -1,0 +1,8 @@
+#updated 03/12/2021
+
+User-agent: *
+
+Sitemap: https://www.regeneron.ie/sitemap.xml
+Sitemap: https://www.regeneron.ie/video-sitemap.xml
+
+# End robots.txt

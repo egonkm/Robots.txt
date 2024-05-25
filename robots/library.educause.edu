@@ -1,0 +1,52 @@
+User-Agent: MSIECrawler
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: discobot
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+#Baiduspider
+User-agent: Baiduspider
+Disallow: /
+
+#Yandex
+User-agent: Yandex
+Disallow: /
+
+User-agent: *
+Crawl-delay: 2
+Disallow: /*.pdf$
+Disallow: /sitecore
+Disallow: /sitecore_modules
+Disallow: /sitecore_files
+Disallow: /temp
+Disallow: /upload
+Disallow: /import
+Disallow: /util
+Disallow: /StaticFile/Image
+
+Sitemap: http://er.educause.edu/sitemaps/ero_sitemap.xml
+Sitemap: http://library.educause.edu/sitemaps/library_sitemap.xml
+Sitemap: http://members.educause.edu/sitemaps/members_sitemap.xml
+Sitemap: http://members.educause.edu/sitemaps/members_sitemap1.xml
+Sitemap: http://members.educause.edu/sitemaps/members_sitemap2.xml
+Sitemap: http://members.educause.edu/sitemaps/members_sitemap3.xml
+Sitemap: http://members.educause.edu/sitemaps/members_sitemap4.xml
+Sitemap: http://members.educause.edu/sitemaps/members_sitemap5.xml
+Sitemap: http://members.educause.edu/sitemaps/members_sitemap6.xml
+Sitemap: http://events.educause.edu/sitemaps/events_sitemap.xml
+Sitemap: http://www.educause.edu/sitemaps/educause_sitemap.xml

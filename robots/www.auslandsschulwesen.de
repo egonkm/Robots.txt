@@ -1,0 +1,576 @@
+
+
+
+
+<!doctype html>
+<html lang="de">
+<head>
+  <base href="https://www.auslandsschulwesen.de/"/>
+  <meta charset="UTF-8"/>
+  <title>ZfA  -  Homepage - Seite nicht gefunden - HTTP Status 404</title>
+  <meta name="title" content="Homepage - Seite nicht gefunden - HTTP Status 404"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5, user-scalable=1"/>
+  <meta name="generator" content="Government Site Builder"/>
+
+
+  <!--
+    Realisiert mit dem Government Site Builder.
+    Die Content Management Lösung der Bundesverwaltung.
+    www.government-site-builder.de
+  -->
+
+  <link rel="canonical" href="https://www.auslandsschulwesen.de/SiteGlobals/ErrorPages/ErrorPage404.html"/>
+  <link rel="copyright" href="DE/Service/Impressum/impressum_node.html" type="text/html" title="Impressum" />
+  <link rel="glossary" href="DE/Service/Glossar/glossar_node.html" type="text/html" title="Glossar" />
+  <link rel="start" href="DE/Home/home_node.html" type="text/html" title="Homepage" />
+  <link rel="contents" href="DE/Service/Sitemap/sitemap_node.html" type="text/html" title="&Uuml;bersicht" />
+  <link rel="search" href="DE/Service/Suche/Expertensuche/suche_node.html" type="text/html" title="Suche" />
+  <link rel="shortcut icon" href="/SiteGlobals/Frontend/Images/favicon.ico?__blob=normal&amp;v=1" type="image/ico" />
+ 
+  
+  
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/normalize.css?v=1" type="text/css"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/_libs.css?v=1" type="text/css"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/small.css?v=1" type="text/css" media="screen"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/medium.css?v=1" type="text/css" media="screen"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/large.css?v=1" type="text/css" media="screen"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/xlarge.css?v=1" type="text/css" media="screen"/>
+<link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/custom.css?v=1" type="text/css"/>
+<!--[if IE 9]><link rel="stylesheet"  href="SiteGlobals/Frontend/Styles/addon_iefix_9.css?v=1" type="text/css"/><![endif]-->
+<link rel="stylesheet" href="SiteGlobals/Frontend/Styles/addon_print.css?v=1" type="text/css" media="print" />
+
+
+  
+
+<!-- Matomo -->
+<!-- End Matomo Code -->
+
+</head>
+<body class="gsb js-off lang-de" data-nn="236772"  data-tracking-site-id="0">
+
+  
+
+
+
+
+<div id="wrapperOuter">
+  <div id="wrapperInner">
+    <a id="Start"></a>
+    <p class="navSkip">
+      <em>Springe direkt zu:</em>
+   </p>
+    <ul class="navSkip">
+      <li><a href="SiteGlobals/ErrorPages/ErrorPage404.html?nn=236772#content">Inhalt</a></li>
+      <li><a href="SiteGlobals/ErrorPages/ErrorPage404.html?nn=236772#navPrimary">Hauptmenü</a></li>
+   </ul>
+    <div id="wrapperDivisions" class="wrapperDivisions">
+      <header id="header" class="header" aria-labelledby="headerH">
+        <h1 id="headerH" class="aural" aria-hidden="false">Navigation und Service</h1>
+        <div class="row">
+          <div class="logo large-3 small-8">
+            <p><a href="DE/Home/home_node.html" id="anfang" title="Zur Startseite"><img src="/SiteGlobals/Frontend/Images/logo.svg?__blob=normal&amp;v=1" alt="Logo: Bundesverwaltungsamt - Zentralstelle für das Auslandsschulwesen (Link zur Startseite)" /></a></p>
+         </div>
+          <div class="navServiceMeta navServiceMeta--icons-only large-9 small-4 columns">
+            <h2 class="aural">Servicemenü</h2>
+            
+            <ul>
+              <li id="navServiceLS" class="navServiceLS"><a href="DE/Service/LeichteSprache/leichtesprache_node.html">Leichte Sprache</a></li>
+              <li id="navServiceGS" class="navServiceGS"><a href="DE/Service/Gebaerdensprache/gebaerdensprache_node.html">Gebärdensprache</a></li>
+              <li><a href="DE/Service/Ansprechpartner/ansprechpartner_node.html">Ansprechpersonen</a></li>
+              <li><a href="DE/Service/Presse/presse_node.html">Presse</a></li>
+            </ul>
+            <nav role="navigation" id="navPrimary" class="navPrimary" aria-labelledby="mainNavH">
+              <h2 id="mainNavH" class="aural" aria-hidden="true">Hauptmenü</h2>
+              
+<ul class="row show-for-large navPrimary__desktop">
+  <li>
+    <div class=" NichtAuswaehlbar" id="n-1">
+      <div class="h3"><a data-nn="242280" href="DE/Die-ZfA/die-zfa_node.html" title="Die ZfA" class="flyout-trigger-link">Die ZfA</a></div>
+      <div class="aural">Unternavigationspunkte</div>
+      <div class="menu fl-1">
+        <div class="menu-box">
+          <ul>
+                <li>
+                  <a data-nn="236980" href="DE/Die-ZfA/Ueber-uns/ueber-uns_node.html" title="&#220;ber uns">Über uns</a>
+                </li>
+                <li>
+                  <a data-nn="242154" href="DE/Die-ZfA/Meldungen/meldungen_node.html">Aktuelle Meldungen</a>
+                </li>
+                <li>
+                  <a data-nn="242374" href="DE/Die-ZfA/Wissenschaftlicher-Beirat/wissenschaftlicher-beirat_node.html" title="Wissenschaftlicher Beirat">Wissenschaftlicher Beirat</a>
+                </li>
+                <li>
+                  <a data-nn="234456" href="DE/Service/Ansprechpartner/ansprechpartner_node.html">Ansprechpersonen</a>
+                </li>
+                <li class="last">
+                  <a data-nn="242580" href="DE/Die-ZfA/Partner/partner_node.html" title="Partner">Partner</a>
+                </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="" id="n-2">
+      <div class="h3"><a data-nn="236976" href="DE/Bewerbung/bewerbung_node.html" title="Bewerbung" class="flyout-trigger-link">Bewerbung</a></div>
+      <div class="aural">Unternavigationspunkte</div>
+      <div class="menu fl-1">
+        <div class="menu-box">
+          <ul>
+                <li>
+                  <a data-nn="242672" href="DE/Bewerbung/Leitungs-und-Funktionsstellen/leitung_node.html" title="Leitungsstellen/Funktionsstellen">Leitungsstellen/Funktionsstellen</a>
+                </li>
+                <li>
+                  <a data-nn="242792" href="DE/Bewerbung/Lehrkraefte/lehrkraefte_node.html" title="Lehrkr&#228;fte">Lehrkräfte</a>
+                </li>
+                <li>
+                  <a data-nn="242926" href="DE/Bewerbung/OK/schulverwaltung_node.html" title="Erzieherinnen und Erzieher / Schulverwaltung">Erzieherinnen und Erzieher / Schulverwaltung</a>
+                </li>
+                <li>
+                  <a data-nn="242846" href="DE/Bewerbung/Studierende/studierende_node.html" title="Studierende">Studierende</a>
+                </li>
+                <li>
+                  <a data-nn="242914" href="DE/Bewerbung/Schulabsolventen/schulabsolventen_node.html" title="Schulabsolventen">Schulabsolventen</a>
+                </li>
+                <li>
+                  <a data-nn="242688" href="DE/Bewerbung/Erfahrungsberichte/erfahrungsberichte_node.html" title="Erfahrungsberichte">Erfahrungsberichte</a>
+                </li>
+                <li>
+                  <a data-nn="242800" href="DE/Bewerbung/Messen-Veranstaltungen/messen-veranstaltungen_node.html" title="Messen und Veranstaltungen">Messen und<br/>
+Veranstaltungen</a>
+                </li>
+                <li>
+                  <a data-nn="242148" href="DE/Bewerbung/Unterrichten_im_Ausland_Film/Unterrichten_im_Ausland_Film_node.html" title="Unterrichten im Ausland - Film">Unterrichten im Ausland - Film</a>
+                </li>
+                <li class="last">
+                  <a data-nn="242972" href="DE/Bewerbung/Stellenangebote_in_ZfA/zfa-stellen_node.html" title="Stellen in der ZfA in Bonn/Berlin">Stellen in der ZfA in Bonn/Berlin</a>
+                </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class=" NichtAuswaehlbar" id="n-3">
+      <div class="h3"><a data-nn="238318" href="DE/Services/services_node.html" title="Services" class="flyout-trigger-link">Services</a></div>
+      <div class="aural">Unternavigationspunkte</div>
+      <div class="menu fl-1">
+        <div class="menu-box">
+          <ul>
+                <li>
+                  <a data-nn="238190" href="DE/Services/Interner-Bereich/interner-bereich_node.html" title="Interner Bereich">Interner Bereich</a>
+                </li>
+                <li>
+                  <a data-nn="236974" href="DE/Services/Finanzielle-Regelungen/finanzielle-regelungen_node.html" title="Finanzielle Regelungen">Finanzielle Regelungen</a>
+                </li>
+                <li>
+                  <a data-nn="238302" href="DE/Services/Vordrucke/vordrucke_node.html" title="Vordrucke">Vordrucke</a>
+                </li>
+                <li>
+                  <a data-nn="238216" href="DE/Services/Auslandsschulgesetz/auslandsschulgesetz_node.html" title="Auslandsschulgesetz">Auslandsschulgesetz</a>
+                </li>
+                <li>
+                  <a data-nn="238188" href="DE/Services/Fortbildungen/fortbildungen_node.html" title="Fortbildungen">Fortbildungen</a>
+                </li>
+                <li class="last">
+                  <a data-nn="234474" href="DE/Services/Publikationen/publikationen_node.html" title="Publikationen">Publikationen</a>
+                </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="" id="n-4">
+      <div class="h3"><a data-nn="234476" href="DE/Schulnetz/schulnetz_node.html" title="Schulnetz" class="flyout-trigger-link">Schulnetz</a></div>
+      <div class="aural">Unternavigationspunkte</div>
+      <div class="menu fl-1">
+        <div class="menu-box">
+          <ul>
+                <li>
+                  <a data-nn="235568" href="DE/Schulnetz/DAS/das_node.html" title="Deutsche Auslandsschulen (DAS)">Deutsche Auslandsschulen (DAS)</a>
+                </li>
+                <li>
+                  <a data-nn="235574" href="DE/Schulnetz/DPS/dps_node.html" title="Deutsch-Profil-Schulen (DPS)">Deutsch-Profil-Schulen (DPS)</a>
+                </li>
+                <li>
+                  <a data-nn="235580" href="DE/Schulnetz/DSD-Schulen/dsd-schulen_node.html" title="DSD-Schulen">DSD-Schulen</a>
+                </li>
+                <li>
+                  <a data-nn="235768" href="DE/Schulnetz/Qualitaetsmanagement/qualitaetsmanagement_node.html" title="Qualit&#228;tsmanagement">Qualitätsmanagement</a>
+                </li>
+                <li>
+                  <a data-nn="236120" href="DE/Schulnetz/Berufliche-Bildung/berufliche-bildung_node.html" title="Berufliche Bildung">Berufliche Bildung</a>
+                </li>
+                <li>
+                  <a data-nn="235586" href="DE/Schulnetz/PASCH/pasch_node.html" title="PASCH-Initiative">PASCH-Initiative</a>
+                </li>
+                <li>
+                  <a data-nn="236206" href="DE/Schulnetz/Alumni-Arbeit/alumni-arbeit_node.html" title="Alumni-Arbeit">Alumni-Arbeit</a>
+                </li>
+                <li>
+                  <a data-nn="236456" href="DE/Schulnetz/Wettbewerbe-Projekte/wettbewerbe-und-projekte_node.html" title="Wettbewerbe und Projekte">Wettbewerbe und Projekte</a>
+                </li>
+                <li class="last">
+                  <a data-nn="235992" href="DE/Schulnetz/Toleranz_Verantwortung/toleranz_verantwortung_node.html" title="Toleranz und Verantwortung">Toleranz und Verantwortung</a>
+                </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class=" NichtAuswaehlbar" id="n-5">
+      <div class="h3"><a data-nn="242020" href="DE/Deutsch-lernen/deutsch-lernen_node.html" title="Deutsch lernen" class="flyout-trigger-link">Deutsch lernen</a></div>
+      <div class="aural">Unternavigationspunkte</div>
+      <div class="menu fl-1">
+        <div class="menu-box">
+          <ul>
+                <li>
+                  <a data-nn="242004" href="DE/Deutsch-lernen/DFU/dfu_node.html" title="Deutschsprachiger Fachunterricht (DFU)">Deutschsprachiger Fachunterricht (DFU)</a>
+                </li>
+                <li>
+                  <a data-nn="235854" href="DE/Deutsch-lernen/DSD/dsd_node.html" title="Deutsches Sprachdiplom (DSD)">Deutsches Sprachdiplom (DSD)</a>
+                </li>
+                <li class="last">
+                  <a data-nn="242018" href="DE/Deutsch-lernen/DaF-Rahmenplan/daf-rahmenplan_node.html" title="Rahmenplan &quot;Deutsch als Fremdsprache&quot;">Rahmenplan "Deutsch als Fremdsprache"</a>
+                </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="mod navSearch" id="n-6">
+      <div class="h3"><a data-nn="233974" href="DE/Service/Suche/Expertensuche/suche_node.html" class="flyout-trigger-link">Suche</a></div>
+      <div class="aural">Unternavigationspunkte</div>
+    </div>
+  </li>
+</ul>
+<ul class="row hide-for-large navPrimary__mobile">
+  <li class="columns small-6">
+    <a href="DE/Service/Suche/Expertensuche/suche_node.html" class="flyout-trigger-link navPrimary__mobile--search" data-nn="233974">
+      <img
+              src="/SiteGlobals/Frontend/Images/icons/lupe-b.svg?__blob=normal&amp;v=1"
+              alt="Such-Flyout öffnen"
+              data-active-src="/SiteGlobals/Frontend/Images/icons/close-b.svg?__blob=normal&amp;v=1"
+              data-active-alt="Such-Flyout schließen"
+              data-inactive-src="/SiteGlobals/Frontend/Images/icons/lupe-b.svg?__blob=normal&amp;v=1"
+              data-inactive-alt="Such-Flyout öffnen"/>
+    </a>
+  </li>
+  <li class="columns small-6">
+    <a href="DE/Service/Sitemap/sitemap_node.html" class="flyout-trigger-link">
+      <img
+              src="/SiteGlobals/Frontend/Images/icons/menu.svg?__blob=normal&amp;v=1"
+              alt="Navigations-Flyout öffnen"
+              data-active-src="/SiteGlobals/Frontend/Images/icons/close-b.svg?__blob=normal&amp;v=1"
+              data-active-alt="Navigations-Flyout schließen"
+              data-inactive-src="/SiteGlobals/Frontend/Images/icons/menu.svg?__blob=normal&amp;v=1"
+              data-inactive-alt="Navigations-Flyout öffnen"/>
+    </a>
+  </li>
+</ul>
+<ul class="row navPrimary__no-js">
+  <li class="columns small-6">
+    <a href="DE/Service/Sitemap/sitemap_node.html" title="Zum Inhaltsverzeichnis">
+      <img src="/SiteGlobals/Frontend/Images/icons/menu.svg?__blob=normal&amp;v=1" alt="Zum Inhaltsverzeichnis"/>
+    </a>
+  </li>
+</ul>
+            </nav>
+         </div>
+       </div>
+        <div id="js-flyout" aria-live="polite" aria-relevant="additions text"></div>
+        <div class="c-breadcrumb">
+          <h2 class="aural">Sie sind hier:</h2>
+          <ol class="row align-middle">
+          <li class="columns shrink c-breadcrumb__li"><a href="DE/Home/home_node.html"><img src="/SiteGlobals/Frontend/Images/icons/home-b.svg?__blob=normal&amp;v=1" alt="Startseite" /></a></li>
+          <li class="columns shrink c-breadcrumb__li"><strong>Seite nicht gefunden - HTTP Status 404</strong></li>
+        </ol>
+        </div>
+     </header>
+      <main id="main" class="main row">
+      <div id="content" class="content small-12 columns">
+        <div class="l-content-article">
+
+      <h1 class="c-intro__h">Seite nicht gefunden - HTTP Status 404</h1>
+
+      <p><strong>Die von Ihnen gewählte Seite kann leider nicht angezeigt werden.</strong></p>
+
+<p><strong>Mögliche Gründe hierfür können sein:</strong></p>
+
+<p><strong>Lesezeichen</strong></p>
+
+<p>Sie haben ein Lesezeichen verwendet, zwischenzeitlich hat sich die Struktur der Website grundlegend geändert. Sicher finden Sie die gewünschten Informationen an anderer Stelle. Für das schnelle Auffinden verwenden Sie am besten unsere Suche, die Sie auf allen Seiten im oberen Seitenbereich finden. Oder entdecken Sie unser komplettes Angebot von der <a class="RichTextIntLink NavNode" href="DE/Home/home_node.html" title="Startseite">Startseite</a> aus.</p>
+
+<p><strong>Adresszeile im Browser</strong></p>
+
+<p>Sie haben die Adresse per Hand in die Adresszeile Ihres Browsers eingegeben: Möglicherweise haben Sie sich vertippt oder die Adresse ist veraltet. Bitte kontrollieren Sie die Eingabe und versuchen Sie es erneut.</p>
+
+<p><strong>Link innerhalb www.auslandsschulwesen.de</strong></p>
+
+<p>Sie haben einen Link innerhalb unserer Webseiten angeklickt: Der Link ist wahrscheinlich falsch. Wir werden ihn so schnell wie möglich korrigieren, wenn Sie uns kurz über unser <a class="RichTextIntLink NavNode" href="DE/Service/Kontakt/kontakt_node.html" title="Kontaktformular">Kontaktformular</a> benachrichtigen. Bitte nennen Sie darin unbedingt die Adresse der Seite, auf der Sie den Link gefunden haben. Herzlichen Dank!</p>
+
+<p><strong>Link von externer Website</strong></p>
+
+<p>Sie sind über den Link einer anderen Website auf diese Seite gelangt: Die gewünschte Seite ist nicht vorhanden. Sie können den Betreiber der anderen Website darauf hinweisen. Sicher finden Sie andere interessante Informationen in unserem Angebot über die <a class="RichTextIntLink NavNode" href="DE/Home/home_node.html" title="Startseite">Startseite</a> oder unsere Suche, die Sie auf jeder Seite im oberen Seitenbereich finden.</p>
+
+<p>Fragen und Anregungen zum Angebot nimmt die Internetredaktion gerne entgegen.<br/>
+Nutzen Sie dazu bitte unser <a class="RichTextIntLink NavNode" href="DE/Service/Kontakt/kontakt_node.html" title="Kontaktformular">Kontaktformular</a>.<br/>
+Vielen Dank für Ihre Unterstützung!</p>
+
+<p>Ihre ZfA-Internetredaktion</p>
+
+<p><em>(HTTP Statuscode 404)</em></p>
+<div class="c-module-spacing"></div>
+
+        <div class="l-content-article--1060">
+          <div class="c-navFunctions">
+            <div class="row">
+              <div class="small-5 medium-8 columns medium-offset-2 end">
+                <h2 class="aural">Seitenfunktionen</h2>
+                <ul class="c-navFunctions__ul">
+                  
+                  <li id="navFunctionsRecommend" class="c-navFunctions__li c-navFunctions__li--share">
+                    <a href="DE/Service/SeiteEmpfehlen/_functions/mailversand.html?nn=236772&amp;cms_handOverParams=uriHash%253Dd992T17dXrxVSdIzVceCqu-G-eukX8M%25253D%2526uri%253Dhttps%25253A%25252F%25252Fwww.auslandsschulwesen.de%25252FSiteGlobals%25252FErrorPages%25252FErrorPage404.html" class="c-navFunctions__l">
+                      <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="33px" height="35px" viewBox="0 0 33 35" enable-background="new 0 0 33 35" xml:space="preserve">
+                      <path fill="#71777E" d="M28.062,25.123c-1.629,0-3.063,0.802-3.965,2.02L9.452,18.848c0.271-0.612,0.431-1.285,0.431-1.997
+                        c0-0.497-0.096-0.966-0.231-1.419l14.157-8.021c0.855,1.469,2.434,2.469,4.254,2.469C30.785,9.88,33,7.665,33,4.942
+                        C33,2.218,30.785,0,28.062,0c-2.726,0-4.941,2.218-4.941,4.942c0,0.181,0.033,0.352,0.054,0.528L8.692,13.674
+                        c-0.908-1.068-2.243-1.763-3.752-1.763C2.216,11.911,0,14.126,0,16.85c0,2.723,2.217,4.938,4.94,4.938
+                        c1.285,0,2.447-0.504,3.327-1.312l14.967,8.478c0.006,0.004,0.012,0.006,0.02,0.008c-0.082,0.354-0.135,0.722-0.135,1.101
+                        c0,2.724,2.218,4.938,4.942,4.938C30.785,35,33,32.785,33,30.062C32.998,27.34,30.785,25.123,28.062,25.123z M28.062,2.002
+                        c1.618,0,2.937,1.318,2.937,2.94c0,1.619-1.317,2.936-2.937,2.936c-1.622,0-2.94-1.316-2.94-2.936
+                        C25.121,3.321,26.439,2.002,28.062,2.002z M4.94,19.787c-1.62,0-2.938-1.316-2.938-2.937s1.318-2.938,2.938-2.938
+                        c1.621,0,2.939,1.317,2.939,2.938S6.562,19.787,4.94,19.787z M28.062,32.998c-1.622,0-2.94-1.316-2.94-2.937
+                        c0-1.618,1.318-2.937,2.94-2.937c1.618,0,2.937,1.317,2.937,2.937C30.996,31.682,29.68,32.998,28.062,32.998z"/>
+                      </svg>
+                      <span>Empfehlen</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="l-content-article--1060">
+      <div class="c-navtop">
+        <p class="c-navtop__p">
+          <a href="SiteGlobals/ErrorPages/ErrorPage404.html?nn=236772#Start" title="Zum Seitenanfang" class="c-navtop__l"><span class="aural">nach oben</span></a>
+        </p>
+      </div>
+    </div>
+        </div>
+      </div>
+    </main>
+    
+
+
+    </div>
+    <footer id="footer" class="footer" aria-labelledby="footerH">
+      <h1 id="footerH" class="aural" aria-hidden="false">Fußbereich</h1>
+ 
+
+
+
+  
+  
+  
+<div id="siteInfo" class="siteInfo row">
+  <h2 class="aural">Unternavigation aller Website-Bereiche</h2>
+    <div class="smallAccordion small-12 medium-12 large-3 columns">
+      <div class="tabs-container">
+        <h3 class="heading">Die ZfA</h3>
+        <ul>
+      
+<li class="navThemen "><a href="DE/Service/Glossar/glossar_node.html">Glossar</a></li>
+      
+<li class=""><a href="DE/Services/Publikationen/publikationen_node.html" title="Publikationen">Publikationen</a></li>
+      
+<li class=""><a href="DE/Schulnetz/schulnetz_node.html" title="Schulnetz">Schulnetz</a></li>
+      
+<li class=""><a href="DE/Deutsch-lernen/DSD/Fachberatung_Deutsch-als-Fremdsprache/fachberatung-deutsch-fremdsprache_node.html" title="Fachberatung f&#252;r Deutsch als Fremdsprache">Fachberatung für Deutsch als Fremdsprache</a></li>
+      
+<li class=""><a href="DE/Schulnetz/Qualitaetsmanagement/Prozessbegleitung/prozessbegleitung_node.html" title="Prozessbegleitung">Prozessbegleitung</a></li>
+      
+<li class=""><a href="DE/Service/Presse/presse_node.html">Presse</a></li>
+      
+<li class="navRSSFeed "><a href="DE/Service/RSSNewsfeed/rssnewsfeed_node.html">RSS</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="smallAccordion small-12 medium-12 large-3 columns">
+      <div class="tabs-container">
+        <h3 class="heading">Hilfe und Kontakt</h3>
+        <ul>
+      
+<li class=""><a href="DE/Service/Ansprechpartner/ansprechpartner_node.html">Ansprechpersonen</a></li>
+      
+<li class=""><a href="DE/Service/Kontakt/kontakt_node.html">Kontaktformular</a></li>
+      
+<li class=""><a href="DE/Service/Wegbeschreibung-Bonn/wegbeschreibung_node.html">Wegbeschreibung Bonn</a></li>
+      
+<li class=""><a href="DE/Service/Wegbeschreibung-Berlin/wegbeschreibung_node.html">Wegbeschreibung Berlin</a></li>
+      
+<li class=""><a href="DE/Service/Sitemap/sitemap_node.html">Inhaltsverzeichnis</a></li>
+      
+<li class="navThemen "><a href="DE/Service/Barrierefreiheit/erklaerung_node.html" title="Erkl&#228;rung zur Barrierefreiheit">Erklärung zur Barrierefreiheit</a></li>
+      
+<li class=""><a class="external" href="mailto:zfa-oeffentlichkeitsarbeit@auswaertiges-amt.de" title="Externer Link zfa-oeffentlichkeitsarbeit@auswaertiges-amt.de (Öffnet neues Fenster)" target="_blank" rel="noopener noreferrer">Barriere melden</a></li>
+        </ul>
+      </div>
+    </div>
+  <div class="small-12 large-5 large-offset-1 columns">
+    <div class="row">
+      <div class="small-12 medium-6 large-12 columns">
+        
+<h3>Newsletter und Anmeldung</h3>
+<p>Hinterlassen Sie uns Ihre E-Mail Adresse und erhalten Sie News von der ZfA direkt in Ihr Postfach. <a class="RichTextIntLink NavNode" href="DE/Service/Newsletter/newsletter_node.html" title="Newsletter und Presseverteiler bestellen bzw. abbestellen">Erfahren Sie mehr</a></p>
+
+
+<form name="NewsletterBestellenForm" action="SiteGlobals/Forms/Newsletter/Newsletter_Bestellen_Footer_Formular.html" method="post" enctype="application/x-www-form-urlencoded">
+  
+  <input type="hidden" name="nn" value="236772"/>
+  <input type="hidden" name="__lang" value="de"/>
+  <input type="hidden" name="resourceId" value="234350" />
+  <input type="hidden" name="input_" value="234546" />
+  <input type="hidden" name="pageLocale" value="de" />
+  <input type="hidden" name="csrftoken" value="01FC05585A5842A09B1D47885F3D5B00_1126536" />
+  <fieldset>
+   
+   <div class="oneline row">
+       <div class="corner border small-12 columns">
+          
+<div class="formLabel aural">
+  <label for="f234350d233856">E-Mail: </label></div>
+          
+
+
+
+
+
+
+              
+<div class="formField">
+                
+              
+
+  <input id="f234350d233856" name="subscriber" value="" title="E-Mail:" type="email" placeholder="Ihre E-Mail Adresse" size="26" maxlength="100"/></div>
+          
+  <input class="image" type="image" src="/SiteGlobals/Forms/_components/Buttons/Newsletter_Bestellen_Footer.svg?__blob=image&amp;v=1" id="f234350d234152" name="submit" alt="Bestellen" title="Bestellen" />
+
+
+
+
+
+
+              
+  <input id="f234350d234282" name="idAttributeValue1" value="61" type="hidden"/><input type="hidden" name="idAttributeValue1.HASH" value="8ce6XlvAulel4JtVvI-x8C3ITKcCbKY=" />
+       </div>
+   </div>
+</fieldset>
+</form>
+      </div>
+      <div class="small-12 medium-6 large-12 columns">
+        <div class="row">
+          <div class="columns small-12 medium-6">
+              <h3>Sie finden uns auch auf</h3>
+              <p>
+                    <a href="https://www.facebook.com/auslandsschulwesen/" class="sociallink navFacebook" title="Externer Link Externer Link zum Facebook-Auftritt der ZfA (Öffnet neues Fenster)"
+                       target="_blank"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs></defs>
+<g id="***Symbols***" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+  <g id="facebook" fill-rule="nonzero">
+    <g id="if_facebook_2308066">
+      <circle id="Oval" fill="#ffffff" stroke="#ffffff" stroke-width="2" cx="22" cy="22" r="20"></circle>
+      <path d="M23.915,34.8 L18.6,34.8 L18.6,22 L16.2,22 L16.2,17.6 L18.6,17.6 L18.6,14.9716 C18.6,11.3914 20.1378,9.2 24.3548,9.2 L27.8,9.2 L27.8,13.6 L25.6714,13.6 C24.0294,13.6 23.9214,14.236 23.9214,15.3806 L23.9144,17.6 L27.89,17.6 L27.4248,22 L23.8,22 L23.8,34.8 L23.915,34.8 Z" id="Shape" fill="#004761"></path>
+    </g>
+  </g>
+</g>
+</svg></a>
+                    <a href="https://www.youtube.com/channel/UCpnQwW9f6yKbFzkgkgo_Ueg" class="sociallink navYouTube" title="Externer Link Externer Link zum YouTube-Auftritt der ZfA (Öffnet neues Fenster)"
+                       target="_blank"><?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs></defs>
+<g id="***Symbols***" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+  <g id="youtube" fill-rule="nonzero">
+    <g id="if_youtube_2308143">
+      <circle id="Oval" fill="#ffffff" stroke="#ffffff" stroke-width="2" cx="22" cy="22" r="20"></circle>
+      <path d="M20.1118,29.5818 C15.7912,29.506 14.3154,29.438 13.4084,29.26 C12.7948,29.1418 12.2614,28.8792 11.8704,28.4984 C11.5682,28.2102 11.3278,27.7704 11.1414,27.1604 C10.9814,26.6522 10.9192,26.2292 10.8304,25.1964 C10.6944,22.8652 10.662,20.9592 10.8304,18.8296 C10.9692,17.6536 11.0366,16.2574 11.9592,15.443 C12.3948,15.0618 12.9016,14.8164 13.4706,14.715 C14.3596,14.5542 18.147,14.4272 22.0676,14.4272 C25.9796,14.4272 29.7754,14.5542 30.6652,14.715 C31.3762,14.842 32.0428,15.2228 32.4342,15.7138 C33.276,16.9748 33.2908,18.5428 33.3762,19.7694 C33.4116,20.3538 33.4116,23.6724 33.3762,24.2568 C33.2432,26.1952 33.1362,26.881 32.834,27.5922 C32.6472,28.0412 32.4876,28.278 32.2114,28.5406 C31.7784,28.9446 31.2262,29.2134 30.6288,29.311 C26.8902,29.5786 23.7152,29.6368 20.1118,29.5818 L20.1118,29.5818 Z M25.8726,21.7928 C23.7926,20.7342 21.8,19.7526 19.8,18.7366 L19.8,24.8156 C21.8,23.7064 24.1658,22.6904 25.8816,21.7844 L25.8726,21.7928 L25.8726,21.7928 Z" id="Shape" fill="#004761"></path>
+    </g>
+  </g>
+</g>
+</svg></a>
+                    <a href="https://www.instagram.com/auslandsschulwesen" class="sociallink navInstagram" title="Externer Link Die ZfA bei Instagram (Öffnet neues Fenster)"
+                       target="_blank"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="44px" height="44px" viewBox="0 0 44 44" style="enable-background:new 0 0 44 44;" xml:space="preserve">
+
+<g id="if_youtube_2308143">
+	<circle id="Oval" class="st0" cx="22" cy="22" r="20" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;"/>
+</g>
+<g>
+	<path class="st1" style="fill:none;stroke:#780F2D;stroke-width:2.5;stroke-miterlimit:10;" d="M27.9,32.3H16.1c-2.3,0-4.1-1.8-4.1-4.1V16.5c0-2.3,1.8-4.1,4.1-4.1h11.7c2.3,0,4.1,1.8,4.1,4.1v11.7
+		C32,30.5,30.1,32.3,27.9,32.3z"/>
+	<circle class="st2" style="fill:none;stroke:#780F2D;stroke-width:2;stroke-miterlimit:10;" cx="27.5" cy="16.7" r="0.3"/>
+	<circle class="st1" style="fill:none;stroke:#780F2D;stroke-width:2.5;stroke-miterlimit:10;" cx="22" cy="22.8" r="4.7"/>
+</g>
+</svg>
+</a>
+              </p>
+          </div>
+          <div class="columns small-12 medium-6">
+              <h3>Links</h3>
+                <h4>Bundesamt für Auswärtige Angelegenheiten </h4>
+                <p>
+                  <a class="external"
+                     href="https://bfaa.diplo.de/bfaa-de"
+                     title="Externer Link Zur Webseite des BfAA (Öffnet neues Fenster)"
+                     target="_blank"
+                     rel="noopener noreferrer">
+                    Zur Webseite des BfAA
+                  </a>
+                </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    </footer>
+    <div id="copyright" class="copyright">
+      <div class="row">
+        <div class="columns">
+ <p><a href="DE/Service/Datenschutz/datenschutz_node.html">Datenschutz</a></p>
+ <p><a href="DE/Service/Impressum/impressum_node.html">Impressum</a></p>
+
+          <div class="c-bildnachweis js-bildnachweis-lightbox">
+            <p><a class="c-bildnachweis-opener js-bildnachweis-lightbox-opener" href="#">Bildnachweis</a></p>
+            <div class="c-bildnachweis-content js-bildnachweis-lightbox-content">
+              <h2 class="c-bildnachweis__heading">Bildnachweis</h2>
+              <ul class="c-bildnachweis__list js-bildnachweis-list with-image row">
+                <li class="c-bildnachweis-list__item small-12 medium-6 large-4 column">
+                  <div class="c-bildnachweis-list-item__text-container">
+                    <p class="c-bildnachweis-list-item__source js-bildnachweis-source-container"></p>
+                 </div>
+                  <div class="c-bildnachweis-list-item__image-container js-bildnachweis-image-container"></div>
+               </li>
+             </ul>
+           </div>
+         </div>
+
+          <p><span>&#169; Bundesamt für Auswärtige Angelegenheiten - Zentralstelle für das Auslandsschulwesen - 2024</span></p>
+       </div>
+     </div>
+   </div>
+ </div>
+</div>
+      <section id="cookiebanner" class="c-banner c-banner--cookie js-banner"  data-banner-extended-config="SiteGlobals/Modules/Cookiebanner/DE/CookieBanner.html?view=renderCookieBannerExtended"></section>
+
+<script type="text/javascript" src="SiteGlobals/Frontend/JavaScript/init/global.js?v=1"></script>
+<!-- Seite generiert am: Sat May 25 04:23:16 CEST 2024 -->
+</body>
+</html>

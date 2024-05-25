@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /recruiter*/
+
+User-agent: *
+Disallow: /jobfind-pc/jobfeed/
+
+User-Agent: Slurp
+Crawl-delay: 1
+
+User-Agent: msnbot
+Crawl-delay: 5
+
+User-Agent: bingbot
+Crawl-delay: 5
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: XoviBot
+Disallow: /
+

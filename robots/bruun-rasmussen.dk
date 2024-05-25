@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /m/search*
+Disallow: /m/search/*
+Disallow: /m/recent_lots*
+Disallow: /m/toolbar*
+Disallow: /doc/nodes*
+
+User-Agent: BLEXBot
+Crawl-Delay: 30
+
+User-agent: AhrefsBot
+Crawl-Delay: 30
+
+User-Agent: trendictionbot
+Disallow: /

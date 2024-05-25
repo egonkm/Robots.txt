@@ -1,0 +1,42 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.varimerychle.cz/wp-sitemap.xml
+Disallow: /styleguide/
+Disallow: /author/mrben/
+Disallow: /account/
+Disallow: /register/
+Disallow: /signin/
+Disallow: /signin
+Disallow: /register
+Disallow: /user-settings
+Disallow: /logout
+Disallow: /search/
+Disallow: /user/
+Disallow: /v1/
+Disallow: /v5/
+Disallow: /search
+Disallow: /account/
+Disallow: /wp-sitemap-posts-
+Disallow: /api/
+Disallow: /auth/
+Disallow: /account/
+Disallow: /registration
+Disallow: /registration/
+Disallow: /tag/
+Disallow: /21798313900/
+Disallow: /wcp/
+
+# GPTBot
+User-agent: GPTBot
+Disallow: /
+
+# News Sitemap
+Sitemap: https://www.varimerychle.cz/google-news.xml/
+
+# Sitemap
+Sitemap: https://www.varimerychle.cz/sitemap.xml/
+# Sitemap archive
+Sitemap: https://www.varimerychle.cz/sitemap.xml
+

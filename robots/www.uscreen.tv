@@ -1,0 +1,13 @@
+
+Sitemap: https://www.uscreen.tv/sitemap_index.xml
+Sitemap: https://www.uscreen.tv/sitemap-index.xml
+
+User-agent: *
+Disallow: /trackback/
+Disallow: */trackback/
+Disallow: /*.pdf
+Disallow: */wp-login.php*
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+User-agent: AhrefsSiteAudit
+Allow: /

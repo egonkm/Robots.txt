@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /content/toyotafinancial/us/en/external_login.html
+Disallow: /us/en/external_login.html
+Disallow: /content/toyotafinancial/us/en/consumer-web.html/self-service/mini-registration
+Disallow: /us/en/consumer-web.html/self-service/mini-registration
+Disallow: /content/toyotafinancial/us/en/consumer-web.html/registration/
+Disallow: /us/en/consumer-web.html/registration/
+Disallow: /content/toyotafinancial/us/en/consumer-web/self-service/mini-registration
+Disallow: /us/en/consumer-web/self-service/mini-registration
+Disallow: /content/toyotafinancial/us/en/consumer-web/registration/
+Disallow: /us/en/consumer-web/registration/
+Disallow: /content/mazdafinancial/us/en/planning-tools/apply-for-financing.html
+Disallow: /us/en/planning-tools/apply-for-financing.html

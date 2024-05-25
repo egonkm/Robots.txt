@@ -1,0 +1,23 @@
+ï»¿User-agent: *
+Disallow: /Account
+Disallow: /Admin
+Disallow: /AwsLabs/sso
+Disallow: /Checkout
+Disallow: /Details/InstructorLedTraining
+Disallow: /Details/Link
+Disallow: /Enrollment
+Disallow: /Instructor
+Disallow: /learningobject/ilt
+Disallow: /Manager
+Disallow: /oneclickregistration
+Disallow: /Order
+Disallow: /Payment
+Disallow: /QwikLab
+Disallow: /Scripts
+Disallow: /Subscription
+Disallow: /Transcript
+Disallow: /transcript
+Disallow: /UserPreferences
+
+User-agent: ia_archiver
+Disallow: /

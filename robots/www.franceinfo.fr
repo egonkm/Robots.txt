@@ -1,0 +1,46 @@
+User-agent: *
+Disallow: /recherche/
+Disallow: /user/
+
+Allow: /sitemap_index.xml
+Allow: /sitemap_video_index.xml
+Allow: /sitemap_image_index.xml
+Allow: /sitemap_nouveaux_formats.xml
+Allow: /sitemap_news.xml
+
+Disallow: /esi/www/taxonomy/
+Disallow: /en-direct/message/
+Disallow: /nous-contacter.html
+Disallow: /qui-sommes-nous/
+Disallow: /mentions-legales/
+Disallow: /mail/
+Disallow: /profile/
+Disallow: /auth/
+Disallow: /*?print=1
+Disallow: /live-a-detruire_19925.html
+Disallow: /live/message/
+Disallow: /bac/recherche/
+Disallow: /*_resultat-eleve.html
+Disallow: /*_resultat-eleve-*.html
+Disallow: /preview-examens/
+Disallow: /*?diploma*
+Disallow: *html?callV1=
+Disallow: *html?fbclid=
+Disallow: *html?noamp=
+Disallow: *__twitter_impression=
+Disallow: *html?fr=
+Disallow: *html?Echobox=
+Disallow: *html?google_editors_picks=
+Disallow: *?_format=html
+
+User-agent: Googlebot-Image
+Allow: /image/
+
+User-agent: AhrefsBot
+Disallow: /
+
+# Disable OpenAI bots
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /

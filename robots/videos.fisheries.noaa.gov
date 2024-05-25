@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /search/ 
+Sitemap: https://videos.fisheries.noaa.gov/sitemap.xml

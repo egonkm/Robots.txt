@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /view_external_link.php
+Disallow: /notfound.htm
+Disallow: /assets/
+Sitemap: https://roosevelt.uloop.com/sitemap.xml
+User-agent: bingbot
+User-agent: msnbot
+User-agent: AppleBot
+Allow: /

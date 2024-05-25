@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /find-a-vet/*
+allow: /find-a-vet/$
+Disallow: /vets/*/feed
+
+Sitemap: https://www.greencrossvets.com.au/sitemap_index.xml

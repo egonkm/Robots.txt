@@ -1,0 +1,32 @@
+User-agent: * 
+Crawl-delay: 7 
+
+User-agent: msnbot
+Crawl-delay: 7
+
+User-agent: Yandex 
+Crawl-delay: 10
+
+User-agent: daumoa 
+Crawl-delay: 10
+
+User-Agent: bingbot
+Crawl-Delay: 8
+
+User-agent: ia_archiver
+Crawl-delay: 10
+
+User-Agent: MJ12bot
+Crawl-Delay: 10
+
+User-agent: Blekkobot
+Crawl-delay: 10
+
+User-agent: Exabot
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Crawl-delay: 15
+
+# Sitemap
+Sitemap: https://www.melbournecb.com.au/sitemap.xml

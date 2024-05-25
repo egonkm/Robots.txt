@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /?p=*
+Disallow: /?s=*
+Disallow: /?r=*
+Sitemap: http://www.taishansports.com.cn/sitemap.xml

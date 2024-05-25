@@ -1,0 +1,59 @@
+# static robots.txt...
+User-agent: *
+Disallow:  /kati-cgi/kati/
+
+
+
+# Sitemaps for https://www.euroshop.de (lang=1, https=1)
+
+# oid=107, Exhibit
+Sitemap: https://www.euroshop.de/it_sitemap_107_02_01.xml
+
+# oid=10873, [hidden]
+Sitemap: https://www.euroshop.de/it_sitemap_10873_01_01.xml
+
+# oid=11161, [hidden]
+Sitemap: https://www.euroshop.de/it_sitemap_11161_02_01.xml
+
+# oid=1653, Exhibitors & Products
+Sitemap: https://www.euroshop.de/it_sitemap_1653_01_01.xml
+
+# oid=18460, [hidden]
+Sitemap: https://www.euroshop.de/it_sitemap_18460_01_01.xml
+
+# oid=37670, GoGlobal
+Sitemap: https://www.euroshop.de/it_sitemap_37670_02_01.xml
+
+# oid=48111, [hidden]
+Sitemap: https://www.euroshop.de/it_sitemap_48111_01_01.xml
+
+# oid=48185, [hidden]
+Sitemap: https://www.euroshop.de/it_sitemap_48185_02_01.xml
+
+# oid=5203, Home
+Sitemap: https://www.euroshop.de/it_sitemap_5203_02_01.xml
+
+# oid=5269, [hidden]
+Sitemap: https://www.euroshop.de/it_sitemap_5269_01_01.xml
+
+# oid=5297, Media & News
+Sitemap: https://www.euroshop.de/it_sitemap_5297_01_01.xml
+
+# oid=5307, Program
+Sitemap: https://www.euroshop.de/it_sitemap_5307_01_01.xml
+
+# oid=7275, Visit
+Sitemap: https://www.euroshop.de/it_sitemap_7275_01_01.xml
+
+
+
+
+# Sitemaps for https://www.euroshop.de (lang=1, https=1)
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+
+User-agent: *
+Disallow: /vis/v1/de/search/
+
+Sitemap: https://www.euroshop.de/vis_sitemap_https_www.euroshop.de_de.xml

@@ -1,0 +1,35 @@
+Sitemap: /sitemaps.xml
+
+# Define access-restrictions for robots/spiders
+# http://www.robotstxt.org/wc/norobots.html
+
+
+
+# By default we allow robots to access all areas of our site 
+# already accessible to anonymous users
+
+User-agent: *
+Disallow:
+Disallow:/csphysique/par_theme
+Disallow:/csphysique/res_themes
+Disallow:/csphysique/search_exist
+Disallow:/csphysique/search_exist_form
+Disallow:/csphysique/search_form
+Disallow:/csphysique/sendto_form
+Disallow:/csphysique/folder_factories
+Disallow:/*pdf
+
+# Add Googlebot-specific syntax extension to exclude forms 
+# that are repeated for each piece of content in the site 
+# the wildcard is only supported by Googlebot
+# http://www.google.com/support/webmasters/bin/answer.py?answer=40367&ctx=sibling
+
+User-Agent: Googlebot
+Disallow: /*sendto_form$
+Disallow: /*folder_factories$
+Disallow: /*par_theme$
+Disallow: /*res_themes$
+Disallow: /*search_exist$
+Disallow: /*search_exist_form$
+Disallow: /*search_form$
+Disallow: /*sendto_form$

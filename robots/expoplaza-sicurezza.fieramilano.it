@@ -1,0 +1,9 @@
+User-agent: SemrushBot
+Disallow: /
+
+# slow down Yahoo
+User-agent: Slurp
+Crawl-delay: 10
+
+User-agent: * 
+Crawl-Delay: 10

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /icalendar/
+# Disallowed portals are included as Allowed to use noindex strategy: https://developers.google.com/search/docs/advanced/crawling/block-indexing
+Allow: /careers
+Sitemap: https://uclahealth.avature.net/careers/sitemap_index.xml
+Disallow: /

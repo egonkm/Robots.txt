@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /adm
+Disallow: /tiket-app
+
+Sitemap: http://www.chip.cz/sitemap.xml

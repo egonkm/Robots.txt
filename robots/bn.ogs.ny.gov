@@ -1,0 +1,9 @@
+User-agent: * 
+
+# CSS, JS, Images 
+
+Disallow: /User-agent: * 
+
+# CSS, JS, Images 
+
+Disallow: /

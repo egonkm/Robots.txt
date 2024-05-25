@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap: https://www.if.se/sitemaps/se-sitemap.xml
+
+Disallow: /autocompleteproxy/autocompleteproxy.aspx
+Disallow: /ScriptResource.axd
+Disallow: /WebResource.axd
+Disallow:/web/se/foretag/vardplanering/sjukdomar/

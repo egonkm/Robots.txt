@@ -1,0 +1,25 @@
+# Use for all search robots
+User-agent: *
+
+# Define the directories not to crawl
+Disallow: /app_browsers/
+Disallow: /app_data/
+Disallow: /app_plugins/
+Disallow: /app_start/
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /controllers/
+Disallow: /fonts/
+Disallow: /media/
+Disallow: /models/
+Disallow: /umbraco/
+Disallow: /views/
+Disallow: /?q=*
+Disallow: /?Keyword=*
+Disallow: /?size=
+Disallow: /*?eatable=
+Disallow: /*?evergreen=
+
+# Define the sitemap of the site
+Sitemap: https://www.thuiswinkel.org/sitemap_index.xml

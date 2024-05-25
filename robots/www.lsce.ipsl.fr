@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Phocea/Vie_des_labos/Ast/ast_groupe.php
+Disallow: /Phocea/Membres/Annuaire/
+Disallow: /en/Phocea/Vie_des_labos/Ast/ast_groupe.php
+Disallow: /en/Phocea/Membres/Annuaire/

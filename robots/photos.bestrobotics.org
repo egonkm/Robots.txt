@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /api/
+Disallow: /authentication/
+Disallow: /css/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /support/

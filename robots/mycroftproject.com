@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /external.php
+Disallow: /externalos.php
+Disallow: /install.php
+Disallow: /installos.php
+Disallow: /jsreq.html
+Disallow: /judge.php
+Disallow: /opensearch.xml
+Disallow: /spwrapper.php
+Disallow: /update.php
+Disallow: /updateos.php

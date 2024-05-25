@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: *q=*
+Disallow: /test-landing/*
+Disallow: /search/*
+Disallow: /MbrApps/*
+Disallow: /Certapps/*
+Disallow: /VerificationController/*
+Disallow: /HomeController/*
+Disallow: /AccountProfessionalInformationContiBlockController/*
+Disallow: /PersonalDevelopmentController/*
+Disallow: /AddressController/*
+
+Sitemap: https://www.nursingworld.org/sitemap.xml

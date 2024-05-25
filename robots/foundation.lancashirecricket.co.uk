@@ -1,0 +1,24 @@
+# robots.txt
+# Sitemap location
+Sitemap: http://foundation.lancashirecricket.co.uk/sitemap.xml
+# Exclude Files From All Robots:
+User-Agent: *
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /data/
+Disallow: /install/
+Disallow: /masterpages/
+Disallow: /python/
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+Disallow: /usercontrols/
+Disallow: /xslt/
+Disallow: *?page=*
+Disallow: *?tag=*
+Disallow: *search?Search=*
+
+# End robots.txt file
+
+User-agent: NinjaBot
+Disallow: /

@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /app/
+Disallow: /_hd
+
+Sitemap: https://docs.sonar.expert/sitemap.xml

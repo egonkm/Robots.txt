@@ -1,0 +1,14 @@
+
+
+User-agent: Swiftbot
+Disallow: /errors/
+Disallow: /help/
+
+User-agent: *
+Disallow:
+Disallow: /errors/
+Disallow: /help/
+Disallow: /services/computing/on-campus/wifi/guest-wireless-registration/
+
+
+Sitemap: https://library.nyu.edu/sitemap.xml

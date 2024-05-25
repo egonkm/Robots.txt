@@ -1,0 +1,1 @@
+Sitemap: https://fun.mcall.com/sitemap.xml

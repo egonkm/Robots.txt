@@ -1,0 +1,32 @@
+User-agent: Spinn3r
+Disallow: /
+
+#
+# Yahoo Pipes is for feeds not web pages.
+#
+User-agent: Yahoo Pipes 1.0
+Disallow: /
+
+#
+# KSCrawler - we don't need help from you
+#
+User-agent: KSCrawler
+Disallow: /
+
+#
+# ByteSpider is a badly behaving crawler, no thank you!
+#
+User-agent: Bytespider
+Disallow: /
+
+#
+# Amazonbot Crawler
+#
+User-agent: Amazonbot
+Disallow: /
+
+# 
+# perplexity.ai FOUND-3020
+#
+User-Agent: PerplexityBot
+Disallow: /

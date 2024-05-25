@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /vks/
+Disallow: /pks/
+Disallow: /search
+Disallow: /debug
+Disallow: /verify

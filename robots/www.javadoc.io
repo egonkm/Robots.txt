@@ -1,0 +1,41 @@
+User-agent: *
+Allow: /
+
+Disallow: /legacy
+Disallow: /retry/
+Disallow: /task/
+Disallow: /jar/
+
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=0
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=1
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=2
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=3
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=4
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=5
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=6
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=7
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=8
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=9
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=10
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=11
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=12
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=13
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=14
+Sitemap: https://javadoc.io/sitemap/sitemaps.xml?group=15
+
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=0
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=1
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=2
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=3
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=4
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=5
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=6
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=7
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=8
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=9
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=10
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=11
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=12
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=13
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=14
+Sitemap: https://javadoc.io/sitemap/artifacts.xml?group=15

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: */content/elavon/*
+
+User-agent: Googlebot
+Disallow: */content/elavon/*
+
+User-agent: Bingbot
+Disallow: */content/elavon/*
+
+User-agent: Googlebot-Mobile
+Disallow: */content/elavon/*
+
+Sitemap: https://www.elavon.ca/sitemap.xml
+Sitemap: https://www.elavon.ca/fr/sitemap.xml

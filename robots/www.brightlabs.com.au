@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap:https://www.brightlabs.com.au/sitemap.xml

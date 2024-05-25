@@ -1,0 +1,1 @@
+Sitemap: https://www.solidpixels.com/sitemap.xml.gz

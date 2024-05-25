@@ -1,0 +1,769 @@
+<!doctype html>
+<html style="overflow-y:hidden;">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=1200">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Keywords" content="">
+    <meta name="Description" content="">
+    <title>å¯¹å¤ç»æµè´¸æå¤§å­¦</title>
+    <link rel="stylesheet" type="text/css" href="css/common_dwjm.css" />
+    <link rel="stylesheet" type="text/css" href="css/index_dwjm.css?231222" />
+    <link rel="stylesheet" type="text/css" href="css/header_media.css">
+    <link rel="stylesheet" type="text/css" href="css/index_media.css">
+ <link rel="stylesheet" href="2023shouyecss/swiper.min.css">
+ <link href="2023shouyecss/scrollBar.css" rel="stylesheet" type="text/css">
+    <link href="2023shouyecss/common.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/favicon.ico" >
+    <script src="js/jquery-1.8.3.min.js"></script>
+    <script src="js/js_dwjm.js"></script>
+    <style type="text/css">
+.radioImg{
+	position: absolute;
+    z-index: 90;
+    width: 220px;
+    top: 130px;
+    left: 30px;
+}
+.radioImg a{
+	display: block;
+}
+.radioImg img{
+	width:100%;
+}
+.list li {
+    text-align: right;
+    line-height: 26px;
+    background: url(../img/li_icon.jpg) no-repeat left;
+    background-position: 0 13px;
+    padding-left: 14px;
+    margin: 0 18px;
+    font-size: 14px;
+    overflow: hidden;
+position: relative;
+    padding-right: 12px;
+}
+.list li a {
+    width: 309px;
+    display: block;
+    float: left;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    text-align: left;
+    -ms-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -moz-binding: url(ellipsis.xml#ellipsis);
+font-size:14px;
+}
+.list li:before{
+content: '';
+    width: 4px;
+    height: 4px;
+    display: block;
+    border-radius: 50%;
+    /* line-height: 30px; */
+    position: absolute;
+    background: #003678;
+    left: 0;
+    top: 13px;
+}
+    </style>
+
+
+
+
+</head>
+
+<body>
+<div class="maxcontinner">
+<!--ç½ç«å¤´é¨å¼å§-->
+
+<div class="dwjm-topCommon">
+    <div id="Top">
+        <div class="con clearfix">
+            <div class="top_left fl">
+                <div class="language"><span>Languageï¼</span>
+                   <!--  <select style="" onchange="window.open(this.value);">
+                       <option value="eng" selected="">è±ä¿æ³æ¥é©è¥¿</option>
+                        <option value="https://english.uibe.edu.cn/">ENGLISH</option>
+                        <option value="https://foreign.uibe.edu.cn/russian/">Ð Ð£Ð¡Ð¡ÐÐÐ</option>
+                        <option value="https://foreign.uibe.edu.cn/french/">FRAN&Ccedil;AIS</option>
+                        <option value="https://foreign.uibe.edu.cn/korean/">???</option>
+                        <option value="https://foreign.uibe.edu.cn/japanese/">æ¥æ¬èª</option>
+ <option value="zh">ä¸­æ</option> 
+                        <option value="https://foreign.uibe.edu.cn/spanish/">Espa&ntilde;ol</option>
+<option value="https://english.uibe.edu.cn/">ENGLISH</option></select> -->
+<style type="text/css">
+.language > a{ background-color:#71070a;color: #fff;  border:none; text-align:center;font-size: 12px;padding: 3px 10px;float: none !important;line-height: 1;}
+</style>
+<a href="https://english.uibe.edu.cn/">ENGLISH</a>
+
+                       
+                    
+                </div>                                          
+                <div class="topLink">
+                    <a href="javascript:;">èç</a>
+                    <i></i>
+                    <a href="javascript:;">å¨æ ¡ç</a>
+                    <i></i>
+                    <a href="javascript:;">æèå·¥</a>
+                    <i></i>
+                    <a href="https://home.uibe.edu.cn/" target="_blank">æ ¡å</a>
+                </div>
+                <div class="language topOneSelect" style="width:125px;font-size: 12px;">
+                    <select onchange="window.open(this.value);" style="width: 100%;height: 19px;">
+                        <option value="">æ´å¤</option>
+                        <option value="javascript:;">èç</option>
+                        <option value="javascript:;">å¨æ ¡ç</option>
+                        <option value="javascript:;">æèå·¥</option>
+                        <option value="https://home.uibe.edu.cn/">æ ¡å</option>
+                    </select>
+                </div>
+                <form name="dataForm" class="fl topsearchinput" action="/cms/web/search/index.jsp?flg=0" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+                    <input name="siteID" value="65" type="hidden">
+                    <input type="hidden" name="searchScope" value="1" />
+                    <input name="query" type="text" value="" id="searchtext" class="txt search_txt"/>
+                    <input name="submit" type="submit" class="subm search" value="æç´¢" style="border:0;text-indent:-999px" />
+                </form>                                                                            
+            </div>                                                                                          
+            <div class="top_right fr pcTopNav">                                                                            
+               <a href="https://mail.uibe.edu.cn/" target="_blank">æ ¡å­é®ç®±</a>                                       
+                <a href="https://vpn.uibe.edu.cn/" target="_blank">VPNç»å½</a>                   
+                <a href="https://202.204.160.111:8080/Self/"  target="_blank">æ ¡å­ç½èªå©æå¡</a>
+                <a href="https://i.uibe.edu.cn/ "  target="_blank">ä¿¡æ¯å¹³å°</a>
+                <a href="https://s.uibe.edu.cn/  "  target="_blank">æå¡ä¸­å¿</a>
+                <a href="https://lib.uibe.edu.cn/  "  target="_blank">å¾ä¹¦èµæº</a>
+                <a href="mailto:xzbgs@uibe.edu.cn" target="_blank">æ ¡é¢å¯¼ä¿¡ç®±</a>                                                                                                 
+                <div class="language">                                         
+                    <select style="" onchange="window.open(this.value);">
+                        <option value="">æ´å¤</option>
+                        <option value="https://ea.uibe.edu.cn/">å¢å­¦ä¹çª</option>
+                        <option value="">é«è¿å¨çº¿</option>
+                        <option value=" https://www.euibe.com/jpkchome/">å¼æ¾èµæº</option>
+                        <option value="https://cwc.uibe.edu.cn/cwgk/cwgk.html">æ¶è´¹é¡¹ç®å¬ç¤º</option>
+                        <option value="https://hjc.uibe.edu.cn/">åå¤æå¡</option>
+                       <option value="https://www.uibe.edu.cn/uibe/">æ§ç½å¥å£</option>
+                    </select>                                                                          
+               </div>
+            </div>
+            <div class="top_right fr mobile">
+                <div class="language">
+                    <select style="" onchange="window.open(this.value);">
+                        <option value="">æ´å¤è¿æ¥</option>
+                        <option value="https://mail.uibe.edu.cn/">æ ¡å­é®ç®±</option>
+                        <option value="https://vpn.uibe.edu.cn/">VPNç»å½</option>
+                        <option value="https://202.204.160.111:8080/Self/">æ ¡å­ç½èªå©æå¡</option>
+                        <option value="https://i.uibe.edu.cn/">ä¿¡æ¯å¹³å°</option>
+                        <option value="https://s.uibe.edu.cn">æå¡ä¸­å¿</option>
+                        <option value="https://lib.uibe.edu.cn/">å¾ä¹¦èµæº</option>
+                        <option value="mailto:xzbgs@uibe.edu.cn">æ ¡é¢å¯¼ä¿¡ç®±</option>
+                        <option value="https://ea.uibe.edu.cn/">å¢å­¦ä¹çª</option>
+                        <option value="">é«è¿å¨çº¿</option>
+                        <option value=" https://www.euibe.com/jpkchome/">å¼æ¾èµæº</option>
+                        <option value="https://cwc.uibe.edu.cn/cwgk/cwgk.html">æ¶è´¹é¡¹ç®å¬ç¤º</option>
+                        <option value="https://hjc.uibe.edu.cn/">åå¤æå¡</option>
+                        <option value="https://www.uibe.edu.cn/uibe/">æ§ç½å¥å£</option>
+                    </select>
+                </div>
+            </div>
+        </div>                                                                       
+    </div>                                                                                                
+    <div id="nav">
+        <div class="con clearfix">                                                           
+            <div class="logo fl index"><a href="https://www.uibe.edu.cn/" target="_blank"><img src="img/logo.png"></a></div>
+            <div class="navMore"><svg t="1624500222735" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="https://www.w3.org/2000/svg" p-id="2449" width="20" height="20"><path d="M887.212102 264.644379 320.083527 264.644379c-29.826306 0-54.012148-23.896246-54.012148-53.723575s24.185842-53.723575 54.012148-53.723575l567.127552 0c29.827329 0 54.012148 23.896246 54.012148 53.723575S917.039431 264.644379 887.212102 264.644379z" p-id="2450" fill="#ffffff"></path><path d="M887.212102 562.426483 320.083527 562.426483c-29.826306 0-54.012148-24.408923-54.012148-54.235229 0-29.828352 24.185842-54.235229 54.012148-54.235229l567.127552 0c29.827329 0 54.012148 24.406876 54.012148 54.235229C941.22425 538.018583 917.039431 562.426483 887.212102 562.426483z" p-id="2451" fill="#ffffff"></path><path d="M887.212102 859.18528 320.083527 859.18528c-29.826306 0-54.012148-24.407899-54.012148-54.235229s24.185842-54.235229 54.012148-54.235229l567.127552 0c29.827329 0 54.012148 24.407899 54.012148 54.235229S917.039431 859.18528 887.212102 859.18528z" p-id="2452" fill="#ffffff"></path><path d="M153.565003 257.94377l-47.261397 0c-13.05534 0-23.630187-10.601452-23.630187-23.655769l0-47.234791c0-13.080923 10.574846-23.630187 23.630187-23.630187l47.261397 0c13.054317 0 23.630187 10.549264 23.630187 23.630187l0 47.234791C177.19519 247.341295 166.61932 257.94377 153.565003 257.94377L153.565003 257.94377z" p-id="2453" fill="#ffffff"></path><path d="M153.565003 852.076372l-47.261397 0c-13.05534 0-23.630187-10.600429-23.630187-23.655769l0-47.233768c0-13.080923 10.574846-23.63121 23.630187-23.63121l47.261397 0c13.054317 0 23.630187 10.550287 23.630187 23.63121l0 47.233768C177.19519 841.475943 166.61932 852.076372 153.565003 852.076372L153.565003 852.076372z" p-id="2454" fill="#ffffff"></path><path d="M153.565003 541.507034l-47.261397 0c-13.05534 0-23.630187-10.601452-23.630187-23.655769l0-47.234791c0-13.080923 10.574846-23.630187 23.630187-23.630187l47.261397 0c13.054317 0 23.630187 10.549264 23.630187 23.630187l0 47.234791C177.19519 530.905582 166.61932 541.507034 153.565003 541.507034L153.565003 541.507034z" p-id="2455" fill="#ffffff"></path></svg></div>
+            <ul class="fr nav">                                                        
+                <li><a href="index.htm">é¦   é¡µ </a></li>                                                                                            
+                <li><a href="xxgk/xxjs/index.htm" target="_blank">å­¦æ ¡æ¦åµ</a>
+                    <div class="navXl">              
+                        <a href="xxgk/xxjs/index.htm">å­¦æ ¡ç®è¿°</a>                                            
+                        <a href="xxgk/jgsz/jgyl/index.htm" target="_blank">æºæè®¾ç½®</a>
+                        <a href="xxgk/xxld/index.htm">å­¦æ ¡é¢å¯¼</a>             
+                        <a href="xxgk/lrsj/index.htm">åä»»ä¹¦è®°</a>     
+                        <a href="xxgk/lrxz/index.htm">åä»»æ ¡é¿</a>
+                        <a href="xxgk/dsjl/index.htm" target="_blank"> å­¦æ ¡å¤§äº</a>
+                        <a href="xxgk/xxdt/index.htm">å­¦æ ¡å°å¾</a>
+                        <a href="xxgk/xyzp/index.htm">æ ¡å­ç§ç</a>                        
+                    </div>
+                </li>
+                <li><a href="xysz/index.htm" target="_blank">å­¦é¢è®¾ç½®</a></li>                         
+                <li><a href="https://kyc.uibe.edu.cn/" target="_blank">ç§å­¦ç ç©¶</a>
+                    <div class="navXl"> 
+                        <a href="https://kyc.uibe.edu.cn/" target="_blank">ç§å­¦ç ç©¶</a>
+                        <a href="https://journal.uibe.edu.cn/" target="_blank">å­¦æ¯åç©</a>                  
+                        <a href="https://kyc.uibe.edu.cn/xfjs/index.htm" target="_blank">å­¦é£å»ºè®¾</a>
+<a href="https://kyc.uibe.edu.cn/yjjg/xjsys/index.htm" target="_blank">ç§ç å®éªå®¤</a>
+                    </div>
+                </li>                                                                           
+                <li><a href="https://jwc.uibe.edu.cn" target="_blank">äººæå¹å»</a>   
+                    <div class="navXl">                       
+                        <a href="https://jwc.uibe.edu.cn" target="_blank">æ¬ç§ç</a>
+                        <a href="https://yjsy.uibe.edu.cn" target="_blank">ç ç©¶ç</a>
+                        <a href="https://sie.uibe.edu.cn" target="_blank">çå­¦ç</a> 
+                        <a href="https://ea.uibe.edu.cn" target="_blank">æé¿æ å­</a>
+                        <a href="https://www.sce.com.cn/" target="_blank">ç»§ç»­æè²</a>
+                        <a href="https://www.euibe.com/" target="_blank">è¿ç¨æè²</a>
+                    </div>
+                </li>
+                <li><a href="https://aeo.uibe.edu.cn/" target="_blank">æçå°±ä¸</a>
+                    <div class="navXl">  
+                        <a href="https://aeo.uibe.edu.cn/front/channel.jspa?channelId=841" target="_blank">æ¬ç§çæç</a>
+                        <a href="https://yjsy.uibe.edu.cn/" target="_blank">ç ç©¶çæç</a>
+                        <a href="https://sie.uibe.edu.cn" target="_blank">çå­¦çæç</a>
+                        <a href="https://aeo.uibe.edu.cn/" target="_blank">å°±ä¸åä¸æå¯¼</a>
+                        <a href="zsjy/qtzspx/index.htm" target="_blank">å¶ä»æçå¹è®­</a>                                                                              
+                    </div>                                              
+                </li>
+                <li><a href="https://international.uibe.edu.cn/" target="_blank">å½éäº¤æµ</a>                  
+                    <div class="navXl">                                         
+                       <a href="https://international.uibe.edu.cn/" target="_blank">å½éäº¤æµåä½</a>
+                        <a href="https://geec.uibe.edu.cn/" target="_blank">å­¦çå½éäº¤æµ</a>
+                        <a href="https://sie.uibe.edu.cn/" target="_blank">æ¥åçå­¦æè²</a>
+                        <a href="https://iss.uibe.edu.cn/" target="_blank">ææå½éå­¦æ ¡</a>
+                        <a href="https://www.uibe.edu.cn/gjjl/gjytk/index.htm" target="_blank">å½éç è®¨ä¼</a>
+                    </div>
+                </li>                                                                   
+                <li><a href="xywh/xhxq/index.htm" target="_blank">æ ¡å­æå</a>
+                    <div class="navXl">
+                        <a href="xywh/xhxq/index.htm">æ ¡å¾½æ ¡æ</a>
+                        <a href="xywh/xxxg/index.htm">æ ¡è®­æ ¡æ­</a>
+                        <a href="xywh/xymj/index.htm">æ ¡å­ç¾æ¯</a>                       
+                        <a href="https://www.uibe.edu.cn/xywh/mdxl/7cd595dff6684fdeb72200cbbdc69f95.htm" target="_blank">è´¸å¤§æ ¡å</a>
+                        <a href="xywh/xxzp/index.htm">æ ¡å®£ä¼ ç</a>     
+                    </div>
+                </li>                                                                              
+            </ul>
+        </div>
+        <div class="mobileNav">
+            <div class="searchBtn">
+                <form name="dataForm" class="mobileInput" action="/cms/web/search/index.jsp?flg=0" target="_blank" method="post" accept-charset="utf-8" onsubmit="document.charset='utf-8';">
+                    <input name="siteID" value="65" type="hidden">
+                    <input type="hidden" name="searchScope" value="1" />
+                    <input name="query" type="text" value="" id="searchtext" class="txt search_txt"/>
+                    <input name="submit" type="submit" class="subm search" value="æç´¢" style="border:0;text-indent:-999px" />
+                </form>
+            </div>
+            <ul>
+                <li><a href="https://www.uibe.edu.cn/index.htm">é¦   é¡µ <span></span></a></li>
+                <li><a href="https://www.uibe.edu.cn/xxgk/xxjs/index.htm" target="_blank">å­¦æ ¡æ¦åµ<span></span></a>
+                    <div class="mobilenavXl">
+                        <a href="https://www.uibe.edu.cn/xxgk/xxjs/index.htm">å­¦æ ¡ç®è¿°</a>
+                        <a href="https://www.uibe.edu.cn/xxgk/jgsz/jgyl/index.htm" target="_blank">æºæè®¾ç½®</a>
+                        <a href="https://www.uibe.edu.cn/xxgk/xxld/index.htm">å­¦æ ¡é¢å¯¼</a>
+                        <a href="https://www.uibe.edu.cn/xxgk/lrsj/index.htm">åä»»ä¹¦è®°</a>
+                        <a href="https://www.uibe.edu.cn/xxgk/lrxz/index.htm">åä»»æ ¡é¿</a>
+                        <a href="https://www.uibe.edu.cn/xxgk/dsjl/index.htm" target="_blank"> å­¦æ ¡å¤§äº</a>
+                        <a href="https://www.uibe.edu.cn/xxgk/xxdt/index.htm">å­¦æ ¡å°å¾</a>
+                        <a href="https://www.uibe.edu.cn/xxgk/xyzp/index.htm">æ ¡å­ç§ç</a>
+                    </div>
+                </li>
+                <li><a href="https://www.uibe.edu.cn/xysz/index.htm" target="_blank">å­¦é¢è®¾ç½®<span></span></a></li>
+                <li><a href="https://kyc.uibe.edu.cn/" target="_blank">ç§å­¦ç ç©¶<span></span></a>
+                    <div class="mobilenavXl">
+                       <a href="https://kyc.uibe.edu.cn/" target="_blank">ç§å­¦ç ç©¶</a>
+                        <a href="https://journal.uibe.edu.cn/" target="_blank">å­¦æ¯åç©</a>
+                        <a href="https://kyc.uibe.edu.cn/xfjs/index.htm" target="_blank">å­¦é£å»ºè®¾</a>
+<a href="https://kyc.uibe.edu.cn/yjjg/xjsys/index.htm" target="_blank">ç§ç å®éªå®¤</a>
+                    </div>
+                </li>
+                <li><a href="https://jwc.uibe.edu.cn/" target="_blank">äººæå¹å»<span></span></a>
+                    <div class="mobilenavXl">
+                        <a href="https://jwc.uibe.edu.cn/" target="_blank">æ¬ç§ç</a>
+                        <a href="https://yjsy.uibe.edu.cn/" target="_blank">ç ç©¶ç</a>
+                        <a href="https://sie.uibe.edu.cn/" target="_blank">çå­¦ç</a>
+                        <a href="https://ea.uibe.edu.cn/" target="_blank">æé¿æ å­</a>
+                        <a href="https://www.sce.com.cn/" target="_blank">ç»§ç»­æè²</a>
+                        <a href="https://www.euibe.com/" target="_blank">è¿ç¨æè²</a>
+                    </div>
+                </li>
+                <li>
+                    <a href="https://aeo.uibe.edu.cn/" target="_blank">æçå°±ä¸<span></span></a>
+                    <div class="mobilenavXl">
+                        <a href="https://aeo.uibe.edu.cn/front/channel.jspa?channelId=841" target="_blank">æ¬ç§çæç</a>
+                        <a href="https://yjsy.uibe.edu.cn/" target="_blank">ç ç©¶çæç</a>
+                        <a href="https://sie.uibe.edu.cn/" target="_blank">çå­¦çæç</a>
+                        <a href="https://aeo.uibe.edu.cn/" target="_blank">å°±ä¸åä¸æå¯¼</a>
+                        <a href="https://www.uibe.edu.cn/zsjy/qtzspx/index.htm" target="_blank">å¶ä»æçå¹è®­</a>
+                    </div>
+                </li>
+                <li><a href="https://international.uibe.edu.cn/" target="_blank">å½éäº¤æµ<span></span></a>
+                    <div class="mobilenavXl">
+                       <a href="https://international.uibe.edu.cn/" target="_blank">å½éäº¤æµåä½</a>
+                        <a href="https://geec.uibe.edu.cn/" target="_blank">å­¦çå½éäº¤æµ</a>
+                        <a href="https://sie.uibe.edu.cn/" target="_blank">æ¥åçå­¦æè²</a>
+                        <a href="https://iss.uibe.edu.cn/" target="_blank">ææå½éå­¦æ ¡</a>
+                        <a href="https://www.uibe.edu.cn/gjjl/gjytk/index.htm" target="_blank">å½éç è®¨ä¼</a>
+                    </div>
+                </li>
+                <li><a href="https://www.uibe.edu.cn/xywh/xhxq/index.htm" target="_blank">æ ¡å­æå<span></span></a>
+                    <div class="mobilenavXl">
+                        <a href="https://www.uibe.edu.cn/xywh/xhxq/index.htm">æ ¡å¾½æ ¡æ</a>
+                        <a href="https://www.uibe.edu.cn/xywh/xxxg/index.htm">æ ¡è®­æ ¡æ­</a>
+                        <a href="https://www.uibe.edu.cn/xywh/xymj/index.htm">æ ¡å­ç¾æ¯</a>
+                        <a href="https://www.uibe.edu.cn/xywh/mdxl/7cd595dff6684fdeb72200cbbdc69f95.htm" target="_blank">è´¸å¤§æ ¡å</a>
+                        <a href="https://www.uibe.edu.cn/xywh/xxzp/index.htm">æ ¡å®£ä¼ ç</a>
+                    </div>
+                </li>
+            </ul>
+        </div>   
+    </div>
+</div><!--ç½ç«å¤´é¨ç»æ-->
+
+
+<div class="mianwrap auto">
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                	
+                	                	       	
+                	                	
+                    <div class="swiper-slide">
+                        <a href="https://news.uibe.edu.cn/info/1381/71638.htm">
+                            <img src="images/2024-05/51ba53a496624f5c9b762dba6273a27f.jpg" alt="">
+                        </a>
+                    </div>
+                                     
+                                	       	
+                	                	
+                    <div class="swiper-slide">
+                        <a href="https://news.uibe.edu.cn/info/1381/71638.htm">
+                            <img src="images/2024-05/f3388c3e4379447281c738c545f67968.jpg" alt="">
+                        </a>
+                    </div>
+                                     
+                                	       	
+                	                	
+                    <div class="swiper-slide">
+                        <a href="https://news.uibe.edu.cn/info/1381/71638.htm">
+                            <img src="images/2024-05/6c12a069181a47b2ab7769d612442723.jpg" alt="">
+                        </a>
+                    </div>
+                                     
+                                	       	
+                	                	
+                    <div class="swiper-slide">
+                        <a href="https://news.uibe.edu.cn/info/1608/71148.htm">
+                            <img src="images/2024-05/4436ab3112ba4b9f89eb1b451b28c6c7.jpg" alt="">
+                        </a>
+                    </div>
+                                     
+                                	       	
+                	                	
+                    <div class="swiper-slide">
+                        <a href="https://news.uibe.edu.cn/ztlm1/a2024ztbd/dwjjmydxlhlxjy70zn.htm">
+                            <img src="images/2024-04/52101f1027ad45a58011d853fa514c04.jpg" alt="">
+                        </a>
+                    </div>
+                                     
+                             
+
+                </div>
+                <!-- Add Pagination -->
+                <div class="swiper-pagination"></div>
+               
+            </div>
+
+            <!-- Swiper JS -->
+            <script src="shouyejs2023/swiper.min.js"></script>
+
+            <!-- Initialize Swiper -->
+            <script>
+                var swiper = new Swiper('.swiper-container', {
+                    spaceBetween: 30,
+                    centeredSlides: true,
+                    loop: true,
+                    autoplay: {
+                        delay: 4500,
+                        disableOnInteraction: false,
+                    },
+                    pagination: {
+                        el: '.swiper-pagination',
+                        clickable: true,
+                    },
+                    navigation: {
+                        nextEl: '.swiper-button-next',
+                        prevEl: '.swiper-button-prev',
+                    },
+                });
+            </script>
+         
+
+
+
+        </div>
+
+
+<div class="news auto" id="news1">
+    <div class="newsleft auto">
+        <div class="new1 tabBox" style="width:465px;">
+        	<!--<a href="javascript:;" class="zk">
+        	<IMG src="img/top_icon2.png"></a>-->
+            <ul class="title1 tabMenu">
+                <li class="hover">
+                    <h3><a href="https://news.uibe.edu.cn/" target="_blank">è´¸å¤§æ°é»<font> UIBE NEWS</font></a></h3>
+                </li>
+                <li>
+                    <a href="xsjz/index.htm" target="_blank"><span class="fr">å­¦æ¯å¬å<font> 
+                          &nbsp;     &nbsp;  &nbsp;  &nbsp;  &nbsp;&nbsp;     &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;     &nbsp;  &nbsp;  &nbsp;  &nbsp;</font></a></span>
+                </li>
+                <li style="display:none;">
+                    <a href="https://news.uibe.edu.cn/gjjl.htm" target="_blank"><span class="fr">å½éäº¤æµ<font>
+                                INTERNATIONAL EXCHANGE</font></a></span>
+                </li>
+            </ul>
+            <div class="tabContent">
+                <ul class="list hover" style=" display:block;">
+                	<div class="scrollBox" paddingb="10px" style="overflow: hidden; position: relative;">
+                	<div class="zl-scrollContentDiv">
+                                    <div class="contentBox1">
+                    <iframe src="https://news.uibe.edu.cn/zyqt/xwtt_zx.htm"
+                        style="border: 0;width: 450px;height: 420px;margin-top: -8px;"></iframe>
+                        
+                        </div>
+                        </div>
+                 <div class="zl-scrollBarBox" style="height:100%;top:0;width:5px;right:0;">
+                                    <div class="zl-scrollBar zl-verticalBar"
+                                        style="width: 5px; border-radius: 2.5px; height: 17.5289px;"></div>
+                                
+                </div>
+                </div>
+                </ul>
+               <ul class="list">
+                  
+                                                <li class="clearfix"><a href="xsjz/d694e076f2ad4a668ce2e20c296116c8.htm"  title="ã2024-06-06ãâæ±å½¢å°æââä¸­å½ç»çåæä¹ç¾" target="_blank">ã2024-06-06ãâæ±å½¢å°æââä¸­å½ç»çåæä¹ç¾</a></li>
+                                                <li class="clearfix"><a href="xsjz/45c4f79fc42e4044a8e4679e0dd3aba7.htm"  title="ã2024-05-29ãRecognizing the Role of China in Educational Development of Africa, key focus on Liberia" target="_blank">ã2024-05-29ãRecognizing the Role of China in Educational Development of Africa, key focus on Liberia</a></li>
+                                                <li class="clearfix"><a href="xsjz/b270b399f92542c0bab2b8108c2a148e.htm"  title="ã2024-05-27ãâåå®æåèªä¿¡ï¼å»ºè®¾æåå¼ºå½ââå­¦ä¹ ä¹ è¿å¹³æåææ³" target="_blank">ã2024-05-27ãâåå®æåèªä¿¡ï¼å»ºè®¾æåå¼ºå½ââå­¦ä¹ ä¹ è¿å¹³æåææ³</a></li>
+                                                <li class="clearfix"><a href="xsjz/9b470fc203a34d1f9a322b5ed598cc83.htm"  title="ã2024-05-26ãâä¸­å½ä¸çè´¸æç»ç»ç ç©¶é¢ç ç©¶çå¹å»20å¨å¹´åºç¥å¤§ä¼" target="_blank">ã2024-05-26ãâä¸­å½ä¸çè´¸æç»ç»ç ç©¶é¢ç ç©¶çå¹å»20å¨å¹´åºç¥å¤§ä¼</a></li>
+                                                <li class="clearfix"><a href="xsjz/ccfe5bb88e6b4b70b08f265316d702d2.htm"  title="ã2024-05-26ãâäººå·¥æºè½å¨éèé¢åçåºç¨" target="_blank">ã2024-05-26ãâäººå·¥æºè½å¨éèé¢åçåºç¨</a></li>
+                                        </ul>
+        
+            </div>
+
+        </div>
+        <div class="new2 tabBox" style="width: 465px;"><a href="javascript:;" class="sh"><IMG
+                    src="img/top_icon3.png"></a>
+            <ul class="title1 tabMenu">
+                <li class="hover">
+                    <h3><a href="https://news.uibe.edu.cn/" target="_blank">è´¸å¤§æ°é»<font> UIBE NEWS</font></a></h3>
+                </li>
+                <li>
+                    <a class="fr" href="xsjz/index.htm" target="_blank"><span>å­¦æ¯å¬å<font> 
+                            </font></a></span>
+                </li>
+                <li style="display:none;">
+                    <a class="fr" href="https://news.uibe.edu.cn/gjjl.htm" target="_blank"><span>å½éäº¤æµ <font>
+                                INTERNATIONAL EXCHANGE</font></a></span>
+                </li>
+            </ul>
+            <div class="tabContent">
+                <ul class="list" style=" display:block;">
+                    <iframe src="https://news.uibe.edu.cn/zyqt/xwtt_zx.htm"
+                        style="border: 0;width: 453px;height: 439px;margin-top: -8px;"></iframe>
+                </ul>
+                <ul class="list">
+                    <!--<iframe src="https://news.uibe.edu.cn/zzqtym/mdxw_more2.jsp?urltype=tree.TreeTempUrl&wbtreeid=1828"
+                        style="border: 0;width: 453px;height: 439px;margin-top: -8px;"></iframe>
+                                            <li class="clearfix"><a href="xsjz/d694e076f2ad4a668ce2e20c296116c8.htm"  title="ã2024-06-06ãâæ±å½¢å°æââä¸­å½ç»çåæä¹ç¾" target="_blank">ã2024-06-06ãâæ±å½¢å°æââä¸­å½ç»çåæä¹ç¾</a>2024-05-17</li>
+                                                <li class="clearfix"><a href="xsjz/45c4f79fc42e4044a8e4679e0dd3aba7.htm"  title="ã2024-05-29ãRecognizing the Role of China in Educational Development of Africa, key focus on Liberia" target="_blank">ã2024-05-29ãRecognizing the Role of China in Educational Development of Africa, key focus on Liberia</a>2024-05-24</li>
+                                                <li class="clearfix"><a href="xsjz/b270b399f92542c0bab2b8108c2a148e.htm"  title="ã2024-05-27ãâåå®æåèªä¿¡ï¼å»ºè®¾æåå¼ºå½ââå­¦ä¹ ä¹ è¿å¹³æåææ³" target="_blank">ã2024-05-27ãâåå®æåèªä¿¡ï¼å»ºè®¾æåå¼ºå½ââå­¦ä¹ ä¹ è¿å¹³æåææ³</a>2024-05-21</li>
+                                                <li class="clearfix"><a href="xsjz/9b470fc203a34d1f9a322b5ed598cc83.htm"  title="ã2024-05-26ãâä¸­å½ä¸çè´¸æç»ç»ç ç©¶é¢ç ç©¶çå¹å»20å¨å¹´åºç¥å¤§ä¼" target="_blank">ã2024-05-26ãâä¸­å½ä¸çè´¸æç»ç»ç ç©¶é¢ç ç©¶çå¹å»20å¨å¹´åºç¥å¤§ä¼</a>2024-05-24</li>
+                                                <li class="clearfix"><a href="xsjz/ccfe5bb88e6b4b70b08f265316d702d2.htm"  title="ã2024-05-26ãâäººå·¥æºè½å¨éèé¢åçåºç¨" target="_blank">ã2024-05-26ãâäººå·¥æºè½å¨éèé¢åçåºç¨</a>2024-05-21</li>
+                                                <li class="clearfix"><a href="xsjz/1be90cfd92bc44ef921f1cef8d5ceaa2.htm"  title="ã2024-05-25ãâå¯¹å¤ç»æµè´¸æå¤§å­¦ç¬¬åäºå±è±ææå§èå³èµ" target="_blank">ã2024-05-25ãâå¯¹å¤ç»æµè´¸æå¤§å­¦ç¬¬åäºå±è±ææå§èå³èµ</a>2024-05-22</li>
+                                                <li class="clearfix"><a href="xsjz/6b48d25ce14442738e78ed91570326a1.htm"  title="ã2024-05-23ãåºäºä¼ä¸è§è§å¯¹æ¨å¨å»èéèåå±çæè" target="_blank">ã2024-05-23ãåºäºä¼ä¸è§è§å¯¹æ¨å¨å»èéèåå±çæè</a>2024-05-22</li>
+                                                <li class="clearfix"><a href="xsjz/cfc30d2301a741f497c2df4fed74abb8.htm"  title="ã2024-05-23ãââèººâä¸ä¸ï¼æé¾âå¹³âââå³äºä¸ªäººåå±ä¸å¿æè°æ´çåäº«" target="_blank">ã2024-05-23ãââèººâä¸ä¸ï¼æé¾âå¹³âââå³äºä¸ªäººåå±ä¸å¿æè°æ´çåäº«</a>2024-05-21</li>
+                                                <li class="clearfix"><a href="xsjz/18bcd951cf32430da45ce1f89a45f2b1.htm"  title="ã2024-05-23ãè§£è¯»å½å®¶ç»æµå®å¨" target="_blank">ã2024-05-23ãè§£è¯»å½å®¶ç»æµå®å¨</a>2024-05-21</li>
+                                                <li class="clearfix"><a href="xsjz/94c26d2eeb0b4e049a8a1686f6fe1bb7.htm"  title="ã2024-05-23ãä¸­ææ³å¾çäº¤æµä¸å¤ååäººæå¹å»" target="_blank">ã2024-05-23ãä¸­ææ³å¾çäº¤æµä¸å¤ååäººæå¹å»</a>2024-05-09</li>
+                                                <li class="clearfix"><a href="xsjz/e66b8bd9ff834685a6b90fb3603dd80b.htm"  title="ã2024-05-22ãå´çæï¼åä¸ä¸æ©ä¸" target="_blank">ã2024-05-22ãå´çæï¼åä¸ä¸æ©ä¸</a>2024-05-21</li>
+                                                <li class="clearfix"><a href="xsjz/2ba78ffcfdfa44d79dd3c9a1fb6d78ab.htm"  title="ã2024-05-17ããå¨çä»·å¼é¾åå±æ¥å2023ãä¸­æçåå¸ä¼æ¨å¨çä»·å¼é¾åå±è®ºå" target="_blank">ã2024-05-17ããå¨çä»·å¼é¾åå±æ¥å2023ãä¸­æçåå¸ä¼æ¨å¨çä»·å¼é¾åå±è®ºå</a>2024-05-14</li>
+                                                <li class="clearfix"><a href="xsjz/c48e1a9106294680b613ade20e72d0e5.htm"  title="ã2024-05-16ãâ2024å¹´æ¨¡æäºå¤ªç»åç»ç»å¤§ä¼æ ¡åéæèµå³èµ" target="_blank">ã2024-05-16ãâ2024å¹´æ¨¡æäºå¤ªç»åç»ç»å¤§ä¼æ ¡åéæèµå³èµ</a>2024-05-06</li>
+                                                <li class="clearfix"><a href="xsjz/a9610c7fa4a1478e943f104219b229f4.htm"  title="ã2024-05-16ãâè¡æ:äº¤éåºè¡åé©çåå²ä¸æªæ¥" target="_blank">ã2024-05-16ãâè¡æ:äº¤éåºè¡åé©çåå²ä¸æªæ¥</a>2024-05-11</li>
+                                                <li class="clearfix"><a href="xsjz/276591ba60394e3b8c8bcb767beb9a78.htm"  title="ã2024-05-15ãâæ°æ®é©±å¨çåä¸åæ°æ¨¡å¼" target="_blank">ã2024-05-15ãâæ°æ®é©±å¨çåä¸åæ°æ¨¡å¼</a>2024-05-14</li>
+                                                <li class="clearfix"><a href="xsjz/b07dae0b562d41adacdb5bf5c4f0560b.htm"  title="ã2024-05-15ãâæ°æ¶ä»£ï¼äº¤éå³æ¨¡è®²æäºï¼ææå®è·µè¿æ ¡å­" target="_blank">ã2024-05-15ãâæ°æ¶ä»£ï¼äº¤éå³æ¨¡è®²æäºï¼ææå®è·µè¿æ ¡å­</a>2024-05-08</li>
+                        -->
+                </ul>
+                <ul class="list" style=" display:none;">
+                  
+                        <iframe src="https://news.uibe.edu.cn/zyqt/hyrw_zx.htm"  style="border: 0;width: 453px;height: 439px;margin-top: -8px;"></iframe>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+ <div class="newsleft_phone">
+                <div class="news">
+                    <div class="title1">
+                        <h3><a href="https://news.uibe.edu.cn">è´¸å¤§æ°é»<font> UIBE NEWS</font></a></h3>
+                        <span class="more"><a href="https://news.uibe.edu.cn">æ´å¤</a></span>
+                    </div>
+                    <ul class="list">
+                        <iframe src="https://news.uibe.edu.cn/zyqt/mdxwe_zx.htm"
+                        style="border: 0;width: 400px;height: 300px;margin-top: -8px;"></iframe>
+                    </ul>
+                </div>
+                <div class="news">
+                    <div class="title1">
+                        <h3><a href="xsjz/index.htm">å­¦æ¯å¬å<font></font></a></h3>
+                        <span class="more"><a href="xsjz/index.htm">æ´å¤</a></span>
+                    </div>
+                    <ul class="list">
+                        
+                        
+                                                <li class="clearfix"><a href="xsjz/d694e076f2ad4a668ce2e20c296116c8.htm"  title="ã2024-06-06ãâæ±å½¢å°æââä¸­å½ç»çåæä¹ç¾" target="_blank">ã2024-06-06ãâæ±å½¢å°æââä¸­å½ç»çåæä¹ç¾</a></li>
+                                                <li class="clearfix"><a href="xsjz/45c4f79fc42e4044a8e4679e0dd3aba7.htm"  title="ã2024-05-29ãRecognizing the Role of China in Educational Development of Africa, key focus on Liberia" target="_blank">ã2024-05-29ãRecognizing the Role of China in Educational Development of Africa, key focus on Liberia</a></li>
+                                                <li class="clearfix"><a href="xsjz/b270b399f92542c0bab2b8108c2a148e.htm"  title="ã2024-05-27ãâåå®æåèªä¿¡ï¼å»ºè®¾æåå¼ºå½ââå­¦ä¹ ä¹ è¿å¹³æåææ³" target="_blank">ã2024-05-27ãâåå®æåèªä¿¡ï¼å»ºè®¾æåå¼ºå½ââå­¦ä¹ ä¹ è¿å¹³æåææ³</a></li>
+                                                <li class="clearfix"><a href="xsjz/9b470fc203a34d1f9a322b5ed598cc83.htm"  title="ã2024-05-26ãâä¸­å½ä¸çè´¸æç»ç»ç ç©¶é¢ç ç©¶çå¹å»20å¨å¹´åºç¥å¤§ä¼" target="_blank">ã2024-05-26ãâä¸­å½ä¸çè´¸æç»ç»ç ç©¶é¢ç ç©¶çå¹å»20å¨å¹´åºç¥å¤§ä¼</a></li>
+                                                <li class="clearfix"><a href="xsjz/ccfe5bb88e6b4b70b08f265316d702d2.htm"  title="ã2024-05-26ãâäººå·¥æºè½å¨éèé¢åçåºç¨" target="_blank">ã2024-05-26ãâäººå·¥æºè½å¨éèé¢åçåºç¨</a></li>
+                                                
+                        
+                    </ul>
+                </div>
+
+            </div>
+			
+
+
+    <div class="newsright auto">
+        <div class="newsright_box1 fl">
+            <div class="title2">
+                <span>å½éäº¤æµ</span>
+                <a href="https://news.uibe.edu.cn/gjjl.htm" target="_blank">æ´å¤</a>
+            </div>
+
+            <div class="newsphoto">
+                <ul>
+                    
+                    <iframe src="https://news.uibe.edu.cn/zyqt/gjjl_zx.htm" style="border: 0;width:247px;margin-top:-8px"></iframe>
+
+                </ul>
+                <ol>
+                </ol>
+            </div>
+
+        </div>
+        <div class="newsright_box1 lastnwesright_box fl" style="display:none;">
+            <div class="title2">
+                <span>ç ¥ç ºå¥è¿</span>
+                <a href="https://news.uibe.edu.cn/ztlm/dsecddh/dlfjdmd.htm" target="_blank">æ´å¤</a>
+            </div>
+
+            <div class="newsphoto">
+                <ul>
+                    <iframe src="https://news.uibe.edu.cn/zyqt/dlfj_zx.htm"
+                        style="border: 0;width:247px;margin-top:-8px"></iframe>
+                </ul>
+                <ol>
+                </ol>
+            </div>
+
+        </div>
+
+        <div class="newsright_box2 fl">
+
+            <div class="title2">
+                <span>åªä½è´¸å¤§</span>
+                <a href="https://news.uibe.edu.cn/mtmd.htm" target="_blank">æ´å¤</a>
+            </div>
+            <ul class="list">
+
+                <iframe src="https://news.uibe.edu.cn/zyqt/mtmd_zx.htm" style="border: 0;width:285px;margin-top:-8px"></iframe>
+
+
+            </ul>
+        </div>
+
+        <div class="newsright_box3 fr">
+            <ul>
+                <li><a href="https://xxgk.uibe.edu.cn/" target="_blank">ä¿¡æ¯å¬å¼</a></li>
+                <li><a href="https://www.uibe.edu.cn/xwzx/tzgg/index.htm" target="_blank">éç¥å¬å</a></li>
+                <li><a href="https://www.uibe.edu.cn/ggzy/index.htm" target="_blank">å¬å±èµæº</a></li>
+                <li><a href="https://news.uibe.edu.cn/mtmd.htm" target="_blank">æ ¡å­åªä½</a></li>
+                <li><a href="http://zhaopin.uibe.edu.cn/" target="_blank">äººææè</a></li>
+                <li><a href="http://zhaobiao.uibe.edu.cn/" target="_blank">æ&nbsp;æ&nbsp;æ </a></li>
+         
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<!-- é¦é¡µbannerææ end-->
+<div class="content auto">
+    <div class="headerwrap auto" id="headerwrap5" style="top:-96px">
+        <div class="headerbot3 auto"></div>
+    </div>
+    <!--<img src="images/img1.png" class="conbg"/>  -->
+    <div class="connewscon auto">
+        <div class="connews auto">
+            <div class="Xq_news clearfix">
+                <div class="Xq_news_left fl">
+                    <div class="title1">
+                        <h3>æ»è¥¿é£æ</h3>
+                        <a href="dkzy/dxfq/index.htm" class="more">æ´å¤</a>
+                    </div>
+                    <ul class="list">
+                                                <li><a href="dkzy/dxfq/52521.htm" target="_blank">è¥¿åççº³è±è´«æ»åä»»å¡è°å·¨</a></li>
+                                                <li><a href="dkzy/dxfq/52519.htm" target="_blank">è¥¿åççº³ç¹äº§</a></li>
+                                                <li><a href="dkzy/dxfq/52518.htm" target="_blank">è¥¿åççº³è¿·äººçç­å¸¦é¨æé£æ</a></li>
+                                                <li><a href="dkzy/dxfq/52514.htm" target="_blank">è¥¿åççº³å·å·ææ¦è¦</a></li>
+                                            </ul>
+                </div>
+
+                <div class="Xq_news_right fr">
+                    <div class="title1">
+                        <h3>å¯¹å£æ¯æ´æ»è¥¿</h3>
+                        <a href="dkzy/dkzydx/index.htm" class="more">æ´å¤</a>
+                    </div>
+                    <ul class="list">
+                                                <li><a href="dkzy/dkzydx/52716.htm" target="_blank">èåºå²ä¹¦è®°å¨2017æè²é¨æ¶è´«å·¥ä½æ¨è¿ä¼ä¸ä»ç»ææ ¡æ¶è´«ç»éª</a></li>
+                                                <li><a href="dkzy/dkzydx/52527.htm" target="_blank">äºåçæè²åè´å½æè°¢ææ ¡æ»è¥¿æ¶è´«å·¥ä½</a></li>
+                                                <li><a href="dkzy/dkzydx/52526.htm" target="_blank">ææ ¡æ´è¾¹å¹²é¨æå«åç§¯ææ¨å¨è¥¿åççº³å»ºç«æ°ä¸»åæ´¾ç»ç»</a></li>
+                                                <li><a href="dkzy/dkzydx/52525.htm" target="_blank">ææ ¡æ´è¾¹å¹²é¨æå«åç§¯æåè° è¥¿åççº³æåç»å»ºææ¸¸è­¦å¯éä¼</a></li>
+                                                <li><a href="dkzy/dkzydx/52524.htm" target="_blank">æè²é¨ç½ï¼å¯¹å¤ç»æµè´¸æå¤§å­¦æ¶è´«å·¥ä½æåµ</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="connews2wrap auto">
+            <div class="connews2 auto index">
+                <div class="title3">
+                    <a href="https://news.uibe.edu.cn/uibenews/" target="_blank">
+                        <h3>è´¸å¤§æ°é»<font> UIBE NEWS</font>
+                        </h3>
+                    </a>
+                </div>
+                <div class="title3 mag1">
+                    <a href="xwzx/tzgg/index.htm" target="_blank">
+                        <h3>éç¥å¬å<font>ANNOUNCEMENT</font>
+                        </h3>
+                    </a>
+                </div>
+                <div class="title3 mag2">
+                    <a href="https://news.uibe.edu.cn/uibenews/10_sort.php?sortid=11 " target="_blank">
+                        <h3>äº¤æµåä½<font>COMMUNICATION</font>
+                        </h3>
+                    </a>
+                </div>
+                <div class="title3">
+                    <a href="https://news.uibe.edu .cn/uibenews/10_sort.php?sortid=659" target="_blank">
+                        <h3>åªä½è´¸å¤§<font> MEDIA</font>
+                        </h3>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="fix auto">
+   <!--<a href="https://news.uibe.edu.cn/jd100/index.htm" target="_blank" class="a1" style="height: 185px;top:275px;"></a> 
+   <a href="https://news.uibe.edu.cn/ddh/" target="_blank" class="a1" style="height: 180px;top:0;"></a> 
+     
+     <a href="https://news.uibe.edu.cn/ztjy/" target="_blank" class="a2" style="height: 195px;top:185px;"></a> -->
+    
+    <!--<a href="https://news.uibe.edu.cn/ztlm1/a2022ztbd/xxfyyqfkgzzt.htm" target="_blank" class="a3" style="top:460px;height: 275px;"></a>-->       
+    <a href="https://news.uibe.edu.cn/ztlm1/a2024ztbd/djxxjyzt.htm" target="_blank" class="a1" style="height: 268px;top:0;"></a> 
+            <a href=" https://news.uibe.edu.cn/xyesd/" target="_blank" class="a3" style="top:268px;height:304px;"></a>
+</div>
+
+
+<div class="fix auto" style="height:510px;display:none;">
+    <a href="https://www.uibe.edu.cn/xwzx/tzgg/68370.htm" target="_blank" class="a3"></a>
+    <a href="https://news.uibe.edu.cn/ztlm1/ztbd2018/a2018xsdjyzt.htm" target="_blank" class="a2"
+        style="top:110px;"></a>
+    <a href="https://www.uibe.edu.cn/ddk" target="_blank" class="a1" style="top:200px;"></a>
+</div>
+
+<div class="fix auto" style="height:510px;display:none;">
+    <a href="https://xgb.uibe.edu.cn/yxztw/" target="_blank" class="a3"></a>
+    <a href="https://news.uibe.edu.cn/ztlm/dsecddh.htm" target="_blank" class="a2" style="top:110px;"></a>
+    <a href="https://www.uibe.edu.cn/ddk" target="_blank" class="a1" style="top:200px;"></a>
+</div>
+
+<div class="fix auto" style="height:510px;display:none;">
+    <a href="https://news.uibe.edu.cn/ztlm/dsecddh.htm" target="_blank" class="a3"></a>
+    <a href="https://www.uibe.edu.cn/ddk" target="_blank" class="a2" style="top:110px;"></a>
+    <a href="javascript:;" class="a1" style="top:200px;"></a>
+</div>
+
+<div class="fix auto" style="display:none;">
+    <a href="https://www.uibe.edu.cn/ddk" target="_blank" class="a3"></a>
+    <a href="https://news.uibe.edu.cn/ztbd/ztbd2016/_lxyz_xxjyzt.htm" target="_blank" class="a2"
+        style="top:110px;"></a>
+    <a href="javascript:;" class="a1" style="top:200px;"></a>
+</div>
+
+<div class="fix auto" style="display:none;">
+
+    <a href="https://xgb.uibe.edu.cn/yxztw/" target="_blank" class="a3"></a>
+    <a href="zt/index.htm" target="_blank" class="a1"></a>
+    <a href="https://news.uibe.edu.cn/uibenews/10_sort.php?sortid=844" target="_blank" class="a2"></a>
+</div>
+
+<div class="fix auto" style="display:none;">
+    <a href="zt/index.htm" target="_blank" class="a3"></a>
+    <a href="javascript:;" class="a1"></a>
+    <a href="https://news.uibe.edu.cn/uibenews/10_sort.php?sortid=844" target="_blank" class="a2"></a>
+</div>
+
+<div class="ewm" style="bottom: 49px;">
+    <div class="ewm_box">
+        <a class="wx_btn"><img src="img/ewm1.png"></a>
+        <div class="eweima-h">
+            <a href="javascript:;" target="_blank"><img class="wx_img" src="img/dwjm-wxpic.jpg"></a>
+            <a href="https://weibo.com/UIBE" target="_blank"><img class="wx_img2" src="img/dwjm-weibopic.jpg"> </a>
+        </div>
+        <a class="msg_btn"><img src="img/ewm2.png"></a>
+        <div class="msg">
+            çæææï¼å¯¹å¤ç»æµè´¸æå¤§å­¦ äº¬å¬ç½å®å¤11010502040904å· <a target="_blank" href="https://beian.miit.gov.cn" style="color:#000;background:#fff;font-size:12px;">äº¬ICPå¤12016111å·-6</a>
+        </div>
+    </div>
+</div>
+
+<div class="dyjm_footers">
+<a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502040904">
+    <img src="img/jinhui.png" style="float:left;">
+    <p>äº¬å¬ç½å®å¤ 11010502040904å·</p>
+</a>
+<a target="_blank" href="https://beian.miit.gov.cn/" style="margin-left:10px;">äº¬ICPå¤12016111å·-6</a>
+</div>
+</div>
+<script type="text/javascript" src="js/mobile_nav.js"></script>
+<script type="text/javascript" src="js/jquery.SuperSlide.2.1.2.js"></script>
+<!--<script type="text/javascript">
+jQuery(".schoolDay").slide({effect:"leftLoop",autoPlay:true,delayTime:500,interTime:4000});
+jQuery.ajax({
+    url: '/wm/api/visit/write/site',
+    type: 'get',
+    data: {
+        siteID: '6522560e9c1445e792da98bc9a86512b'
+    }
+})
+</script>
+<script type="text/javascript">
+jQuery.ajax({
+    url: '/wm/api/visit/write/channel',
+    type: 'get',
+    data: {
+        siteID: '6522560e9c1445e792da98bc9a86512b',
+        channelID:'4203',
+        channelName:encodeURIComponent("é¦é¡µ")
+    }
+})
+</script>-->
+ <script src="2023shouyejs/scrollBar.js"></script>
+    <script>
+        $(function () {
+            $(".scrollBox").scrollBar();
+
+            // $("#btn1").click(function () {
+            //     $("#box1 .contentBox1").height($("#box1 .contentBox1").height());
+            // });
+            // $("#btn2").click(function () {
+            //     $("#box1 .contentBox1").height(900);
+            // });
+        })
+    </script><script type='text/javascript' src='g_style/g_index.js'></script>
+</body></html>

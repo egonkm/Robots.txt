@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /just-hire/
+Disallow: /hrFrontend/
+Disallow: /hrManagement/
+Disallow: /hrd/
+Disallow: /hrc/
+Disallow: /api/
+Disallow: /strategy-board/
+Disallow: /apply/
+Disallow: /apply-choice*
+Disallow: /rest/
+Disallow: /*/widgets/
+Disallow: /wicket/bookmarkable/

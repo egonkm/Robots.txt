@@ -1,0 +1,48 @@
+User-Agent: *
+Disallow:
+
+# (start) suspicious bot list
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: Ezooms
+Disallow: /
+User-agent: SolomonoBot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: LinkpadBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: prodvigator
+Disallow: /
+User-agent: prodvigatorBot
+Disallow: /
+User-agent: SurveyBot
+Disallow: /
+User-agent: Alexibot
+Disallow: /
+User-agent: Xenu
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: Serpstat
+Disallow: /
+# (end) suspicious bot listUser-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/wp-import-export-lite/

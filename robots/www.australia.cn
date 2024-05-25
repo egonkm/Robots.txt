@@ -1,0 +1,13 @@
+User-agent: * 
+Disallow: */search.html?q=*
+Disallow: /*.pdf$
+Disallow: */pdf/*
+Disallow: /global-master/*
+Disallow: /cn/*
+Disallow: */test-content/*
+Disallow: */test-pages/*
+Disallow: https://www.australia.cn/zh-cn/404.html
+Disallow: https://www.australia.cn/zh-cn/atdw/
+Sitemap: https://www.australia.cn/zh-cn/sitemap.xml
+Sitemap: https://www.australia.cn/zh-cn/video-sitemap.xml
+

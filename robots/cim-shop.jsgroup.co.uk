@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /xt_*
+Disallow: /Mailouts*
+User-agent: SemrushBot
+Disallow: /
+

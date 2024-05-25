@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /__data/assets/git_bridge/0003/2004267/build/manifest.json
+Disallow: /__data/assets/git_bridge/0008/2190491/build/

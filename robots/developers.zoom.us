@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://developers.zoomgov.com
+
+# Sitemaps
+Sitemap: https://developers.zoomgov.com/sitemap-zfg.xml

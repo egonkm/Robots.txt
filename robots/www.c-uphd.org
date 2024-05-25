@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /classes/
+Disallow: /includes/
+Disallow: /images/
+Disallow: /emergency-preparedness/
+Disallow: /rss/
+Disallow: /documents/admin/CUPHD_Org_Chart.pdf
+Disallow: /piwik/
+Disallow: /matomo/
+Disallow: /calendar/
+Disallow: /stats/
+Disallow: /news/

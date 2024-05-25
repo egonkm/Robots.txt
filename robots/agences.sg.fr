@@ -1,0 +1,15 @@
+
+User-agent: *
+Disallow: /mapimages/
+
+
+
+User-agent: *
+Allow: /banque-assurance/Allow: /banque-assurances/
+Sitemap: https://agences.sg.fr/banque-assurance/sitemap_index.xml
+
+User-agent: *
+Allow: /$
+Allow: /datas/
+Allow: /global/
+Disallow: /

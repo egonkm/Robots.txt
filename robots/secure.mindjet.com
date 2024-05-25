@@ -1,0 +1,20 @@
+User-agent: *
+
+Sitemap: http://www.mindjet.com/sitemap.xml
+Disallow: /img.aspx
+Disallow: /accounts/
+Disallow: /WebApp/app/
+Disallow: /WebApp/campaign/
+Disallow: /WebApp/controls/
+Disallow: /WebApp/forms/
+Disallow: /WebApp/myaccount/
+Disallow: /WebApp/payment
+Disallow: /forms/forms.aspx
+Disallow: /styles/
+Disallow: /media/
+Disallow: /about/press/releases/WebForm1.aspx
+Disallow: /about/press/WebForm3.aspx
+Disallow: /resources/reading/connections/WebForm1.aspx
+Disallow: /app/
+Disallow: /mjc/
+Disallow: /support/forum/

@@ -1,0 +1,11 @@
+<html lang="de">
+    <head>
+        <title>403</title>
+        <script>
+            window.location.assign('/zeit-verlagsgruppe')
+        </script>
+    </head>
+    <body>
+        <a href="/zeit-verlagsgruppe">Datenschutzseite des Zeitverlags</a>
+    </body>
+</html>

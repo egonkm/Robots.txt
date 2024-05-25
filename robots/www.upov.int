@@ -1,0 +1,23 @@
+# robots.txt for https://www.upov.int/
+User-agent: *
+Disallow: /export/sites/upov/shared
+Disallow: /export/sites/www/shared
+Disallow: /export/system
+Disallow: /geniews
+Disallow: /genie
+Disallow: /system
+Disallow: /images
+Disallow: /shared
+Disallow: /restrict
+Disallow: /restricted
+Disallow: /restricted_temporary
+Disallow: /edocs/traindocs
+Disallow: /edocs/mdocs/upov/*/cc_
+Disallow: /upovprisma/en/upovprismatool
+Disallow: /upovprisma/en/upovprisma.html
+Disallow: /upovprisma/es/upovprismatool
+Disallow: /upovprisma/es/upovprisma.html
+Disallow: /upovprisma/fr/upovprismatool
+Disallow: /upovprisma/fr/upovprisma.html
+Disallow: /upovprisma/de/upovprismatool
+Disallow: /upovprisma/de/upovprisma.html

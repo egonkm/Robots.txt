@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin.php
+
+Sitemap: https://nextcity.org/sitemap
+Sitemap: https://nextcity.org/sitemap/news

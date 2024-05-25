@@ -1,0 +1,13 @@
+#
+# The robots_mask.txt will be rewritten to robots.txt for ulr's we want to hide
+# from search engines and crawlers.
+#
+
+User-agent: *
+Disallow: /
+
+User-agent: paddlebot
+Allow: /
+
+User-agent: rogerbot
+Allow: /

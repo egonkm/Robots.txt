@@ -1,0 +1,31 @@
+## whitelist user agents / pages to visit for app-paths
+
+User-agent: Googlebot
+Allow: /app/
+Disallow: /*.integrator-includes.txt
+Disallow: /*.integrator-includes.json
+
+User-agent: Slurp
+Allow: /app/
+Disallow: /*.integrator-includes.txt
+Disallow: /*.integrator-includes.json
+
+User-Agent: Bingbot
+Allow: /app/
+Disallow: /*.integrator-includes.txt
+Disallow: /*.integrator-includes.json
+
+User-Agent: msnbot
+Allow: /app/
+Disallow: /*.integrator-includes.txt
+Disallow: /*.integrator-includes.json
+
+### default block
+User-agent: *
+Disallow: /app/
+Disallow: /*notification
+Disallow: /*.integrator-includes.txt
+Disallow: /*.integrator-includes.json
+
+### sitemap
+Sitemap: https://www.volkswagen.fr/idhub/content/dam/technical/sitemap/onehub-fr-manual-pc.xml

@@ -1,0 +1,11 @@
+# robots.txt for Umbraco
+User-agent: *
+Sitemap: http://www.politicheeuropee.gov.it/sitemapxml
+Disallow: /App_Browsers/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+Disallow: /views/

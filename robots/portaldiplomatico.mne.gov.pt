@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /api/
+Disallow: /cache/
+
+User-Agent: Googlebot
+Allow: *.js
+Allow: *.css
+
+User-Agent: Twitterbot
+Allow: /media/*.png
+Allow: /media/*.jpg
+Allow: /templates/*.png
+Allow: /templates/*.jpg
+
+User-Agent: facebookexternalhit
+Allow: /media/*.png
+Allow: /media/*.jpg
+Allow: /templates/*.png
+Allow: /templates/*.jpg
+
+Sitemap: https://portaldiplomatico.mne.gov.pt/sitemap.xml

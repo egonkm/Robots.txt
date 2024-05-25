@@ -1,0 +1,32 @@
+# All spiders are disallowed to access all static resources
+User-agent: *
+Disallow: *search?q*
+Disallow: *?srule=best-matches*
+Disallow: *?srule=price-low-to-high*
+Disallow: *?srule=price-high-to-low*
+Disallow: *?srule=product-name-ascending*
+Disallow: *?srule=product-name-descending*
+Disallow: *?srule=top-sellers*
+Disallow: /*prefn1*
+Disallow: /*prefv1*
+Disallow: /*prefn2*
+Disallow: /*prefv2*
+Disallow: /*prefn3*
+Disallow: /*prefv3*
+Disallow: /*prefn4*
+Disallow: /*prefv4*
+Disallow: /*srule*
+Disallow: /*pmax*
+Disallow: /*pmin*
+Disallow: *?sz=128*
+Disallow: /*currentCountryCode*
+Disallow: /*currentLocale*
+Disallow: /*geolocataedCountryCode*
+Disallow: /*urlAction*
+Disallow: /*pid*
+Disallow: /*Quantity*
+Disallow: /*format*
+Disallow: /*productlistid*
+Disallow: /on/demandware.store/
+
+Sitemap: https://store.inter.it/it-it/sitemap_index.xml

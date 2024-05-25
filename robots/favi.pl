@@ -1,0 +1,27 @@
+Sitemap: https://favi.pl/sitemap/sitemap-index.xml
+
+User-agent: *
+Disallow: /produkty/kupowac/
+Disallow: /produkty*darmowaWysylka=
+Disallow: /produkty*cenaOd=
+Disallow: /produkty*cenaDo=
+Disallow: /produkty*rozmiar[*]=
+Disallow: /produkty*filtry=
+Disallow: /produkty*color=
+Disallow: /produkty*feature1=
+Disallow: /produkty*feature2=
+Disallow: /produkty*feature3=
+Disallow: /produkty*feature4=
+Disallow: /produkty*feature5=
+Disallow: /produkty*feature6=
+Disallow: /produkty*feature7=
+Disallow: /produkty*feature8=
+Disallow: /produkty*feature9=
+Disallow: /produkty*feature10=
+Disallow: /produkty*luxury=
+Disallow: /produkty*priceFrom=
+Disallow: /produkty*priceTo=
+Disallow: /produkty*sort=
+Disallow: /produkty*style=
+Disallow: /dodaj-recenzje/*
+Disallow: /profil/

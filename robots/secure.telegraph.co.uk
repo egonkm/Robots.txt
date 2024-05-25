@@ -1,0 +1,44 @@
+# Production Robots.txt file for secure.telegraph.co.uk
+# All robots will spider the domain
+
+
+User-agent: *
+Disallow: /
+Disallow: /*?*
+
+Allow: /customer/secure/login/$
+Allow: /customer/subscribe/offers/int/$
+Allow: /customer/secure/newsletter/brexit-bulletin/$
+Allow: /customer/secure/newsletter/technology-intelligence/$
+Allow: /customer/secure/newsletter/investor/$
+Allow: /customer/secure/newsletter/health$
+Allow: /customer/secure/newsletter/front-bench/$
+Allow: /customer/secure/newsletter/football-nerd$
+Allow: /customer/secure/newsletter/global-health-security$
+Allow: /customer/secure/newsletter/cars$
+Allow: /customer/secure/newsletter/business-briefing$
+Allow: /customer/secure/newsletter/from-the-editor/$
+Allow: /customer/secure/newsletter/fashion$
+Allow: /customer/secure/newsletter/culture/$
+Allow: /customer/secure/newsletter/money2$
+Allow: /customer/secure/newsletter/travel$
+Allow: /customer/secure/newsletter/ski-snowboard$
+Allow: /customer/secure/newsletter/sports-premium$
+Allow: /customer/secure/newsletter/front-page$
+Allow: /customer/secure/newsletter/puzzles$
+Allow: /customer/secure/newsletter/cricket-nerd$
+Allow: /customer/secure/newsletter/bookshop/$
+Allow: /customer/secure/newsletter/travel-deals/$
+Allow: /customer/secure/newsletter/telegraph-events/$
+Allow: /customer/secure/newsletter/garden$
+Allow: /customer/secure/newsletter/shop/$
+Allow: /customer/secure/newsletter/tickets/$
+Allow: /customer/secure/newsletter/travel-solutions/$
+Allow: /customer/secure/newsletter/cookbook$
+Allow: /customer/secure/newsletter/gardening$
+Allow: /customer/secure/newsletter/other-news$
+Allow: /customer/secure/newsletter/promotions/$
+Allow: /customer/secure/newsletter/talking-tv$
+Allow: /customer/secure/newsletter/dispatches$
+Allow: /customer/secure/newsletter/news-headlines/$
+Allow: /customer/secure/newsletter/football-headlines/$

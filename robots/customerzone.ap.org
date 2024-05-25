@@ -1,0 +1,4 @@
+
+User-agent: *
+Disallow: */secur/forgotpassword.jsp?*
+Disallow: /cz/s/profile/*/

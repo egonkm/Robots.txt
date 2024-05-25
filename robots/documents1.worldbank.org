@@ -1,0 +1,3 @@
+# robots.txt for http://documents.worldbank.org
+User-agent: *
+Sitemap: http://documents.worldbank.org/sitemap.xml

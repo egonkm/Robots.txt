@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /digital/search/
+Disallow: /digital/collection/p16009coll6/search/
+Disallow: /digital/collection/p16009coll4/search/
+Disallow: /digital/collection/p15421coll1/search/
+Disallow: /digital/collection/p15421coll5/search/
+Disallow: /digital/collection/p16009coll19/search/
+Disallow: /digital/collection/p16009coll75/search/
+Disallow: /digital/collection/p16009coll56/search/
+Disallow: /digital/collection/p16009coll47/search/
+Disallow: /digital/collection/p16009coll22/search/
+Disallow: /digital/collection/p16009coll5/search/
+Disallow: /digital/collection/p16009coll3/search/
+Disallow: /digital/collection/p16009coll25/search/
+Disallow: /digital/collection/p16009coll2/search/
+Disallow: /digital/collection/p15421coll3/search/
+Disallow: /digital/collection/p16009coll71/search/
+Disallow: /digital/collection/p16009coll10/search/
+Disallow: /digital/collection/p16009coll67/search/
+Disallow: /digital/collection/p16009coll1/search/
+Disallow: /digital/collection/p16009coll44/search/
+Disallow: /digital/collection/p16009coll51/search/
+Disallow: /digital/collection/p15421cdi/search/
+Disallow: /digital/collection/p16009coll7/search/
+Disallow: /digital/collection/p16009coll9/search/
+Disallow: /digital/collection/search/
+Disallow: /cdm/search/
+Disallow: /config/
+Disallow: /error/
+Disallow: /results/
+Disallow: /utils/
+Disallow: /oai/
+Disallow: /ui/
+Allow: /ui/custom/
+Crawl-Delay: 1
+
+Sitemap: http://nistdigitalarchives.contentdm.oclc.org/sitemap.xml
+
+

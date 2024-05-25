@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>Custom 404 Error Page</title>
+
+    <script src="//assets.adobedtm.com/f740f8a20d94/1dcfc2687ba3/launch-9227a8742d03.min.js" async></script>
+    <script type="text/javascript" src="/palogin/js/web_analytics.js"></script>
+    <script type="text/javascript">
+        track('custom_404_error', 292, 'iamlogin', '404');
+    </script>
+
+</head>
+
+<body>
+<h1 style='color:red'>Error 404: Not found</h1>
+<p>Are you sure you typed in the correct URL?</p>
+
+</body>
+</html>

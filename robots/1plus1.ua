@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.css
+Allow: /*.png
+Allow: /*.js
+Allow: /*.webp
+Allow: /image/cache/
+Disallow: *.php
+Disallow: /search
+Disallow: /api
+Sitemap: https://1plus1.ua/sitemap.xml
+Host: 1plus1.ua

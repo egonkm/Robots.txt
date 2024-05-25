@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /educt-aide/aide
+Noindex: /educt-aide/aide
+Disallow: /*idp$

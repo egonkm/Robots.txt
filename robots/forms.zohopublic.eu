@@ -1,0 +1,8 @@
+# ------------------------------------------
+# ZOHO Corp. -- http://www.zoho.com
+# Robot Exclusion File -- robots.txt
+# Author:  Webmaster
+# Last Updated:  10/02/11 
+# ------------------------------------------
+User-agent: *
+Disallow: /

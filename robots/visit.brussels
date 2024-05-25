@@ -1,0 +1,28 @@
+#Allow Google
+User-agent: Googlebot
+Allow: /
+Disallow: */sandbox
+Disallow: */api
+
+#Allow Bing
+User-agent: Bingbot
+Allow: /
+Disallow: */sandbox
+Disallow: */api
+
+#Allow Facebook
+User-agent: facebookexternalhit
+Allow: /
+Disallow: */sandbox
+Disallow: */api
+
+#Disallow every other bot
+User-agent: *
+Disallow: /
+
+Sitemap: https://www.visit.brussels/en/sitemap.xml
+Sitemap: https://www.visit.brussels/fr/sitemap.xml
+Sitemap: https://www.visit.brussels/nl/sitemap.xml
+Sitemap: https://www.visit.brussels/de/sitemap.xml
+Sitemap: https://www.visit.brussels/es/sitemap.xml
+Sitemap: https://www.visit.brussels/it/sitemap.xml

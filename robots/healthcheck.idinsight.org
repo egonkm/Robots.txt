@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://healthcheck.idinsight.org/sitemap.xml
+Sitemap: https://healthcheck.idinsight.org/sitemap.rss
+

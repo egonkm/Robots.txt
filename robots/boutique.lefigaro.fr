@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://boutique.lefigaro.fr/sitemap.xml.gz

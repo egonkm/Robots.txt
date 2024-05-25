@@ -1,0 +1,1555 @@
+<!doctype html>
+<html lang="de-DE">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<title>Jobs &#8211; Karriere.de</title>
+	<meta property="og:locale" content="de_DE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Jobs &#8211; Karriere.de" />
+	<meta property="og:url" content="https://www.karriere.de/jobs/" />
+	<meta property="og:site_name" content="Karriere.de" />
+	<meta property="article:modified_time" content="2021-12-17T08:24:23+00:00" />
+	<meta property="og:image" content="https://www.karriere.de/wp-content/uploads/2021/11/karriere.de_-e1639415937836.jpg" />
+	<meta property="og:image:width" content="1017" />
+	<meta property="og:image:height" content="447" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.karriere.de/jobs/","url":"https://www.karriere.de/jobs/","name":"Jobs &#8211; Karriere.de","isPartOf":{"@id":"https://www.karriere.de/#website"},"primaryImageOfPage":{"@id":"https://www.karriere.de/jobs/#primaryimage"},"image":{"@id":"https://www.karriere.de/jobs/#primaryimage"},"thumbnailUrl":"https://www.karriere.de/wp-content/uploads/2021/11/karriere.de_-e1639415937836.jpg","datePublished":"2021-11-22T17:36:14+00:00","dateModified":"2021-12-17T08:24:23+00:00","breadcrumb":{"@id":"https://www.karriere.de/jobs/#breadcrumb"},"inLanguage":"de-DE","potentialAction":[{"@type":"ReadAction","target":["https://www.karriere.de/jobs/"]}]},{"@type":"ImageObject","inLanguage":"de-DE","@id":"https://www.karriere.de/jobs/#primaryimage","url":"https://www.karriere.de/wp-content/uploads/2021/11/karriere.de_-e1639415937836.jpg","contentUrl":"https://www.karriere.de/wp-content/uploads/2021/11/karriere.de_-e1639415937836.jpg","width":1017,"height":447},{"@type":"BreadcrumbList","@id":"https://www.karriere.de/jobs/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.karriere.de/"},{"@type":"ListItem","position":2,"name":"Jobs"}]},{"@type":"WebSite","@id":"https://www.karriere.de/#website","url":"https://www.karriere.de/","name":"Karriere.de","description":"Das Erfolgsportal","publisher":{"@id":"https://www.karriere.de/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.karriere.de/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"de-DE"},{"@type":"Organization","@id":"https://www.karriere.de/#organization","name":"Karriere.de","url":"https://www.karriere.de/","logo":{"@type":"ImageObject","inLanguage":"de-DE","@id":"https://www.karriere.de/#/schema/logo/image/","url":"https://www.karriere.de/wp-content/uploads/2021/12/Job-Karriere.de_.jpeg","contentUrl":"https://www.karriere.de/wp-content/uploads/2021/12/Job-Karriere.de_.jpeg","width":608,"height":187,"caption":"Karriere.de"},"image":{"@id":"https://www.karriere.de/#/schema/logo/image/"}}]}</script>
+
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 14px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='karriere_styles-css' href='https://www.karriere.de/wp-content/themes/karriere/dist/css/style.css?id=19a1201b84014e84e32fc0d9bc6d4917' type='text/css' media='all' />
+<link rel='stylesheet' id='borlabs-cookie-css' href='https://www.karriere.de/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=2.2.67-31' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://www.karriere.de/wp-json/" /><link rel="alternate" type="application/json" href="https://www.karriere.de/wp-json/wp/v2/pages/14998" /><style type="text/css">.eafl-disclaimer-small{font-size:.8em}.eafl-disclaimer-smaller{font-size:.6em}</style>    <script>
+        var appLocations = {
+    "admin_ajax": "https:\/\/www.karriere.de\/wp-admin\/admin-ajax.php",
+    "themeUrl": "https:\/\/www.karriere.de\/wp-content\/themes\/karriere",
+    "siteUrl": "https:\/\/www.karriere.de",
+    "searchNonce": "770950ca62",
+    "compareNonce": "5eeb2e36a0"
+};
+    </script>
+    <link rel="icon" href="https://www.karriere.de/wp-content/uploads/2021/11/cropped-android-chrome-512x512-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.karriere.de/wp-content/uploads/2021/11/cropped-android-chrome-512x512-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.karriere.de/wp-content/uploads/2021/11/cropped-android-chrome-512x512-2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.karriere.de/wp-content/uploads/2021/11/cropped-android-chrome-512x512-2-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.postid-15069 #breadcrumbs, .postid-15069 .c-social-share, .postid-15069 .s-related-posts, .postid-15069 .text-violet-100, .postid-15056 #breadcrumbs, .postid-15056 .c-social-share, .postid-15056 .s-related-posts, .postid-15056 .text-violet-100 {
+	display:none !important;
+}
+@media only screen and (min-width: 767px){
+.cta_box {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+}
+.cta_box {
+    border: 1px solid #f2f2f2;
+    margin-bottom: 20px;
+}
+.cta_box .wp-block-media-text__media img {
+    margin: auto;
+    display: block;
+    max-width: 100%;
+    width: auto !important;
+    height: auto;
+}
+.cta_box .wp-block-buttons {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+@media only screen and (max-width: 766px){
+.cta_box .wp-block-media-text__media img {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.cta_box .wp-block-buttons {
+	justify-content: center;
+    align-items: center;
+	}
+	.cta_box p{
+		padding-left: 37px;
+	}
+}
+@media only screen and (min-width: 767px){
+.tipp_box p{
+	margin-bottom: 0px;
+}
+}
+@media only screen and (min-width: 1420px){
+	.cta_box_con{
+left: -340px !important;
+    position: relative;
+    float: left;
+}	
+	}
+.cta_box_con .o-teaser-stage__title{
+	max-width:630px;
+}
+p.has-background {
+    padding: 20px;
+}
+#compare-page-link{
+	display:none;
+}
+.text-violet-100 {
+    --tw-text-opacity: 1!important;
+    color: rgba(183,186,208,var(--tw-text-opacity))!important;
+    display: none;
+}
+.s-post .wp-block-yoast-faq-block .schema-faq-answer{
+	font-size:1rem;
+}
+.acf-button{
+	margin-bottom:20px;
+}		</style>
+		</head>
+
+<body data-rsssl=1 class="page-template page-template-templates page-template-template-jobs page-template-templatestemplate-jobs-php page page-id-14998 wp-custom-logo">
+    
+    <div id="page" class="site flex-col min-h-screen flex">
+
+        <header class="o-header js--main-header">
+            <div class="o-header__main">
+    <div class="container">
+        <div class="flex items-center justify-between">
+            <div class="o-header__logo w-auto">
+                <a href="https://www.karriere.de/" class="custom-logo-link" rel="home"><img width="106" height="28" src="https://www.karriere.de/wp-content/uploads/2021/09/logo.svg" class="custom-logo" alt="karriere.de" decoding="async" /></a>            </div>
+            <div class="js--main-menu flex-grow pl-col absolute min-w-261 top-0 z-50 bg-white h-screen pt-60 shadow md:pt-0 md:h-full md:relative md:shadow-none md:ml-40">
+                    <div class="c-main-menu overflow-y-auto overflow-x-hidden h-full md:overflow-y-visible md:overflow-x-visible">
+        <nav class="c-main-menu__container"><ul id="primary-menu" class="c-main-menu__list md:flex md:flex-wrap md:justify-end"><li id="menu-item-20194" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14998 current_page_item menu-item-20194"><a href="https://www.karriere.de/jobs/" aria-current="page">Jobs</a></li>
+<li id="menu-item-20195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20195"><a href="https://www.karriere.de/hochschulen/">Hochschulen</a></li>
+<li id="menu-item-20196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20196"><a href="https://www.karriere.de/studiengaenge/">Studiengänge</a></li>
+<li id="menu-item-20197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20197"><a href="https://www.karriere.de/blog/">Blog</a></li>
+<li class="spec"><a id="compare-page-link" href="https://www.karriere.de/vergleichen/">Vergleichen</a></li></ul></nav>    </div>
+            </div>
+            <div class="header__menu-bg"></div>
+            <div class="burger md:hidden">
+                <div class="burger-line"></div>
+            </div>
+        </div>
+
+    </div>
+</div>        </header>
+
+        <div id="content" class="site-content flex-1 relative">
+    <main id="main" role="main" tabindex="-1">
+
+        
+<section class="mb-100">
+    <div class="md:hidden h-282 bg-center" style="background-image:url('https://www.karriere.de/wp-content/uploads/2021/10/search-header-bg.png')">
+    </div>
+    <div class="bg-cover bg-center md:pt-100 lg:pt-116 md:pb-90 lg:pb-60" style="background-image:url('https://www.karriere.de/wp-content/uploads/2021/10/search-header-bg.png')">
+        <div class="md:container">
+            <form class="c-form mx-auto px-16 md:px-32 py-40 md:py-48 lg:py-52 lg:px-40 md:-mt-48 lg:-mt-56 shadow bg-white space-y-16 md:space-y-0 md:space-x-16 md:flex" style="max-width: 970px;"
+      method="POST">
+    <div class="w-auto flex-grow">
+        <input type="text" id="job_keyword" name="job_keyword" autocomplete="off"
+               placeholder="Jobtitel, Kompetenz oder Firmenname"
+               value="">
+    </div>
+    <div class="md:w-3/12">
+        <input type="text" id="city" name="location_auto_search" class="JS--location-autocomplete"
+               placeholder="Stadt oder PLZ"
+               value="">
+    </div>
+    <div>
+                                <button type="submit">Suche</button>
+    </div>
+</form>        </div>
+    </div>
+</section>        <div class="js--tabs">
+            <div class="container">
+                <ul class="js--tabs__captions flex justify-center">
+                    <li class="js--tabs__caption c-tabs__caption relative w-1/2 lg:w-1/3 pb-24 px-4 text-sm leading-12 font-medium text-center transition duration-200 cursor-pointer hover:text-blue active:opacity-70 disabled:text-grey is-active text-blue">
+                        Jobs
+                    </li>
+                </ul>
+            </div>
+            <div class="js--tabs__content">
+                <section class="jobs-filter-area mb-150">
+    <div class="container">
+        
+        <div class="lg:grid grid-cols-4 gap-20 lg:mt-60">
+            <div class="lg:hidden my-48">
+                <div class="js--tabs__filter-btn flex gap-3 justify-center items-center text-base leading-12 font-semibold text-blue cursor-pointer">
+                    Filter                      <svg class="" width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M7.90197 2.10542C7.77126 1.96486 7.5592 1.96486 7.42849 2.10542L4 6.10486L0.571519 2.10542C0.440813 1.96486 0.228735 1.96486 0.0980293 2.10542C-0.0326764 2.24597 -0.0326764 2.47394 0.0980293 2.61448L3.74643 6.89746C3.81612 6.97238 3.90881 7.00448 3.99984 6.9995C4.09119 7.00448 4.18357 6.97238 4.25325 6.89746L7.90198 2.6141C8.03267 2.47358 8.03267 2.24597 7.90197 2.10542Z" fill="currentColor"/>
+                    </svg>                </div>
+            </div>
+            <div class="js--tabs__filter-menu hidden lg:block lg:relative lg:w-full lg:h-auto col-span-1 bg-white">
+                <div class="js--tabs__filter-title hidden lg:hidden flex justify-between items-center p-32 border-b border-blue-100">
+                    <div class="text-lg leading-12 font-medium">
+                        Filter                    </div>
+                    <div class="js--tabs__filter-close text-dark cursor-pointer">
+                         <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M13.4659 12.0136L19.6959 5.78336C20.1014 5.3781 20.1014 4.72287 19.6959 4.31761C19.2907 3.91236 18.6355 3.91236 18.2302 4.31761L11.9999 10.5479L5.76983 4.31761C5.36439 3.91236 4.70934 3.91236 4.30408 4.31761C3.89864 4.72287 3.89864 5.3781 4.30408 5.78336L10.5342 12.0136L4.30408 18.2439C3.89864 18.6492 3.89864 19.3044 4.30408 19.7096C4.50605 19.9118 4.7716 20.0133 5.03696 20.0133C5.30232 20.0133 5.56768 19.9118 5.76983 19.7096L11.9999 13.4794L18.2302 19.7096C18.4323 19.9118 18.6977 20.0133 18.9631 20.0133C19.2284 20.0133 19.4938 19.9118 19.6959 19.7096C20.1014 19.3044 20.1014 18.6492 19.6959 18.2439L13.4659 12.0136Z" fill="currentColor"/>
+            </svg>                    </div>
+                </div>
+                <div class="p-16">
+                    <form method="POST" id="jobs-filter">
+    <div class="c-accordion">
+    <div class="c-accordion__title-filter js--accordion-title mb-20 flex gap-3 cursor-pointer">
+          <svg class="" width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M7.90197 2.10542C7.77126 1.96486 7.5592 1.96486 7.42849 2.10542L4 6.10486L0.571519 2.10542C0.440813 1.96486 0.228735 1.96486 0.0980293 2.10542C-0.0326764 2.24597 -0.0326764 2.47394 0.0980293 2.61448L3.74643 6.89746C3.81612 6.97238 3.90881 7.00448 3.99984 6.9995C4.09119 7.00448 4.18357 6.97238 4.25325 6.89746L7.90198 2.6141C8.03267 2.47358 8.03267 2.24597 7.90197 2.10542Z" fill="currentColor"/>
+                    </svg>        <h5 class="flex-1 font-base leading-14 font-semibold lg:font-medium">Jobkategorien:</h5>
+    </div>
+    <div class="c-accordion__content-filter js--accordion-content pl-3">
+                            <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="10000000"  id="category-10000000" class="mt-1 flex-shrink-0">
+                <label for="category-10000000" class="text-2sm leading-12 cursor-pointer">
+                    Ingenieure und technische Berufe                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="13000000"  id="category-13000000" class="mt-1 flex-shrink-0">
+                <label for="category-13000000" class="text-2sm leading-12 cursor-pointer">
+                    Naturwissenschaften und Forschung                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="1000000"  id="category-1000000" class="mt-1 flex-shrink-0">
+                <label for="category-1000000" class="text-2sm leading-12 cursor-pointer">
+                    IT                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="27000000"  id="category-27000000" class="mt-1 flex-shrink-0">
+                <label for="category-27000000" class="text-2sm leading-12 cursor-pointer">
+                    Ärzte                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="2000000"  id="category-2000000" class="mt-1 flex-shrink-0">
+                <label for="category-2000000" class="text-2sm leading-12 cursor-pointer">
+                    Vertrieb und Verkauf                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="26000000"  id="category-26000000" class="mt-1 flex-shrink-0">
+                <label for="category-26000000" class="text-2sm leading-12 cursor-pointer">
+                    Pflege, Therapie und Assistenz                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="6000000"  id="category-6000000" class="mt-1 flex-shrink-0">
+                <label for="category-6000000" class="text-2sm leading-12 cursor-pointer">
+                    Marketing und Kommunikation                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="22000000"  id="category-22000000" class="mt-1 flex-shrink-0">
+                <label for="category-22000000" class="text-2sm leading-12 cursor-pointer">
+                    Bildung und Soziales                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="4000000"  id="category-4000000" class="mt-1 flex-shrink-0">
+                <label for="category-4000000" class="text-2sm leading-12 cursor-pointer">
+                    Finanzen                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="17000000"  id="category-17000000" class="mt-1 flex-shrink-0">
+                <label for="category-17000000" class="text-2sm leading-12 cursor-pointer">
+                    Öffentlicher Dienst                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="3000000"  id="category-3000000" class="mt-1 flex-shrink-0">
+                <label for="category-3000000" class="text-2sm leading-12 cursor-pointer">
+                    Banken, Finanzdienstleister und Versicherungen                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="12000000"  id="category-12000000" class="mt-1 flex-shrink-0">
+                <label for="category-12000000" class="text-2sm leading-12 cursor-pointer">
+                    Recht                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="8000000"  id="category-8000000" class="mt-1 flex-shrink-0">
+                <label for="category-8000000" class="text-2sm leading-12 cursor-pointer">
+                    Einkauf, Materialwirtschaft und Logistik                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="14000000"  id="category-14000000" class="mt-1 flex-shrink-0">
+                <label for="category-14000000" class="text-2sm leading-12 cursor-pointer">
+                    Gesundheit, Soziales & Fitness                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="21000000"  id="category-21000000" class="mt-1 flex-shrink-0">
+                <label for="category-21000000" class="text-2sm leading-12 cursor-pointer">
+                    Design, Gestaltung und Architektur                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="5000000"  id="category-5000000" class="mt-1 flex-shrink-0">
+                <label for="category-5000000" class="text-2sm leading-12 cursor-pointer">
+                    Personal                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="19000000"  id="category-19000000" class="mt-1 flex-shrink-0">
+                <label for="category-19000000" class="text-2sm leading-12 cursor-pointer">
+                    Medien & Information                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="9000000"  id="category-9000000" class="mt-1 flex-shrink-0">
+                <label for="category-9000000" class="text-2sm leading-12 cursor-pointer">
+                    Handwerk, Dienstleistung und Fertigung                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="7000000"  id="category-7000000" class="mt-1 flex-shrink-0">
+                <label for="category-7000000" class="text-2sm leading-12 cursor-pointer">
+                    Administration und Sekretariat                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="11000000"  id="category-11000000" class="mt-1 flex-shrink-0">
+                <label for="category-11000000" class="text-2sm leading-12 cursor-pointer">
+                    Führungskräfte                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="15000000"  id="category-15000000" class="mt-1 flex-shrink-0">
+                <label for="category-15000000" class="text-2sm leading-12 cursor-pointer">
+                    Unterkunft, Bewirtung & Tourismus                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="16000000"  id="category-16000000" class="mt-1 flex-shrink-0">
+                <label for="category-16000000" class="text-2sm leading-12 cursor-pointer">
+                    Land-, Forstwirtschaft & Umwelt                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="20000000"  id="category-20000000" class="mt-1 flex-shrink-0">
+                <label for="category-20000000" class="text-2sm leading-12 cursor-pointer">
+                    Kunst & Kultur                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="categories[]" value="18000000"  id="category-18000000" class="mt-1 flex-shrink-0">
+                <label for="category-18000000" class="text-2sm leading-12 cursor-pointer">
+                    Sicherheit & Schutz                </label>
+            </div>
+            </div>
+</div>
+
+<div class="c-accordion">
+    <div class="c-accordion__title-filter js--accordion-title mb-20 flex gap-3 cursor-pointer">
+          <svg class="" width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M7.90197 2.10542C7.77126 1.96486 7.5592 1.96486 7.42849 2.10542L4 6.10486L0.571519 2.10542C0.440813 1.96486 0.228735 1.96486 0.0980293 2.10542C-0.0326764 2.24597 -0.0326764 2.47394 0.0980293 2.61448L3.74643 6.89746C3.81612 6.97238 3.90881 7.00448 3.99984 6.9995C4.09119 7.00448 4.18357 6.97238 4.25325 6.89746L7.90198 2.6141C8.03267 2.47358 8.03267 2.24597 7.90197 2.10542Z" fill="currentColor"/>
+                    </svg>        <h5 class="flex-1 font-base leading-14 font-semibold lg:font-medium">Gewünschter Grad der Berufserfahrung:</h5>
+    </div>
+    <div class="c-accordion__content-filter js--accordion-content pl-3">
+                            <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="experiences[]" value="90001"  id="experiences-90001" class="mt-1 flex-shrink-0">
+                <label for="experiences-90001" class="text-2sm leading-12 cursor-pointer">
+                    Ohne Berufserfahrung                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="experiences[]" value="90002"  id="experiences-90002" class="mt-1 flex-shrink-0">
+                <label for="experiences-90002" class="text-2sm leading-12 cursor-pointer">
+                    Mit Berufserfahrung                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="experiences[]" value="90003"  id="experiences-90003" class="mt-1 flex-shrink-0">
+                <label for="experiences-90003" class="text-2sm leading-12 cursor-pointer">
+                    Mit Personalverantwortung                </label>
+            </div>
+            </div>
+</div>
+
+<div class="c-accordion">
+    <div class="c-accordion__title-filter js--accordion-title mb-20 flex gap-3 cursor-pointer">
+          <svg class="" width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M7.90197 2.10542C7.77126 1.96486 7.5592 1.96486 7.42849 2.10542L4 6.10486L0.571519 2.10542C0.440813 1.96486 0.228735 1.96486 0.0980293 2.10542C-0.0326764 2.24597 -0.0326764 2.47394 0.0980293 2.61448L3.74643 6.89746C3.81612 6.97238 3.90881 7.00448 3.99984 6.9995C4.09119 7.00448 4.18357 6.97238 4.25325 6.89746L7.90198 2.6141C8.03267 2.47358 8.03267 2.24597 7.90197 2.10542Z" fill="currentColor"/>
+                    </svg>        <h5 class="flex-1 font-base leading-14 font-semibold lg:font-medium">Anstellungsart:</h5>
+    </div>
+    <div class="c-accordion__content-filter js--accordion-content pl-3">
+                            <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="workType[]" value="80001"  id="workType-80001" class="mt-1 flex-shrink-0">
+                <label for="workType-80001" class="text-2sm leading-12 cursor-pointer">
+                    Vollzeit                </label>
+            </div>
+                    <div class="flex gap-3 mb-16 last:mb-0">
+                <input type="checkbox" name="workType[]" value="80002"  id="workType-80002" class="mt-1 flex-shrink-0">
+                <label for="workType-80002" class="text-2sm leading-12 cursor-pointer">
+                    Teilzeit                </label>
+            </div>
+            </div>
+</div>
+
+    <input type="hidden" name="pageUrl" value="https://www.karriere.de/jobs/">
+    <input type="hidden" name="paged" value="1">
+    <input type="hidden" name="action" value="jobs_filter">
+        <input type="hidden" id="job_keyword" name="job_keyword" value="">
+    <input type="hidden" id="city" name="location_auto_search" value="">
+    <input type="hidden" id="jobs-nonce" name="jobs-nonce" value="56a3428d69" /><input type="hidden" name="_wp_http_referer" value="/jobs/" />    <button type="submit"
+            class="c-button c-button--primary w-full block appearance-none mt-60">Filter anwenden</button>
+</form>
+
+<div class="mt-24 text-center">
+    <a href="javascript:void(0);" id="reset-jobs-filter"
+       class="text-sm leading-12 border-b border-transparent hover:border-dark transition duration-200">Filter zurücksetzen</a>
+</div>                </div>
+            </div>
+
+            <div class="col-span-3">
+                
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-24 md:gap-20 relative" id="jobs-loop">
+                        <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--SPS-Programmierer-m-w-d-Automatisierungsingenieur-m-w-d-Softwareentwickler-SPS-m-w-d-Moessingen-Tuebingen-Reutlingen-Hechingen-Rottenburg-am-Neckar-w-innovation-GmbH--11072897-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="https://media.stepstone.com/upload_de/logo/F/logow-innovation-GmbH-i-G-310077DE-2207211058.gif" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--SPS-Programmierer-m-w-d-Automatisierungsingenieur-m-w-d-Softwareentwickler-SPS-m-w-d-Moessingen-Tuebingen-Reutlingen-Hechingen-Rottenburg-am-Neckar-w-innovation-GmbH--11072897-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                SPS-Programmierer (m/w/d) | Automatisierungsingenieur (m/w/d) | Softwareentwickler SPS (m/w/d)            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Mössingen, Tübingen, Reutlingen, Hechingen, Rottenburg am Neckar            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--SPS-Programmierer-m-w-d-Automatisierungsingenieur-m-w-d-Softwareentwickler-SPS-m-w-d-Moessingen-Tuebingen-Reutlingen-Hechingen-Rottenburg-am-Neckar-w-innovation-GmbH--11072897-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--Kfm-Angestellte-r-m-w-d-Wiesbaden-Landesstiftung-Miteinander-in-Hessen--11072827-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="https://media.stepstone.com/upload_de/logo/7/logoLandesstiftung-Miteinander-in-Hessen-358144DE-2403112110.png" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--Kfm-Angestellte-r-m-w-d-Wiesbaden-Landesstiftung-Miteinander-in-Hessen--11072827-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                Kfm. Angestellte/r (m/w/d)            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Wiesbaden            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--Kfm-Angestellte-r-m-w-d-Wiesbaden-Landesstiftung-Miteinander-in-Hessen--11072827-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--Office-Manager-m-w-d-Straelen-Koppert-Deutschland-GmbH--11001392-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="https://media.stepstone.com/upload_de/logo/4/logoKoppert-Deutschland-GmbH-362075DE-2404211336.png" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--Office-Manager-m-w-d-Straelen-Koppert-Deutschland-GmbH--11001392-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                Office Manager (m/w/d)            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Straelen            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--Office-Manager-m-w-d-Straelen-Koppert-Deutschland-GmbH--11001392-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--Mitarbeiter-am-Empfang-auf-Minijob-Basis-gesucht-m-w-d-Stuttgart-Keller-GmbH-Co-Friseur-Marketing-Vert-rieb--11072785-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="alt/93300.png" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--Mitarbeiter-am-Empfang-auf-Minijob-Basis-gesucht-m-w-d-Stuttgart-Keller-GmbH-Co-Friseur-Marketing-Vert-rieb--11072785-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                Mitarbeiter am Empfang auf Minijob-Basis gesucht (m/w/d)            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Stuttgart            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--Mitarbeiter-am-Empfang-auf-Minijob-Basis-gesucht-m-w-d-Stuttgart-Keller-GmbH-Co-Friseur-Marketing-Vert-rieb--11072785-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--Mitarbeiter-Kundenservice-m-w-d-Attendorn-Elektrohandel-Wandelt-GmbH--11072781-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="alt/28114.png" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--Mitarbeiter-Kundenservice-m-w-d-Attendorn-Elektrohandel-Wandelt-GmbH--11072781-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                Mitarbeiter Kundenservice (m/w/d)            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Attendorn            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--Mitarbeiter-Kundenservice-m-w-d-Attendorn-Elektrohandel-Wandelt-GmbH--11072781-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--Hoerakustikmeister-w-m-d-Bad-Hersfeld-Optik-Hallmann-GmbH--11072836-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="alt/327.png" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--Hoerakustikmeister-w-m-d-Bad-Hersfeld-Optik-Hallmann-GmbH--11072836-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                Hörakustikmeister (w/m/d)            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Bad Hersfeld            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--Hoerakustikmeister-w-m-d-Bad-Hersfeld-Optik-Hallmann-GmbH--11072836-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--Ergotherapeut-Physiotherapeut-Heilzerziehungspfleger-Ergotherapeut-in-Kupferzell-Alpenland-Pflege-und-Altenheim-Betriebsges-mbH--11121614-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="alt/51359.png" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--Ergotherapeut-Physiotherapeut-Heilzerziehungspfleger-Ergotherapeut-in-Kupferzell-Alpenland-Pflege-und-Altenheim-Betriebsges-mbH--11121614-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                Ergotherapeut, Physiotherapeut, Heilzerziehungspfleger (Ergotherapeut/in)            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Kupferzell            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--Ergotherapeut-Physiotherapeut-Heilzerziehungspfleger-Ergotherapeut-in-Kupferzell-Alpenland-Pflege-und-Altenheim-Betriebsges-mbH--11121614-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--Aushilfe-Verkaeuferin-m-w-d-Muehlhausen-Thueringen-Koscielsky-Koscielsky-GmbH--11072880-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="alt/11796.png" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--Aushilfe-Verkaeuferin-m-w-d-Muehlhausen-Thueringen-Koscielsky-Koscielsky-GmbH--11072880-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                Aushilfe Verkäuferin (m/w/d)            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Mühlhausen/Thüringen            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--Aushilfe-Verkaeuferin-m-w-d-Muehlhausen-Thueringen-Koscielsky-Koscielsky-GmbH--11072880-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--zfa-empfang-Amberg-Zahnarztpraxis-Amberg--11072849-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="alt/93307.png" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--zfa-empfang-Amberg-Zahnarztpraxis-Amberg--11072849-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                zfa #empfang            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Amberg            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--zfa-empfang-Amberg-Zahnarztpraxis-Amberg--11072849-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--ELEKTRIKER-m-w-d-oder-MECHATRONIKER-m-w-d-fuer-unsere-Zentrale-in-Baden-Baden-Mechatroniker-in-Baden-Baden-Weingaertner-GmbH-Elektromaschinenbau--11121618-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="alt/2799.png" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--ELEKTRIKER-m-w-d-oder-MECHATRONIKER-m-w-d-fuer-unsere-Zentrale-in-Baden-Baden-Mechatroniker-in-Baden-Baden-Weingaertner-GmbH-Elektromaschinenbau--11121618-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                ELEKTRIKER (m/w/d) oder MECHATRONIKER (m/w/d) für unsere Zentrale in Baden-Baden (Mechatroniker/in)            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Baden-Baden            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--ELEKTRIKER-m-w-d-oder-MECHATRONIKER-m-w-d-fuer-unsere-Zentrale-in-Baden-Baden-Mechatroniker-in-Baden-Baden-Weingaertner-GmbH-Elektromaschinenbau--11121618-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--Reinigungskraft-m-w-d-Wir-suchen-aktuell-Reinigungskraft-m-w-d-in-Torgau-Ihre-Aufgaben-Ihr-Profil-Wir-bieten-Ihnen-So-geht-es-weiter-Torgau-RWS-Gebaeudeservice-GmbH--11072759-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="alt/7512.png" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--Reinigungskraft-m-w-d-Wir-suchen-aktuell-Reinigungskraft-m-w-d-in-Torgau-Ihre-Aufgaben-Ihr-Profil-Wir-bieten-Ihnen-So-geht-es-weiter-Torgau-RWS-Gebaeudeservice-GmbH--11072759-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                Reinigungskraft (m/w/d) Wir suchen aktuell: Reinigungskraft (m/w/d) in Torgau Ihre Aufgaben Ihr Profil Wir bieten Ihnen So geht es weiter            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Torgau            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--Reinigungskraft-m-w-d-Wir-suchen-aktuell-Reinigungskraft-m-w-d-in-Torgau-Ihre-Aufgaben-Ihr-Profil-Wir-bieten-Ihnen-So-geht-es-weiter-Torgau-RWS-Gebaeudeservice-GmbH--11072759-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+                    <div class="relative px-16 pt-16 pb-56 shadow">
+            <a href="https://www.stepstone.de/stellenangebote--Mitarbeiter-Qualitaetssicherung-m-w-d-Leonberg-Gustav-Heess-Oleochemische-Erzeugnisse-GmbH--11072637-inline.html?CID=partner_karriere___API>" target="_blank">
+            <img src="https://media.stepstone.com/upload_de/logo/B/logoGustav-Heess-Oleochemische-Erzeugnisse-GmbH-216567DE.gif" class="w-auto" />
+        </a>
+        <div class="mt-24 md:mt-16">
+        <h5 class="text-base leading-14 font-medium" style="word-break: break-word;">
+            <a href="https://www.stepstone.de/stellenangebote--Mitarbeiter-Qualitaetssicherung-m-w-d-Leonberg-Gustav-Heess-Oleochemische-Erzeugnisse-GmbH--11072637-inline.html?CID=partner_karriere___API" target="_blank"
+               class="border-b border-transparent hover:border-dark transition duration-200">
+                Mitarbeiter Qualitätssicherung (m/w/d)            </a>
+        </h5>
+        <div class="mt-3 flex items-center gap-3">
+            <div class="flex-grow flex-1 text-sm leading-15 text-violet-100">
+                Leonberg            </div>
+        </div>
+                    </div>
+    <div class="absolute p-16 bottom-0 left-0 items-center flex space-x-16 w-full">
+        <a href="https://www.stepstone.de/stellenangebote--Mitarbeiter-Qualitaetssicherung-m-w-d-Leonberg-Gustav-Heess-Oleochemische-Erzeugnisse-GmbH--11072637-inline.html?CID=partner_karriere___API" target="_blank" class="c-button c-button--link flex-1 text-right font-normal">
+            Mehr lesen        </a>
+    </div>
+</div>
+            </div>
+
+<div id="ajax-jobs-pagination">
+
+        <div class="c-pagination text-center mb-50 mt-68 md:mt-100 lg:mt-68">
+        <span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://www.karriere.de/jobs/page/2/">2</a>
+<a class="page-numbers" href="https://www.karriere.de/jobs/page/3/">3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://www.karriere.de/jobs/page/13125/">13.125</a>
+<a class="next page-numbers" href="https://www.karriere.de/jobs/page/2/"><svg class="ml-16 inline-block" width="24" height="9" viewBox="0 0 24 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M23.8535 3.99509L19.388 0.149201C19.1926 -0.0497496 18.8762 -0.0497496 18.6809 0.149201C18.4856 0.348152 18.4856 0.670426 18.6809 0.869328L22.293 3.84589H0.500015C0.22364 3.84589 0 4.07368 0 4.35518C0 4.63668 0.22364 4.86447 0.500015 4.86447H22.293L18.6809 8.13067C18.4856 8.32962 18.4856 8.6519 18.6809 8.8508C18.7786 8.95025 18.9065 9 19.0345 9C19.1624 9 19.2903 8.95025 19.388 8.8508L23.8535 4.71522C24.0488 4.51632 24.0488 4.19404 23.8535 3.99509Z" fill="currentColor"/>
+	</svg></a>    </div>
+
+</div>            </div>
+        </div>
+    </div>
+</section>
+            </div>
+        </div>
+
+    </main>
+
+
+</div><!-- #content -->
+
+<footer class="o-footer bg-dark text-white">
+    <div class="container">
+        <div class="relative py-40 lg:pt-48 lg:pb-56 lg:flex lg:flex-col space-y-40 lg:space-y-0 lg:gap-y-40">
+                            <div class="lg:absolute lg:left-0 lg:bottom-1/2 lg:transform lg:translate-y-1/2">
+                    <a href="https://www.karriere.de" class="inline-block">
+                        <img width="170" height="44" src="https://www.karriere.de/wp-content/uploads/2021/09/footer-logo.svg" class="mx-auto" alt="" decoding="async" loading="lazy" />                    </a>
+                </div>
+                                <nav class="c-footer-menu"><ul id="footer-menu" class="flex flex-col flex-wrap gap-y-16 lg:gap-x-24 lg:flex-row lg:justify-center items-center text-base font-medium lg:font-normal leading-12"><li id="menu-item-15268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15268"><a href="https://www.karriere.de/impressum/">Impressum</a></li>
+<li id="menu-item-15269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-15269"><a rel="privacy-policy" href="https://www.karriere.de/datenschutzerklaerung/">Datenschutz</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="https://handelsblattgroup.com/agb/">Nutzungshinweis</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="https://www.iqdigital.de/news/nutzungsbasierte-onlinewerbung/">Nutzungsbasierte Werbung</a></li>
+</ul></nav>                <div class="flex justify-center gap-x-24">
+                                    <a href="https://www.linkedin.com/company/karriere-de/" target="_blank" class="hover:opacity-70 transition-all">
+                    <img width="24" height="24" src="https://www.karriere.de/wp-content/uploads/2021/09/linkedin.svg" class="" alt="" decoding="async" loading="lazy" />                </a>
+                                                <a href="https://www.facebook.com/Karriere.de/" target="_blank" class="hover:opacity-70 transition-all">
+                    <img width="24" height="24" src="https://www.karriere.de/wp-content/uploads/2021/09/facebook.svg" class="" alt="" decoding="async" loading="lazy" />                </a>
+                                            </div>
+                <div class="text-xs font-light leading-125 lg:leading-15 text-center">
+        <span>&copy;2024 © FMK Compare GmbH - ein Unternehmen der <a href="https://compare-verlag.de/">FMK Compare GmbH</a></span>
+    </div>
+        </div>
+    </div>
+</footer>
+<div class="js--popup-warning u-hidden w-290 md:w-391 p-16 shadow text-sm leading-17 text-red fixed bg-white top-72 md:top-80 right-16 z-10">
+    <div class="flex items-center gap-3">
+            <span class="text-red flex-shrink-0"><svg class="" width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M17.035 23C15.384 23 14 24.368 14 26C14 27.632 15.384 29 17.035 29C18.6254 29 20.0701 27.632 19.9972 26.072C20.0701 24.356 18.6982 23 17.035 23Z" fill="currentColor"/>
+                    <path d="M16.2931 2.08428C14.8792 2.4903 14 3.78001 14 5.34438C14.0713 6.28778 14.1307 7.24311 14.202 8.18651C14.404 11.781 14.6059 15.3038 14.8079 18.8983C14.8792 20.1163 15.8178 21 17.0297 21C18.2416 21 19.1921 20.0566 19.2515 18.8266C19.2515 18.0862 19.2515 17.4055 19.3228 16.6532C19.4535 14.3484 19.596 12.0437 19.7267 9.73894C19.798 8.24622 19.9287 6.7535 20 5.26079C20 4.72341 19.9287 4.24574 19.7267 3.76807C19.1208 2.43059 17.7069 1.74992 16.2931 2.08428Z" fill="#D70F0F"/>
+                </svg></span>
+        <span class="text-base leading-17">You are able to add only 4 courses to comparison.</span>
+    </div>
+</div>
+
+</div><!-- #page -->
+
+
+
+<!--googleoff: all--><div data-nosnippet><script id="BorlabsCookieBoxWrap" type="text/template"><div
+    id="BorlabsCookieBox"
+    class="BorlabsCookie"
+    role="dialog"
+    aria-labelledby="CookieBoxTextHeadline"
+    aria-describedby="CookieBoxTextDescription"
+    aria-modal="true"
+>
+    <div class="middle-center" style="display: none;">
+        <div class="_brlbs-box-wrap">
+            <div class="_brlbs-box _brlbs-box-advanced">
+                <div class="cookie-box">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="_brlbs-flex-center">
+                                    
+                                    <span role="heading" aria-level="3" class="_brlbs-h3" id="CookieBoxTextHeadline">Datenschutzeinstellungen</span>
+                                </div>
+
+                                <p id="CookieBoxTextDescription"><span class="_brlbs-paragraph _brlbs-text-description">Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.</span> <span class="_brlbs-paragraph _brlbs-text-confirm-age">Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.</span> <span class="_brlbs-paragraph _brlbs-text-technology">Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.</span> <span class="_brlbs-paragraph _brlbs-text-personal-data">Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.</span> <span class="_brlbs-paragraph _brlbs-text-more-information">Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer  <a class="_brlbs-cursor" href="https://www.karriere.de/datenschutzerklaerung/">Datenschutzerklärung</a>.</span> <span class="_brlbs-paragraph _brlbs-text-revoke">Sie können Ihre Auswahl jederzeit unter <a class="_brlbs-cursor" href="#" data-cookie-individual>Einstellungen</a> widerrufen oder anpassen.</span></p>
+
+                                                                    <fieldset>
+                                        <legend class="sr-only">Datenschutzeinstellungen</legend>
+                                        <ul>
+                                                                                                <li>
+                                                        <label class="_brlbs-checkbox">
+                                                            Essenziell                                                            <input
+                                                                id="checkbox-essential"
+                                                                tabindex="0"
+                                                                type="checkbox"
+                                                                name="cookieGroup[]"
+                                                                value="essential"
+                                                                 checked                                                                 disabled                                                                data-borlabs-cookie-checkbox
+                                                            >
+                                                            <span class="_brlbs-checkbox-indicator"></span>
+                                                        </label>
+                                                    </li>
+                                                                                                    <li>
+                                                        <label class="_brlbs-checkbox">
+                                                            Externe Medien                                                            <input
+                                                                id="checkbox-external-media"
+                                                                tabindex="0"
+                                                                type="checkbox"
+                                                                name="cookieGroup[]"
+                                                                value="external-media"
+                                                                 checked                                                                                                                                data-borlabs-cookie-checkbox
+                                                            >
+                                                            <span class="_brlbs-checkbox-indicator"></span>
+                                                        </label>
+                                                    </li>
+                                                                                        </ul>
+                                    </fieldset>
+
+                                    
+                                                                    <p class="_brlbs-accept">
+                                        <a
+                                            href="#"
+                                            tabindex="0"
+                                            role="button"
+                                            class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            data-cookie-accept-all
+                                        >
+                                            Alle akzeptieren                                        </a>
+                                    </p>
+
+                                    <p class="_brlbs-accept">
+                                        <a
+                                            href="#"
+                                            tabindex="0"
+                                            role="button"
+                                            id="CookieBoxSaveButton"
+                                            class="_brlbs-btn _brlbs-cursor"
+                                            data-cookie-accept
+                                        >
+                                            Speichern                                        </a>
+                                    </p>
+                                
+                                
+                                <p class="_brlbs-manage-btn ">
+                                    <a href="#" class="_brlbs-cursor _brlbs-btn " tabindex="0" role="button" data-cookie-individual>
+                                        Individuelle Datenschutzeinstellungen                                    </a>
+                                </p>
+
+                                <p class="_brlbs-legal">
+                                    <a href="#" class="_brlbs-cursor" tabindex="0" role="button" data-cookie-individual>
+                                        Cookie-Details                                    </a>
+
+                                                                            <span class="_brlbs-separator"></span>
+                                        <a href="https://www.karriere.de/datenschutzerklaerung/" tabindex="0" role="button">
+                                            Datenschutzerklärung                                        </a>
+                                    
+                                                                            <span class="_brlbs-separator"></span>
+                                        <a href="https://www.karriere.de/impressum/" tabindex="0" role="button">
+                                            Impressum                                        </a>
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+    class="cookie-preference"
+    aria-hidden="true"
+    role="dialog"
+    aria-describedby="CookiePrefDescription"
+    aria-modal="true"
+>
+    <div class="container not-visible">
+        <div class="row no-gutters">
+            <div class="col-12">
+                <div class="row no-gutters align-items-top">
+                    <div class="col-12">
+                        <div class="_brlbs-flex-center">
+                                                    <span role="heading" aria-level="3" class="_brlbs-h3">Datenschutzeinstellungen</span>
+                        </div>
+
+                        <p id="CookiePrefDescription">
+                            <span class="_brlbs-paragraph _brlbs-text-confirm-age">Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten.</span> <span class="_brlbs-paragraph _brlbs-text-technology">Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.</span> <span class="_brlbs-paragraph _brlbs-text-personal-data">Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung.</span> <span class="_brlbs-paragraph _brlbs-text-more-information">Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer  <a class="_brlbs-cursor" href="https://www.karriere.de/datenschutzerklaerung/">Datenschutzerklärung</a>.</span> <span class="_brlbs-paragraph _brlbs-text-description">Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Einwilligung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.</span>                        </p>
+
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-12 col-sm-7">
+                                <p class="_brlbs-accept">
+                                                                            <a
+                                            href="#"
+                                            class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            tabindex="0"
+                                            role="button"
+                                            data-cookie-accept-all
+                                        >
+                                            Alle akzeptieren                                        </a>
+                                        
+                                    <a
+                                        href="#"
+                                        id="CookiePrefSave"
+                                        tabindex="0"
+                                        role="button"
+                                        class="_brlbs-btn _brlbs-cursor"
+                                        data-cookie-accept
+                                    >
+                                        Speichern                                    </a>
+
+                                                                    </p>
+                            </div>
+
+                            <div class="col-12 col-sm-5">
+                                <p class="_brlbs-refuse">
+                                    <a
+                                        href="#"
+                                        class="_brlbs-cursor"
+                                        tabindex="0"
+                                        role="button"
+                                        data-cookie-back
+                                    >
+                                        Zurück                                    </a>
+
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div data-cookie-accordion>
+                                            <fieldset>
+                            <legend class="sr-only">Datenschutzeinstellungen</legend>
+
+                                                                                                <div class="bcac-item">
+                                        <div class="d-flex flex-row">
+                                            <label class="w-75">
+                                                <span role="heading" aria-level="4" class="_brlbs-h4">Essenziell (1)</span>
+                                            </label>
+
+                                            <div class="w-25 text-right">
+                                                                                            </div>
+                                        </div>
+
+                                        <div class="d-block">
+                                            <p>Essenzielle Cookies ermöglichen grundlegende Funktionen und sind für die einwandfreie Funktion der Website erforderlich.</p>
+
+                                            <p class="text-center">
+                                                <a
+                                                    href="#"
+                                                    class="_brlbs-cursor d-block"
+                                                    tabindex="0"
+                                                    role="button"
+                                                    data-cookie-accordion-target="essential"
+                                                >
+                                                    <span data-cookie-accordion-status="show">
+                                                        Cookie-Informationen anzeigen                                                    </span>
+
+                                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                        Cookie-Informationen ausblenden                                                    </span>
+                                                </a>
+                                            </p>
+                                        </div>
+
+                                        <div
+                                            class="borlabs-hide"
+                                            data-cookie-accordion-parent="essential"
+                                        >
+                                                                                            <table>
+                                                    
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Borlabs Cookie                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Eigentümer dieser Website<span>, </span><a href="https://www.karriere.de/impressum/">Impressum</a></td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Speichert die Einstellungen der Besucher, die in der Cookie Box von Borlabs Cookie ausgewählt wurden.</td>
+                                                        </tr>
+                                                        
+                                                    
+                                                    
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>borlabs-cookie</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>1 Jahr</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                        </div>
+                                    </div>
+                                                                                                                                                                                                                                                                        <div class="bcac-item">
+                                        <div class="d-flex flex-row">
+                                            <label class="w-75">
+                                                <span role="heading" aria-level="4" class="_brlbs-h4">Externe Medien (7)</span>
+                                            </label>
+
+                                            <div class="w-25 text-right">
+                                                                                                    <label class="_brlbs-btn-switch">
+                                                        <span class="sr-only">Externe Medien</span>
+                                                        <input
+                                                            tabindex="0"
+                                                            id="borlabs-cookie-group-external-media"
+                                                            type="checkbox"
+                                                            name="cookieGroup[]"
+                                                            value="external-media"
+                                                             checked                                                            data-borlabs-cookie-switch
+                                                        />
+                                                        <span class="_brlbs-slider"></span>
+                                                        <span
+                                                            class="_brlbs-btn-switch-status"
+                                                            data-active="An"
+                                                            data-inactive="Aus">
+                                                        </span>
+                                                    </label>
+                                                                                                </div>
+                                        </div>
+
+                                        <div class="d-block">
+                                            <p>Inhalte von Videoplattformen und Social-Media-Plattformen werden standardmäßig blockiert. Wenn Cookies von externen Medien akzeptiert werden, bedarf der Zugriff auf diese Inhalte keiner manuellen Einwilligung mehr.</p>
+
+                                            <p class="text-center">
+                                                <a
+                                                    href="#"
+                                                    class="_brlbs-cursor d-block"
+                                                    tabindex="0"
+                                                    role="button"
+                                                    data-cookie-accordion-target="external-media"
+                                                >
+                                                    <span data-cookie-accordion-status="show">
+                                                        Cookie-Informationen anzeigen                                                    </span>
+
+                                                    <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                        Cookie-Informationen ausblenden                                                    </span>
+                                                </a>
+                                            </p>
+                                        </div>
+
+                                        <div
+                                            class="borlabs-hide"
+                                            data-cookie-accordion-parent="external-media"
+                                        >
+                                                                                            <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Facebook</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-facebook"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="facebook"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Facebook                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um Facebook-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://www.facebook.com/privacy/explanation"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://www.facebook.com/privacy/explanation                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>.facebook.com</td>
+                                                        </tr>
+                                                        
+                                                    
+                                                                                                    </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Google Maps</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-googlemaps"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="googlemaps"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Google Maps                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird zum Entsperren von Google Maps-Inhalten verwendet.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://policies.google.com/privacy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://policies.google.com/privacy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>.google.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>NID</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>6 Monate</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Instagram</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-instagram"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="instagram"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Instagram                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um Instagram-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://www.instagram.com/legal/privacy/"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://www.instagram.com/legal/privacy/                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>.instagram.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>pigeon_state</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>Sitzung</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">OpenStreetMap</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-openstreetmap"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="openstreetmap"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                OpenStreetMap                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Openstreetmap Foundation, St John’s Innovation Centre, Cowley Road, Cambridge CB4 0WS, United Kingdom</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um OpenStreetMap-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://wiki.osmfoundation.org/wiki/Privacy_Policy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://wiki.osmfoundation.org/wiki/Privacy_Policy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>.openstreetmap.org</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>_osm_location, _osm_session, _osm_totp_token, _osm_welcome, _pk_id., _pk_ref., _pk_ses., qos_token</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>1-10 Jahre</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Twitter</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-twitter"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="twitter"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Twitter                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um Twitter-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://twitter.com/privacy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://twitter.com/privacy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>.twimg.com, .twitter.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>__widgetsettings, local_storage_support_test</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>Unbegrenzt</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">Vimeo</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-vimeo"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="vimeo"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                Vimeo                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um Vimeo-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://vimeo.com/privacy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://vimeo.com/privacy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>player.vimeo.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>vuid</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>2 Jahre</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                                <table>
+                                                                                                            <tr>
+                                                            <th scope="row">Akzeptieren</th>
+                                                            <td>
+                                                                <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                    <span class="sr-only">YouTube</span>
+                                                                    <input
+                                                                        id="borlabs-cookie-youtube"
+                                                                        tabindex="0"
+                                                                        type="checkbox" data-cookie-group="external-media"
+                                                                        name="cookies[external-media][]"
+                                                                        value="youtube"
+                                                                         checked                                                                        data-borlabs-cookie-switch
+                                                                    />
+
+                                                                    <span class="_brlbs-slider"></span>
+
+                                                                    <span
+                                                                        class="_brlbs-btn-switch-status"
+                                                                        data-active="An"
+                                                                        data-inactive="Aus"
+                                                                        aria-hidden="true">
+                                                                    </span>
+                                                                </label>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                    <tr>
+                                                        <th scope="row">Name</th>
+                                                        <td>
+                                                            <label>
+                                                                YouTube                                                            </label>
+                                                        </td>
+                                                    </tr>
+
+                                                    <tr>
+                                                        <th scope="row">Anbieter</th>
+                                                        <td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td>
+                                                    </tr>
+
+                                                                                                            <tr>
+                                                            <th scope="row">Zweck</th>
+                                                            <td>Wird verwendet, um YouTube-Inhalte zu entsperren.</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Datenschutzerklärung</th>
+                                                            <td class="_brlbs-pp-url">
+                                                                <a
+                                                                    href="https://policies.google.com/privacy"
+                                                                    target="_blank"
+                                                                    rel="nofollow noopener noreferrer"
+                                                                >
+                                                                    https://policies.google.com/privacy                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Host(s)</th>
+                                                            <td>google.com</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Name</th>
+                                                            <td>NID</td>
+                                                        </tr>
+                                                        
+                                                                                                            <tr>
+                                                            <th scope="row">Cookie Laufzeit</th>
+                                                            <td>6 Monate</td>
+                                                        </tr>
+                                                                                                        </table>
+                                                                                        </div>
+                                    </div>
+                                                                                                </fieldset>
+                                        </div>
+
+                <div class="d-flex justify-content-between">
+                    <p class="_brlbs-branding flex-fill">
+                                            </p>
+
+                    <p class="_brlbs-legal flex-fill">
+                                                    <a href="https://www.karriere.de/datenschutzerklaerung/">
+                                Datenschutzerklärung                            </a>
+                            
+                                                    <span class="_brlbs-separator"></span>
+                            
+                                                    <a href="https://www.karriere.de/impressum/">
+                                Impressum                            </a>
+                                                </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+</script></div><!--googleon: all--><script type="text/javascript" id="eafl-public-js-extra">
+/* <![CDATA[ */
+var eafl_public = {"home_url":"https:\/\/www.karriere.de\/","ajax_url":"https:\/\/www.karriere.de\/wp-admin\/admin-ajax.php","nonce":"c424729cee"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.karriere.de/wp-content/plugins/easy-affiliate-links/dist/public.js?ver=3.7.3" id="eafl-public-js"></script>
+<script type="text/javascript" src="https://www.karriere.de/wp-content/themes/karriere/dist/js/app.js?id=3af45f457222aa54b4c1534204b5005f" id="jquery-js"></script>
+<script type="text/javascript" src="https://www.karriere.de/wp-content/themes/karriere/dist/js/SearchFilters.js" id="search-filters-js-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js" id="search-select-js"></script>
+<script type="text/javascript" src="https://www.karriere.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" id="borlabs-cookie-js-extra">
+/* <![CDATA[ */
+var borlabsCookieConfig = {"ajaxURL":"https:\/\/www.karriere.de\/wp-admin\/admin-ajax.php","language":"de","animation":"1","animationDelay":"","animationIn":"_brlbs-fadeInDown","animationOut":"_brlbs-flipOutX","blockContent":"1","boxLayout":"box","boxLayoutAdvanced":"1","automaticCookieDomainAndPath":"1","cookieDomain":"karriere.de","cookiePath":"\/","cookieSameSite":"Lax","cookieSecure":"1","cookieLifetime":"182","cookieLifetimeEssentialOnly":"182","crossDomainCookie":[],"cookieBeforeConsent":"","cookiesForBots":"1","cookieVersion":"1","hideCookieBoxOnPages":[],"respectDoNotTrack":"","reloadAfterConsent":"","reloadAfterOptOut":"1","showCookieBox":"1","cookieBoxIntegration":"javascript","ignorePreSelectStatus":"1","cookies":{"essential":["borlabs-cookie"],"statistics":[],"marketing":[],"external-media":["facebook","googlemaps","instagram","openstreetmap","twitter","vimeo","youtube"]}};
+var borlabsCookieCookies = {"essential":{"borlabs-cookie":{"cookieNameList":{"borlabs-cookie":"borlabs-cookie"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"}}},"external-media":{"facebook":{"cookieNameList":[],"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImZhY2Vib29rIik7IH08L3NjcmlwdD4=","optOutJS":""},"googlemaps":{"cookieNameList":{"NID":"NID"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImdvb2dsZW1hcHMiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"instagram":{"cookieNameList":{"pigeon_state":"pigeon_state"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImluc3RhZ3JhbSIpOyB9PC9zY3JpcHQ+","optOutJS":""},"openstreetmap":{"cookieNameList":{"_osm_location":"_osm_location","_osm_session":"_osm_session","_osm_totp_token":"_osm_totp_token","_osm_welcome":"_osm_welcome","_pk_id.":"_pk_id.","_pk_ref.":"_pk_ref.","_pk_ses.":"_pk_ses.","qos_token":"qos_token"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoIm9wZW5zdHJlZXRtYXAiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"twitter":{"cookieNameList":{"__widgetsettings":"__widgetsettings","local_storage_support_test":"local_storage_support_test"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInR3aXR0ZXIiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"vimeo":{"cookieNameList":{"vuid":"vuid"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInZpbWVvIik7IH08L3NjcmlwdD4=","optOutJS":""},"youtube":{"cookieNameList":{"NID":"NID"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInlvdXR1YmUiKTsgfTwvc2NyaXB0Pg==","optOutJS":""}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.karriere.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.2.67" id="borlabs-cookie-js"></script>
+<script type="text/javascript" id="borlabs-cookie-js-after">
+/* <![CDATA[ */
+document.addEventListener("DOMContentLoaded", function (e) {
+var borlabsCookieContentBlocker = {"facebook": {"id": "facebook","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if(typeof FB === "object") { FB.XFBML.parse(el.parentElement); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"default": {"id": "default","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"googlemaps": {"id": "googlemaps","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"instagram": {"id": "instagram","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if (typeof instgrm === "object") { instgrm.Embeds.process(); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"openstreetmap": {"id": "openstreetmap","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"twitter": {"id": "twitter","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"vimeo": {"id": "vimeo","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"saveThumbnails":false,"autoplay":false,"videoWrapper":false}},"youtube": {"id": "youtube","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"changeURLToNoCookie":true,"saveThumbnails":false,"autoplay":false,"thumbnailQuality":"maxresdefault","videoWrapper":false}}};
+    var BorlabsCookieInitCheck = function () {
+
+    if (typeof window.BorlabsCookie === "object" && typeof window.jQuery === "function") {
+
+        if (typeof borlabsCookiePrioritized !== "object") {
+            borlabsCookiePrioritized = { optInJS: {} };
+        }
+
+        window.BorlabsCookie.init(borlabsCookieConfig, borlabsCookieCookies, borlabsCookieContentBlocker, borlabsCookiePrioritized.optInJS);
+    } else {
+        window.setTimeout(BorlabsCookieInitCheck, 50);
+    }
+};
+
+BorlabsCookieInitCheck();});
+/* ]]> */
+</script>
+
+</body>
+</html>

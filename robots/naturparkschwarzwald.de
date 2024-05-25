@@ -1,0 +1,21 @@
+# robots.txt for https://naturparkschwarzwald.de/
+User-agent: *
+Disallow: /NL/
+Disallow: /admin/
+Disallow: /Admin/
+Disallow: /cookies/
+Disallow: /ig/  
+Disallow: /accounts/ 
+Disallow: /suche/
+Disallow: /engine/
+Disallow: /engine_templates/
+Disallow: /css/
+Disallow: /js/ 
+Disallow: /cmsFiles/
+Disallow: /img/
+Disallow: /images/
+Disallow: /images_pool/
+Disallow: /image_pool/
+Disallow: /pdf_pool_intern/
+Disallow: /order/
+Disallow: /cart/

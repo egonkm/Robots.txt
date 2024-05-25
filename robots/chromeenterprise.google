@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /browser/for-your-enterprise/
+
+Sitemap: https://chromeenterprise.google/sitemap.xml

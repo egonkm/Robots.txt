@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /view/reserve/teeda.ajax
+Disallow: /view/station/teeda.ajax
+Disallow: /lp/
+Disallow: /alliance/
+Sitemap: https://share.timescar.jp/sitemap.xml
+Sitemap: https://share.timescar.jp/station_detail_index.xml

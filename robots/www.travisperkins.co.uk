@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /cart
+# Disallow other Hybris Pages
+Disallow: /openAccount
+Disallow: /error
+Disallow: /error-500
+Disallow: /helpAndAdvice
+Disallow: /januarysale
+Disallow: /maybankholidaysale
+Disallow: /openAccount
+Disallow: /Our_Job_Vacancies
+Disallow: /register
+Disallow: /request-quote/
+Disallow: /request-quote/guest/
+Disallow: /request-quote-thank-you/logged/
+Disallow: /returns
+Disallow: /SafeHire
+Disallow: /websitesecurity
+Disallow: /content/supplier-price-increases
+Disallow: /*?targetUrl*
+Disallow: /*?writeReview*
+Disallow: /*?isWritePowerReviewMode*
+Disallow: /*?PageSpeed*
+Disallow: /*?uiel*
+Disallow: /*?useCSR*
+Disallow: /*?q=*
+Disallow: /*?utm=*
+Disallow: /*?_hn=*
+Disallow: /resourceapi/*
+# Disallow search added 16.05.2022
+Allow: /search/$
+Disallow: /search/
+Sitemap: https://www.travisperkins.co.uk/sitemap.xml

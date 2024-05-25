@@ -1,0 +1,5 @@
+User-Agent: *
+
+Disallow: /pdf/
+
+Sitemap:https://www.hakaru.ai/sitemap.xml

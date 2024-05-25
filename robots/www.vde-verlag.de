@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /nl/
+Disallow: /data/
+Disallow: /agb.html
+Disallow: /agb_en.html
+Disallow: /ieckundeninfo_de.html
+Disallow: /umfrage.html
+Disallow: /irgendwas.html
+Disallow: /wartung.html
+Disallow: /dsesocial.html
+Disallow: /dsevdev.html
+Disallow: /buecher/ebook-upgrade.html
+Disallow: /books/ebook-upgrade.html
+Disallow: /messeangebot.html
+Disallow: /service-de/karriere.html
+Disallow: /service-de/mein-bereich.html
+Disallow: /ebooknote.html
+Disallow: /tt.html
+
+User-agent: ia_archiver
+User-agent: SemrushBot
+User-agent: BLEXBot
+User-agent: AhrefsBot
+User-agent: MJ12bot
+User-agent: PetalBot
+User-agent: seoscanners.net
+User-agent: dotbot
+User-agent: Qwantbot
+User-agent: TurnitinBot
+Disallow: /
+
+Sitemap: https://www.vde-verlag.de/sitemap.xml
+Sitemap: https://www.vde-verlag.de/sitemap1.xml
+Sitemap: https://www.vde-verlag.de/sitemap2.xml
+Sitemap: https://www.vde-verlag.de/sitemap3.xml
+Sitemap: https://www.vde-verlag.de/sitemap4.xml

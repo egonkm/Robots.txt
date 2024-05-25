@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*.xml
+Disallow: /cgi-bin
+Disallow: /htbin
+Disallow: /Classes
+Disallow: /People/Phonebook.php
+Disallow: /Employment/Internships.php
+Disallow: /Employment/Students.php
+Disallow: /research/ktau/viewcvs-0.9.4
+Disallow: /groups/acm

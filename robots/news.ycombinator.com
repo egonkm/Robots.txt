@@ -1,0 +1,12 @@
+User-Agent: *
+Crawl-delay: 30
+Disallow: /collapse?
+Disallow: /context?
+Disallow: /flag?
+Disallow: /login
+Disallow: /logout
+Disallow: /r?
+Disallow: /reply?
+Disallow: /submitlink?
+Disallow: /vote?
+Disallow: /x?

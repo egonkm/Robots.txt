@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:/assets
+Disallow:/megamenu
+Disallow:/tags
+Disallow:/achive
+Disallow:/sandbox
+
+Sitemap: https://research.unimelb.edu.au/sitemap.xml

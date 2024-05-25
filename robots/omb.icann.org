@@ -1,0 +1,7 @@
+# robots.txt for /ICANN
+User-agent: *
+Disallow: /ICANN/stats
+Disallow: /ICANN/images
+Disallow: /ICANN/thumbs
+Disallow: /ICANN/cal
+Disallow: /ICANN/ms

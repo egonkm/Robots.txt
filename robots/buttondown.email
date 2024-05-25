@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /emails/
+Disallow: /api/*
+
+Host: buttondown.email
+Sitemap: https://buttondown.email/sitemap.xml

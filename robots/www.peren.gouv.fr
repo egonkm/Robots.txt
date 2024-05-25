@@ -1,0 +1,39 @@
+User-agent: *
+Disallow:
+
+# Interdiction d'utiliser le contenu du prÃ©sent site comme donnÃ©e d'entraÃ®nement pour une IA ou autre usage non spÃ©cifiÃ©
+User-agent: anthropic-ai
+Disallow: *
+
+User-agent: Bytespider
+Disallow: *
+
+User-Agent: CCBot
+Disallow: *
+
+User-agent: ChatGPT-User
+Disallow: *
+
+User-agent: cohere-ai
+Disallow: *
+
+User-Agent: FacebookBot
+Disallow: *
+
+User-Agent: Google-Extended
+Disallow: *
+
+User-Agent: GoogleOther
+Disallow: *
+
+User-agent: GPTBot
+Disallow: *
+
+User-Agent: Neevabot
+Disallow: *
+
+User-agent: Omgilibot
+Disallow: *
+
+User-Agent: YouBot
+Disallow: *

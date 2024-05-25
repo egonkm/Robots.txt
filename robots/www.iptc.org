@@ -1,0 +1,9 @@
+
+User-agent: *
+Allow: .css
+Allow: .js
+Disallow: /moz/
+Disallow: /mozfiles/
+Disallow: /temp/
+Disallow: /wp-admin/
+Disallow: /wp-snapshots/

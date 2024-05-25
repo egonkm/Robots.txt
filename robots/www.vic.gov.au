@@ -1,0 +1,10 @@
+User-agent: SemrushBot
+Disallow: /
+User-agent: *
+Disallow: /js
+Disallow: /img
+Disallow: /_nuxt/*
+Disallow: /oauth/*
+Disallow: /preview/*
+Disallow: /share-link
+Sitemap: https://www.vic.gov.au/sitemap.xml

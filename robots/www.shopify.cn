@@ -1,0 +1,5 @@
+# robots.txt file for www.shopify.cn
+User-agent: *
+
+Sitemap: https://www.shopify.cn/sitemap.xml
+Disallow: /*?*shpxid=*

@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /apps/php/
+Disallow: /common/apps/php/
+Disallow: /apps/java/
+Disallow: /flash/
+Disallow: /suche*
+Disallow: /*sess=*
+Disallow: /*ut*.xml
+Disallow: /*.json
+Disallow: /app/
+
+# PetalBot
+User-agent: PetalBot
+Disallow: /
+
+# SemrushBot
+User-agent: SemrushBot
+Disallow: /

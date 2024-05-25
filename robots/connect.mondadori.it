@@ -1,0 +1,8 @@
+#User-agent: AdsBot-Google
+User-agent: *
+Disallow: /rest/
+Disallow: /static/
+Disallow: /design/
+Disallow: /app/
+Disallow: /stato
+

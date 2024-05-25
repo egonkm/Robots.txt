@@ -1,0 +1,13 @@
+# file managed by salt
+Sitemap: https://wiki.documentfoundation.org/sitemap.xml
+User-agent: *
+Crawl-delay: 15
+Disallow: /index.php?
+Disallow: /api.php?
+Disallow: /Special:
+Disallow: /Template:
+Disallow: /User:
+Disallow: /Special%3A
+Disallow: /Template%3A
+Disallow: /User%3A
+Disallow: /WikiAction/

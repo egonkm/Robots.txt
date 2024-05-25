@@ -1,0 +1,14 @@
+User-agent: *
+Crawl-delay: 30
+Disallow: /ajax_selector.php
+Disallow: /ajax.php
+Disallow: /cart_info.php
+Disallow: /do_resa.php
+Disallow: /empr.php
+Disallow: /export.php
+Disallow: /fb.php
+Disallow: /print.php
+Disallow: /rec_panier.php
+Disallow: /subscribe.php
+# Allow:   AutorisÃ©
+# Disallow:  Non autorisÃ©

@@ -1,0 +1,10 @@
+Sitemap: https://www.rajce.idnes.cz/sitemap.xml
+
+User-agent: *
+Disallow: /re/
+
+User-agent: msnbot
+Crawl-delay: 20
+
+User-agent: BingBot
+Crawl-delay: 20

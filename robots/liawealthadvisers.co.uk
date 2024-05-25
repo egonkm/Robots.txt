@@ -1,0 +1,19 @@
+User-agent: PiplBot 
+Disallow: / 
+
+
+User-agent: *
+ Disallow: /Admin
+ Disallow: /Admin/CMSAdministration.aspx
+ Disallow: /CMS
+ Disallow: /CMSPages
+ Disallow: /en-GB/Special-pages
+ Disallow: /en-GB/Media
+ Disallow: /en-GB/Newsletter
+ Disallow: /en-GB/Slider
+ Disallow: /en-GB/Lombard-Addresses
+ Disallow: /en-GB/Search
+ Disallow: /en-GB/Disclaimers
+
+# Sitemap
+Sitemap: https://www.liawealthadvisers.co.uk/sitemap.xml

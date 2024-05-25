@@ -1,0 +1,7 @@
+# XML Sitemap & Google News version 5.3.6 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://dxmagazine.jp/sitemap.xml
+Sitemap: https://dxmagazine.jp/sitemap-news.xml
+
+User-agent: *
+Disallow: /cp/wp-admin/
+Allow: /cp/wp-admin/admin-ajax.php

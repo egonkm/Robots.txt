@@ -1,0 +1,40 @@
+# Rover is a bad dog
+User-agent: Roverbot
+Disallow: /
+
+#GoogleBot
+
+User-agent:googlebot
+Crawl-delay: 20
+Allow: /travel
+Disallow: *.js
+Disallow: /
+
+User-agent:googlebot
+Crawl-delay: 20
+Allow: /eid
+Disallow: *.js
+Disallow: /
+
+# EmailSiphon is a hunter/gatherer which extracts email addresses for spam-mailers to use
+User-agent: EmailSiphon
+Disallow: /
+
+# Exclude MindSpider since it appears to be ill-behaved
+User-agent: MindSpider
+Disallow: /
+
+User-agent: *
+Crawl-delay: 20
+
+User-agent: gsa-crawler
+Disallow: /
+
+# Exclude script for custom EID metrics
+User-agent: *
+Disallow: /eid/Scripts/EidMetrics.js
+
+# Exclude resource intensive files for EID
+User-agent: *
+Disallow: /eid/article/*.pptx
+Disallow: /eid/article/*-combined.pdf

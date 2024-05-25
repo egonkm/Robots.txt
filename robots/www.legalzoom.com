@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /501c3/
+Disallow: /aff/
+Disallow: /affiliate/
+Disallow: /affiliates
+Disallow: /ask-and-answer/
+Disallow: /benefits/
+Disallow: /checkout/
+Disallow: /farmers/
+Disallow: /filings/
+Disallow: /legal-small-claims/
+Disallow: /legal/private-pages/
+Disallow: /llc/
+Disallow: /local/
+Disallow: /lzr/
+Disallow: /LZWeb/
+Disallow: /members/
+Disallow: /newsletters/
+Disallow: /popvideos/
+Disallow: /print/
+Disallow: /printmail/
+Disallow: /processing/
+Disallow: /questionnaire/
+Disallow: /sem/
+Disallow: /sem/css/
+Disallow: /sem/js/
+Disallow: /startupnation/
+Disallow: /uk/
+Disallow: /website/
+Disallow: /welcome/
+Disallow: /api/
+
+User-agent: GPTBot
+Disallow: /
+
+sitemap: https://www.legalzoom.com/sitemap/index.xml

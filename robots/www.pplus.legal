@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>viacomcbs.com</title>
+  <style>
+    html,body {
+      background: #000a3c;
+    }
+  </style>
+  <script>
+    window.location.replace('https://legal.paramount.com/');
+  </script>
+</head>
+<body>
+</body>
+</html>

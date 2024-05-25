@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /request-an-appointment/
+Disallow: /_layouts/ncipopup.aspx*
+Disallow: /_layouts/viewlsts.aspx*
+Disallow: /sitecore
+Disallow: /sitecore/
+
+Sitemap: https://cancer.osu.edu/sitemap.xml

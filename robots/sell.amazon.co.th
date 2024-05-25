@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /feedback
+Disallow: /autocomplete
+Disallow: /search
+Sitemap: https://sell.amazon.co.th/sitemap.xml

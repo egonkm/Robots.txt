@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /_tasks/
+Disallow: /_assets/
+Disallow: /_includes/
+Disallow: /_docs/
+Disallow: /_data/
+Disallow: /_static/
+Disallow: /search/
+Disallow: package.json
+Disallow: README.md
+Sitemap: https://vote.cornell.edu/sitemap.xml
+Sitemap: https://www.vote.cornell.edu/sitemap-www.xml

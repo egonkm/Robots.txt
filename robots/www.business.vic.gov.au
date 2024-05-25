@@ -1,0 +1,14 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /grants-and-programs/circuit-breaker-business-support-package/business-costs-assistance-program/remediation
+Disallow: /grants-and-programs/circuit-breaker-business-support-package/business-costs-assistance-program/targeted-stream
+Disallow: /grants-and-programs/circuit-breaker-business-support-package/business-costs-assistance-program/update-your-application
+Disallow: /grants-and-programs/circuit-breaker-business-support-package/business-costs-assistance-program/targeted-stream-car-wash-businesses
+Disallow: /grants-and-programs/circuit-breaker-business-support-package/business-costs-assistance-program/targeted-stream-tab-agencies
+Disallow: /buy-local
+Disallow: /grants-and-programs/how-to-update-bank-account-details-on-a-grant-application
+Disallow: /grants-and-programs/how-to-update-bank-account-details-on-a-grant-application-faqs
+Disallow: /__data/assets/file/0003/2042931/manifest.json

@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /tosun-hackerone
+Disallow: ?userid=
+Disallow: ?sort=
+Disallow: *search_type=tag
+Disallow: /search?q=
+Disallow: /search/
+Disallow: *?userid=
+Disallow: *?sort=
+Disallow: */ssoproxy/*
+Disallow: /ssoproxy/
+Disallow: /inbox/
+Disallow: /favorite/
+Disallow: /settings/
+Sitemap: https://community.typeform.com/sitemap.xml

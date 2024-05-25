@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /search/
+Disallow: /news/?
+Disallow: /policies/?
+Disallow: /publications/?
+Disallow: /statistics-and-research/?
+ 
+Sitemap: https://www.gov.scot/sitemap.xml

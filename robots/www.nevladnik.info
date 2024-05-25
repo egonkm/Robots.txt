@@ -1,0 +1,7 @@
+#
+# Robots Control
+#
+User-agent: *
+Disallow: *.htm
+Disallow: *.inc
+Disallow: /inc/

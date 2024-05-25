@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /Microsoft.WindowsAzure.Caching/
+Disallow: /Scripts/
+Disallow: /_controls/
+Disallow: /_configuration/
+Disallow: /_customerrors/
+Disallow: /_integrations/
+Disallow: /_management/
+Disallow: /_rewritten/
+Disallow: /holding/
+Disallow: /referencehandler.ashx
+Disallow: /statisticincrementer.ashx
+Disallow: /vacancyclickincrementer.ashx
+Disallow: /vacancyviewincrementer.ashx
+Disallow: /preview.aspx
+Disallow: /_feeds/
+Crawl-delay: 0.2
+
+Sitemap: https://www.forcesfamiliesjobs.co.uk/sitemap.xml

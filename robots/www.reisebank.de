@@ -1,0 +1,23 @@
+User-agent: *
+
+Disallow: /index.php/
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /stores/store/redirect/
+Disallow: /SID=
+Disallow: /catalogsearch/
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /CONTRIBUTING.md
+Sitemap: https://www.reisebank.de/sitemap.xml

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /scripts/
+Disallow: /shared/
+Disallow: /webmonitor/
+Disallow: /webresource.axd
+Disallow: /website/shopping_cart.asp
+Disallow: /website/checkout.asp
+Disallow: /website/checkout1.asp
+Disallow: /website/checkout_c.asp
+Disallow: /website/checkout_c1.asp
+Disallow: /website/checkout_confirm.asp
+Disallow: /website/checkout_confirm1.asp
+Disallow: /website/checkout_continue.asp
+Disallow: /website/scripts/

@@ -1,0 +1,137 @@
+# /robots.txt file for Disallow: /
+# 2008/04/07 11:51
+# 2013/11/05 10:17 add ia_archiver by takaki
+# 2016/04/13 12:30 modify
+# 2018/12/26 09:42 refactored by log1d
+# 2020/04/16 10:26 modify by log1d
+# 2021/08/24 10:26 modify by log1d
+# 2022/10/21 10:26 modify by log1c
+# 2024/04/10 15:53 modify by log_mk
+# 2024/04/11 13:45 modify by log_mk
+# 2024/04/17 08:45 modify by log_mk
+
+User-agent: Facebot
+Disallow: /admin.php
+
+User-agent: Mediapartners-Google
+Crawl-delay: 100
+Disallow: /admin.php
+Disallow: /index.php
+Disallow: /Backnumber/
+Disallow: /cgi-bin/
+Disallow: /Images/
+Disallow: /Library/
+Disallow: /Link/
+Disallow: /News/
+Disallow: /gsc/
+Disallow: /*/P
+Disallow: /*/C
+Disallow: /contact
+Allow: /gsc/comic_viewer/
+Allow: /gsc/movie_sitemap
+Allow: /gsc/rss_flipboard_znoj5lrwoe/
+
+User-agent: Googlebot
+Disallow: /index.php
+Disallow: /Backnumber/
+Disallow: /cgi-bin/
+Disallow: /Images/
+Disallow: /Library/
+Disallow: /Link/
+Disallow: /News/
+Disallow: /gsc/
+Disallow: /news/*/*/
+Disallow: /*/P
+Disallow: /*/C
+Disallow: /contact
+Allow: /gsc/comic_viewer/
+Allow: /gsc/movie_sitemap
+Allow: /gsc/rss_flipboard_znoj5lrwoe/
+
+User-agent: msnbot
+Disallow: /index.php
+Disallow: /Backnumber/
+Disallow: /cgi-bin/
+Disallow: /Images/
+Disallow: /Library/
+Disallow: /Link/
+Disallow: /News/
+Disallow: /gsc/
+Disallow: /amp/
+Disallow: /*/P
+Disallow: /*/C
+Allow: /gsc/comic_viewer/
+
+User-Agent: Yahoo! Slurp
+Disallow: /index.php
+Disallow: /Backnumber/
+Disallow: /cgi-bin/
+Disallow: /Images/
+Disallow: /Library/
+Disallow: /Link/
+Disallow: /News/
+Disallow: /gsc/
+Disallow: /amp/
+Disallow: /*/P
+Disallow: /*/C
+Allow: /gsc/comic_viewer/
+
+User-agent: Yahoo-NewsCrawler
+Disallow: /index.php
+Disallow: /Backnumber/
+Disallow: /cgi-bin/
+Disallow: /Images/
+Disallow: /Library/
+Disallow: /Link/
+Disallow: /News/
+Disallow: /gsc/
+Disallow: /amp/
+Disallow: /*/P
+Disallow: /*/C
+Allow: /gsc/comic_viewer/
+
+User-agent: BecomeBot
+Disallow: /index.php
+Crawl-Delay: 100
+Disallow: /Backnumber/
+Disallow: /cgi-bin/
+Disallow: /Images/
+Disallow: /Library/
+Disallow: /Link/
+Disallow: /News/
+Disallow: /gsc/
+Disallow: /amp/
+Disallow: /*/P
+Disallow: /*/C
+Allow: /gsc/comic_viewer/
+
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: *
+Crawl-delay: 100
+Disallow: /index.php
+Disallow: /Backnumber/
+Disallow: /cgi-bin/
+Disallow: /Images/
+Disallow: /Library/
+Disallow: /Link/
+Disallow: /News/
+Disallow: /gsc/
+Disallow: /amp/
+Disallow: /news/*/*/
+Disallow: /*/P
+Disallow: /*/C
+Disallow: /contact
+Allow: /gsc/comic_viewer/
+Allow: /gsc/movie_sitemap
+Allow: /gsc/rss_flipboard_znoj5lrwoe/
+
+User-agent: Megalodon
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: BUbiNG
+Disallow: /

@@ -1,0 +1,8 @@
+<script>
+function optOut() {
+document.cookie="OAM_WNA_OPT_OUT=TRUE; path=/; secure; Expires=Fri, 23-Aug-2024 21:55:22 UTC";
+location.href = "https://intranet.mef.gov.it/robots.txt";
+}
+</script>
+Proper authorization is required for this area. Either your browser does not perform authorization or your authorization has failed. Please click &nbsp&nbsp<button onclick="optOut()">Login
+</button>&nbsp&nbspto retry.

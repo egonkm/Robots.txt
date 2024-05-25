@@ -1,0 +1,59 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+user-agent: Google-Extended
+Disallow: /
+
+User-agent: *
+Disallow: /*v_detail_tab_print*.html$
+Disallow: /ajaxentry/
+Disallow: /*imagelightbox?elementId*
+Disallow: /user-registrierung/
+Disallow: /*;jsessionid=*
+Disallow: /*jsessionid=*
+Disallow: /*action=activate*
+Disallow: /lesezeichen/
+Disallow: /registrierung/
+Disallow: /*?ajaxelementid=*
+Disallow: /*ajaxelementid=*
+Disallow: /*?view=print*
+Disallow: /*view=print*
+Disallow: /*?view=lightbox
+Disallow: /*view=lightbox*
+Disallow: /channelizer/*
+Disallow: /cdn-cgi/rum*
+Disallow: /ext/stepstone/*
+Disallow: /preparesite/empty.js*
+Disallow: /cdn-cgi/beacon/*
+Disallow: /amp-analytics-infonline.html*
+
+Sitemap:  https://www.wiwo.de/news.xml
+Sitemap:  https://www.wiwo.de/contentexport/feed/sitemap/themen
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2004.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2005.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2006.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2007.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2008.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2009.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2010.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2011.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2012.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2013.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2014.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2015.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2016.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2017.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2018.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2019.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2020.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2021.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2022.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2023.xml
+Sitemap:  https://www.wiwo.de/sitemapExternal/sitemaps_index_2024.xml
+

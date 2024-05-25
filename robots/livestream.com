@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /?utm_source=lsplayer
+Disallow: /?*=*&utm_source=lsplayer
+Disallow: /join
+Disallow: /session/new
+Disallow: /accounts/new
+Disallow: /userguide
+Disallow: /redirector
+Disallow: /unsubscribe
+Disallow: /*/preview/live_player
+Disallow: /*/preview/feed
+Sitemap: https://livestream.com/sitemap/index.xml

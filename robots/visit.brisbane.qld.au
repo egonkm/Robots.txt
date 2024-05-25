@@ -1,0 +1,3 @@
+user-agent: *
+Disallow: /api/*
+Sitemap: https://visit.brisbane.qld.au/sitemap.xml

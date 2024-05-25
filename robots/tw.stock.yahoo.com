@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /_td-news
+Disallow: /_td-stock
+Disallow: /_td/api
+Disallow: /*?bcmt=*
+Disallow: /api
+Disallow: /caas
+Disallow: /comments/
+Disallow: /fp_ms
+Disallow: /nel_ms
+Disallow: /sdarla
+Disallow: /stock_ms
+Sitemap: https://tw.stock.yahoo.com/sitemap.xml

@@ -1,0 +1,4 @@
+ï»¿User-agent: *
+Allow:/login
+Allow:/intranet_software
+Disallow: /

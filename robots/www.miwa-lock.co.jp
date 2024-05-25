@@ -1,0 +1,6 @@
+User-Agent:*
+Disallow:/sd/list.php
+Disallow:/sd/detail.php
+Disallow:/miwa_smartphone/sd/list.php
+Disallow:/miwa_smartphone/sd/detail.php
+

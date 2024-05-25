@@ -1,0 +1,22 @@
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Disallow: /wp-login.php
+Disallow: /wp-admin
+Disallow: /admin
+Disallow: /login
+Disallow: /register
+Disallow: /pwreset
+Disallow: /members
+Disallow: /member
+Disallow: /account
+Disallow: /my-profile
+Disallow: /bloglist
+Disallow: /wp-content/uploads
+Disallow: /wp-content/hub-uploads
+Disallow: /wp-content/hub-avatars
+Disallow: /*/uploads/

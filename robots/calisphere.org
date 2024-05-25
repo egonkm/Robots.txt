@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /search/?*
+Sitemap: https://calisphere.org/sitemap.xml
+
+User-agent: *
+Crawl-delay: 3

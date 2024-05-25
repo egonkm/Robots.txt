@@ -1,0 +1,9 @@
+Sitemap: https://solutionsmedia.cbcrc.ca/sitemap.txt
+User-agent: *
+Disallow: /umbraco
+Disallow: /assets
+Disallow: /assets_podcast
+Disallow: Disallow: /search?*
+Disallow: Disallow: /*?year=*
+Disallow: Disallow: /*f?=*
+Disallow: Disallow: /*searchresult?p=*

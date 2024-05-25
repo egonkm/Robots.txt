@@ -1,0 +1,31 @@
+# ä¸»è¦ãªæ¤ç´¢ã¨ã³ã¸ã³ã®ããããè¨±å¯
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: Slurp
+Disallow:
+
+# ä¸è¦ãªãããããã­ãã¯
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+# ãã®ä»ã®ãããã«å¯¾ããããã©ã«ãã®è¨­å®
+User-agent: *
+Disallow: /
+
+Sitemap: https://www.fujitsubo.co.jp/sitemap.xml

@@ -1,0 +1,92 @@
+User-agent: *
+
+#Admin
+Disallow: /admin/
+
+#Directories
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /lib/
+Disallow: /pkginfo/
+Disallow: /shell/
+Disallow: /stats/
+Disallow: /var/
+Disallow: /cgi-bin/
+Disallow: /ajaxcart/
+Disallow: /checkout/
+
+#Files
+Disallow: /api.php
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /get.php
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /README.txt
+Disallow: /RELEASE_NOTES.txt
+Disallow: */cookie-policy
+Disallow: /collezione-lusso/shop-uomo/scarpe-classiche-stringate/us/information/
+
+#Paths
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /control/
+Disallow: /contacts/
+Disallow: /customer/
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /wishlist/
+#Disallow: /media/catalog/product/cache/
+Disallow: /*cat=*
+Disallow: /*manufacturer=*
+Disallow: /*price=*
+Disallow: /*dir=*
+Allow: */?p*
+Disallow: *?p=*&
+Disallow: /*pricegt=*
+Disallow: /*category=*
+Disallow: /*pricelt=*
+Disallow: /*?
+Allow: /skin/
+Allow: /js/
+Allow: /.js*
+Allow: /.css*
+Disallow: /old
+Disallow: /askquestion/
+Disallow: *askquestion
+Disallow: /blog/feed/
+Disallow: /mobile/
+Disallow: /m/
+Disallow: /modules/
+Disallow: /component/
+
+
+#wordpress
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content
+Allow: /wp-content/uploads/
+Allow: /blog/wp-includes/js/wp-emoji-release.min.js
+Allow: /blog/wp-includes/js/wp-embed.min.js
+Allow: /blog/wp-content/plugins/magento-wordpress-integration/assets/frontend/js/scripts.min.js
+Allow: /blog/wp-content/plugins/custom-banners/assets/js/custom-banners.js
+Allow: /blog/wp-content/plugins/custom-banners/assets/js/jquery.cycle2.min.js
+Allow: /blog/wp-content/plugins/wp-paginate/css/wp-paginate.css
+Allow: /blog/wp-content/plugins/easy-custom-auto-excerpt/buttons/ecae-buttonskin-none.css
+Allow: /blog/wp-content/plugins/easy-custom-auto-excerpt/assets/style-frontend.css
+Allow: /blog/wp-content/plugins/custom-banners/assets/css/wp-banners.css
+Allow: /blog/wp-content/themes/fishpig/style.css
+Allow: /blog/wp-content/themes/fishpig/js/navigation.js
+
+Sitemap: https://guidomaggi.it/indice-it-sitemap.xml

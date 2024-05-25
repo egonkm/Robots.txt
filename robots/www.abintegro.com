@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /Resources/
+Disallow: /SSO/
+Disallow: /clientcontent/
+Disallow: /LoginApp/
+Disallow: /register/ 
+Disallow: /signin/
+Disallow: /MobileApp/
+Disallow: /metadata/
+Disallow: /docs/
+Disallow: /highereducationprofiles/regentscollege/studentlanding.aspx
+Disallow: /elearning/

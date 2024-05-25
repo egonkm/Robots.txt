@@ -1,0 +1,7 @@
+User-agent: Scrapy
+Allow: /
+
+Sitemap: https://www.e-lfh.org.uk/sitemap_index.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /content.html
+
+User-agent: ia_archiver
+Disallow: /
+
+User-Agent: OmniExplorer_Bot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: stress-agent
+Disallow: /
+
+User-agent: Ultraseek
+Disallow: /
+
+Host: www.gemfinance.co.nz
+Sitemap: https://www.gemfinance.co.nz/sitemap.xml

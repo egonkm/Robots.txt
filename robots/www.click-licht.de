@@ -1,0 +1,83 @@
+user-agent: Pinterestbot
+Crawl-delay: 0.2
+Disallow: /*__*__*
+
+User-agent: *
+Disallow: /aktion
+Disallow: /Recklinghausen
+Disallow: /navi.php
+Disallow: /warenkorb.php
+Disallow: /bestellvorgang.php
+Disallow: /druckansicht.php
+Disallow: /suche.php
+Disallow: /bestellabschluss.php
+Disallow: /pass.php
+#Disallow: /Registrieren
+#Disallow: /Passwort-vergessen
+#Disallow: /Warenkorb
+#Disallow: /newsletter.php
+Disallow: /Mein-Konto?
+Disallow: /pdfworker
+Disallow: /Bestellvorgang
+Disallow: /Bestellabschluss
+Disallow: /registrieren.php
+Disallow: /admin
+Disallow: /dbeS
+Disallow: /jtl.php
+Disallow: /wishlist
+Disallow: /includes/plugins/jtl_search/version/100/frontend/
+Disallow: /includes/plugins/jtl_search/version/103/frontend/
+Disallow: /includes/plugins/jtl_search/version/104/frontend/
+Disallow: /includes/plugins/jtl_search/version/105/frontend/
+Disallow: /includes/plugins/jtl_search/version/106/frontend/
+Disallow: /includes/plugins/jtl_search/version/107/frontend/
+Disallow: /includes/plugins/jtl_search/version/108/frontend/
+Disallow: /*.pdf$
+Disallow: /bewertung.php
+Disallow: /*pf=*kkpf=*
+Disallow: /*btgsterne*
+Disallow: /*btgseite*
+Disallow: /xhprof_html
+Disallow: /xhprof_lib
+Disallow: /toolsajax.server.php
+Disallow: /io.php
+Disallow: /includes/plugins/fm_ofc/version/100/frontend/js/ofc.js
+Disallow: /*?force-desktop*
+
+#Disallow: /hc
+Disallow: /*__*__*
+
+Disallow: /*Brandschutz*__*
+Disallow: /*Zubehoer*__*
+Disallow: /*Zubehoer*__LED-Lampen*
+Disallow: /*Buerobeleuchtung*__*
+Disallow: /*Weiteres-Zubehoer*__*
+Disallow: /*Briefkaesten-Zeitungshalter*__*
+Allow: /Strahler-Erdspiesse__
+Disallow: /Strahler-Erdspiesse__*__
+Disallow: /*Erdspiesse*__*
+Disallow: /*Dimmer-Schalter*__*
+Disallow: /*Ersatzteile*__*
+Disallow: /*Fassungen-fuer-Leuchten*__*
+Disallow: /*Gartensteckdosen*__*
+Disallow: /*Klingelplatten*__*
+Disallow: /*Lampenschirme*__*
+Disallow: /*Muffen-Verbinder-Aussenbereich*__*
+Disallow: /*Trafos-Netzteile-Treiber*__*
+Disallow: /*Deckenventilatoren*__*
+Disallow: /*Werkzeug*__*
+
+#Disallow: /**__LED-Lampen*__*
+#Allow: /**__LED-Lampen*
+Disallow: /bilder/produkte/360shots/
+Allow: /bilder/
+Allow: /media/image/product/
+
+User-agent: AhrefsBot
+Crawl-delay: 5
+
+# all customers of Amazon Kendra's web crawler  
+#User-agent: amazon-kendra-web-crawler-* 
+#Disallow: /
+
+Sitemap: https://www.click-licht.de/export/sitemap_index.xml

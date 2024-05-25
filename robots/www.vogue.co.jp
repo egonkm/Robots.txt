@@ -1,0 +1,76 @@
+User-agent: *
+Disallow: /app_dev.php/
+Disallow: /fno/2014/tokyo/shop/list/
+Disallow: /item_search/result
+Disallow: /magazine/subscription/std
+Disallow: /magazine/subscription/sp
+Disallow: /preview/
+Disallow: *?image=
+Disallow: */image/
+Disallow: */verso-homepage
+Disallow: */verso-channel
+Disallow: */career
+Disallow: /*?redirectURL=
+Disallow: /*{{url}}
+Disallow: /*%7B%7Burl%7D%7D
+Disallow: /*{{section}}
+Disallow: /*%7B%7Bsection%7D%7D
+Disallow: /product/
+Disallow: /user-context?referrer
+Disallow: /services.min.js?_=
+
+User-agent: Google-InspectionTool
+Allow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+Sitemap: https://www.vogue.co.jp/sitemap.xml
+Sitemap: https://www.vogue.co.jp/feed/google-latest-news/sitemap-google-news
+Sitemap: https://www.vogue.co.jp/feed/rss
+Sitemap: https://www.vogue.co.jp/categories-sitemap.xml
+Sitemap: https://www.vogue.co.jp/contributors-sitemap.xml
+Sitemap: https://www.vogue.co.jp/branded-sitemap.xml
+Sitemap: https://www.vogue.co.jp/bundles-sitemap.xml

@@ -1,0 +1,10 @@
+#/content/dam/michigan-lsa/admin/robots/robots-lsa.txt
+User-agent: *
+Disallow: /etc/
+Disallow: /libs/
+Disallow: /tests/
+Sitemap: https://lsa.umich.edu/sitemap-lsa.xml
+Sitemap: https://lsa.umich.edu/sitemap-natural-science.xml
+Sitemap: https://lsa.umich.edu/sitemap-social-science.xml
+Sitemap: https://lsa.umich.edu/sitemap-humanities.xml
+

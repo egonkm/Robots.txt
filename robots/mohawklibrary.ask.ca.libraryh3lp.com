@@ -1,0 +1,13 @@
+Sitemap: http://mohawklibrary.ask.ca.libraryh3lp.com/sitemap.xml
+User-agent: *
+Crawl-delay: 10
+Disallow: /2011-12-03/
+Disallow: /2013-07-21/
+Disallow: /img/
+Disallow: /instant
+Disallow: /mail
+Disallow: /options
+Disallow: /search
+Disallow: /themes
+Disallow: /topics
+Disallow: /topics/

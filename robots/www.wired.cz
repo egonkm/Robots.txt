@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api/
+Allow: /
+Sitemap: https://www.wired.cz/sitemap.xml

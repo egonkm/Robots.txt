@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /iamladp/
+Disallow: /m2/
+Disallow: /m/
+Disallow: /rioapp/
+Disallow: /compendium/
+Disallow: /UN_Language Portal/
+Disallow: /test.html
+Disallow: /mockup.html
+
+

@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /AcoraCMS/Admin/
+Disallow: /test/*
+Disallow: /search*
+Disallow: /search/Default.aspx?SubmitSearch=1*
+Disallow: /search/?SubmitSearch=1*
+Disallow: /resources/search.asp*
+Disallow: /support-groups/default.asp?*
+Disallow: /downloads*
+Allow: /downloads/sitemap/
+
+User-agent: *
+Disallow: /includes
+Disallow: /report/digital/
+Disallow: /donations/renew.asp?*
+Disallow: /bowel-cancer-risk-calculator/*
+Disallow: /about/media-releases/20*
+Disallow: /default.asp?ID=*
+Disallow: /?offset=*
+Disallow: /?ContentId=*
+Disallow: /?Containerid=*
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.cancervic.org.au/sitemap.xml

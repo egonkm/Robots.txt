@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: */search?
+Disallow: */checkout?
+Disallow: /merchant
+Disallow: /callcenter
+Disallow: /cabinet
+Disallow: /cms
+Disallow: /api
+Disallow: /*?sort=
+Disallow: */checkout/
+Disallow: */checkout$
+Disallow: */credit$
+Disallow: */credit/
+Disallow: */checkout-router?
+Disallow: */compare
+Disallow: */capi
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Googlebot
+Disallow: 
+
+Sitemap: https://shop.beeline.kz/sitemap.xml

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cgi-gen
+Disallow: /cgi-bin
+Disallow: /soft/cgi-bin
+Disallow: /cdaftp

@@ -1,0 +1,13 @@
+User-Agent: *
+Sitemap: https://www.santanderbank.com/sitemap.xml
+Disallow: /test-page/
+Disallow: /test-pages/
+Disallow: /template
+Disallow: /draft-test
+Disallow: /1-11-23-galina-test
+Disallow: /test-liferay-template
+Disallow: /pages/personal/spc-upgrade 
+Disallow: /test-merchant-copy
+Disallow: /about-test-for-login
+Disallow: /-/private-client/articles/article-test-05292021
+Disallow: /interstitial-pages

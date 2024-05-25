@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+# QA pages and url patterns
+Disallow: /qa_*
+Disallow: /*/qa_*
+Disallow: /components*
+Disallow: /*/components*
+# other
+Disallow: /healthwise/
+Disallow: /kidshealth/
+Disallow: /es/
+
+Sitemap: https://patient.uwhealth.org/sitemap.xml

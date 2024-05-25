@@ -1,0 +1,6 @@
+Sitemap: https://cmts.ca/Sitemap.xml 
+User-agent: *
+Disallow: /EPiServer/
+Disallow: /Util/
+Disallow: /cmts-custom-redirects/
+Disallow: /qa-folder/

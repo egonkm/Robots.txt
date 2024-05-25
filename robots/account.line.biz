@@ -1,0 +1,81 @@
+
+<!doctype html>
+<html>
+<head>
+  <title>LINE Business ID</title>
+  <link rel="shortcut icon" href="https://static.line-scdn.net/biz-cms-idp/edge/img/favicon.ico" type="image/vnd.microsoft.icon">
+  <meta charset="utf-8">
+  <meta content="ie=edge" http-equiv="x-ua-compatible">
+  <meta http-equiv="Content-Type" charset="text/html; charset=UTF-8" />
+  <meta name="x-csrf" content="623f0e00-e7df-4372-9c9a-ccfefd03989d" />
+  <meta name="x-csrf-header" content="X-XSRF-TOKEN" />
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" name="viewport">
+  <meta name="format-detection" content="telephone=no">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,600" rel="stylesheet">
+  <link href="https://static.line-scdn.net/koromo/edge/2.0-rc3/koromo.css" rel="stylesheet">
+  <link href="https://static.line-scdn.net/koromo/edge/libs/font-awesome/5.1.0/pro.css" rel="stylesheet">
+  <style>
+    .adjustContainerPadding {
+      padding-top: constant(safe-area-inset-top) !important;
+      padding-top: env(safe-area-inset-top) !important;
+      padding-bottom: constant(safe-area-inset-bottom) !important;
+      padding-bottom: env(safe-area-inset-bottom) !important;
+    }
+  </style>
+  <script>
+  (function(g,d){
+  var v='release/stable';
+  g._trmq=[];g._trm=function(){g._trmq.push(arguments)};
+  g.onerror=function(m,f,l,c){g._trm('send','exception',m,f,l,c)};
+  var h=location.protocol==='https:'?'https://d.line-scdn.net':'http://d.line-cdn.net';
+  var s=d.createElement('script');s.async=1;
+  s.src=h+'/n/_4/torimochi.js/public/v1/'+v+'/min/torimochi.js?20210921';
+  var t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);
+  })(window, document);
+  _trm('enable', {
+  productKey: 'line-businessid-real'
+  });
+  _trm('send', 'pageview');
+  </script>
+  <script onerror="_trm('send', 'exception', 'babel_polyfill_load_error', this.src)" src="https://static.line-scdn.net/koromo/edge/libs/babel-polyfill/6.26.0/polyfill.js?20210921"></script>
+  
+</head>
+<body>
+
+<script>
+  var OPTIONS = {
+    pageType: "error",
+    hasRedirectUri: false,
+    language: "en",
+    termsBaseUri: "https://terms2.line.me",
+    helpBaseUri: "https://help2.line.me/business_id/web",
+    messages: {
+      description: "An error occurred.",
+      backToTop: "Go back",
+      terms: "Terms of Use",
+      help: "Help",
+    }
+  }
+</script>
+  <div id="errorMessage" style="display:none; padding:30px;">
+    <h3>ファイルの読み込みに失敗しました。ブラウザの再読み込みをお願いします。<br>解決しない場合は、以下のヘルプをご覧ください。<br><a target="_blank" href="https://help2.line.me/business_id/web?contentId=20021619&lang=ja">https://help2.line.me/business_id/web?contentId=20021619&lang=ja</a></h3>
+    <h3>Failed to read the file. Please reload your browser. <br>If the problem persists, please see the help page below.<br><a target="_blank" href="https://help2.line.me/business_id/web?contentId=20021619&lang=en">https://help2.line.me/business_id/web?contentId=20021619&lang=en</a></h3>
+  </div>
+  <div id="app"></div>
+  <script>
+    window.addEventListener("load", function() {
+      setTimeout(function() {
+        if (document.getElementById("app") && window.idpJSBundleLoaded) {
+          _trm("send", "exception", "js_execution_error");
+        }
+      }, 1000);
+    });
+  </script>
+  <script onload="window.idpJSBundleLoaded=true" onerror="_trm('send', 'exception', 'js_load_error', this.src)" src="https://static.line-scdn.net/biz-cms-idp/18ad4eedb00/js/bundle.min.js"></script>
+  <script>
+    if (!window.idpJSBundleLoaded) {
+      document.getElementById("errorMessage").style.display = "block";
+    }
+  </script>
+</body>
+</html>

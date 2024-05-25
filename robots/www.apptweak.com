@@ -1,0 +1,16 @@
+User-agent: *
+Sitemap: https://www.apptweak.com/sitemap.xml
+Disallow: /en/aso-resources/iOS-15-a-new-era-for-ASO
+Disallow: /fr/aso-resources/iOS-15-a-new-era-for-ASO
+Disallow: /ja/aso-resources/iOS-15-a-new-era-for-ASO
+Disallow: /ko/aso-resources/iOS-15-a-new-era-for-ASO
+Disallow: /zh-cn/aso-resources/iOS-15-a-new-era-for-ASO
+Disallow: /en/aso-resources/improving-your-global-acquisition-with-app-store-localization
+Disallow: /fr/aso-resources/improving-your-global-acquisition-with-app-store-localization
+Disallow: /ja/aso-resources/improving-your-global-acquisition-with-app-store-localization
+Disallow: /ko/aso-resources/improving-your-global-acquisition-with-app-store-localization
+Disallow: /zh-cn/aso-resources/improving-your-global-acquisition-with-app-store-localization
+Disallow: /en/applications/
+Disallow: /fr/applications/
+Disallow: /ko/applications/
+Disallow: /zh-cn/applications/

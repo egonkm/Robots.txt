@@ -1,0 +1,74 @@
+Sitemap: https://www.fortinet.com/sitemap-index.xml
+Sitemap: https://www.fortinet.com/sitemap.xml
+Sitemap: https://www.fortinet.com/it/sitemap.xml
+Sitemap: https://www.fortinet.com/de/sitemap.xml
+Sitemap: https://www.fortinet.com/fr/sitemap.xml
+Sitemap: https://www.fortinet.com/jp/sitemap.xml
+Sitemap: https://www.fortinet.com/kr/sitemap.xml
+Sitemap: https://www.fortinet.com/cn/sitemap.xml
+Sitemap: https://www.fortinet.com/tw/sitemap.xml
+Sitemap: https://www.fortinet.com/br/sitemap.xml
+Sitemap: https://www.fortinet.com/lat/sitemap.xml
+Sitemap: https://www.fortinet.com/uk/sitemap.xml
+Sitemap: https://www.fortinet.com/bin/fortinet/allnewsxml
+
+User-agent: CCBot/2.0
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: Baiduspider
+User-agent: BingBot
+User-agent: Exabot
+User-agent: FeedFetcher-Google
+User-agent: Google-InspectionTool
+User-agent: Google-Site-Verification
+User-agent: Google-speakr
+User-agent: GoogleBot
+User-agent: Googlebot-Image
+User-agent: Googlebot-News
+User-agent: Googlebot-Video
+User-agent: Qwantify
+Disallow: /form/
+Disallow: /error.html
+Disallow: /form.html
+Disallow: /ir.html
+Disallow: /content/dam/fortinet/assets/*.txt$
+Disallow: /partners/mississippi-its.html
+Disallow: /partners/mississippi-its$
+Disallow: /partners/california-list-fortinet$
+Disallow: /partners/alabama-aljp$
+Disallow: /partners/equalis-group$
+Disallow: /content/dam/fortinet/assets/partners/state-contracts/*
+Disallow: /resources-campaign/*
+Disallow: /br/resources-campaign/*
+Disallow: /lat/resources-campaign/*
+Disallow: /gb/resources-campaign/*
+Disallow: /de/resources-campaign/*
+Disallow: /fr/resources-campaign/*
+Disallow: /reports/
+Disallow: /*.php$
+Disallow: /*.aspx$
+Disallow: /*.php?$
+Disallow: /*.asmx?$
+Disallow: /content/dam/maindam/*
+Disallow: /blog/tags-search
+Disallow: /blog/tags-search.html
+Disallow: /*?tag=*
+Disallow: /content/dam/fortinet/assets/solution-guides/ja_jp/LF_fortiproxy.pdf
+Disallow: /content/dam/fortinet/assets/ja_jp/private/*
+Disallow: /content/dam/fortinet/assets/private/*
+Disallow: /content/dam/fortinet/assets/white-papers/vpat*.pdf
+Disallow: /content/dam/fortinet/assets/white-papers/VPAT*.pdf
+
+
+User-agent: MojeekBot
+User-agent: PetalBot
+User-agent: YouBot
+User-agent: *
+Disallow: /

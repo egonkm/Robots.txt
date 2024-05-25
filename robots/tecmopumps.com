@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /recommended/
+Disallow: /comments/feed/
+Disallow: /trackback/
+Disallow: /index.php/
+Disallow: /plugins/
+Disallow: /xmlrpc.php
+Sitemap: https://tecmopumps.com/sitemap.xml

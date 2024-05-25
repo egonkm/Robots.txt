@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://invest.bnpparibas/sitemap.xml
+Sitemap: https://invest.bnpparibas/en/sitemap.xml

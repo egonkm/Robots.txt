@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /$
+Allow: /en/$
+Allow: /faqs/15634820
+Allow: /en/faqs/15634820
+Allow: /contact-us/15634858
+Allow: /en/contact-us/15634858
+Allow: /authors/15634694
+Allow: /en/authors/15634694
+Allow: /press-officers/16760472
+Allow: /en/press-officers/16760472
+Allow: /bmc/15742318
+Allow: /en/bmc/15742318
+Allow: /springer/15742320
+Allow: /en/springer/15742320
+Disallow: /
+Sitemap: https://press.springernature.com/sitemap.xml

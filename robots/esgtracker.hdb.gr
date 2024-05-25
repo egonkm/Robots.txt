@@ -1,0 +1,11 @@
+Sitemap: https://esgtracker.hdb.gr/sitemap.xml
+Sitemap: https://esgtracker.hdb.gr/sitemap.rss
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://esgtracker.hdb.gr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,0 +1,46 @@
+
+
+
+<html>
+<head>
+<title>VMware&nbsp;Horizon</title>
+<link rel=stylesheet href="/styles/clientlaunch-default/style.css" type="text/css" />
+</head>
+<body leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0"
+	marginheight="0">
+
+
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<script type="text/javascript" language="JavaScript" src="/styles/clientlaunch-default/fixpng.js">
+</script>
+<script type="text/javascript" language="JavaScript">
+	function escapeHTML(str) {
+		var div = document.createElement("div");
+		var text = document.createTextNode(str);
+		div.appendChild(text);
+		return div.innerHTML;
+	}
+</script>
+
+	<tr style="height: 62px; background-color: #000000;">
+		<td style="width: 100%; vertical-align: top; text-align: left;" background="/styles/clientlaunch-default/1x62_gradient.png">
+				<img src="/styles/clientlaunch-default/343x62_vmware_banner.png" /></td>
+		<td style="width: 100%; vertical-align: top; text-align: right;" background="/styles/clientlaunch-default/1x62_gradient.png">
+				<img src="/styles/clientlaunch-default/99x62_vmware.png" /></td>
+	</tr>
+
+</table>
+
+<center>
+<div id="mainDiv">
+<h2>404 Error Page Not Found</h2>
+<span id="errorMessage">
+	The page you requested <script language="JavaScript">document.write('(' + escapeHTML(location.href) + ') ');</script>could not be found
+</span>
+<p><a href="/">Click here to return to the front page</a></p>
+</div>
+</center>
+
+</body>
+</html>

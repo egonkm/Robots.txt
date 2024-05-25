@@ -1,0 +1,26 @@
+# robots.txt
+# @url: https://laviedesidees.fr/
+# @generator: SPIP 4.1.15
+# @template: plugins/auto/entravaux/v4.0.2/robots.txt.html
+
+User-agent: *
+Allow: /local/cache-css/
+Allow: /local/cache-js/
+Disallow: /local/
+Disallow: /ecrire/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /plugins-dist/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Disallow: /squelettes/
+Disallow: /oembed.api/
+Disallow: /spip.php?action=*
+Disallow: /spip.php?page=login*
+
+Sitemap: https://laviedesidees.fr//sitemap.xml
+
+User-agent: bingbot
+Crawl-delay: 1
+
+ 

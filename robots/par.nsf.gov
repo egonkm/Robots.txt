@@ -1,0 +1,30 @@
+User-agent: Googlebot
+Disallow: /search
+
+User-agent: bingbot
+Crawl-delay: 0
+
+User-agent: Slurp
+Crawl-delay: 1
+
+User-agent: LinkgTiger
+Crawl-delay: 1
+
+User-agent: Yandex
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Crawl-delay: 1
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+User-agent: Semrush
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+

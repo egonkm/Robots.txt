@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /api/
+Disallow: /test/
+Disallow: /login/
+Disallow: /index.php
+Disallow: /wincache.php
+Disallow: /memcache.php
+Disallow: /gear/topics/article/136822/
+Sitemap: https://lesson.golfdigest.co.jp/sitemap/sitemap.xml
+User-agent: bingbot
+Crawl-Delay: 5
+User-Agent: trendictionbot
+Disallow: /

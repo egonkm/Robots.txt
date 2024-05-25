@@ -1,0 +1,37 @@
+User-agent: *
+
+Disallow: /armatis/
+
+Disallow: /cgi-bin/
+
+Disallow: /is/
+
+Disallow: /Library/
+
+Disallow: /miug/
+
+Disallow: /reports/
+
+Disallow: /secure/
+
+Disallow: /staff/
+
+Disallow: /Templates/
+
+Disallow: /test/
+
+Disallow: /testweb/
+
+Disallow: /training/
+
+Disallow: /images/
+
+Disallow: /css/
+
+Disallow: /old/
+
+Disallow: /lib/
+
+Disallow: /backup/
+
+Disallow: /collection/

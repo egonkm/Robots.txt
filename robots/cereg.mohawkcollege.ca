@@ -1,0 +1,4 @@
+# Set the delay for all crawlers to 10 seconds
+#
+User-agent: *
+Crawl-delay: 10

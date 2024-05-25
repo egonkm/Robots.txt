@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap: https://www.fonds-afnor-normalisation.org/post-sitemap.xml
+Sitemap: https://www.fonds-afnor-normalisation.org/page-sitemap.xml
+Sitemap: https://www.fonds-afnor-normalisation.org/category-sitemap.xml
+Sitemap: https://www.fonds-afnor-normalisation.org/en/post-sitemap.xml
+Sitemap: https://www.fonds-afnor-normalisation.org/en/page-sitemap.xml
+Sitemap: https://www.fonds-afnor-normalisation.org/en/category-sitemap.xml

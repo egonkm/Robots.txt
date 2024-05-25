@@ -1,0 +1,19 @@
+User-agent: Twitterbot
+Disallow: *
+Allow: /contentimage/
+
+User-agent: *
+Crawl-delay: 15
+Allow: /
+Disallow: /contentimage/
+Disallow: /author/show/id/
+Disallow: /instructors/show/id/
+Disallow: /addcalendar/id/
+Disallow: /mkcfsearch/
+Disallow: /sitesearch/
+Disallow: /email/id/
+Disallow: /save/id/
+Disallow: /emailprofile/id/
+Disallow: /getfile/
+Disallow: /ajax/
+Sitemap: https://www.ana.net/static/ana_all_mkc_content.rss

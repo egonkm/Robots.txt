@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /search/*
+Disallow: */feed/
+Disallow: /rss
+Disallow: /utm_
+Disallow: /search?q=*
+Disallow: /*/?*
+Disallow: /?*
+Allow: /wp-admin/admin-ajax.php
+Allow: /
+Sitemap:  https://iranshartbandi.com/sitemap_index.xml

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /icalendar/
+# Disallowed portals are included as Allowed to use noindex strategy: https://developers.google.com/search/docs/advanced/crawling/block-indexing
+Allow: /careers
+Allow: /*/careers
+Sitemap: https://totalenergies.avature.net/careers/sitemap_index.xml
+Disallow: /

@@ -1,0 +1,9 @@
+#
+# robots.txt
+
+User-agent: *
+Disallow: /Templates/
+Disallow: /Library/
+Disallow: /email/
+Disallow: /proofs/
+Disallow: /training/

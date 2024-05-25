@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.njleg.state.nj.us
+
+# Sitemaps
+Sitemap: https://www.njleg.state.nj.us/sitemaps/sitemap.xml
+Sitemap: https://www.njleg.state.nj.us/sitemaps/bills-sitemap.xml

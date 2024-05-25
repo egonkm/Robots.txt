@@ -1,0 +1,5 @@
+# robots.txt
+User-agent: *
+Disallow:
+
+Sitemap: https://www.claas.at/service-sitemap-cl-pw-de-sitemap_index.xml

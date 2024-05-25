@@ -1,0 +1,7 @@
+ï»¿User-agent: *
+Disallow: /*?type=500
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+
+User-agent: aiHitBot
+Disallow: /

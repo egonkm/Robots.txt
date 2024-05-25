@@ -1,0 +1,6 @@
+user-agent: *
+disallow: /_common
+disallow: /search
+disallow: /tools
+
+Sitemap: https://services.utdallas.edu/sitemap.xml

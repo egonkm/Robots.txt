@@ -1,0 +1,14 @@
+
+Sitemap: https://infonet.fr/sitemap_index.xml
+
+User-Agent: *
+Allow: /
+Disallow: /connexion/
+Disallow: /mon-compte/
+Disallow: /documents-gratuits/
+Disallow: /demandes/
+Disallow:/donnees-entreprises-next40-ft120
+Disallow:/guide-business-plan
+Disallow:/recherche-entreprises
+Disallow:/recherche-activites
+Disallow:/recherche-secteurs

@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /comments/feed/
+Disallow: /wp-json
+Allow: /
+Allow: /wp-content/uploads
+Allow: /wp-includes/js/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://agensintetis.com/sitemap_index.xml

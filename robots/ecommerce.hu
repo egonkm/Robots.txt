@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://ecommerce.hu/sitemap_index.xml
+Sitemap: https://ecommerce.hu/vedd-a-neten/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /dritte/
+Disallow: /noframe/
+Disallow: /system/
+Disallow: /*playerXml.xml
+Disallow: /*ut*.xml

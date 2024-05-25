@@ -1,0 +1,3 @@
+user-agent: *
+disallow: /error/
+sitemap: http://www.foedevarestyrelsen.dk/Handlers/Sitemap.ashx

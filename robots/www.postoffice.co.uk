@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: *.pdf* #Quote Journeys
+Disallow: /myaccount*
+Disallow: /dng/mapping/csv-import*
+Disallow: /cdp-sso/login*
+Sitemap: https://www.postoffice.co.uk/sitemap/sitemapindex.xml

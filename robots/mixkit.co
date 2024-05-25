@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: */ads.txt
+Sitemap: https://mixkit.co/sitemaps/sitemap.xml.gz
+Sitemap: https://mixkit.co/sitemaps/sitemap-video.xml.gz
+Sitemap: https://mixkit.co/sitemaps/sitemap-sfx.xml.gz
+Sitemap: https://mixkit.co/blog/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: CCBot
+Disallow: /

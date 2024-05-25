@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /forward
+Disallow: /traffic
+Disallow: /mm_track
+Disallow: /tag/expire-images*
+Disallow: /_remote
+Disallow: /_td_api
+Disallow: /_td
+Disallow: /_uac/adpage.html

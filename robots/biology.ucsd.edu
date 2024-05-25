@@ -1,0 +1,16 @@
+# Note that this file is different than the one on stage-biology.ucsd.edu - 
+# DO NOT PUBLISH TO STAGING server unless you intend to overwrite that version as well
+
+Sitemap: https://biology.ucsd.edu/sitemap.xml
+User-agent: *
+Disallow: /biointra/
+Disallow: /_images/people/graduate-students/
+Disallow: /_images/people/phd-students/
+Disallow: /about/news/meet-a-staff-member/
+Disallow: /education/grad/phd/training-programs/gaann/
+Disallow: /education/undergrad/ec/
+Disallow: /education/grad/phd/student-directory/photos
+Disallow: /_files/education/undergrad/ec/
+Disallow: /_files/communications/
+Disallow: /publicinfo/dwc?action=faculty_profile_s&ucsd_net_name=*
+Disallow: /education/grad/phd/admissions/faq/faculty-recruiting-interests.html

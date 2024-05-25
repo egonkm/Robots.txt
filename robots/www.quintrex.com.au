@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /cc/
+
+Sitemap: https://www.quintrex.com.au/sitemap.xml

@@ -1,0 +1,27 @@
+User-agent: Twitterbot
+Disallow: 
+
+User-agent: Yandex
+Disallow: /
+User-agent: DAUM
+Disallow: /
+User-agent: moget
+User-agent: ichiro
+Disallow: /
+User-agent: YoudaoBot
+Disallow: /
+User-agent: sogou spider
+Disallow: /
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+Disallow: /
+User-agent: NaverBot
+User-agent: Yeti
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+Disallow: /
+User-agent: bingbot
+Allow: /
+Sitemap: https://www.triodoscrowdfunding.co.uk/sitemap.xml

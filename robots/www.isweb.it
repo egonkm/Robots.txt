@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+#Sitemap ISWEB
+Sitemap: https://www.isweb.it/sitemap.xml

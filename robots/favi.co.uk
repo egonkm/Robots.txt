@@ -1,0 +1,27 @@
+Sitemap: https://favi.co.uk/sitemap/sitemap-index.xml
+
+User-agent: *
+Disallow: /products/to-shop/
+Disallow: /products*freeDelivery=
+Disallow: /products*priceFrom=
+Disallow: /products*priceTo=
+Disallow: /products*measurement[*]=
+Disallow: /products*filters=
+Disallow: /products*color=
+Disallow: /products*feature1=
+Disallow: /products*feature2=
+Disallow: /products*feature3=
+Disallow: /products*feature4=
+Disallow: /products*feature5=
+Disallow: /products*feature6=
+Disallow: /products*feature7=
+Disallow: /products*feature8=
+Disallow: /products*feature9=
+Disallow: /products*feature10=
+Disallow: /products*luxury=
+Disallow: /products*priceFrom=
+Disallow: /products*priceTo=
+Disallow: /products*sort=
+Disallow: /products*style=
+Disallow: /add-review/*
+Disallow: /user-profiles/

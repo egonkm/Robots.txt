@@ -1,0 +1,8 @@
+# robots.txt for https://www.youthforum.org/
+
+
+User-agent: *
+Disallow: /cpresources/
+Disallow: /vendor/
+Disallow: /.env
+

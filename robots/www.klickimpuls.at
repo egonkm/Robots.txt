@@ -1,0 +1,7 @@
+
+Sitemap: https://www.klickimpuls.at/sitemap.xml
+
+User-agent: *
+Disallow: /search?*
+Disallow: /buy/ticket/
+Disallow: /buy/voucher/

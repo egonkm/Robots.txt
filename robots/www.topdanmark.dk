@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /faa-hjaelp/kontakt-os/kvittering*
+Disallow: /fileadmin/*
+Disallow: /anmeld-skade/form*
+Disallow: /testskygge/*
+Disallow: /test-jwt/*
+Disallow: /index*
+Disallow: *.pdf
+Disallow: /htmlcontent/*
+Disallow: /binaries/*
+Disallow: /blog/area//
+Disallow: /blog/theme//
+ 
+Sitemap: https://www.topdanmark.dk/site/sitemap.xml

@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://openjsworld2021.openjsf.org/sitemap.xml

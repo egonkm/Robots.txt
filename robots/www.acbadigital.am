@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Disallow: /system-error
+Noindex: /unavailable.html

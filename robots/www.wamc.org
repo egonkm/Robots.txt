@@ -1,0 +1,6 @@
+User-agent: * 
+Disallow:
+
+Sitemap: https://www.wamc.org/sitemap.xml
+Sitemap: https://www.wamc.org/sitemap-latest.xml
+Sitemap: https://www.wamc.org/news-sitemap-content.xml

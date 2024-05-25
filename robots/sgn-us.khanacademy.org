@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://sgn-us.khanacademy.org/sitemap.xml
+Disallow: *

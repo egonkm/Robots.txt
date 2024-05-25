@@ -1,0 +1,4 @@
+# robots.txt http://www.neis-one.org/
+
+User-agent: *
+Disallow: /

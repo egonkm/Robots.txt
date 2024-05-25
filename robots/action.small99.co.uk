@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /take-action/
+Disallow: /settings/
+Disallow: /achievements/
+Disallow: /progress/
+SITEMAP: /sitemap.xml

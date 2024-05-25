@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Slurp
+Allow: /
+User-Agent: msnbot
+Allow: /
+
+Sitemap: https://www.szotar.net/assets/sitemap/sitemap.xml

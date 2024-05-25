@@ -1,0 +1,37 @@
+Sitemap: https://hijobs.net/sitemap
+
+User-agent: JoobleBot
+Crawl-delay: 3
+
+User-agent: AhrefsBot
+Crawl-delay: 1
+
+User-agent: GPTBot
+Crawl-delay: 1
+
+User-agent: *
+Disallow: /amendsearch
+Disallow: /ajax/
+Disallow: /tracking/
+Disallow: /shortlist/
+Disallow: /contact?*
+
+#Block bots
+User-agent: 360Spider
+Disallow:/
+User-agent: bytespider | byte spider | bytedance | bytedance
+Disallow:/
+User-agent: 404checker
+Disallow:/
+User-agent: 404enemy
+Disallow:/
+User-agent: Amazonbot
+Disallow:/
+User-agent: ClaudeBot
+Disallow:/
+User-agent: BLEXBot
+Disallow:/
+User-agent: Turnitin
+Disallow:/
+User-agent: SemrushBot
+Disallow:/

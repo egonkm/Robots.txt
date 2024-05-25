@@ -1,0 +1,17 @@
+User-agent: *
+# Sitemap 
+Sitemap: https://vente-en-ligne.ag2rlamondiale.fr/sitemap.xml
+
+# Protecvia
+Disallow: /devis-mutuelle-sante-besoins
+Disallow: /devis-mutuelle-sante-formules
+Disallow: /souscription-mutuelle-sante-informations-detaillees
+Disallow: /souscription-mutuelle-sante-coordonnees-bancaires
+Disallow: /confirmation-mutuelle-sante
+
+# FlexeoSantePro
+Disallow: /sante-collective/devis-besoins
+Disallow: /sante-collective/devis-formules
+Disallow: /sante-collective/souscription-informations-detaillees
+Disallow: /sante-collective/souscription-coordonnees-bancaires
+Disallow: /sante-collective/souscription-confirmation

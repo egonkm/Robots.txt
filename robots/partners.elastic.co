@@ -1,0 +1,589 @@
+
+<!doctype html>
+<html>
+<head id="GlobalHead"><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>
+	Elastic Partner Portal | Page Not Found
+</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="stylesheet" href="https://partners.elastic.co/css/bootstrap.min.css?v=6.21.33+Branch.6.21.33.Sha.3daa73c5c39be4ccbd54755b99ef63fa622e76b9" as="style" />
+<link rel="preconnect" href="https://prod.prmcdn.io/" crossorigin />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preload" href="https://prod.prmcdn.io/css/portal.min.css?v=zkVJxnod52oMTjYR6Q3hosO_V8TSk__5EWS7kYjCGBc1" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<link rel="preload" href="https://prod.prmcdn.io/fonts/fontawesome-pro/css/fontawesome-bundle.css?v=d3neHx--s4dDYR6qXPOQMoCG4DwQ41DK39P-UeuOod41" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<link rel="preload" href="https://prod.prmcdn.io/fonts/google-fonts/css/google-fonts-bundle.css?v=XIT0ITfffJvvm7g-d2VMuJ5YO-KC9LI9bwcW9SSXxWc1" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<script id="prm-app-config">
+
+	var appConfig = {
+		"apiUrl": "https://partners.elastic.co/prm/",
+		"resourceUrl": "https://prod.prmcdn.io/",
+		"pageUrl": "/prm/",
+		"rootUrl": "/",
+		"spaPath": "s/",
+		"cmsPath": "c/",
+		"authorizeUrl": "https://partners.elastic.co/services/PrmAuth.asmx",
+		"loginUrl": "/",
+		"tenantId": 313,
+		"xss": false,
+		"language": "English",
+		"languages": {"english":{"id":594,"name":"English","display":"English","locale":"en","isDefault":true,"isActive":true},"deutsch":{"id":903,"name":"Deutsch","display":"Deutsch","locale":"de","isDefault":false,"isActive":true},"español":{"id":904,"name":"Español","display":"Español","locale":"es","isDefault":false,"isActive":true},"francais":{"id":905,"name":"Francais","display":"Francais","locale":"fr","isDefault":false,"isActive":true},"japanese":{"id":906,"name":"Japanese","display":"Japanese","locale":"ja-JP","isDefault":false,"isActive":true},"korean":{"id":907,"name":"Korean","display":"Korean","locale":"ko","isDefault":false,"isActive":true},"chinese":{"id":908,"name":"Chinese","display":"Chinese","locale":"zh-CN","isDefault":false,"isActive":true},"portuguese":{"id":909,"name":"Portuguese","display":"Portuguese","locale":"pt","isDefault":false,"isActive":true}},
+		"formattingLocale": "en",
+		"momentDateTimeFormat": "M/D/YYYY h:mm a",
+		"momentTimeFormat": "h:mm a",
+		"momentDateFormat": "M/D/YYYY",
+		"onAppStart": [],
+		"buildVersion": "6.21.33+Branch.6.21.33.Sha.3daa73c5c39be4ccbd54755b99ef63fa622e76b9",
+		"features": {"cobranding":{},"asset":{"extensionsWhiteList":["csv","doc","docx","eps","gif","jpg","mov","mp4","pdf","png","pptx","tif","txt","xls","xlsx"],"extensionsBlackList":[],"contentTypesWhiteList":[],"contentTypesBlackList":[],"unspecifiedLanguageFilterVisible":true,"unspecifiedLanguageFilterPreSelected":false,"localeLanguageFilterPreSelected":true,"hideLanguageFilter":false,"searchAssetText":false},"webSettings":{},"crmSync":{"version":2,"crmType":null,"crmIntegration":"SalesforceClassic","canEnableCrmSyncForCustomObjects":false},"content":{"template":"modern","canChangeTemplate":false},"moduleFormBuilder":{},"leadDistribution":{},"mdf":{},"businessPlanning":{},"supportCases":{},"dealRegistration":{"corePagesEnabled":true,"objectAccessEnabled":true,"useLegacyOpportunity":false,"dealRegistrationUrl":"","dealManagementUrl":""},"customMFBModules":{},"search":{},"training":{},"journeyBuilder":{},"events":{},"reCaptcha":{"mode":"HCaptcha","siteKey":"60cf712b-725c-459b-a234-385187bd145d"},"channelIntel":{"advancedAnalytics":true,"advancedAnalyticsPlus":false,"advancedAnalyticsDealDashboard":true,"classicDashboard":false,"techVersionV1":false,"techVersionV2":true,"allowLogi":false},"anonymousTracking":{},"activityStream":{},"portalCdnResources":{},"partnerMarketplace":{},"appInsights":{"connectionString":"InstrumentationKey=dc1afe93-ccef-4676-bb13-16266f7542b7;IngestionEndpoint=https://westus2-2.in.applicationinsights.azure.com/;LiveEndpoint=https://westus2.livediagnostics.monitor.azure.com/"},"googleTags":{"tagManager":"GTM-MR84S5S"}},
+		"profile": null,
+		"componentOverwrites": {},
+		"moduleVersions": {"amcharts":"RTHFBRcIycRVh6dVG_K6DOMORuoZEYi8bh73Gbn_6-01","bootstrapTable":"uDWpGtPOt3e5zbwRD3UrDk9WjMz_johj5VM22FTYDUA1","htmlEditorAndEmailBuilder":"_4170loIO1WWqk4mwIgyxbnwNTDcdNPwLY7MbKeGZuw1","jquery-plugins":"RiFVU1aT-0pGKk8h3atm5xAFiBK6OOF0--haa3kMJL81","ko-plugins":"Hjt9wt6gie5K8fVowqeN2bsfXsZnfYrBB11TIdHPU-41","misc-amd-modules":"S1KGPzxMWpZU6AVWnNPKcnwntSx0XmVcASS64I4UOMM1"},
+		"discriminator": "Public",
+		"menus":{"portalTopNav":{"name":"PortalTopNav","items":[]}},
+		"sections":{"header":{"name":"header","placement":"InsertBefore","html":"\r\n\t<header>\r\n\t\t<div class=\"container-fluid bg-f8f8f8\">\r\n\t\t\t<nav role=\"navigation\" class=\"navbar navbar-default navbar-fixed-top\">\r\n\t\t\t\t<div class=\"container\">\r\n\t\t\t\t\t<div class=\"navbar-header pull-left\">\r\n\t\t\t\t\t\t<div class=\"navbar-brand\"><a href=\"../../\">Elastic Partner Portal</a></div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div id=\"navbarCollapse\" class=\"collapse navbar-collapse\">\r\n\t\t\t\t\t\t<!-- ko component: { name: 'prm-component-nav', params: { menus: config.menus.portalTopNav } } -->\r\n\t\t\t\t\t\t\t<ul class=\"nav navbar-nav navbar-right\" data-bind=\"foreach: items\">\r\n\t\t\t\t\t\t\t\t<li class=\"dropdown\">\r\n\t\t\t\t\t\t\t\t\t<a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-expanded=\"false\"  data-bind=\"xlink: externalLink\"><span data-bind=\"text: name\"></span><!-- ko 'if': $data.items && $data.items.length > 0 --> <span class=\"caret\"></span><!-- /ko --></a>\r\n\t\t\t\t\t\t\t\t\t<!-- ko 'if': $data.items && $data.items.length > 0 -->\r\n\t\t\t\t\t\t\t\t\t<!-- ko component: { name: 'prm-component-nav', params: { menus: $data.items }} --><!-- /ko -->\r\n\t\t\t\t\t\t\t\t\t<!-- /ko -->\r\n\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t<!-- /ko -->\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t</nav>\r\n\t\t</div>\r\n\t</header>\r\n"},"footer":{"name":"footer","placement":"InsertAfter","html":"\r\n   <footer>\r\n\t\t<div class=\"container\">\r\n\t\t\t<p>Copyright &copy; 2018 - Elastic Partner Portal. All rights reserved.</p>\r\n\t\t</div>\r\n\t</footer>\r\n"}},
+		"redirects":[{"displayOrder":0,"from":":language","to":":language/s/home"},{"displayOrder":1,"from":"","to":":language/s/home"}],
+		"version": 2
+	};
+</script>
+<script src="https://prod.prmcdn.io/jscript/prm/deps-v2a.min.js?v=DlKUP32BZhNXmoscdHSFwCffboRwUfdS16Yht4fABt41"></script>
+<script data-main="https://prod.prmcdn.io/scripts/main.js?v=2a363acd54a4ef7f6cd0b8a6a7b1625f" src="https://prod.prmcdn.io/scripts/require.js?v=d6e584eabd6e77e5a09176dea853c3a0"></script>
+<script src="https://prod.prmcdn.io/jscript/portal.min.js?v=Ai0-RMLNL8oaky83rvmuAFLwxMgqSpSpmSKoBPN3PGA1"></script>
+<script id="prm-core-settings">
+	var prmApp = new PrmApp({
+		url: 'https://partners.elastic.co/',
+		portalRoot: 'https://partners.elastic.co/',
+		prmRoot: 'https://partners.elastic.co/English/public/prm/',
+		authorizeUrl: "https://partners.elastic.co/services/PrmAuth.asmx",
+		tenantId: 313
+	});
+
+	appConfig.onAppStart.push(PrmApp.start);
+</script>
+
+
+
+<script src="/js/jquery.watermark.js"></script>
+<script src="/js/site.js"></script>
+<script src="/js/site.ui.js"></script>
+
+<script>
+portal.webRoot = "/";
+portal.homeDirectory = "";
+
+</script>
+<link href="/css/calendar.css" rel="stylesheet"/>
+<link href="/css/jquery.jqGauges.css" rel="stylesheet"/>
+
+<link href="/themes-css/modern/theme.css" rel="stylesheet"/>
+
+
+
+
+	
+	
+<meta name="description" content="">
+
+
+	<style>
+		.top-bar {
+			display: none;
+		}	
+		.navbar-fixed-top {
+			top: 0;
+		}
+		#page_content, #page-content, .page-content {
+			padding: 72px 0 0 0;
+		}
+		@media only screen and (max-width: 1199px) {
+			.navbar-default {
+				border: none;
+				min-height: 60px;
+			}
+			.navbar-brand {
+				position: inherit;
+				top: auto;
+				height: auto;
+				padding: 18px 15px;
+			}
+			.navbar-toggle {
+				top: auto;
+				margin-top: 14px;
+			}
+			#page_content, #page-content, .page-content {
+				padding: 60px 0 0 0;
+			}
+			#navbarCollapse {
+				margin-top: 0px;
+			}
+		}
+	</style>
+
+
+
+
+<!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"><![endif]-->
+<link rel="icon" type="image/png" href="/favicon.png">
+<meta name="msapplication-TileColor" content="#435D4E" />
+<meta name="msapplication-TileImage" content="/images/icons/touch-icon-ipad-retina.png">
+<link rel="apple-touch-icon" href="/images/icons/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="/images/icons/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/icons/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/icons/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/icons/touch-icon-ipad-retina.png">
+</head>
+<body>
+
+<form method="post" action="./robots.txt?404%3bhttp%3a%2f%2fpartners.elastic.co%3a80%2frobots.txt" id="ServerForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="g3HFoi4wabRJpTekZGUYLnWU7qYI/X9Foty4R9KRZTeMNbr0yUtHudU+uwFUdWP5l+ZIu4nN81KoWdV2T4ox4bOtA92WThVKefy05jvp6CbDLeN/HFMsEJG2oVLqIH/5iI7QdZdr6CkGYUWSWIjTYMcA/UZdG9WRjlQWt1dj9g0QUgCT" />
+
+
+<script src="/ScriptResource.axd?d=ng6qy9rXO9fKGFCLbvQQy401HQe4r4QnBpXSWI1pIxGv_76CJ76yNrd1SLOT12rgDT09f3vQTnza1-idVwCj-3261IDtja70hRT2iDjNLXvLALwWiRPIF2aOc4GlkRdxotpe_Eq0dRpp_xDgB-XfInkPbq41&amp;t=74258c30" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0C8D9F50" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+
+<div class="flex-wrapper">
+	<header>
+		<nav top-nav role="navigation" class="navbar navbar-default navbar-fixed-top">
+			<div top-bar="" class="top-bar">
+    <div class="container navbar-full">
+        <div class="widgets">
+            <!-- ko 'if': profile() && profile().userType != 'Public' -->
+            <div class="widget-item"><prm-portal-view params="{ path: 'nav/push-notifications/push-notifications' }"><div class="dropdown">
+    <a push-notifications="" href="#" class="dropdown-toggle" data-toggle="dropdown">
+        <div class="badge">
+            <i class="fa fa-bell" aria-hidden="true"></i>
+            <span class="prm-notify-unreadcount"></span>
+        </div>
+    </a>
+    <ul push-notifications="" class="dropdown-menu prm-notify-dashboard" style="max-width:300px;min-width:300px" role="menu">
+        <li class="prm-notify-menu-placeholder hidden disabled">Recent Notifications</li>
+        <li>
+		   <div class="push-btn-group">
+		   	<a data-bind="xlink: '~/{language}/{partnerlevel}/prm/notifications.aspx', i18n: 'portal:View All'" class="btn btn-default">View all</a>
+		   	<a class="prm-notify-subscribe btn btn-default">Subscribe</a>
+		   </div>	
+        </li>
+    </ul>
+</div>
+</prm-portal-view></div>
+            <div class="widget-item"><prm-portal-view params="{ path: 'nav/user-account/user-account' }"><ul user-account="" class="widget-dropdown">
+    <li class="dropdown">
+        <a href="#" data-toggle="dropdown" role="button" aria-expanded="true"><i class="fa fa-user" aria-hidden="true"></i></a>
+        <ul user-account="" class="dropdown-menu" role="menu">
+            <li><a data-bind="xlink: '~/{language}/{partnerlevel}/PRM/Profile/Account/Edit', i18n: 'portal:Company Profile'"></a></li>
+            <li><a data-bind="xlink: '~/{language}/{partnerlevel}/PRM/Profile/User/Edit', i18n: 'portal:My Profile'"></a></li>
+            <li><a data-bind="xlink: '~/{language}/{partnerlevel}/profile/change_language.aspx', i18n: 'portal:Language'"></a></li>
+            <li><a data-bind="xlink: '~/{language}/{partnerlevel}/profile/logout.aspx', i18n: 'portal:Logout'"></a></li>
+        </ul>
+    </li>
+</ul>
+</prm-portal-view></div>
+            <!-- /ko -->
+        </div>
+    </div>
+</div>
+
+
+			<div class="container navbar-full">
+	<!--Customer logo-->
+	<div class="navbar-header pull-left">
+		<div class="navbar-brand">
+			<a href="https://partners.elastic.co/" class="img-responsive center-vertically">
+				<img src="https://partners.elastic.co/images/logos/elastic-logo.svg">
+			</a>
+		</div>
+	</div>
+	<!--Hamburger menu for mobile-->
+	<div class="navbar-header navbar-right">
+		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarCollapse">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar icon-bar-top"></span>
+			<span class="icon-bar icon-bar-middle"></span>
+			<span class="icon-bar icon-bar-bottom"></span>
+		</button>
+	</div>
+	<div id="navbarCollapse" class="collapse navbar-collapse">
+		<ul class="nav navbar-nav navbar-right">
+			<!-- ko component: { name: 'prm-component-nav', params: { menus: config.menus.portalTopNav } } -->
+			<!-- ko foreach: items -->
+			<li data-bind="css: { dropdown: $data.items && $data.items.length > 0 }">
+				<!-- ko 'if': $data.items && $data.items.length > 0 -->
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" data-bind="xlink: externalLink">
+					<!-- ko 'if': iconClass -->
+					<i data-bind="css: iconClass"></i>
+					<!-- /ko -->
+					<span data-bind="text: name"></span>
+				</a>
+				<!-- /ko -->
+				<!-- ko 'ifnot': $data.items && $data.items.length > 0 -->
+				<a href="#" role="button" aria-expanded="false" data-bind="xlink: externalLink">
+					<!-- ko 'if': iconClass -->
+					<i data-bind="css: iconClass"></i>
+					<!-- /ko -->
+					<span data-bind="text: name"></span>
+				</a>
+				<!-- /ko -->
+				<!-- ko 'if': $data.items && $data.items.length > 0 -->
+				<!-- ko component: { name: 'prm-component-nav', params: { menus: $data.items }} -->
+				<ul class="dropdown-menu dropdown-lower-menu" role="menu" data-bind="foreach: $component.params.menus">
+					<li><a href="#" data-bind="xlink: externalLink"><!-- ko 'if': iconClass --><i data-bind="css: iconClass"></i><!-- /ko --><span data-bind="text: name"></span></a></li>
+					<!-- ko 'if': $data.items && $data.items.length > 0 -->
+					<!-- ko component: { name: 'prm-component-nav', params: { menus: $data.items }} -->
+					<!-- ko foreach: $component.params.menus -->
+					<li class="l3-item"><a href="#" data-bind="xlink: externalLink"><!-- ko 'if': iconClass --><i data-bind="css: iconClass"></i><!-- /ko --><span data-bind="text: name"></span></a></li>
+					<!-- /ko -->
+					<!-- /ko -->
+					<!-- /ko -->
+				</ul>
+				<!-- /ko -->
+				<!-- /ko -->
+			</li>
+			<!-- /ko -->
+			<!-- /ko -->
+		</ul>
+	</div>
+</div>
+<script>
+	$( document ).ready(function() {
+		var height = $('.navbar').height();
+			$('.page-content').css('padding-top', (height - 1) + 'px');
+	});
+	( function () {
+		function onResize() {
+			var height = $('.navbar').height();
+			$('.page-content').css('padding-top', (height - 1) + 'px');
+		}
+		window.addEventListener("resize", onResize);
+	})();
+	
+	// $( document ).ready(function() {
+	// 	let height = $('.navbar').height();
+	// 		$('.page-content').css('padding-top', `${height}px`);
+	// });
+	// ( () => {
+	// 	let height = $('.navbar').height();
+	// 		$('.page-content').css('padding-top', `${height}px`);
+	// 	function onResize() {
+	// 		let height = $('.navbar').height();
+	// 		$('.page-content').css('padding-top', `${height}px`);
+	// 	}
+	// 	window.addEventListener("resize", onResize);
+	// })();
+</script>
+
+
+			
+		</nav>
+	</header>
+	<section class="page-content">
+		<!-- Modal -->
+		<div class="modal fade" id="prm-modal-dialog" role="dialog">
+			<div class="modal-dialog"><div class="modal-content" id="prm-modal-content"></div></div>
+		</div>
+		
+	
+	<section>
+		
+<div class="container portal-content">
+	<h1>Page Not Found</h1>
+	<p>The page you've requested was not found.</p>
+	<p>Please use your browser's <a href="#" onclick="history.go(-1);return false;">back</a> button and try your request again.</p>
+	<p>If you continue to receive this message, please contact your system administrator.</p>
+</div>
+
+		<aside>
+			
+		<aside>
+	</section>
+
+
+	</section>
+	<footer site-footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-3">
+					<h4>Contact Us</h4>
+					<div class="footer-info">
+						<div class="address">
+							<i class="glyphicon glyphicon-map-marker"></i>
+						</div>
+						<div class="address address--address">
+							<p>800 W El Camino Real #350,</p>
+							<p>Mountain View, CA 94040</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<h4>&nbsp</h4>
+					<ul class="footer-contact list-unstyled">
+						<li><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;<a href="tel:16504582625">+1 650 458 2625</a></li>
+						<li><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;<a href="mailto:info@elastic.co">info@elastic.co</a></li>
+					</ul>
+				</div>
+				<div class="col-sm-2">
+					<h4>&nbsp</h4>
+					<ul class="footer-social list-unstyled">
+						<li><a href="https://www.facebook.com/elastic.co" target="_blank" class="icon-outline icon-sm"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="https://www.twitter.com/elastic" target="_blank" class="icon-outline icon-sm"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="https://www.linkedin.com/company/elastic-co" target="_blank" class="icon-outline icon-sm"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="https://www.youtube.com/user/elasticsearch" target="_blank" class="icon-outline icon-sm"><i class="fa fa-youtube"></i></a></li>
+					</ul>
+				</div>
+				<div class="col-sm-4" style="padding: 0px">
+					<div id="mktoForm_1398" style="margin: 0px !important"></div>
+				</div>
+			<div class="copyright">
+				Copyright &copy; 2024 Elasticsearch B.V. All Rights Reserved.
+			</div>
+		</div>
+	</footer>
+</div>
+<!-- Video Modal -->
+<div id="YouTubeVideo" class="modal fade youtube-video-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="myModalLabel"></h4>
+			</div>
+			<div class="modal-body">
+				<div class="embed-responsive embed-responsive-16by9">
+					<iframe class="embed-responsive-item img-responsive" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default btn-sm" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Image Modal -->
+<div id="ImageModal" class="modal fade image-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="myModalLabel"></h4>
+			</div>
+			<div class="modal-body">
+				<img class="embed-responsive-item img-responsive">
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default btn-sm" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+	<script type="text/javascript">
+		// import newsletter form from third party and make visual adjustments
+        var URLvalue = window.location.href;
+		if (!URLvalue.includes("/s/assets")) {
+			console.log("load marketo");
+            let marketoScript = document.createElement('script');
+            marketoScript.type = 'text/javascript';
+            marketoScript.src = '//app-lon02.marketo.com/js/forms2/js/forms2.min.js';
+            document.head.appendChild(marketoScript);
+
+            appConfig.onAppStart.push(function (handler) {
+                // forms can't be inserted into form within asp.net so we add form during page load
+                MktoForms2.loadForm("//app-lon02.marketo.com", "813-MAM-392", 1398);
+
+                // generate form
+                var mkDiv = document.getElementById("mktoForm_1398");
+                var mkForm = mkDiv.appendChild(document.createElement('form'));
+                mkForm.id = "mktoForm_1398";
+                mkForm.style.margin = "5px";
+
+                // insert label
+                var mkLabel = mkForm.appendChild(document.createElement('div'));
+                mkLabel.id = "mkLabelSubscribe";
+                mkLabel.innerHTML = "Subscribe to our newsletter";
+                // insert terms
+                var mkTerms = mkDiv.appendChild(document.createElement('div'));
+                mkTerms.id = "mkLabelTerms";
+                mkTerms.innerHTML = "<p>By submitting you agree to <a style=\"text-decoration: underline;\" href=\"https://www.elastic.co/legal/terms-of-use\">Elastic Terms of Service</a>. Your personal data will be processed in accordance with <a style=\"text-decoration: underline;\" href=\"https://www.elastic.co/legal/privacy-statement\">Elastic's Privacy Statement</a>.</p>";	
+
+                // remove empty div with no text after form loads. hack required since form is pulled from 3rd party script
+                var delayInMilliseconds = 2000;
+                setTimeout(function () {
+                    // remove a useless empty div
+                    var mkEmptyBox = document.getElementsByClassName("mktoFormRow");
+                    mkEmptyBox[2].style.display = "none";
+                    mkEmptyBox[3].style.display = "none";
+
+                    // add button click popup
+                    var mkButton = document.getElementsByClassName("mktoButton");
+                    mkButton[0].addEventListener("click", function () {
+                        var email = document.getElementById("Email");
+                        console.log(email.value);
+                        if (ValidateEmail(email.value))
+                            document.getElementById("mkLabelTerms").innerHTML = "<div id=\"mkLabelThanks\">Thanks for subscribing! We'll keep you updated with new releases.</div>";
+                    });
+
+                    // hack together the sign up button to be inline with the email field 
+                    if (screen.width > 1200) { // if screen is big enough to have button/input inline
+                        var emailContainer = document.getElementsByClassName("mktoFormRow")[0];
+                        emailContainer.style.display = "inline-block";
+                        emailContainer.style.width = "73%";
+
+                        document.getElementsByClassName("mktoButton")[0].style.width = "30%";
+                        document.getElementsByClassName("mktoFieldDescriptor")[0].style.overflow = "hidden";
+                        document.getElementById("mkLabelSubscribe").style = "text-align: left";
+
+                        var mkButtonContainer = document.getElementsByClassName("mktoButtonWrap")[0];
+                        mkButtonContainer.style.width = "100%";
+                        mkButtonContainer.style.marginLeft = "0px";
+                        mkButtonContainer.appendChild(emailContainer);
+                    }
+                    else if (screen.width < 765) {
+                        document.getElementsByClassName("mktoFieldDescriptor")[0].style.float = "right";
+                        var emailInput = document.getElementById("Email");
+                        emailInput.style.width = "100";
+                        emailInput.style.maxWidth = "unset";
+                        emailInput.style.minHeight = "45px";
+                    } else {
+                        document.getElementById("mkLabelSubscribe").style = "text-align: left";
+                    }
+
+                }, delayInMilliseconds);
+            });
+
+            function ValidateEmail(email) {
+                if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email.value)) {
+                    return (true)
+                }
+                document.getElementById("mkLabelTerms").innerHTML = "<div style=\"color:red\" id=\"mkLabelThanks\">You have entered an invalid email address.</div>";
+                return (false)
+            }
+		}
+
+
+		
+	</script>
+
+	<style>
+	#LblEmail {
+		display: none;
+	}
+
+	#mkLabelSubscribe {
+		padding-left: 5px;
+		text-align: center;
+	}
+
+	#mkLabelTerms {
+		font-size: 10px;
+		line-height: 16px;
+		color: rgb(255, 255, 255);
+		padding: 5px;
+	}
+
+	#mktoForm_1398 {
+		width: 100% !important;
+	}
+
+	.mktoButton {
+		float: right;
+		font-weight: 600;
+		font-family: Inter, arial, sans-serif;
+		color: rgb(255, 255, 255);
+		display: inline-block;
+		font-size: 16px;
+		height: 50px;
+		line-height: 30px;
+		min-width: 30px;
+		width: max-content;
+		text-align: center;
+		text-transform: none;
+		letter-spacing: 0.025em;
+		transition: all 200ms ease-in 0s;
+		background: rgb(0, 119, 204);
+		margin: 0px;
+		border-radius: 4px;
+		border-width: 1px;
+		border-style: solid;
+		border-color: rgb(0, 119, 204);
+		border-image: initial;
+		padding: 0px 16px !important;
+		margin: auto;
+	}
+
+	.mktoFormRow {
+		display: inline-block;
+		width: 73%;
+		white-space: no-wrap;
+		display: none;
+	}
+
+	.mktoButtonRow {
+		display: flex;
+		justify-content: center;
+	}
+	.mktoButtonWrap {
+		margin-left: 0px;
+		margin: auto !important;
+		white-space: nowrap;
+	}
+
+	.mktoEmailField {
+		width: 270px;
+		min-width: 261px;
+		margin-top: 4px;
+		color: rgb(52, 55, 65);
+		height: 50px;
+		font-size: 14px;
+		font-weight: 400;
+		position: relative;
+		z-index: 1;
+		width: 100% !important;
+		max-width: 350px !important;
+		line-height: 40px !important;
+		border-width: 1px;
+		border-style: solid;
+		border-color: rgb(212, 218, 229);
+		border-image: initial;
+		border-radius: 0px;
+		padding: 8px 16px !important;	
+	}
+
+	#mkLabelSubscribe {
+		color: white;
+		font-weight: 700;
+		font-family: Mierb, Inter, arial, sans-serif;
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	#mkLabelThanks {
+		font-size: 16px;
+		line-height: 26px;
+		padding-bottom: 8px;
+		font-weight: 700;
+		font-family: Mierb, Inter, arial, sans-serif;
+	}
+	</style>
+
+</form>
+
+
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(["_setAccount","UA-120598760-9"],["_trackPageview"]);
+
+	(function () {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+
+
+
+<section id="prm-alert-popups" class="prm-popups">
+	<div class="container prm-alert" />
+</section>
+<section id="prm-notify-popups" class="prm-popups">
+	<div class="container prm-notify-popup"></div>
+</section>
+</body>
+</html>

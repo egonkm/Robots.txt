@@ -1,0 +1,16 @@
+User-agent: usasearch  
+Crawl-delay: 2
+Disallow: /reports-and-publications/archives/
+Disallow: /documents/
+Disallow: /oas/reports/
+Disallow: /oei/reports/
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /fraud/hotline/grant-contracts-fraud.aspx
+Disallow: /reports-and-publications/archives/
+Disallow: /documents/
+Disallow: /oas/reports/
+Disallow: /oei/reports/
+
+sitemap: https://oig.hhs.gov/sitemaps/pep-sitemap.xml

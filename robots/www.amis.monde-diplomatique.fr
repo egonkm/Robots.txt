@@ -1,0 +1,20 @@
+# robots.txt
+# @url: https://www.amis.monde-diplomatique.fr
+# @generator: SPIP 3.3.0-dev SVN [23751]
+# @template: squelettes/robots.txt.html
+
+User-agent: *
+Allow:    /local/cache-css/
+Allow:    /local/cache-js/
+Allow: /local/
+Disallow: /ecrire/
+Disallow: /plugins-dist/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Disallow: /squelettes/
+Allow:    /squelettes/images/
+Crawl-delay: 1
+
+Sitemap: https://www.amis.monde-diplomatique.fr/sitemap.xml

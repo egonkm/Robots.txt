@@ -1,0 +1,4 @@
+Sitemap: https://events.tc.umn.edu/sitemap.livewhale.xml
+
+User-agent: *
+Disallow: *?replytocom

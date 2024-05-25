@@ -1,0 +1,9 @@
+Sitemap: https://www.sme.org/Sitemap.xml
+User-agent: *
+Disallow: /EPiServer/
+Disallow: /Util/
+Disallow: /Search/
+Disallow: /sme-now/
+Disallow: /ui-kit/
+Disallow: /sme.org-redirects/
+Disallow: /qa-folder/

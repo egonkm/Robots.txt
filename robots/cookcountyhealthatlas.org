@@ -1,0 +1,5 @@
+User-agent: Twitterbot  # Twitter actually requires permission so explicitly give them it
+Disallow: /manage/
+
+User-agent: *
+Disallow: /manage/

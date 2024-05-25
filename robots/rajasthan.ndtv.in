@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://rajasthan.ndtv.in/sitemap.xml
+Sitemap: https://rajasthan.ndtv.in/sitemap/google-news-sitemap

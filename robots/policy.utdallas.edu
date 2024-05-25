@@ -1,0 +1,9 @@
+# robots.txt file for policy.utdallas.edu
+User-agent: *
+Disallow: /pdf/utdpp1045
+Disallow: *makepdf*
+Disallow: *makeprint*
+Disallow: *makeword*
+Disallow: *showdiff*
+Disallow: *showprint*
+Disallow: /login

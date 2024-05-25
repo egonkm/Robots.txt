@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: */oiPjonlinewEff*/
+Disallow: */*Buyee*/
+Disallow: */*pnrk*
+Disallow: */bid*/
+Disallow: */kanko*/
+Disallow: */topics*/
+Disallow: */*get_refreshed_fragments*
+Disallow: */ijMrv*/
+Disallow: */phpthumbof*/
+Disallow: */treason*/
+Disallow: */portfolio-item*/
+Allow: */portfolio-item/studio-expressions-color-cream*/
+Allow: */portfolio-item/herboria-max-color-cream*/

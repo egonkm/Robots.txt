@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /insights/insights.xml/
+
+Sitemap: https://www.giantdigital.co.uk/sitemap.xml

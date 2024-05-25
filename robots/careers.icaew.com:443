@@ -1,0 +1,13 @@
+Sitemap: https://careers.icaew.com/sitemap_careers.xml
+User-agent: *
+Disallow: /careers/home/
+Disallow: /corporate/home/
+Disallow: /economia/home/
+Disallow: /economia-test/
+Disallow: /en/
+Disallow: /search
+Disallow: /search$
+Disallow: /search*
+Disallow: /sitecore/content/
+Disallow: /sprint-test-pages/
+Disallow: /test-pages/

@@ -1,0 +1,58 @@
+User-Agent: *
+Sitemap: https://www.bdc.ca/sitemap.xml
+
+Disallow: /EPiServer/CMS/
+Disallow: /Util/
+Disallow: /en/legal-documents/
+Disallow: /fr/documents-juridiques/
+Disallow: /FR/Documents/marketing/
+Disallow: /EN/Documents/marketing/
+Allow: /Resources%20Manager/study_2013/
+Allow: /Resources%20Manager/tech/
+Allow: /Resources Manager/tech/
+Disallow: /Resources Manager
+Disallow: /Resources%20Manager
+Disallow: /Style Library
+Disallow: /EN/Documents/consultinggroup
+Disallow: /FR/Documents/consultinggroup
+Disallow: /EN/Documents/legal_forms
+Disallow: /FR/Documents/doc_corpo/BDC_Bio_PierreCleroux_fr.pdf
+Disallow: /EN/Documents/doc_corpo/BDC_Bio_PierreCleroux_en.pdf
+Disallow: /mx/productivitybenchmarking/
+Disallow: /mx/canada-tariffinder/index.html
+Disallow: */externalContentView/
+Disallow: /episerver/cms/
+Disallow: /util/
+Disallow: /en/legal-documents/
+Disallow: /fr/documents-juridiques/
+Disallow: /fr/documents/marketing/
+Disallow: /en/documents/marketing/
+Allow: /resources%20manager/study_2013/
+Allow: /resources%20manager/tech/
+Allow: /resources manager/tech/
+Disallow: /resources manager
+Disallow: /resources%20manager
+Disallow: /style library
+Disallow: /en/documents/consultinggroup
+Disallow: /fr/documents/consultinggroup
+Disallow: /fr/documents/doc_corpo/bdc_bio_pierrecleroux_fr.pdf
+Disallow: /en/documents/doc_corpo/bdc_bio_pierrecleroux_en.pdf
+Disallow: /mx/productivitybenchmarking/
+Disallow: /mx/canada-tariffinder/index.html
+Disallow: /en/documents/legal_forms
+Disallow: */externalcontentview/
+Disallow: /es/
+Disallow: /tl/
+Disallow: /ar/
+Disallow: /pa/
+Disallow: /zh-hans/
+Disallow: /zh-hant/
+Allow: /es/i-am/newcomer-entrepreneur
+Allow: /tl/i-am/newcomer-entrepreneur
+Allow: /ar/i-am/newcomer-entrepreneur
+Allow: /pa/i-am/newcomer-entrepreneur
+Allow: /zh-hans/i-am/newcomer-entrepreneur
+Allow: /zh-hant/i-am/newcomer-entrepreneur
+Disallow: *isMobile=true
+Disallow: *ismobile=true
+Disallow: */qa-references/

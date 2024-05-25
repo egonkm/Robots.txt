@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /debug
+Disallow: /cgi-bin
+Disallow: /datadownload*?*survey=*
+Disallow: /profiles*?print=true
+Disallow: /profiles*?method=downloadRankings
+Disallow: /profiles*?method=download
+Disallow: /webcaspar/leave?*
+Sitemap: https://www.nsf.gov/statistics/sitemap.cfm

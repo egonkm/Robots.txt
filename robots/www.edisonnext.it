@@ -1,0 +1,23 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /cp/
+Disallow: /cp/*
+Disallow: /front
+Disallow: /news-old
+Disallow: /news
+Disallow: /news/*
+Disallow: /pagina-non-trovata
+Disallow: /it/pagina-non-trovata
+Disallow: /en/page-not-found
+Disallow: /form-per-sales
+Disallow: /eventi/transizione-energetica-the-european-house-ambrosetti/
+Disallow: /eventi/transizione-energetica-the-european-house-ambrosetti/segreteria-organizzativa
+Disallow: /eventi/road-to-zero
+Disallow: /form-btg-eventi-fisici
+
+# Host
+Host: https://edisonnext.it
+
+# Sitemaps
+Sitemap: https://edisonnext.it/sitemap.xml

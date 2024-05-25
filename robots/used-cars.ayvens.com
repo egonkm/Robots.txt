@@ -1,0 +1,15 @@
+User-agent: *
+Allow: */it-it/*
+Allow: */en-it/*
+Allow: */fr-lu/*
+Allow: */cs-cz/*
+Allow: */en-cz/*
+Allow: */fr-fr/*
+Allow: */fr-ma/*
+Allow: */es-es/*
+Allow: */assets/*
+Allow: *.png
+Allow: *.svg
+Allow: *.css
+Allow: *.js
+Disallow: /

@@ -1,0 +1,12 @@
+User-agent: *.*
+Disallow: /templates/
+Disallow: /scripts/
+Disallow: /js/
+Disallow: /css/
+Disallow: /umbraco/
+Disallow: /config/
+Disallow: *.pdf  
+Disallow: *.doc  
+Disallow: *.docx  
+Disallow: /search.aspx
+Sitemap: http://att.jobs/sitemap.xml

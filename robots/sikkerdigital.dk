@@ -1,0 +1,3 @@
+user-agent: *
+disallow: /error/
+sitemap: http://www.sikkerdigital.dk/Handlers/Sitemap.ashx

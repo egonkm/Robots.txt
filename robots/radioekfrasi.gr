@@ -1,0 +1,24 @@
+<br />
+<b>Warning</b>:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in <b>/home/radioekfrkf2/public_html/wp-content/plugins/revslider/includes/operations.class.php</b> on line <b>2364</b><br />
+<br />
+<b>Warning</b>:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in <b>/home/radioekfrkf2/public_html/wp-content/plugins/revslider/includes/operations.class.php</b> on line <b>2368</b><br />
+<br />
+<b>Warning</b>:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in <b>/home/radioekfrkf2/public_html/wp-content/plugins/revslider/includes/output.class.php</b> on line <b>3169</b><br />
+<br />
+<b>Deprecated</b>:  Function create_function() is deprecated in <b>/home/radioekfrkf2/public_html/wp-content/plugins/revslider/includes/framework/functions-wordpress.class.php</b> on line <b>257</b><br />
+<br />
+<b>Deprecated</b>:  Η συνάρτηση Redux::setHelpTab είναι παρωχημένη από την έκδοση Redux 4.3! Χρησιμοποίηστε την Redux::set_help_tab( $opt_name, $tab ) αντ' αυτού. in <b>/home/radioekfrkf2/public_html/wp-includes/functions.php</b> on line <b>6031</b><br />
+<br />
+<b>Deprecated</b>:  Η συνάρτηση Redux::setHelpSidebar είναι παρωχημένη από την έκδοση Redux 4.3! Χρησιμοποίηστε την Redux::set_help_sidebar( $opt_name, $content ) αντ' αυτού. in <b>/home/radioekfrkf2/public_html/wp-includes/functions.php</b> on line <b>6031</b><br />
+<br />
+<b>Deprecated</b>:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in <b>/home/radioekfrkf2/public_html/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php</b> on line <b>644</b><br />
+<br />
+<b>Deprecated</b>:  The each() function is deprecated. This message will be suppressed on further calls in <b>/home/radioekfrkf2/public_html/wp-content/plugins/js_composer/include/classes/core/class-vc-mapper.php</b> on line <b>111</b><br />
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://radioekfrasi.gr/wp-sitemap.xml
+
+User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json

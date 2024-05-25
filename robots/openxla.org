@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://openxla.org/sitemap.xml

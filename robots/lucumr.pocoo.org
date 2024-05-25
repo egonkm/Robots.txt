@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset=utf-8>
+  
+  
+    <title>Page Not Found | Armin Ronacher's Thoughts and Writings</title>
+    <link rel="stylesheet" href="/static/new-style.css" type="text/css">
+    <link href="/feed.atom" rel="alternate" title="Armin Ronacher's Thoughts and Writings" type="application/atom+xml">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="/static/_pygments.css" type="text/css">
+    <meta property="title" content="Page Not Found">
+    <meta property="og:title" content="Page Not Found">
+    <meta name="twitter:site" content="@mitsuhiko">
+    <meta name="twitter:title" content="Page Not Found">
+    <link rel="me" href="https://hachyderm.io/@mitsuhiko">
+  
+  <meta name="description" content="">
+  <meta name="og:description" content="">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:card" content="summary">
+
+  </head>
+  <body>
+    <div class=container>
+      <div class=header>
+        <a href="/about/">Armin Ronacher</a>'s Thoughts and Writings
+      </div>
+      <div class=navigation>
+        <ul>
+          <li><a href="/">blog</a>
+          <li><a href="/archive/">archive</a>
+          <li><a href="/tags/">tags</a>
+          <li><a href="/projects/">projects</a>
+          <li><a href="/talks/">talks</a>
+          <li><a href="/about/">about</a>
+        </ul>
+      </div>
+      <div class=body>
+        
+  <h1 class="title">Page Not Found</h1>
+
+  
+
+  <p>The requested page does not exist :-(</p>
+
+
+  
+
+      </div>
+      <div class=footer>
+        <p>&copy; Copyright 2023 by Armin Ronacher.
+        <p>
+          Content licensed under the Creative Commons
+          attribution-noncommercial-sharealike License.
+        <p>
+          Contact me via <a href="mailto:armin.ronacher@active-4.com">mail</a>,
+          <a href="http://twitter.com/mitsuhiko">twitter</a>,
+          <a href="http://github.com/mitsuhiko">github</a> or
+          <a href="http://bitbucket.org/mitsuhiko">bitbucket</a>.
+        <p>
+          You can <a href="https://github.com/sponsors/mitsuhiko/">sponsor me on github</a>.
+        <p>
+          More info: <a href="/about#imprint">imprint</a>.
+          Subscribe <a href="/feed.atom" rel="alternate" title="Armin Ronacher's
+            Thoughts and Writings">to Atom feed</a>
+      </div>
+    </div>
+  </body>
+</html>

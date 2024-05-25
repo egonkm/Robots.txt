@@ -1,0 +1,9 @@
+User-agent: Baiduspider
+Disallow: /fr
+
+User-agent: Googlebot
+Disallow: /fr
+
+User-agent: *
+Disallow: /
+Crawl-delay: 120

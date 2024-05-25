@@ -1,0 +1,10 @@
+Sitemap: https://voiceofsandiego.org/sitemap.xml
+Sitemap: https://voiceofsandiego.org/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://voiceofsandiego.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

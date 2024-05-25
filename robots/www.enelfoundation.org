@@ -1,0 +1,4 @@
+Sitemap: https://www.enelfoundation.org/sitemap.xml
+
+User-agent: *
+Allow: /

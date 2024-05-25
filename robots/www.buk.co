@@ -1,0 +1,20 @@
+
+# Disallow all crawlers access to certain pages. 
+
+
+User-agent: *
+
+Disallow: /blog/tag
+Disallow: /blog/author
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow:/hs*
+Disallow:/hs-fs*
+Disallow:/_hcms*
+Disallow:/gracias-ebook*
+Disallow:/gracias-webinar*
+Disallow:/?__hstc*
+Disallow:/blog/nomina-la-evolucion-en-la-gestion-de-pagos
+
+Sitemap: https://www.buk.co/sitemap.xml
+Disallow: /hs/preferences-center/

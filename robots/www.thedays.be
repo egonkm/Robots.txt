@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /wp/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /xmlrpc.php
+Disallow: /wp-
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: */feed/
+Disallow: */trackback/
+Disallow: /*?
+Disallow: /cgi-bin/
+Disallow: /wp-login/
+Disallow: /wp-register/
+Disallow: /20*
+Sitemap: https://www.thedays.be/sitemap_index.xml
+

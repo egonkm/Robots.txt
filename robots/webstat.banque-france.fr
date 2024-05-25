@@ -1,0 +1,23 @@
+User-agent: * 
+Disallow: /fr/print.do*
+
+User-agent: *
+Disallow: /en/print.do*
+
+User-agent: *
+Disallow: /fr/downloadFile.do* 
+
+User-agent: *
+Disallow: /en/downloadFile.do*
+
+User-agent: *
+Disallow: /fr/export.do*
+
+User-agent: *
+Disallow: /en/export.do*
+
+User-agent: *
+Disallow: /ws_wsfr/*
+
+User-agent: *
+Disallow: /ws_wsen/*

@@ -1,0 +1,26 @@
+# robots.txt for http://blink.ucsd.edu
+ 
+User-agent: *
+Disallow: /_files/buying-tab # GA file upload folder – do not index/cache Jason Borinski BFS Systems 6/19/13
+Disallow: /_draft
+Disallow: /_archive
+Disallow: /_misc/
+Disallow: /search
+Disallow: /technology/network/access/ad/post-change-instructions.html
+
+# Block pdf files - Non-standard but works for major search engines
+Disallow: *.pdf  
+
+
+Sitemap: https://blink.ucsd.edu/sitemap.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/buy-pay.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/facilities.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/faculty.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/finance.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/hr.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/instructors.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/research.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/safety.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/sponsor.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/technology.xml
+Sitemap: https://blink.ucsd.edu/_sitemaps/travel.xml

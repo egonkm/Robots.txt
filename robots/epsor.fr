@@ -1,0 +1,21 @@
+User-Agent: * 
+Disallow: /wireframe/
+Disallow: /team/
+Disallow: /cas-clients-secteur/
+Disallow: /cas-clients-anciens-prestataires/
+Disallow: /temoignages/
+Disallow: /societes-de-gestion/
+Disallow: /gamme-de-fonds/
+Disallow: /gamme-de-fonds-notation-quantalys/
+Disallow: /gamme-de-fonds-labels/
+Disallow: /gamme-de-fonds-risque/
+Disallow: /landing-prime/
+Disallow: /transfert/
+Disallow: /primes/
+Disallow: /temoignages-primes/
+Disallow: /perob/
+Disallow: /landing/
+Disallow: /landings/
+Disallow: /work-in-progress/
+
+Sitemap: https://www.epsor.fr/sitemap.xml

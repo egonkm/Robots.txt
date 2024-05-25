@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 10
+Sitemap: https://www.amazon.science/sitemap.xml
+Sitemap: https://www.amazon.science/news-sitemap.xml

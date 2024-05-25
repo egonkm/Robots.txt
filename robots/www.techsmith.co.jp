@@ -1,0 +1,7 @@
+ï»¿# Robots.txt for www.techsmith.co.jp
+#24 October 2017
+Sitemap: https://www.techsmith.co.jp/sitemap.xml
+
+User-agent: *
+Disallow: /download-snagit-thank-you.html
+Disallow: /download-camtasia-thank-you.html

@@ -1,0 +1,29 @@
+User-Agent: MSIECrawler
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: discobot
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+User-agent: *
+Crawl-delay: 2
+Disallow: /sitecore
+Disallow: /sitecore_modules
+Disallow: /sitecore_files
+Disallow: /temp
+Disallow: /upload
+
+Sitemap: https://www.asaecenter.org/sitemapasae.xml
+Sitemap: https://foundation.asaecenter.org/sitemapfoundation.xml
+Sitemap: https://www.associationcareerhq.org/sitemapachq.xml

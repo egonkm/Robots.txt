@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: port.jegymester.hu
+Disallow: jegymester.hu
+Disallow: /jegymester/
+Disallow: /site/
+Disallow: /ticketlist/
+Disallow: /galeria/
+User-agent: *
+Disallow: port.jegymester.hu
+Disallow: jegymester.hu
+Disallow: /jegymester/
+Disallow: /site/
+Disallow: /ticketlist/
+Disallow: /galeria/

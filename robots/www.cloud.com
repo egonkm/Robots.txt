@@ -1,0 +1,13 @@
+User-agent: *
+Sitemap: https://www.cloud.com/sitemap.xml
+Disallow: /cgi-bin/
+Disallow: /account
+Disallow: /content/campaigns
+Disallow: /404
+Disallow: /no_access
+Disallow: /*/go/private
+Disallow: /*/cgi-bin/
+Disallow: /*/content/campaigns
+Disallow: /*/404
+Disallow: /*/no_access
+Disallow: /*/static

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+Allow: /typo3/sysext/frontend/Resources/Public/*
+Sitemap: https://www.coding.ms/sitemap.xml?sitemap=pages&no_cache=1
+Sitemap: https://www.coding.ms/sitemap.xml?sitemap=shop&no_cache=1
+Sitemap: https://www.coding.ms/sitemap.xml?sitemap=jobFinder&no_cache=1
+Sitemap: https://www.coding.ms/sitemap.xml?sitemap=documentations&no_cache=1
+Sitemap: https://www.coding.ms/sitemap.xml?sitemap=portfolios&no_cache=1
+Sitemap: https://www.coding.ms/sitemap.xml?sitemap=glossaries&no_cache=1
+Sitemap: https://www.coding.ms/sitemap.xml?sitemap=questions&no_cache=1
+Sitemap: https://www.coding.ms/de/sitemap.xml?sitemap=pages&no_cache=1
+Sitemap: https://www.coding.ms/de/sitemap.xml?sitemap=shop&no_cache=1
+Sitemap: https://www.coding.ms/de/sitemap.xml?sitemap=jobFinder&no_cache=1
+Sitemap: https://www.coding.ms/de/sitemap.xml?sitemap=documentations&no_cache=1
+Sitemap: https://www.coding.ms/de/sitemap.xml?sitemap=portfolios&no_cache=1
+Sitemap: https://www.coding.ms/de/sitemap.xml?sitemap=glossaries&no_cache=1
+Sitemap: https://www.coding.ms/de/sitemap.xml?sitemap=questions&no_cache=1
+

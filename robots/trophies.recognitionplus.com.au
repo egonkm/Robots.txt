@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://trophies.recognitionplus.com.au/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

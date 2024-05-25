@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /.cvsignore
+Disallow: /feeds/
+Disallow: /fonts/
+Disallow: /Makefile
+Disallow: /MMGenerator.py
+Disallow: /theme/
+Disallow: /.well-known/

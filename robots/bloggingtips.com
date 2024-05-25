@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: */feed/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://bloggingtips.com/sitemap_index.xml
+Disallow: /cdn-cgi/
+Disallow: *?s=*
+Disallow: *?s*
+Disallow: */search/*
+Disallow: */tag*
+Disallow: */recommends*
+Disallow: *comments=*
+Disallow: *comment_id=*

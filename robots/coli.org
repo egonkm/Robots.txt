@@ -1,0 +1,10 @@
+Sitemap: https://www.coli.org/sitemap.xml
+Sitemap: https://www.coli.org/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.coli.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

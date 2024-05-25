@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /beverage/
+Disallow: /home-dev/
+Disallow: /home-stage/
+Disallow: /home-prod/
+Disallow: /news-dev/
+Disallow: /news-stage/
+Disallow: /news-prod/
+Disallow: /umnnews/
+Disallow: /urelate/newsservice/
+Disallow: /tchome-dev/
+Disallow: /tchome-stage/
+Disallow: /tchome-prod/

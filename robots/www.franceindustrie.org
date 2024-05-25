@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+User-agent: *
+Disallow: /app/uploads/wpo-plugins-tables-list.json
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search/
+Disallow: /wp-json/
+Disallow: /?rest_route=
+
+Sitemap: http://www.franceindustrie.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

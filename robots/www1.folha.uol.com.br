@@ -1,0 +1,21 @@
+# robots.txt for http://www1.folha.com.br/
+# Contact webmaster@grupofolha.com.br if you have questions regarding this file
+
+User-agent: *
+Disallow: /folha/furniture/
+Disallow: /folha/virtual/
+Disallow: /virtual/
+Allow: /virtual/hunting/podcasts/google-assistant/
+Disallow: /folha/backend/
+User-agent: Googlebot-News
+Allow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+
+# Sitemaps
+Sitemap: https://www1.folha.uol.com.br/news-sitemap.xml
+Sitemap: https://www1.folha.uol.com.br/folha-online-sitemap.xml
+Sitemap: https://www1.folha.uol.com.br/sitemap.xml
+Sitemap: https://www1.folha.uol.com.br/ondemorar/sitemap.xml

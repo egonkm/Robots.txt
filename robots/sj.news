@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sj.news/sitemap-posts.xml
+Sitemap: https://sj.news/sitemap-tags.xml
+Sitemap: https://sj.news/sitemap-authors.xml

@@ -1,0 +1,10 @@
+User-agent: MS Search 6.0 Robot
+Disallow:
+
+User-agent: *
+Disallow: /*/Forms/*.aspx
+Disallow: /*/AllItems.aspx
+Disallow: /*/DispForm.aspx
+Disallow: /*/EditForm.aspx
+Disallow: /*/NewForm.aspx
+Disallow: /_catalogs/

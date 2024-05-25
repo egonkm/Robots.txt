@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/*
+Disallow: /spravce/*
+Disallow: /autor/*
+Disallow: /editor/*
+Disallow: /garant/*
+Disallow: /recenzent/*
+Disallow: /prihlaseni
+Sitemap: https://www.nzip.cz/sitemap.xml

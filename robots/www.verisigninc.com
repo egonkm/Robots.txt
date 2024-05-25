@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*cmp=
+Disallow: /*email=
+Disallow: /*rd=
+Disallow: /*int=
+Disallow: /*dmn=
+Disallow: /assets/
+Disallow: /stellent/
+Disallow: /*/new-gtld-onboarding/
+Disallow: /*/channel-resources/domain-registry-products/subnet/

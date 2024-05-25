@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /WebResource.axd
+Disallow: /ScriptResource.axd
+Disallow: /hhnd1330.axd
+Disallow: /hhnd1400.axd
+Disallow: /hhnd2000.axd
+Disallow: /hhnd2000.axd
+Disallow: /cz/aplikace/Stranky/uredni-deska.aspx

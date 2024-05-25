@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /diffusion/
+Disallow: /source/
+Disallow: /r*
+Disallow: /P*%24*
+Crawl-delay: 1

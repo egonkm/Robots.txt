@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /customcode
+Disallow: /management
+Disallow: /funraisin
+Disallow: /cron
+Disallow: /api
+Disallow: /issuereceipt
+Disallow: /sponsor/downloadreceipt
+Disallow: /fundraiser
+Disallow: /fundraisers

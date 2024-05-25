@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /gallery
+Disallow: /cgi-bin
+Disallow: /icons

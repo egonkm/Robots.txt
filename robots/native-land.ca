@@ -1,0 +1,10 @@
+Sitemap: https://native-land.ca/sitemap.xml
+Sitemap: https://native-land.ca/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://native-land.ca/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

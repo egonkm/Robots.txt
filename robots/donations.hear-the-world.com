@@ -1,0 +1,11 @@
+Sitemap: https://donations.hear-the-world.com/sitemap.xml
+Sitemap: https://donations.hear-the-world.com/de/products/sitemap.xml
+Sitemap: https://donations.hear-the-world.com/en/products/sitemap.xml
+User-Agent: *
+Disallow: /?*
+Disallow: */media/*
+Disallow: */static/*
+Disallow: */admin/*
+Disallow: */products-api/*
+Disallow: */ckeditor
+Crawl-delay: 5

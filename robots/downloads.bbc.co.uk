@@ -1,0 +1,40 @@
+
+# version: 82a15735101eeeee99de50465f2c318613f7d82b
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-Agent: omgili
+Disallow: /
+ 
+User-Agent: omgilibot
+Disallow: /
+ 
+User-agent: Claude-Web
+Disallow: /
+ 
+User-agent: anthropic-ai
+Disallow: /
+ 
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /

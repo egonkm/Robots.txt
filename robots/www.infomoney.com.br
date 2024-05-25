@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/ 
+Allow: / 
+
+Sitemap: https://www.infomoney.com.br/sitemap.xml
+Sitemap: https://www.infomoney.com.br/news-sitemap.xml
+
+Disallow: /patrocinados/dino/ 
+Disallow: /patrocinados/dino/* 

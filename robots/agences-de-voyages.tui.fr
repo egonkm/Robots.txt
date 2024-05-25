@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /resultats
+
+Sitemap: https://agences-de-voyages.tui.fr/sitemap.xml

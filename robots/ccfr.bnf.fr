@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /portailccfr/jsp/indexation/
+Disallow: /portailccfr/jsp/ccfr/external_indexing/
+Disallow: /portailccfr/jsp/view_direct_anonymous.jsp
+Disallow: /portailccfr/jsp/rnbcd/view/urls/
+Disallow: /portailccfr/servlet/
+Disallow: /ccfpret/
+Crawl-delay: 1
+Sitemap: https://ccfr.bnf.fr/portailccfr/sitemap.xml

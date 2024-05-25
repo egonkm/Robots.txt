@@ -1,0 +1,1 @@
+Sitemap: https://games.wtop.com/sitemap.xml

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Sitemap: https://ma-succeed.jp/sitemap.xml
+Sitemap: https://ma-succeed.jp/content/post-sitemap.xml
+Sitemap: https://ma-succeed.jp/content/news-sitemap.xml

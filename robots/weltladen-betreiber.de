@@ -1,0 +1,450 @@
+
+<!doctype html>
+<html class="no-js" lang="de">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+
+	<title>Weltladen-Betreiber eG | Fehlerseite</title>
+
+    <meta name="theme-version" content="1.8.1" />
+    <meta name="foundation-version" content="5.5.4" />
+    <meta name="modernizr-version" content="3.6.0" />
+
+	
+<link rel="stylesheet" href="https://use.typekit.net/oqt3xte.css">
+<link rel="stylesheet" type="text/css" href="https://weltladen-betreiber.de//resources/cookieconsent.min.css" />
+<script src="https://weltladen-betreiber.de//resources/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#efefef",
+      "text": "#404040"
+    },
+    "button": {
+      "background": "#f39800",
+      "text": "#ffffff"
+    }
+  },
+  "position": "top",
+  "static": true,
+  "type": "opt-in",
+  "content": {
+    "message": "Diese Webseite verwendet Cookies, um die Nutzererfahrung zu verbessern und den Benutzern bestimmte Dienste und Funktionen bereitzustellen. Es werden keine der so gesammelten Daten genutzt, um Sie zu identifizieren oder zu kontaktieren.",
+    "dismiss": "nicht einverstanden",
+    "allow": "Einverstanden",
+    "link": "Datenschutzerkl&auml;rung",
+    "href": "/datenschutz"
+  },
+   onStatusChange: function(status, chosenBefore) {
+            var type = this.options.type;
+            var didConsent = this.hasConsented();
+            if (type == 'opt-in' && didConsent) {
+              // enable cookies
+            }
+            if (type == 'opt-out' && !didConsent) {
+              // disable cookies
+            }
+            // user changed status - reload page
+            window.location.href = window.location.href;
+        },
+        onRevokeChoice: function() {
+            var type = this.options.type;
+            if (type == 'opt-in') {
+              // disable cookies
+            }
+            if (type == 'opt-out') {
+              // enable cookies
+            }
+        }
+})});
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="referrer" content="same-origin" />
+		<meta name="referrer" content="same-origin" />
+		<meta name="robots" content="index, follow" />
+		<meta name="generator" content="RapidWeaver" />
+		<link rel="apple-touch-icon" sizes="180x180" href="https://weltladen-betreiber.de/resources/WLB-Logo180px.png" />
+<link rel="apple-touch-icon" sizes="167x167" href="https://weltladen-betreiber.de/resources/medium.png" />
+<link rel="icon" type="image/png" href="https://weltladen-betreiber.de/resources/favicon_large.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="https://weltladen-betreiber.de/resources/favicon_medium.png" sizes="32x32" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://weltladen-betreiber.de/resources/small.png" />
+<link rel="icon" type="image/png" href="https://weltladen-betreiber.de/resources/favicon_small.png" sizes="16x16" />
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Weltladen-Betreiber eG | Fehlerseite">
+	<meta name="twitter:url" content="https://weltladen-betreiber.de/error/index.php">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="WELTLADEN">
+	<meta property="og:title" content="Weltladen-Betreiber eG | Fehlerseite">
+	<meta property="og:url" content="https://weltladen-betreiber.de/error/index.php">
+
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/foundation/consolidated.css?rwcache=732560534" />
+		
+	<script>var foundation={};</script>
+	<script>function loadCSS(a,b,c){"use strict";var d=window.document.createElement("link"),e=b||window.document.getElementsByTagName("script")[0],f=window.document.styleSheets;return d.rel="stylesheet",d.href=a,d.media="only x",e.parentNode.insertBefore(d,e),d.onloadcssdefined=function(a){for(var b,c=0;c<f.length;c++)f[c].href&&f[c].href===d.href&&(b=!0);b?a():setTimeout(function(){d.onloadcssdefined(a)})},d.onloadcssdefined(function(){d.media=c||"all"}),d}</script>
+
+	
+
+			<link rel='stylesheet' type='text/css' media='all' href='../rw_common/plugins/stacks/stacks.css?rwcache=732560534' />
+<link rel="stylesheet" type="text/css" media="all" href="../rw_common/plugins/stacks/wysiwyg-content.css?rwcache=732560534" />		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page14.css?rwcache=732560534' />
+        <script type='text/javascript' charset='utf-8' src='../rw_common/plugins/stacks/jquery-2.2.4.min.js?rwcache=732560534'></script>
+        
+        <link rel="stylesheet" href="../rw_common/plugins/stacks/font-awesome.min.css?rwcache=732560534">
+        
+<script type="text/javascript" charset="utf-8" src="../rw_common/plugins/stacks/vein.min.js?rwcache=732560534"></script><script type="text/javascript" charset="utf-8" src="../rw_common/plugins/stacks/jwlib-proportional.js?rwcache=732560534"></script><script type="text/javascript" charset="utf-8" src="../rw_common/plugins/stacks/jwlib-glass.min.js?rwcache=732560534"></script>		
+		<script type='text/javascript' charset='utf-8' src='files/stacks_page_page14.js?rwcache=732560534'></script>
+        <meta name="formatter" content="Stacks v5.1.2 (6312)" >
+		<meta class="stacks 5 stack version" id="com.webdeersign.stacks.paddy" name="Paddy" content="3.0.9">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.impact" name="Impact" content="1.5.2">
+		<meta class="stacks 5 stack version" id="com.bigwhiteduck.stacks.blueprint.sidebar" name="SideBar" content="1.1.0">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.foundation.styles.s3" name=" Site Styles" content="1.9.4">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.foundation.1col.s3" name="1 Column Foundation" content="1.9.4">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.foundation.topbar.s3" name="Top Bar" content="1.9.4">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.foundation.4col.s3" name="4 Column Foundation" content="1.9.4">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.totalcms.text2" name="Text" content="1.13.19">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.foundation.topbar.dropzone" name="Top Bar Dropzone" content="1.9.4">
+		<meta class="stacks 5 stack version" id="com.bigwhiteduck.stacks.headerpro" name="Header Pro" content="1.2.2">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.totalcms.core" name=" CMS Core" content="1.13.19">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.impactImage" name="Impact Image Slide" content="1.5.2">
+		<meta class="stacks 5 stack version" id="com.bigwhiteduck.stacks.paragraphpro" name="Paragraph Pro" content="1.2.1">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.jack4" name="Jack" content="4.1.12">
+		<meta class="stacks 5 stack version" id="uk.co.doobox.stats" name="Stats" content="1.0.9">
+		<meta class="stacks 5 stack version" id="com.joeworkman.stacks.foundation.logo" name="Logo" content="1.9.4">
+		
+
+
+
+
+	<script>var jQuery=stacks.jQuery,$=jQuery;</script>
+	
+</head>
+
+<body class="antialiased">
+
+<div id="foundation-loader"></div>
+
+
+
+<div id='stacks_out_1' class='stacks_top'><div id='stacks_in_1' class=''><div id='stacks_out_2' class='stacks_out'><div id='stacks_in_2' class='stacks_in '>      
+</div></div><div id='stacks_out_3' class='stacks_out'><div id='stacks_in_3' class='stacks_in '>
+	
+	
+
+
+
+
+
+
+
+<script src="https://cdn.embedly.com/widgets/platform.js" async></script>
+
+
+
+
+
+ 
+ 
+</div></div><div id='stacks_out_4' class='stacks_out'><div id='stacks_in_4' class='stacks_in uk_co_doobox_stats_stack'><!-- Start Stats stack template --> <div class="stacks_in_4stats"></div><div class="stacks_in_4pagetitle">Weltladen-Betreiber eG | Fehlerseite</div>  <!-- End Stats stack template --></div></div><div id='stacks_out_5' class='stacks_out'><div id='stacks_in_5' class='stacks_in '><div id='stacks_out_5_1' class='stacks_out'><div id='stacks_in_5_1' class='stacks_in com_joeworkman_stacks_jack4_stack'><div class="jack  align-center width-fill      margin-detailed    border-detailed-width  bg-transparent bg-size-auto bg-repeat      corner-shadow-right corner-shadow-left      "  data-width="16" data-height='9' > <div id='stacks_out_5_2' class='stacks_out'><div id='stacks_in_5_2' class='stacks_in com_joeworkman_stacks_jack4_stack'><div class="jack  align-center width-fill            bg-transparent bg-size-auto bg-repeat      corner-shadow-right corner-shadow-left      "  data-width="16" data-height='9' > <div class="blu-sidebar blu__h-center blu__v-center med-left     myheader" id="stacks_in_5_3"> <aside class='blu blu-side sm-top   med-left  ovl-style-pro-stacks_in_5_3 '><div class="blu-side__wrap flex-col ">  <div id='stacks_out_5_4' class='stacks_out'><div id='stacks_in_5_4' class='stacks_in com_joeworkman_stacks_foundation_logo_stack'> <a href="../" title="STARTSEITE"><img src="../rw_common/images/WLB-Logo500px.jpg" width="120" height="44" alt=""/></a>   
+</div></div><div id='stacks_out_5_5' class='stacks_out'><div id='stacks_in_5_5' class='stacks_in com_webdeersign_stacks_paddy_stack'>
+<div id="paddyStackstacks_in_5_5" class="paddyStack " style=""></div></div></div></div> </aside><div class="blu-gutter med-left "></div> <section class="blu blu-content med-left  side- side- style-pro-stacks_in_5_3 "><div class="blu-content__wrap flex-col ">  <div id='stacks_out_5_7' class='stacks_out'><div id='stacks_in_5_7' class='stacks_in '><div id='stacks_out_5_7_1' class='stacks_out'><div id='stacks_in_5_7_1' class='stacks_in com_joeworkman_stacks_foundation_topbar_s3_stack'>
+
+
+<div class="top-bar-wrapper full-width      matchPadding solid  styleActive  submenuIndicator menu-align-left zone-align-left">
+    <nav class="top-bar" data-topbar data-options="is_hover:true;custom_back_text:true;back_text:zurück;mobile_show_parent_link:true;scrolltop:false;" role="navigation">
+        <ul class="title-area title-area-hide">
+            <li class="name ">
+                
+
+                
+            </li>
+            <li class="toggle-topbar menu-icon">
+                <a href="#">
+                    <span>Navigation</span>
+                </a>
+            </li>
+        </ul>
+
+        <section class="top-bar-section  menu-rw">
+
+
+
+
+
+
+
+    <ul class="menu dropdown" role="navigation"><li class="has-dropdown" role="menuitem"><a href="../aktuelles/" rel="">AKTUELLES</a></li><li class="has-dropdown" role="menuitem"><a href="../laeden/" rel="">UNSERE LÄDEN</a></li><li class="has-dropdown" role="menuitem"><a href="../mitmachen/" rel="">MITMACHEN</a></li><li class="has-dropdown" role="menuitem"><a href="../spenden/" rel="">SPENDEN</a></li><li class="has-dropdown" role="menuitem"><a href="../genossenschaft/" rel="">GENOSSENSCHAFT</a></li><li class="has-dropdown" role="menuitem"><a href="../faq/" rel="">FAQ</a></li><li class="has-dropdown" role="menuitem"><a href="../kontakt/" rel="">KONTAKT</a></li></ul>
+
+
+
+
+
+
+
+
+
+
+        </section>
+    </nav>
+</div>
+
+
+
+</div></div></div></div></div> </section></div> 
+
+ </div> 
+</div></div> </div> 
+</div></div></div></div><div id='stacks_out_17' class='stacks_out'><div id='stacks_in_17' class='stacks_in com_joeworkman_stacks_impact_stack'> <div class="impact-wrapper impact-preload   proportional-height  "> <div class="pre-loader hidden    "> <i class="pl-spinner hidden fa fa-spinner fa-pulse fa-4x"></i> </div>  <div class="jw-impact slides"> <div class="fg-content fg-full-height">  </div> <ul class="slides-container  "> <li class="impact-slide  slide slide-stacks_in_18  "  >  <img oncontextmenu="return false;" draggable="false" class="impact-image"  src='  files/slideshowImage-18.jpg  ' alt="Moderne Weltläden für den Erfolg des Fairen Handels - die Weltladen-Betreiber eG"  >   </li> 
+ </ul> <nav class="slides-navigation"> <a href="#" class="next"></a> <a href="#" class="prev"></a> </nav>  </div>  </div>  
+</div></div><div id='stacks_out_20' class='stacks_out'><div id='stacks_in_20' class='stacks_in com_joeworkman_stacks_foundation_1col_s3_stack'> 
+<div class='row   max-edge   padding-detailed padding-medium-up '  > <div class='columns small-12      '> <div id='stacks_out_21' class='stacks_out'><div id='stacks_in_21' class='stacks_in com_bigwhiteduck_stacks_headerpro_stack'>    
+
+
+	
+
+
+
+
+
+	
+		
+	
+
+	
+
+
+
+
+<div class="hp-slice" hidden style="display:none;">__</div>
+<h2 class="header-pro text-inherit       " >
+
+	 
+	 
+
+			<span class="h-pro"><!--
+--><!--
+--><span class="hTxt primary  ">Uups…</span><!--
+--><span class="hTxt segment    " data-seg="segment1"><!--
+-->hier ist etwas schiefgelaufen!<!--
+--></span><!--
+--><!--
+--><!--
+--></span>
+
+		 
+	
+</h2> 
+
+
+
+<div class='slice empty out'><div class='slice empty in'></div></div>
+
+
+
+
+</div></div><div id='stacks_out_29' class='stacks_out'><div id='stacks_in_29' class='stacks_in com_bigwhiteduck_stacks_paragraphpro_stack'>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<p class='ppro text-inherit        ' draggable="false">
+
+Wenn Sie diese Seite sehen, hat irgend ein Link nicht funktioniert, oder Sie haben einen veralteten Link zu unserer Webseite bekommen.<br />Das tut uns leid!<br /><br /><a href="../" title="HOME">Hier gelangen Sie zur&uuml;ck zur Startseite.</a><br /><br />Wenn Sie nicht finden, was Sie suchen, schreiben Sie uns doch bitte eine <a href="../kontakt/" title="KONTAKT">Nachricht &uuml;ber unser Kontaktformular!</a><br />
+
+
+</p>
+ 
+
+
+<div class='slice empty out'><div class='slice empty in'></div></div>
+
+
+
+
+</div></div> </div> </div> 
+</div></div><div id='stacks_out_32' class='stacks_out'><div id='stacks_in_32' class='stacks_in '><div id='stacks_out_32_1' class='stacks_out'><div id='stacks_in_32_1' class='stacks_in com_joeworkman_stacks_foundation_1col_s3_stack'> 
+<div class='row      padding-detailed  '  > <div class='columns small-12      '> <div id='stacks_out_32_2' class='stacks_out'><div id='stacks_in_32_2' class='stacks_in com_joeworkman_stacks_foundation_4col_s3_stack'> 
+<div class='row     '  > <div class='columns small-12    medium-3     ' >  <div id='stacks_out_32_3' class='stacks_out'><div id='stacks_in_32_3' class='stacks_in com_bigwhiteduck_stacks_headerpro_stack'>    
+
+
+	
+
+
+
+
+
+
+
+
+<div class="hp-slice" hidden style="display:none;">__</div>
+<h4 class="header-pro text-inherit       " >
+
+	 
+	 
+
+			<span class="h-pro"><!--
+--><!--
+--><span class="hTxt primary  ">Kontakt</span><!--
+--><!--
+--><!--
+--><!--
+--></span>
+
+		 
+	
+</h4> 
+
+
+
+<div class='slice empty out'><div class='slice empty in'></div></div>
+
+
+
+
+</div></div><div id='stacks_out_32_7' class='stacks_out'><div id='stacks_in_32_7' class='stacks_in com_joeworkman_stacks_totalcms_text2_stack'>    <p>Büroadresse:<br>Weißenburger Str. 18<br>81667 München</p><p>Sitz:<br>85579 Neubiberg</p>    
+ 
+</div></div>  </div> <div class='columns small-12    medium-3     ' >  <div id='stacks_out_32_9' class='stacks_out'><div id='stacks_in_32_9' class='stacks_in com_bigwhiteduck_stacks_headerpro_stack'>    
+
+
+	
+
+
+
+
+
+
+
+
+<div class="hp-slice" hidden style="display:none;">__</div>
+<h4 class="header-pro text-inherit       " >
+
+	 
+	 
+
+			<span class="h-pro"><!--
+--><!--
+--><span class="hTxt primary  ">Informationen</span><!--
+--><!--
+--><!--
+--><!--
+--></span>
+
+		 
+	
+</h4> 
+
+
+
+<div class='slice empty out'><div class='slice empty in'></div></div>
+
+
+
+
+</div></div><div id='stacks_out_32_13' class='stacks_out'><div id='stacks_in_32_13' class='stacks_in com_joeworkman_stacks_totalcms_text2_stack'>    <p><a href="/kontakt">Kontakt</a><br><a href="/impressum">Impressum</a><br><a href="/datenschutz">Datenschutz</a></p>    
+ 
+</div></div>  </div> <div class='columns small-12    medium-3     ' >  <div id='stacks_out_32_15' class='stacks_out'><div id='stacks_in_32_15' class='stacks_in com_bigwhiteduck_stacks_headerpro_stack'>    
+
+
+	
+
+
+
+
+
+
+
+
+<div class="hp-slice" hidden style="display:none;">__</div>
+<h4 class="header-pro text-inherit       " >
+
+	 
+	 
+
+			<span class="h-pro"><!--
+--><!--
+--><span class="hTxt primary  ">Download</span><!--
+--><!--
+--><!--
+--><!--
+--></span>
+
+		 
+	
+</h4> 
+
+
+
+<div class='slice empty out'><div class='slice empty in'></div></div>
+
+
+
+
+</div></div><div id='stacks_out_32_19' class='stacks_out'><div id='stacks_in_32_19' class='stacks_in com_joeworkman_stacks_totalcms_text2_stack'>    <p><a href="https://weltladen-betreiber.de/cms-data/depot/hipwig/Statut-WL-Betreiber-eG_2023-04.pdf" rel="noopener noreferrer" target="_blank">Satzung<!-- br--></a><br><a href="//weltladen-betreiber.de/cms-data/depot/betreiberdepot/Beitrittserklaerung_WLB.pdf" rel="noopener noreferrer" target="_blank">Beitrittserklärung</a></p>    
+ 
+</div></div>  </div> <div class='columns small-12    medium-3     ' >  <div id='stacks_out_32_21' class='stacks_out'><div id='stacks_in_32_21' class='stacks_in com_bigwhiteduck_stacks_headerpro_stack'>    
+
+
+	
+
+
+
+
+
+
+
+
+<div class="hp-slice" hidden style="display:none;">__</div>
+<h4 class="header-pro text-inherit       " >
+
+	 
+	 
+
+			<span class="h-pro"><!--
+--><!--
+--><span class="hTxt primary  ">Webdesign</span><!--
+--><!--
+--><!--
+--><!--
+--></span>
+
+		 
+	
+</h4> 
+
+
+
+<div class='slice empty out'><div class='slice empty in'></div></div>
+
+
+
+
+</div></div><div id='stacks_out_32_25' class='stacks_out'><div id='stacks_in_32_25' class='stacks_in com_joeworkman_stacks_totalcms_text2_stack'>    <p><a href="https://frieauff.com" rel="noopener noreferrer" target="_blank"><img src="/cms-data/gallery/hipwig/frieauffcom-signaturbild.jpg" class="fr-fic fr-dib fr-fil" style="width: 69.93%;"></a></p>    
+ 
+</div></div><div id='stacks_out_32_47' class='stacks_out'><div id='stacks_in_32_47' class='stacks_in html_stack'><div id="loginlink"><a href="https://weltladen-betreiber.de/admin" rel="external">LOGIN</a></div></div></div>  </div> </div> 
+</div></div> </div> </div> 
+</div></div></div></div></div></div>
+<!--  -->
+
+
+
+
+
+
+<script data-cfasync="true" src="../rw_common/themes/foundation/foundation.min.js?rwcache=732560534"></script>
+
+
+</body>
+</html>

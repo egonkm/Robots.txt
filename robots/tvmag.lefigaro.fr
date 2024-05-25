@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /async/
+Disallow: /*?noheader*
+Disallow: /*?*&noheader*
+Disallow: /*?sfdebug*
+Disallow: /*?*&sfdebug*
+
+Sitemap: https://sitemaps.lefigaro.fr/tvmag.lefigaro.fr/articles.xml
+Sitemap: https://sitemaps.lefigaro.fr/tvmag.lefigaro.fr/sections.xml
+Sitemap: https://sitemaps.lefigaro.fr/tvmag.lefigaro.fr/topics.xml
+Sitemap: https://tvmag.lefigaro.fr/sitemap_news.xml
+Sitemap: https://tvmag.lefigaro.fr/sitemaps_programs.xml
+Sitemap: https://tvmag.lefigaro.fr/sitemaps_dossiers.xml
+Sitemap: https://tvmag.lefigaro.fr/sitemaps_grids.xml
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /

@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://mozilla.design/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/blogarchive/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/webdev/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/security/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/futurereleases/sitemap_index.xml
+Sitemap: https://blog.thunderbird.net/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/theden/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/tanvi/sitemap_index.xml
+Sitemap: https://research.mozilla.org/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/netpolicy/sitemap_index.xml
+Sitemap: https://hacks.mozilla.org/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/opendesign/sitemap_index.xml
+Sitemap: https://theglassroom.org/sitemap_index.xml
+Sitemap: https://theglassroomnyc.org/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/webrtc/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/berlin/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/accessibility/sitemap_index.xml
+Sitemap: https://blog.mozilla.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

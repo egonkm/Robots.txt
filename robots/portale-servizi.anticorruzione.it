@@ -1,0 +1,39 @@
+<!doctype html><html lang="it"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" name="description" content="A.N.AC. Portale Servizi Anticorruzione"><meta http-equiv="X-UA-Compatible" name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta http-equiv="X-UA-Compatible" name="theme-color" content="#fff"/><meta http-equiv="X-UA-Compatible" name="importmap-type" content="systemjs-importmap"/><link rel="apple-touch-icon" href="/assets/icon/icon.png"><link rel="manifest" href="/manifest.json"><script>window.__PUBLIC_PATH__ = '/fonts'</script><link href="/style/root.css" as="style"><link rel="stylesheet" href="/style/pre-load.css"><link href="https://cdnjs.cloudflare.com" rel="preconnect" crossorigin><link href="https://cdn.jsdelivr.net" rel="preconnect" crossorigin><link href="/auth-app/main.js" rel="preconnect" crossorigin><title>Portale Servizi ANAC</title><link rel="shortcut icon" href="/favicon.ico"/><script defer="defer" src="/root-config-113.js?fb26caaf1251373ecd83" integrity="sha256-rBbgnuBw6/gNbTvyvhu7yH8b6iePe/F/Ptsg4U+khG8= sha384-7BB3njnxfBlLD2V08rCYf2CwCKwyr4A+Xtjx7ReYG0iU6QyQk0DU6U4EmmPO7sUo" crossorigin="anonymous"></script><script defer="defer" src="/root-config-main.js?fb26caaf1251373ecd83" integrity="sha256-wfCRV/l4vUMhkgrzbUS178TVhOwr8MOY3q2deCi1QrA= sha384-d5YSnQlKnokpp4RMX6qUu275pRVftF80NRm5mUp25WxSsxT5mrjUi/i7IOXbLiuI" crossorigin="anonymous"></script></head><body><div id="caricamento-portale-anac" style="position: fixed; width: 100%; top: 0;"><header class="w-100"><div class="header row w-100 p-0 m-0 bg-color-head2 d-flex w-100 justify-content-between"><span aria-hidden="true" class="white-title">Portale Servizi A.N.AC.</span></div><div class="header-img"><div class="p-2"><a href="/" class="display-image"><img src="/assets/anac.webp" alt="Anac Logo" style="height: 30px; width: auto;"> </a><span aria-label="Portale Servizi Header" role="region" class="d-none display-text"><strong>A.N.AC.</strong></span></div></div></header><div class="m-5"><div class="row w-100 d-flex justify-content-center"><div class="col-12 col-lg-4" style="text-align: center;">Portale Servizi A.N.AC<br>Caricamento in corso... Si prega di attendere senza ricaricare la pagina.</div></div></div></div><script src="/external/flatpickr/flatpickr.min.js"></script><script src="/external/flatpickr/it.js"></script><script src="https://cdn.ckeditor.com/ckeditor5/33.0.0/classic/ckeditor.js"></script><script rel="preload" href="/external/zone/zone.min.js" as="script"></script><link rel="stylesheet" href="/external/bootstrap/bootstrap-italia.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css"><link rel="stylesheet" href="/external/flatpickr/flatpickr.min.css"><script src="/external/jquery/jquery-3.7.1.slim.min.js"></script><script src="/external/popper/popper.min.js"></script><script src="/external/bootstrap/bootstrap.min.js"></script><script src="/external/bootstrap/bootstrap-italia.bundle.min.js"></script><link href="/external/single-spa/single-spa.min.js"><script type="systemjs-importmap" src="/config/importmaps/importmap-generic.json"></script><script>var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open("GET", '/config/importmaps/importmap-API.json', false); // false for synchronous request
+    xmlHttp.send(null);
+    var response = JSON.parse(xmlHttp.responseText);
+    var importMap_script = document.createElement('script');
+    importMap_script.setAttribute('type', 'systemjs-importmap');
+    importMap_script.setAttribute('src', response.CONFIG_MAP_PROXY);
+    document.head.appendChild(importMap_script);</script><script>if (!localStorage.getItem('language')) {
+      localStorage.setItem('language', 'it-IT');
+    }</script><script src="/external/import-map/import-map-overrides.js"></script><script src="/external/system/system.min.js"></script><script src="/external/amd/amd.min.js"></script><script src="/external/named-exports/named-exports.min.js"></script><script src="/external/named-exports/named-register.js"></script><script>// recupero codice da configMap
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open("GET", '/config/importmaps/import-webanalytics.json', false); // false for synchronous request
+    xmlHttp.send(null);
+    var response = JSON.parse(xmlHttp.responseText);
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+      var u = response.SITE_URL;
+      _paq.push(['setTrackerUrl', u + 'matomo.php']);
+      _paq.push(['setSiteId', response.SITE_ID]);
+      var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+      g.type = 'text/javascript'; g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+    })();
+    var urls = [window.location.pathname];
+    urls.push
+    var titolo = "A.N.AC."
+    window.addEventListener('single-spa:routing-event', evt => {
+      if (urls[0] !== window.location.pathname) {
+        urls[0] = window.location.pathname;
+        _paq.push(['setCustomUrl', window.location]);
+        _paq.push(['setDocumentTitle', titolo]);
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+
+      }
+
+    });</script><script>System.import('@anac/root-config');</script><import-map-overrides-full show-when-local-storage="devtools" dev-libs></import-map-overrides-full></body></html>

@@ -1,0 +1,23 @@
+User-Agent: *
+Allow: /
+Disallow: /*cHash
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3conf/ext/
+Disallow: /typo3temp/
+Disallow: /nc/
+Disallow: *no_cache*
+Disallow: /*?id=*
+Disallow: /*glasovanje.html
+Disallow: /*prijava.html
+Disallow: /*prenos.html
+Disallow: /*sledenje.html
+Disallow: /*komentarji.html
+Disallow: /*?type=1234
+Disallow: /*?type=2345
+Disallow: /*?type=3456
+Disallow: /*?type=4567
+Disallow: /*?type=5678
+Disallow: /*analitika*
+
+Sitemap: https://predlagam.vladi.si/sitemap.xml.gz

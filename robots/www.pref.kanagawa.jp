@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /docs/y8e/kouhou/index.html
+Disallow: /docs/y8e/kouhou/
+Disallow: /documents/99342/
+Disallow: /documents/99497/
+Disallow: /documents/99453/
+Disallow: /documents/105682/
+
+User-agent: ndl-japan
+Disallow:

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /content/dam/hellobankpro/pdf/
+Disallow: /fr/avantage/
+Disallow: /accessibilite
+Disallow: /contact/formulaire-reclamation
+Disallow: /*.pdf$
+Disallow:/*transfert-connexion*
+Disallow:*perf_origin*
+Sitemap: https://www.hellobankpro.fr/sitemap.xml
+Sitemap: https://www.hellobankpro.fr/sitemap-faq.xml

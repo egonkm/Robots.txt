@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /api/
+Disallow: /public/
+Sitemap: https://my-topicals-qk6wb4eefm5.gorgias.help/sitemap.xml

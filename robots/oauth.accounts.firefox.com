@@ -1,0 +1,1 @@
+{"code":404,"errno":999,"error":"Not Found","message":"Not Found","info":"https://mozilla.github.io/ecosystem-platform/api#section/Response-format"}

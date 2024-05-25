@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /zb_system/
+Disallow: search.php
+Disallow: /zb_users/data/
+Disallow: /zb_users/language/
+Disallow: /zb_users/logs/
+Sitemap: https://www.dhdog.cn/sitemap/map.xml

@@ -1,0 +1,14 @@
+SiteMap: https://hfa-dearborn.org/sitemap.xml
+
+User-agent: *
+Disallow: /Admin/
+Disallow: /Core/
+Disallow: /skins/
+Disallow: /temp/
+Disallow: /profiles/
+Disallow: /downloads/_acct_/
+
+User-agent: Googlebot-Image
+Allow: /downloads/
+Disallow: /downloads/_acct_/
+Disallow: /

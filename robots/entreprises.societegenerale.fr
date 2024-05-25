@@ -1,0 +1,20 @@
+#Le robots.txt ne doit pas etre modifie.
+#Si vous avez des questions ou si vous souhaitez apporter
+#des modifications, merci de contacter CLI/DFC/DMK.
+#Pour en savoir plus : https://support.google.com/webmasters/answer/6062608?hl=fr
+#Pour lire les regles : http://robots-txt.com/
+
+#Regles pour l'ensemble des bots
+User-agent: *
+Disallow: /secure*
+Disallow: /icd-web*
+Disallow: /brs*
+Disallow: /cem/*
+Disallow: /page-deconnexion*
+Disallow: /page-erreur-404
+Disallow: /page-erreur-410
+Disallow: /resultats-recherche
+Disallow: *test-statique*
+
+#Sitemaps
+Sitemap: https://entreprises.sg.fr/sitemap.xml

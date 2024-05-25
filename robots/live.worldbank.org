@@ -1,0 +1,10 @@
+User-agent: *
+Allow:*
+Disallow: */apps/*
+Disallow: */libs/*
+Disallow: */bin/*
+Disallow: */wbg/services/*
+Disallow: */misc*
+Disallow: */conf/*
+Disallow: */wbg/aem/*
+Sitemap: https://live.worldbank.org/sitemap.xml

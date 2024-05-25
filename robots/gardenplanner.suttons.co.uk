@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /contactsent.aspx
+Disallow: /feedbackconfirmation.aspx
+Disallow: /unsubscribeconfirmation.aspx
+Disallow: /errors/
+Disallow: /about.aspx

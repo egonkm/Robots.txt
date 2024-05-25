@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /annonces?search=*
+Disallow: /annonces?*&page=1$
+Sitemap: https://sosvillages.tf1info.fr/sitemap.xml

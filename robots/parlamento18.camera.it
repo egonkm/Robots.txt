@@ -1,0 +1,33 @@
+#Tutti gli spider aderenti al Robots Exclusion Standard 
+User-agent: *
+#
+crawl-delay: 10
+Disallow: /Camera/browse/*
+Disallow: /_dati/costituente/*
+Disallow: /_dati/leg01/*
+Disallow: /_dati/leg02/*
+Disallow: /_dati/leg03/*
+Disallow: /_dati/leg04/*
+Disallow: /_dati/leg05/*
+Disallow: /_dati/leg06/*
+Disallow: /_dati/leg07/*
+Disallow: /_dati/leg08/*
+Disallow: /_dati/leg09/*
+Disallow: /_dati/leg10/*
+Disallow: /_dati/leg11/*
+Disallow: /_dati/leg12/*
+Disallow: /_dati/leg13/*
+Disallow: /_dati/leg14/*
+Disallow: /_dati/leg15/*
+#
+Disallow: /*/application/xmanager/projects/camera/file/Bollettini_Organi_Collegiali/*
+Disallow: /*/application/xmanager/projects/leg17/file/trattamento_giuridico_economico.pdf
+Disallow: /*/application/xmanager/projects/leg17/file/trattamento_giuridico_economico.pdf
+Disallow: /*/application/xmanager/projects/leg17/attachments/file_bollettino_organi_collegiali/files/*
+Disallow: /*/application/xmanager/projects/leg17/attachments/curriculum/files/*
+Disallow: /*/921/*
+
+#Disallow: /*/application/xmanager/projects/parlamento17/attachments/auditi_pdf/pdfs/000/000/060/Rif_M20141202_14_Prov_BR.pdf
+Disallow:  /*/application/xmanager/projects/parlamento17/file/Rif_M20141202_14_Prov_BR.pdf
+Disallow:  /*/application/xmanager/projects/parlamento17/attachments/auditi_pdf/pdfs/000/000/477/Rif_M_20170530_05_Guglielmino.pdf
+Disallow:  /*/application/xmanager/projects/parlamento17/file/Rif_M_20141121_21_Ramm.pdf

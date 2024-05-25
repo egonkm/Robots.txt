@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /rss_mobile/
+Sitemap: http://french.peopledaily.com.cn/rss/sitemap_index.xml

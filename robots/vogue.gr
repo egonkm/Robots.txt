@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /cdn-cgi
+Disallow: /wp-admin
+Disallow: /trackback
+Disallow: /xmlrpc.php
+Disallow: /feed
+Disallow: /wp-login.php
+Disallow: /?s=
+Disallow: /search
+Disallow: /adsforwp
+Allow: /.well-known/amphtml/apikey.pub
+
+# Admin Pages
+Disallow: /wp-login.php
+Disallow: /wp-signup.php
+Disallow: /uncategorized
+Disallow: /preview
+
+Sitemap: https://vogue.gr/sitemap_index.xml

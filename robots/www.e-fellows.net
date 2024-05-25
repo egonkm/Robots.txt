@@ -1,0 +1,9 @@
+sitemap: https://www.e-fellows.net/sitemap.xml
+user-agent: *
+disallow: /databases/*
+disallow: /cpresources/*
+disallow: /admin/*
+disallow: /external-images/*
+disallow: /actions/*
+disallow: /passwort-vergessen
+disallow: /login

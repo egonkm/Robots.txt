@@ -1,0 +1,24 @@
+User-agent: SemrushBot
+User-agent: SemrushBot-BA
+User-agent: SemrushBot-SI
+User-agent: SemrushBot-SWA
+User-agent: SemrushBot-CT
+User-agent: SemrushBot-BM
+User-agent: SemrushBot-SEOAB
+User-agent: Baiduspider
+User-agent: 360Spider
+User-agent: Yisouspider
+User-agent: PetalBot
+User-agent: Bytespider
+User-agent: Sogou web spider
+User-agent: Sogou inst spider
+Disallow: /
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-includes/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+Disallow: /trackback/
+Disallow: /wp-login.php
+Disallow: /wp-register.php

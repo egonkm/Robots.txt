@@ -1,0 +1,16 @@
+# Termly scanner
+User-agent: TermlyBot
+Allow: /
+
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.threemediacentre.co.uk/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

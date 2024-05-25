@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /ekran/
+Disallow: /feed/
+Disallow: */feed/
+Disallow: /kampus-haritasi/
+Disallow: /veri/
+Disallow: /en/
+
+Sitemap: https://www.ankara.edu.tr/sitemap-6.xml

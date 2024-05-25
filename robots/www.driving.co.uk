@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /search/
+Disallow: /?s=*
+Disallow: /tag/*/page/*
+
+Sitemap: https://www.driving.co.uk/sitemap_index.xml

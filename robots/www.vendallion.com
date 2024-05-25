@@ -1,0 +1,10 @@
+User-agent: *
+Sitemap: https://www.vendallion.com/sitemap.xml
+Disallow: /Vendd/
+Disallow: /bin/
+Disallow: /generated/
+Disallow: /Pages/
+Disallow: /services/
+Disallow: /Src/
+Disallow: /System/
+Disallow: /Themes/

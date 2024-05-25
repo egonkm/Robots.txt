@@ -1,0 +1,116 @@
+User-agent: *
+Allow: /
+
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /sendfriend/
+Disallow: /sendfriend/product/
+Disallow: /wishlist/
+
+# Disable common folders
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /pub/
+Disallow: /var/
+
+# Disable checkout & customer account
+Disallow: /checkout/
+Disallow: /checkout/cart/
+Disallow: /checkout/onepage/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+
+# Disable customer orders, wishlist & some footer pages
+Disallow: /myaccount/orders/
+Disallow: /wishlist/
+Disallow: /perguntas-frequentes
+
+# Disable Search pages & catalog direct routing
+Disallow: /catalog/product_compare/
+Disallow: /catalog/product_compare/add/
+Disallow: /catalog/product_compare/index/
+Disallow: /catalogsearch/
+Disallow: /catalogsearch/result/
+
+# Disable Tag & Review (Avoid duplicate content)
+Disallow: /tag/
+Disallow: /review/
+
+# Common files
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /CONTRIBUTING.md
+Disallow: /CONTRIBUTOR_LICENSE_AGREEMENT.html
+Disallow: /COPYING.txt
+Disallow: /Gruntfile.js
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /nginx.conf.sample
+Disallow: /package.json
+Disallow: /php.ini.sample
+Disallow: /RELEASE_NOTES.txt
+
+# Disable version control folders and others
+Disallow: /*.git
+Disallow: /*.CVS
+Disallow: /*.Zip$
+Disallow: /*.Svn$
+Disallow: /*.Idea$
+Disallow: /*.Sql$
+Disallow: /*.Tgz$
+
+# Disable filters parameters
+Disallow: /*?discount_rate=
+Disallow: /*?essences=
+Disallow: /*?flags=
+Disallow: /*?flavours=
+Disallow: /*?price=
+Disallow: /*?uses=
+Disallow: /*?color=
+Disallow: /*?rcnOrigin=
+Disallow: /*?seals= 
+Disallow: /*?nosto=
+Disallow: /*?refSrc=
+Disallow: /*?product_list_order= 
+Disallow: /*?manufacturer=
+Disallow: /*?brand= 
+Disallow: /*?product_list_dir=
+Disallow: /*?brand_category=
+
+# Waiting time between calls with most common bots
+User-agent: BLEXBot
+Crawl-delay: 10
+User-agent: MJ12bot
+Crawl-delay: 10
+User-agent: SeekportBot
+Crawl-delay: 10
+User-agent: bingbot
+Crawl-delay: 10
+User-agent: Slurp
+Crawl-delay: 10
+User-agent: DuckDuckBot
+Crawl-delay: 10
+User-agent: Baiduspider
+Crawl-delay: 10
+User-agent: YandexBot
+Crawl-delay: 10
+User-agent: Facebot
+Crawl-delay: 10
+User-agent: AhrefsBot
+Crawl-delay: 10
+User-agent: SemrushBot
+Crawl-delay: 10
+User-agent: sentibot
+Crawl-delay: 10
+User-agent: SentiBot
+Crawl-delay: 10
+
+#Block bots
+User-agent: Amazonbot
+Disallow: /
+
+Sitemap: https://www.naturitas.pt/sitemap.xml

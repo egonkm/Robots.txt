@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.team-pb.de/sitemap_index.xml
+Sitemap: https://www.team-logistikforum.de/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

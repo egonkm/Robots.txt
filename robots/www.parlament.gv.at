@@ -1,0 +1,329 @@
+# 2004-02-13 (jk) Definition fuer Suchmaschinen.
+# 2011-03-07 (rs): Terminkalender (/PAKT/TERM/) sperren, hohe Last durch Robots
+#
+# 2023-06-02 (rs): Ticket#1079807
+# 2023-06-05 (rs): Ticket#1079849
+# 2023-06-15 (rs): Ticket#1080272
+# 2023-06-19 (rs): Ticket#1080378
+# 2023-06-20 (rs): Ticket#1080470
+# 2023-06-27 (rs): Ticket#1080733
+# 2023-06-29 (rs): Ticket#1080941
+# 2023-07-05 (rs): Ticket#1081073
+# 2023-07-17 (rs): Ticket#1081520 (44002.0030/4-31/2023)
+# 2023-07-26 (rs): Ticket#1081707 + Ticket#1081727 + Ticket#1081738
+# 2023-08-03 (rs): Ticket#1081889
+# 2023-08-08 (rs): Ticket#1082023
+# 2023-08-11 (rs): Ticket#1082077
+# 2023-08-22 (rs): Ticket#1082223
+# 2023-09-01 (rs): Ticket#1082702
+# 2023-09-04 (mariach): Ticket#1082722 + Ticket#1082766
+# 2023-09-06 (mariach): Ticket#1082794
+# 2023-09-19 (rs): Ticket#1083272
+# 2023-09-20 (rs): Ticket#1083418
+# 2023-09-21 (rs): Ticket#1083456
+# 2023-09-22 (rs): Ticket#1083473 + Ticket#1083498
+# 2023-10-03 (rs): Ticket#1084991
+# 2022-10-05 (rs): Anonymisierung 44002.0030/6-3.1/2023 - Ticket#1085164
+# 2023-10-17 (rs): Ticket#1085679
+# 2023-10-19 (rs): Ticket#1085801
+# 2023-10-23 (rs): Ticket#1085952 + Ticket#1085956
+# 2023-11-03 (rs): Ticket#1086307
+# 2023-11-07 (rs): Ticket#1086390
+# 2023-11-13 (rs): Ticket#1086702
+# 2023-11-17 (mariach): Ticket#1087005
+# 2023-11-22 (rs): Ticket#1087153
+# 2023-11-27 (rs): Ticket#1087392 (44002.0030/7-3.1/2023)
+# 2023-12-06 (rs): Ticket#1087796
+# 2023-12-15 (rs): Ticket#1088189
+# 2024-01-08 (rs): Ticket#1088729
+# 2024-01-09 (rs): Ticket#1088739/Ticket#1088731
+# 2024-01-10 (rs): Ticket#1088829
+# 2024-01-11 (rs): Ticket#1088816 + Ticket#1088820 + Ticket#1088934
+# 2024-01-15 (rs): Ticket#1089037
+# 2024-02-02 (rs): Ticket#1090011
+# 2024-02-08 (rs): Ticket#1090288 + Ticket#1090299
+# 2024-02-12 (rs): Ticket#1090432 (44002.0030/10-3.1/2023) + Ticket#1090444
+# 2024-02-16 (rs): Ticket#1090683
+# 2024-02-19 (rs): Ticket#1090775 (44002.0030/1-3.1/2024)
+# 2024-02-23 (rs): Ticket#1090926
+# 2024-02-27 (rs): Ticket#1091176 + Ticket#1091231
+# 2024-03-05 (rs): Ticket#1091618
+# 2024-03-06 (rs): Ticket#1091698 (44002.0030/2-3.1/2024)
+# 2024-03-13 (rs): Ticket#1092018 + Ticket#1092057 (44002.0030/3-3.1/2024)
+# 2024-03-14 (rs): Ticket#1092096
+# 2024-03-20 (rs): Ticket#1092394
+# 2024-03-25 (rs): Ticket#1092458 + Ticket#1092511
+# 2024-04-02 (rs): Ticket#1092763
+# 2024-04-03 (rs): Ticket#1092801 + Ticket#1092802 + Ticket#1092803 + Ticket#1092804 + Ticket#1092805 + Ticket#1092806 + Ticket#1092808 + Ticket#1092809 + Ticket#1092810
+# 2024-04-11 (rs): Ticket#1093207
+# 2024-04-17 (rs): Ticket#1093577
+# 2024-04-18 (rs): Ticket#1093705
+# 2024-04-19 (rs): Ticket#1093760 (44002.0030/4-3.1/2024)
+# 2024-04-25 (rs): Ticket#1093973
+# 2024-05-02 (rs): Ticket#1094142
+# 2024-05-08 (mariach): Ticket#1094376
+# 2024-05-10 (rs): Ticket#1094402
+# 2024-05-21 (rs): Ticket#1094711
+# 2024-05-22 (rs): Ticket#1094786
+# 2024-05-24 (rs): Ticket#1094914
+ 
+Sitemap: https://www.parlament.gv.at/dokument/sitemap.xml
+
+# 2017-09-22 (mariach): Crawl-Delay fuer ahrefsbot gesetzt:
+User-agent: AhTicket#1079023refsBot
+Crawl-Delay: 10
+
+# 2017-09-26 (mariach): Crawl-Delay fuer bingbot gesetzt:
+User-agent: bingbot
+Crawl-Delay: 5
+
+User-agent: *
+# 2023-06-02 (rs)
+Disallow: /gegenstand/XXVII/SNME/248180
+Disallow: /gegenstand/XXVII/SN/212439
+Disallow: /gegenstand/XXVII/SNME/229731
+Disallow: /gegenstand/XXVII/SNME/248665
+Disallow: /gegenstand/XXVII/SNME/225529
+Disallow: /gegenstand/XXVII/SN/235015
+Disallow: /gegenstand/XXVII/SN/195519
+Disallow: /gegenstand/XXVII/SN/147534
+Disallow: /gegenstand/XXVII/SNME/201428
+Disallow: /gegenstand/XXVII/SNME/119786
+# 2023-06-05 (rs)
+Disallow: /gegenstand/XXVII/SNME/115619
+# 2023-06-15 (rs)
+Disallow: /gegenstand/XXVII/SNME/21474
+# 2023-06-19 (rs)
+Disallow: /gegenstand/XXVII/SN/31295
+Disallow: /gegenstand/XXVII/SN/15955
+Disallow: /gegenstand/XXVII/SNME/135061
+Disallow: /gegenstand/XXVII/SNME/124677
+# 2023-06-20 (rs)
+Disallow: /gegenstand/XXVII/SNME/78758
+# 2023-06-27 (rs)
+Disallow: /gegenstand/XXVII/SN/36565
+# 2023-06-29 (rs)
+Disallow: /gegenstand/XXV/SNME/29066
+# 2023-07-05 (rs)
+Disallow: /gegenstand/XXVII/SN/42631
+Disallow: /gegenstand/XXVII/SN/426803
+Disallow: /gegenstand/XXVII/SNME/139879
+Disallow: /gegenstand/XXVII/SNME/125266
+Disallow: /gegenstand/XXVII/SNME/41008
+Disallow: /gegenstand/XXVII/SNME/20697
+# 2023-07-17 (rs)
+Disallow: /dokument/XXVII/J/15448/
+# 2023-07-23 (rs)
+Disallow: /gegenstand/XXVII/SNME/67464
+Disallow: /gegenstand/XXVII/SNME/60888
+Disallow: /gegenstand/XXVII/SNME/215095
+# 2023-08-03 (rs)
+Disallow: /gegenstand/XXVII/SN/85061
+Disallow: /gegenstand/XXVII/SNME/180180
+Disallow: /gegenstand/XXVII/SN/66522
+Disallow: /gegenstand/XXVII/SNME/168215
+# 2023-08-08 (rs)
+Disallow: /gegenstand/XXVII/SNME/251203
+# 2023-08-11 (rs)
+Disallow: /gegenstand/XXVII/SNME/132548
+# 2023-08-22 (rs)
+Disallow: /gegenstand/XXVII/SNME/251253
+Disallow: /gegenstand/XXVII/SNME/251167
+# 2023-09-01 (rs)
+Disallow: /gegenstand/XXVII/AB/6766
+# 2023-09-04 (mariach)
+Disallow: /gegenstand/XXVII/SN/118909
+Disallow: /gegenstand/XXVII/SNME/199188
+# 2023-09-06 (mariach)
+Disallow: /gegenstand/XXVII/SNME/58134
+# 2023-09-19 (rs)
+Disallow: /gegenstand/XXVII/SNME/105219
+# 2023-09-20 (rs)
+Disallow: /gegenstand/XXVII/SNME/6671
+# 2023-09-21 (rs)
+Disallow: /gegenstand/XXVII/SNME/196775
+Disallow: /gegenstand/XXVII/SN/201307
+Disallow: /gegenstand/XXVII/SN/105058
+# 2023-09-22 (rs)
+Disallow: /gegenstand/XXVII/SNME/58300
+Disallow: /gegenstand/XXVII/SNME/94822
+# 2023-10-03 (rs)
+Disallow: /gegenstand/XXVII/SNME/161669
+# 2023-10-05 (rs)
+Disallow: /dokument/XXVII/J/16077/
+Disallow: /dokument/XXVII/J/16078/
+Disallow: /dokument/XXVII/J/16079/
+Disallow: /dokument/XXVII/J/16080/
+Disallow: /dokument/XXVII/J/16081/
+Disallow: /dokument/XXVII/J/16082/
+Disallow: /dokument/XXVII/J/16083/
+Disallow: /dokument/XXVII/J/16084/
+Disallow: /dokument/XXVII/J/16085/
+Disallow: /dokument/XXVII/J/16086/
+Disallow: /dokument/XXVII/J/16087/
+Disallow: /dokument/XXVII/J/16088/
+Disallow: /dokument/XXVII/J/16089/
+Disallow: /dokument/XXVII/J/16090/
+# 2023-10-17 (rs)
+Disallow: /gegenstand/XXIV/SNME/13703
+# 2023-10-19 (rs)
+Disallow: /gegenstand/XXVII/SNME/77019
+# 2023-10-23 (rs)
+Disallow: /gegenstand/XXVII/SN/23325
+Disallow: /gegenstand/XXVII/SNME/122999
+# 2023-11-03 (rs)
+Disallow: /gegenstand/XXVII/SNME/160249
+# 2023-11-07 (rs)
+Disallow: /gegenstand/XXVII/SN/118736/
+Disallow: /gegenstand/XXVII/SN/4825
+Disallow: /gegenstand/XXVII/SN/1184
+Disallow: /gegenstand/XXVII/SN/227606
+# 2023-11-13 (rs)
+Disallow: /gegenstand/XXVII/SNME/15757
+# 2023-11-17 (mariach)
+Disallow: /gegenstand/XXVII/SNME/218799
+Disallow: /gegenstand/XXVII/SN/142240
+# 2023-11-22 (rs)
+Disallow: /gegenstand/XXVII/SNME/103459
+# 2023-11-22 (rs)
+Disallow: /dokument/BR/J-BR/3037/
+Disallow: /dokument/XXV/J/10214/
+# 2023-12-06 (rs)
+Disallow: /gegenstand/XXVII/SN/36408
+# 2023-12-15 (rs)
+Disallow: /gegenstand/XXVII/SN/30862
+# 2024-01-08 (rs)
+Disallow: /gegenstand/XXVII/SNME/218523
+# 2024-01-09 (rs)
+Disallow: /gegenstand/XXVII/SPET/747
+# 2024-01-10 (rs)
+Disallow: /gegenstand/XXVII/SN/137175
+# 2024-01-11 (rs)
+Disallow: /gegenstand/XXVII/SNME/66640
+Disallow: /gegenstand/XXVII/SNME/9316
+Disallow: /gegenstand/XXVII/SN/76126
+Disallow: /gegenstand/XXVII/SNME/17112
+# 2024-01-15 (rs)
+Disallow: /gegenstand/XXVII/SN/235301
+# 2024-02-02 (rs)
+Disallow: /gegenstand/XXVII/SNME/100056
+Disallow: /gegenstand/XXVII/SNME/36808
+Disallow: /gegenstand/XXVII/SNME/27771
+# 2024-02-08 (rs)
+Disallow: /gegenstand/XXVII/SN/132541
+Disallow: /gegenstand/XXVII/SNME/20996
+# 2024-02-12 (rs)
+Disallow: /dokument/XXVII/J/15289/
+Disallow: /gegenstand/XXVII/SNME/83189
+# 2024-02-16 (rs)
+Disallow: /gegenstand/XXVII/SN/234881
+# 2024-02-19 (rs)
+Disallow: /dokument/XXVII/KOMM/155/
+Disallow: /dokument/XXVII/KOMM/198/
+# 2024-02-23 (rs)
+Disallow: /gegenstand/XXVII/SNME/252368
+# 2024-02-27 (rs)
+Disallow: /gegenstand/XXVII/SNME/41582
+Disallow: /gegenstand/XXVII/SNME/94755
+# 2024-03-05 (rs)
+Disallow: /gegenstand/XXVII/SNME/109031
+# 2024-03-06 (rs)
+Disallow: /dokument/XXVII/KOMM/162/
+# 2024-03-13 (rs)
+Disallow: /gegenstand/XXVII/SBI/3580
+Disallow: /dokument/XXVII/J/16999/
+Disallow: /dokument/XXVII/AB/16454/
+# 2024-03-14 (rs)
+Disallow: /gegenstand/XXVII/SNME/71572
+# 2024-03-20 (rs)
+Disallow: /gegenstand/XXVII/SNME/119998
+# 2024-03-25 (rs)
+Disallow: /gegenstand/XXVII/SNME/72955
+Disallow: /gegenstand/XXVII/SNME/58973
+# 2024-04-02 (rs)
+Disallow: /gegenstand/XXVII/SN/117428
+# 2024-04-03 (rs)
+Disallow: /gegenstand/XXVII/SN/58865
+Disallow: /gegenstand/XXVII/SNME/111559
+Disallow: /gegenstand/XXVII/SPET/705
+Disallow: /gegenstand/XXVII/SN/73489
+Disallow: /gegenstand/XXVII/SN/193335
+Disallow: /gegenstand/XXVII/SN/193382
+Disallow: /gegenstand/XXVII/SN/268615
+Disallow: /gegenstand/XXVII/SNME/89748
+Disallow: /gegenstand/XXVII/SNME/159303
+# 2024-04-11 (rs)
+Disallow: /gegenstand/XXVII/SN/40061
+# 2024-04-17 (rs)
+Disallow: /gegenstand/XXVII/SN/36891
+# 2024-04-18 (rs)
+Disallow: /gegenstand/XXVII/SNME/30586
+# 2024-04-19 (rs)
+Disallow: /dokument/XXVII/J/6556/
+Disallow: /dokument/XXVII/J/6590/
+Disallow: /dokument/XXVII/J/6765/
+Disallow: /dokument/XXVII/J/6833/
+Disallow: /dokument/XXVII/AB/6492/
+Disallow: /dokument/XXVII/AB/6750/
+# 2024-04-25 (rs)
+Disallow: /gegenstand/XXVII/SNME/160706
+# 2024-05-02 (rs)
+Disallow: /gegenstand/XXVII/SNME/108698
+# 2024-05-08 (mariach)
+Disallow: /gegenstand/XXVII/SNME/76576
+# 2024-05-10 (rs)
+Disallow: /gegenstand/XXVII/SNME/253772
+# 2024-05-21 (rs)
+Disallow: /gegenstand/XXVII/SNME/253891
+# 2024-05-22 (rs)
+Disallow: /gegenstand/XXVII/SNME/92323
+# 2024-05-24 (rs)
+Disallow: /gegenstand/XXVII/SN/207244
+
+#User-agent: *
+# keine Indizierung von Terminkalender, Captchas, personalisierten Seiten und Volltextsuche
+Disallow: /PAKT/TERM/
+Disallow: /SEC/
+Disallow: /HelloCaptchaServer/
+Disallow: /KONF/
+Disallow: /SUCH/
+Disallow: /SUCHES/
+Disallow: /PAKT/SW/
+Disallow: /PAKT/DE/
+Disallow: /PtWeb/
+# Alias fuer alte Verzeichnisse sperren, sonst doppelte Indizierung
+Disallow: /PG/
+Disallow: /AK/
+Disallow: /TE/
+Disallow: /WW/
+Disallow: /PB/SN/112019
+Disallow: /PE/
+Disallow: /PI/
+Disallow: /NR/
+Disallow: /BR/
+Disallow: /BV/
+Disallow: /PA/
+Disallow: /SK/
+Disallow: /BE/
+Disallow: /PALAIS_EPSTEIN/
+Disallow: /K/
+Disallow: /pls/portal/
+Disallow: /VOD/
+Disallow: /include/vod/
+# ab Relaunch 2023
+Disallow: /profil/
+Disallow: /suche
+Disallow: /certs/
+Disallow: /onboarding/
+# 2016-01-21 (mariach)
+# nicht vorhandene aber in importierten Dokumenten verlinkte Metadaten nicht indizieren:
+Disallow: /*filelist.xml$
+Disallow: /*editdata.mso$
+Disallow: /*header.htm$
+Disallow: /*header.html$
+# 2016-01-22 (mariach)
+# sollte von baiduspider respektiert werden:
+Disallow: /*filelist.xml
+Disallow: /*editdata.mso
+Disallow: /*header.htm
+Disallow: /*header.html

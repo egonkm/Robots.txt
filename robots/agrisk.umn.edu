@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /LibraryList/
+Disallow: /Programs/
+Disallow: /Library/OpenItem/
+Disallow: /Conferences/OpenItem/

@@ -1,0 +1,18 @@
+# Episciences robots.txt
+User-Agent: *
+Disallow: /search
+Disallow: */tei
+Disallow: */bibtex
+Disallow: */dc
+Disallow: */datacite
+Disallow: */crossref
+Disallow: */doaj
+Disallow: */zbjats
+Disallow: */json
+Disallow: /browse/latest
+Disallow: /login
+Disallow: /submit
+Disallow: /user
+Disallow: /error
+# Sitemap
+Sitemap: http://afm.episciences.org/sitemap

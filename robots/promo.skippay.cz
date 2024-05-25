@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /nakupte-zdarma
+
+Sitemap: https://promo.skippay.cz/sitemap.xml

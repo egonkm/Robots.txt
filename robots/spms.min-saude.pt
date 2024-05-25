@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /secupress-4ae4e623/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.spms.min-saude.pt/wp-sitemap.xml

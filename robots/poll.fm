@@ -1,0 +1,14 @@
+<html>
+<head>
+	<title>Page Not Found</title>
+    <link rel="stylesheet" href="https://poll.fm/css/production/404.css?m=1710953687" type="text/css" media="all" /></head>
+<body class="error-404">
+    <div class="container">
+        <h1>404</h1>
+
+        <p>Page Not Found</p>
+
+        <a href="https://crowdsignal.com">Visit us at Crowdsignal</a>
+    </div>
+</body>
+</html>

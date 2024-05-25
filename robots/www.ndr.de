@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /apps/php/
+Disallow: /common/apps/php/
+Disallow: /apps/java/
+Disallow: /flash/
+Disallow: /speiseplan/
+Disallow: /suche
+Disallow: /*-nimexdetail.xml
+Disallow: /home/betriebssport/*
+Disallow: /*sess=*
+Disallow: /*_cam-*_tab-*.html
+Disallow: /*_fparam-*_viewport-*.html
+Disallow: /fernsehen/epg/erinnerung101*
+Disallow: /mediathek/mediatheksuche101*
+Disallow: /*ut*.xml
+Disallow: /*podcast5654.xml
+Disallow: /*.json
+Disallow: /app/
+Disallow: /public/teletext/
+
+# PetalBot
+User-agent: PetalBot
+Disallow: /
+
+# SemrushBot
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: https://www.ndr.de/sitemap112-sitemap.xml
+Sitemap: https://www.ndr.de/sitemap112-newssitemap.xml
+
+Host: www.ndr.de

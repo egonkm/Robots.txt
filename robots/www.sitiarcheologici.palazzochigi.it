@@ -1,0 +1,3 @@
+# Blocca tutti i motori 
+User-agent: *
+Disallow: /

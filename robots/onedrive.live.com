@@ -1,0 +1,31 @@
+ï»¿# Microsoft OneDrive
+User-agent: *
+Disallow: /peopletags.aspx
+Disallow: /P.mvc?_escaped_fragment_=/peopletags.aspx
+Disallow: /sharedfavorite.aspx
+Disallow: /sharefavorite.aspx
+Disallow: /groups/
+Disallow: /self.aspx 
+Disallow: /servererror.aspx
+Disallow: /ServerError.aspx
+Disallow: /mobileservererror.aspx
+Disallow: /embedservererror.aspx
+Disallow: /peopleoptions.aspx
+Disallow: /pagenotfounderror.aspx
+Disallow: /mobilepagenotfounderror.aspx
+Disallow: /viruswarning.aspx
+Disallow: /fatalerror.html
+Disallow: /FatalError.html
+Disallow: /quickadd.aspx
+Disallow: /welcome.aspx
+Disallow: /browse.aspx
+Disallow: /selectembed.aspx
+Disallow: /LFE/Live.controls.sharedpages/error.aspx
+Disallow: /downloadaszip
+Disallow: /?gologin=1
+Disallow: /about/*/mobile
+Disallow: /about/*/getting-started
+Disallow: /about/*/update
+Disallow: /*authkey=
+
+Sitemap: https://onedrive.live.com/about/sitemap.xml

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /widget
+Disallow: /widget2
+
+Sitemap: https://secim.ntv.com.tr/sitemap.xml

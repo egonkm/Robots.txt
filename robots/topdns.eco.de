@@ -1,0 +1,19 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://topdns.eco.de/sitemap_index.xml
+Sitemap: https://beta.eco.de/sitemap_index.xml
+Sitemap: https://www.medienakademie-koeln.de/sitemap_index.xml
+Sitemap: https://www.eurocloud.de/sitemap_index.xml
+Sitemap: https://interconnectionacademy.net/sitemap_index.xml
+Sitemap: https://www.eurocloudnative.de/sitemap_index.xml
+Sitemap: https://www.swissix.ch/sitemap_index.xml
+Sitemap: https://gb22.eco.de/sitemap_index.xml
+Sitemap: https://summit.certified-senders.org/sitemap_index.xml
+Sitemap: https://web.eco.de/sitemap_index.xml
+Sitemap: https://beta.eco.de/internet-beschwerdestelle/sitemap_index.xml
+Sitemap: https://beta.eco.de/allianz/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

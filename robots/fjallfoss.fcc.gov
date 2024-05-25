@@ -1,0 +1,12 @@
+User-agent: *
+     Disallow: /
+User-agent: gsa-crawler
+     Disallow: /myibfs
+User-agent: inktomi
+     Disallow: /myibfs
+User-agent: oetechi
+     Disallow: /myibfs
+User-agent: oetkdbp
+     Disallow: /myibfs
+User-Agent: Slurp
+Disallow: /

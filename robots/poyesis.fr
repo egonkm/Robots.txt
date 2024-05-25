@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://poyesis.fr
+
+# Sitemaps
+Sitemap: https://poyesis.fr/sitemap.xml

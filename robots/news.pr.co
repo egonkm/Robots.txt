@@ -1,0 +1,7 @@
+User-agent: *
+Crawl-delay: 5
+Disallow: .atom$
+
+Sitemap: https://news.pr.co/nl-NL/sitemap.xml
+Sitemap: https://news.pr.co/en-WW/sitemap.xml
+Sitemap: https://news.pr.co/nl-WW/sitemap.xml

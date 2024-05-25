@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /lpt/
+Disallow: /aller/
+Disallow: /*ref=*
+Disallow: /*v=*
+
+Sitemap: https://codepromo.lepoint.fr/sitemap.xml

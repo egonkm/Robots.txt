@@ -1,0 +1,6 @@
+# *
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://joinhandshake.co.uk/sitemap-uk.xml

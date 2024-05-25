@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /es/
+Disallow: /pt/
+Disallow: /*N-5p*
+Sitemap: https://www.gale.com/sitemap.xml
+Sitemap: https://www.gale.com/intl/sitemap.xml
+Sitemap: https://www.gale.com/jp/sitemap.xml
+Sitemap: https://www.gale.com/cn/sitemap.xml
+Sitemap: https://www.gale.com/thorndike/sitemap.xml

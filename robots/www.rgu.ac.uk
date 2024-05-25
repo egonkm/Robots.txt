@@ -1,0 +1,64 @@
+# If the Joomla site is installed within a folder 
+# eg www.example.com/joomla/ then the robots.txt file 
+# MUST be moved to the site root 
+# eg www.example.com/robots.txt
+# AND the joomla folder name MUST be prefixed to all of the
+# paths. 
+# eg the Disallow rule for the /administrator/ folder MUST 
+# be changed to read 
+# Disallow: /joomla/administrator/
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+#
+# For syntax checking, see:
+# http://tool.motoricerca.info/robots-checker.phtml
+
+User-agent: *
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
+
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+
+Disallow: /includes/
+Disallow: /index/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+
+
+Disallow: /tmp/
+Disallow: ?listall
+Disallow: /category/
+Disallow: /*?filter_*
+Disallow: /*?start=*
+Disallow: /*?subject_area=*
+Disallow: /*?mode_of_study=*
+Disallow: /*?mode_of_attendance=*
+Disallow: /*?school_filter=*
+Disallow: /*?level_of_study=*
+Disallow: /*?option=*
+Disallow: /*?fbclid=*
+Disallow: /*?mc_cid=*
+Disallow: /*?spMailingID=*
+Disallow: /*?event=*
+Disallow: /*?process=*
+Disallow: /*?courseref=*
+Disallow: /*?pge=*
+Disallow: /*?courseid=*
+Disallow: /*?search=*
+Disallow: /*?CFID=
+
+
+
+
+Allow: /*?option=com_jmap&view=sitemap*
+Sitemap: https://www.rgu.ac.uk/index.php?option=com_jmap&view=sitemap&format=xml

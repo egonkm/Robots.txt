@@ -1,0 +1,49 @@
+User-agent: *
+Disallow: /?type=commentReceipt
+Disallow: /cgi-bin/
+Disallow: /cdn-cgi/*
+Disallow: /config/
+Disallow: /nic/
+Disallow: /search/*
+Disallow: /search/
+Disallow: /SEARCH/
+Disallow: /Search/
+Disallow: /newsletter/
+Disallow: /newsletter/*
+Disallow: /config/*
+Disallow: /*?date=*
+Disallow: */analysis-logger/*
+Disallow: /todayspaper/
+Disallow: /today-paper/
+Disallow: /todays-paper/
+#Disallow: /static/
+Disallow: /world-news-day/
+Disallow: */wf.fragment/*
+Disallow: */article30471298.ece/amp/*
+Disallow: */article9636950.ece/amp/*
+Disallow: */article30358181.ece/amp/*
+Disallow: */article30389945.ece/amp/*
+Disallow: */article30483913.ece/amp/*
+Disallow: */article30483913.ece/amp/*
+Disallow: *ref=*
+Disallow: *textsize=*
+Disallow: *test=*
+Disallow: *css=*
+Disallow: */?_ptid=*
+Disallow: /archive/print/
+Allow: /?service=googlenews
+Allow: /?service=newssitemap
+Allow: /todays-paper/*/alternates/*
+# Block all paginations except topics temporarily until CUE
+Disallow: *?_ptid=*
+Disallow: *&_ptid=*
+Disallow: */?*&page=*
+Disallow: */?page=*&*
+#Disallow ChatGPT from extracting or interpreting our content
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://www.thehindubusinessline.com/sitemap/googlenews.xml
+Sitemap: https://www.thehindubusinessline.com/sitemap/update.xml
+Sitemap: https://www.thehindubusinessline.com/sitemap/archive.xml
+

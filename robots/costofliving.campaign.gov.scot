@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /search/
+Disallow: /search
+Disallow: /binaries/
+Disallow: /assets/
+Sitemap: https://costofliving.campaign.gov.scot/sitemap.xml

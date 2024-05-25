@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /it/clienti/129-agenzia-per-lo-sviluppo-empolese-valdelsa.html
+Disallow: /en/clients/129-agenzia-per-lo-sviluppo-empolese-valdelsa.html
+
+Sitemap: https://www.adacto.it/sitemap.xml

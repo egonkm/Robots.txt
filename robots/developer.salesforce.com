@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: *?userId*
+Disallow: *?communityId=*
+Disallow: /search*
+Disallow: *?q=*
+Disallow: *?filter_text=*
+Disallow: *&lang=*
+Disallow: *&page=*
+Disallow: *&service=*
+Disallow: *&type=*
+Disallow: *&date=*
+Disallow: *&author=*
+Disallow: *&format=*
+Disallow: *&topic=*
+Sitemap: https://developer.salesforce.com/sitemap.xml
+Sitemap: https://developer.salesforce.com/docs/component-library/app/sitemap.txt
+Sitemap: https://developer.salesforce.com/docs-atlas-sitemap.xml

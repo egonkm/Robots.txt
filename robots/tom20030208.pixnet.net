@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /api
+Disallow: /login
+Disallow: /logout
+Disallow: /album/downloadphoto
+Disallow: /album/manage
+Disallow: /album/managedata
+Disallow: /album/managepopup
+Disallow: /album/setcomment
+Disallow: /album/elementcomment
+Disallow: /album/eventcomment
+Disallow: /album/search
+Disallow: /blog/search
+Disallow: /blog/archives
+Disallow: /blog/plugin
+Disallow: /blog/hotarticledata
+Disallow: /coblog/search
+Disallow: /maintenancepage
+
+User-agent: AdsBot-Google
+Disallow:
+Allow: /
+
+User-agent: Mediapartners-Google
+Disallow:
+Allow: /
+
+User-agent: Mediapartners (Googlebot)
+Disallow:
+Allow: /
+
+User-agent: Slurp
+Crawl-delay: 3.0
+
+User-agent: Bingbot
+User-agent: MSNBot
+User-agent: msnbot
+User-agent: AdIdxBot
+User-agent: BingPreview
+Crawl-delay: 10
+

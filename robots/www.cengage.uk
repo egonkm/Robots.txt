@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /learn
+Disallow: /sandbox
+ 
+Sitemap: https://www.cengage.uk/binaries/content/assets/sitemap/sitemap-emea.xml
+Sitemap: https://www.cengage.uk/sitemap.xml

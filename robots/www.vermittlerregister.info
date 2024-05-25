@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /inhalt
+Disallow: /some-page
+Disallow: /some-other-page
+
+Sitemap: https://www.vermittlerregister.info/sitemap.xml

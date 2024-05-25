@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /xqw/
+Disallow: /upkuk/
+Disallow: /cgi-bin/
+Disallow: /ias/

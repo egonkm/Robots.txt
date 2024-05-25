@@ -1,0 +1,12 @@
+#
+# $Id: robots.txt 30666 2012-07-18 23:30:21Z msheppard $
+#
+# Standard robots.txt for search system distribution. Must be located in 
+# the top-level directory of the web server document hierarchy.
+#
+# Ref: http://www.robotstxt.org/wc/exclusion.html 
+#
+
+User-agent: *
+Disallow: /search/
+Disallow: /s/

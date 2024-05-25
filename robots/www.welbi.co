@@ -1,0 +1,41 @@
+User-agent: Googlebot-Image
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/6113f8fc40d48303915b0204_icon-retirement-white.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/611d565c192e6b31d9e25f6f_icon-checkmark-orange.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/6113f8b4cc66a86937d1420c_icon-LTC-white.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/611d55c64654f6eed41079d1_icon-checkmark-green-new.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/612f8e0b320a1b55b5fa2da5_icon-time.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/612f8e1201835882f2917759_icon-staff.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/611beeb59ad15a04bfef3a2e_icon-lightbulb.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/611beed235bc386c82733823_icon-chart-line.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/612f8ee48843e0eebccea12f_icon-calendar-check.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/60c7a510868d6809a2359855_arrow-right-white.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/5ece6acf7cf66a2bc9af5b71_Welbi-webclip.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/612929819f3b00ece7504cba_loop-stat-blue.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/6129298c6635b6e574e3882a_loop-stat-yellow-reversed.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/6129299b224381cc01263085_loop-stat-green.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/5ef263895411b7febba11311_user-rec-team.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/5ef2633f103190572b63773f_user-exec.png
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/5ef26392ff78f2120cecdd0a_user-resident.png
+
+User-agent: Googlebot
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/6081eae00d0491892f2ba2cd_Welbi%20Training%20Manual%20-%20Version%201.12.pdf
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/60ca611dc72f7f280ec7cc14_Welbi%20Training%20Manual%20-%20Version%201.15.pdf
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/60ef62d41d0d7fd8f0b10ae3_Welbi%20Training%20Manual%20-%20Version%201.17.pdf
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/610ab400a324f91d2163492c_Welbi%20Training%20Manual%20-%20Version%201.18.pdf
+Disallow: https://uploads-ssl.webflow.com/5b7db1b8967d853207bb4b0e/613117b4ce552a3f72ca4e6f_Welbi%20Training%20Manual%20-%20Version%201.19.pdf
+
+User-agent: *
+Disallow: /how-to
+Disallow: /how-to/
+Disallow: /how-to-instructions/
+Disallow: /activities 
+Disallow: /activity/
+Disallow: /login-error
+Disallow: /login-error-activities
+Disallow: /feature-updates
+Disallow: /feature-update/
+Disallow: /conference/amica-connections
+
+Allow: /
+
+Sitemap: https://www.welbi.co/sitemap.xml

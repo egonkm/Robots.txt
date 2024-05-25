@@ -1,0 +1,23 @@
+Sitemap: https://www.pbslearningmedia.org/sitemap.xml
+User-agent: *
+Crawl-delay: 5
+Disallow: /asset/
+Disallow: /student/code/
+Disallow: /student/signup/
+Disallow: /tools/storyboard/view/
+Disallow: /bypass/
+Disallow: /api/
+Disallow: /uua/
+Disallow: /searchStandards/
+Disallow: /login/
+Disallow: /profile/
+Disallow: /admin/
+
+User-agent: Googlebot
+Allow: /api/v2/
+Disallow: /asset/
+Disallow: /login/
+Disallow: /admin/
+
+User-agent: GPTBot
+Disallow: /

@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /prof/search
+Disallow: /mobile/prof/search
+Disallow: /faq/report/
+Disallow: /api/
+Disallow: /mobile/easylogin
+Disallow: /hatenatypered
+
+Sitemap: https://www.hatena.ne.jp/solution/blog/corporation/sitemap_index.xml

@@ -1,0 +1,12 @@
+User-Agent: GoogleBot
+Disallow: *?conf=* 
+Disallow: *?dealerId=*
+Disallow: *?rangeId=*
+Sitemap: https://profissionais.renault.pt/sitemap.xml
+
+
+User-Agent: bingbot
+Disallow: *?conf=* 
+Disallow: *?dealerId=*
+Disallow: *?rangeId=*
+Sitemap: https://profissionais.renault.pt/sitemap.xml

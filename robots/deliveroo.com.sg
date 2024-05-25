@@ -1,0 +1,35 @@
+User-Agent: Twitterbot
+Disallow:
+
+User-Agent: *
+Noindex: */login
+Noindex: *?s2
+Noindex: *?media_partner_name
+Noindex: *?rel
+Disallow: /admin/
+Disallow: /api/
+Disallow: */legal$
+Disallow: /privacy$
+Disallow: /imprint/
+Disallow: /coming-soon/
+Disallow: /account
+Disallow: */orders/
+Disallow: */brands/
+Disallow: */marques/
+Disallow: */marken/
+Disallow: */catene/
+Disallow: */marcas/
+Disallow: */password_reset
+Disallow: /login
+Disallow: *?redeem_credit_token
+Disallow: apply/confirm?
+Disallow: /invite?
+Disallow: *?s2
+Disallow: *?media_partner_name
+Disallow: *?rel
+Disallow: *api/basket/delivery/address
+Disallow: *?sp_id=
+Disallow: *&sp_id=
+
+Sitemap: https://deliveroo.com.sg/en/sitemap-index.xml
+

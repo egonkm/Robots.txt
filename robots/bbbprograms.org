@@ -1,0 +1,6 @@
+ï»¿User-agent: * 
+Disallow: /search
+Disallow: /Search
+Disallow: /*/search?*
+Disallow: /oops
+Sitemap: https://bbbprograms.org/sitemap/sitemap-index.xml

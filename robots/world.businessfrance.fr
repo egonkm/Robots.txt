@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /*?
+Disallow: /wp-login.php
+Disallow: */trackback
+Disallow: /*/feed/
+Disallow: /*/comments/
+Disallow: /cgi-bin
+Disallow: /*.php$
+Disallow: /*.inc$
+Disallow: /*.gz
+Disallow: /*.cgi
+Allow: /*css?*
+Allow: /*js?*

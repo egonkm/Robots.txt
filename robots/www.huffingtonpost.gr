@@ -1,0 +1,12 @@
+# Cambria robots
+User-agent: *
+Disallow: /_uac/adpage.html
+Disallow: /_huff_uac/adpage.html
+Disallow: /postid
+Disallow: /preview
+
+# sitemaps
+Sitemap: https://www.huffingtonpost.gr/sitemaps/sitemap-google-video.xml
+Sitemap: https://www.huffingtonpost.gr/sitemaps/sitemap-google-news.xml
+Sitemap: https://www.huffingtonpost.gr/sitemaps/sitemap-index-daily-archives-v1.xml
+Sitemap: https://www.huffingtonpost.gr/sitemaps/sections.xml

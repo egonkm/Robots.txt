@@ -1,0 +1,7 @@
+User-agent: *
+User-agent: AdsBot-Google
+Sitemap: https://www.if.fi/globalassets/fi/sitemap.xml
+
+Disallow: /autocompleteproxy/autocompleteproxy.aspx
+Disallow: /WebResource.axd
+

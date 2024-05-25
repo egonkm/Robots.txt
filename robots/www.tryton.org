@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_warmup
+
+Sitemap: https://www.tryton.org/sitemap.xml

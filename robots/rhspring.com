@@ -1,0 +1,12 @@
+User-agent: * 
+Disallow: /api
+Disallow: /cache
+Disallow: /excel
+Disallow: /excel_module
+Disallow: /mobile
+Disallow: /static
+Disallow: /config
+Disallow: /dayrui
+Disallow: /template
+Disallow: /uploadfile
+Disallow: /*?*

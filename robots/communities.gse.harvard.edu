@@ -1,0 +1,10 @@
+
+User-agent: *
+Disallow: /   
+Allow: /ppe/s  
+Allow: /ppe/s/programs
+Allow: /ppe/s/program/
+Allow: /ppe/s/certificate/
+Allow: /ppe/s/knowledge-base
+Allow: /ppe/s/topic/
+Allow: /ppe/s/article/

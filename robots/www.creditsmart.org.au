@@ -1,0 +1,545 @@
+<!doctype html>
+<html class="no-js" lang="en-US" dir="ltr">
+<head>
+    <base href="https://www.creditsmart.org.au/"><!--[if lte IE 6]></base><![endif]-->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page not found - CreditSmart</title>
+    <meta name="description" content="" />
+    
+        <meta property="og:site_name" name="og:site_name" content="CreditSmart" />
+        <meta property="og:type" name="og:type" content="website" />
+        <meta property="og:title" name="og:title" content="Page not found" />
+        <meta property="og:description" name="og:description" content="" />
+        <meta property="og:url" name="og:url" content="https://www.creditsmart.org.au/page-not-found/" />
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="Page not found"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:site" content="@CreditSmart"/>
+    
+    
+    
+    <meta name="google-site-verification" content="i_boZztSWxChRBVDLBvOp0iEFjg3D420N_yF6Tgn8BA" />
+    
+    <link rel="icon" type="image/png" href="/favicon.ico" />
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@400;600;900&display=swap" rel="stylesheet">
+    <style> .no-js .title-bar { display: none; }
+    .no-js .menu>li>a { color: white; font-size: 17px; font-weight: 600; }
+    .no-js .header-logo { margin: 20px 0 20px; } </style>
+    <style> .no-js .title-bar { display: none; } .no-js .menu>li>a { color: white; font-size: 17px; font-weight: 600; } .no-js .header-logo { margin: 20px 0 20px; }</style>
+    
+        <script src='https://platform-api.sharethis.com/js/sharethis.js#property=5a78f4d881f1fc0011e8433a&product=custom-share-buttons' async='async'>
+        </script>
+    
+    
+    <!-- Snap Pixel Code -->
+    <script type='text/javascript'>
+        (function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function() {a.handleRequest?a.handleRequest.apply(a,arguments):a.queue.push(arguments)}; a.queue=[];var s='script';r=t.createElement(s);r.async=!0; r.src=n;var u=t.getElementsByTagName(s)[0]; u.parentNode.insertBefore(r,u);})(window,document, 'https://sc-static.net/scevent.min.js'); snaptr('init', '4b1b71f0-d4ab-4aca-93c6-055613d56d27', { 'user_email': '__INSERT_USER_EMAIL__' }); snaptr('track', 'PAGE_VIEW');
+    </script>
+    <!-- End Snap Pixel Code -->
+    <!-- Meta Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '208029952031321');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=208029952031321&ev=PageView&noscript=1"/></noscript>
+    <!-- End Meta Pixel Code -->
+    <script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
+    <script>
+        Weglot.on("initialized", function(){
+            $('#language-dropdown').find('a').on('click', function(){
+                $('#language-dropdown').foundation('close');
+            });
+            $('#language-dropdown-mobile').find('a').on('click', function(){
+                $('#language-dropdown-mobile').foundation('close');
+            })
+        });
+        Weglot.initialize({
+            api_key: 'wg_b6189c767230bd5d712923116770674b7',
+            switchers: [
+                {
+                    // Same as button_style at root
+                    button_style: {
+                        full_name: true,
+                        with_name: true,
+                        is_dropdown: false,
+                        with_flags: false,
+                        flag_type: "rectangle_mat",
+                        invert_flags: false
+                    },
+                    // Move switcher somewhere in the page
+                    location: {
+                        target: "#weglot_bar",
+                        sibling: null
+                    }
+                },
+                {
+                    // Same as button_style at root
+                    button_style: {
+                        full_name: true,
+                        with_name: true,
+                        is_dropdown: false,
+                        with_flags: false,
+                        flag_type: "rectangle_mat",
+                        invert_flags: false
+                    },
+                    // Move switcher somewhere in the page
+                    location: {
+                        target: "#weglot_bar_mobile",
+                        sibling: null
+                    }
+                }
+            ]
+        });
+    </script>
+<link rel="stylesheet" type="text/css" href="/_resources/themes/creditsmart/dist/css/app.css" />
+<link rel="stylesheet" type="text/css" href="/_resources/themes/creditsmart/css/print.css" media="print" />
+</head>
+<body class="errorpage ">
+
+    <span id="skip" class="text-center show-for-large"><a href="https://www.creditsmart.org.au/page-not-found/#content" id="skip-content" class="show-on-focus">Skip to Main Content </a></span>
+
+  <!-- top bar -->
+  <!-- Mobile nav switch -->
+  <div class="title-bar" data-responsive-toggle="responsive-menu" data-hide-for="large">
+    <div class="header-logo">
+      <span class="text-hide">CreditSmart</span>
+      <a href="/">
+        <img src="/_resources/themes/creditsmart/img/logo-creditsmart-neg.svg" width="123" height="33" alt="CreditSmart logo the word smart in green and all caps">
+      </a>
+
+    </div>
+    <button class="button__language--mobile" type="button" data-toggle="language-dropdown-mobile">
+		<span class="button__language--icon"></span>
+		<span class="button__language--text">English</span>
+	</button>
+	<div class="dropdown-pane language-dropdown-pane hide-for-large" data-position="bottom" data-alignment="left" id="language-dropdown-mobile" data-dropdown data-close-on-click="true">
+		<div id="weglot_bar_mobile" class="dropdown-language"></div>
+	</div>
+    <button class="menu-icon" type="button" data-toggle="responsive-menu"><span></span><span></span><span></span></button>
+  </div> <!-- END Mobile nav switch -->
+  <header class="top-bar" id="responsive-menu">
+    <!-- topbar top row -->
+    <div class="grid-container">
+      <div class="grid-y">
+        <!-- topbar bottom row -->
+        <div class="cell center__content-large large-order-2 nav-color">
+          <nav role="navigation" aria-label="Main">
+          <ul class="vertical large-horizontal menu" data-responsive-menu="accordion large-dropdown">
+			
+				<li>
+				  <a href="/financial-hardship/">Financial hardship</a>
+					
+					<ul class="vertical menu">
+					  <li class="hide-for-large"><a href="/financial-hardship/" class="overview">Financial hardship overview</a></li>
+					  
+						  <li>
+							<a href="/financial-hardship/changes-to-credit-reporting-from-july-2022/">Changes to credit reporting from July 2022</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/financial-hardship/financial-hardship-assistance/">Financial hardship assistance</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/financial-hardship/financial-hardship-and-your-credit-report/">Financial hardship and your credit report</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/financial-hardship/financial-hardship-assistance-and-credit-reporting/">Financial hardship assistance &amp; credit reporting</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/financial-hardship/helpful-resources/">Helpful resources </a>
+							
+						</li>
+						
+						  <li>
+							<a href="/financial-hardship/financial-hardship-q-and-as/">Financial hardship Q&amp;A&#039;s</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/financial-hardship/late-payments-and-your-credit-report/">Late payments &amp; your credit report</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/financial-hardship/temporary-financial-hardship-arrangement/">Temporary financial hardship arrangement</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/financial-hardship/variation-financial-hardship-arrangement/">Variation financial hardship arrangement</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/financial-hardship/financial-abuse/">Financial abuse</a>
+							
+						</li>
+						
+					</ul>
+					
+				</li>
+			
+				<li>
+				  <a href="/learn-about-credit/">Credit basics</a>
+					
+					<ul class="vertical menu">
+					  <li class="hide-for-large"><a href="/learn-about-credit/" class="overview">Credit basics overview</a></li>
+					  
+						  <li>
+							<a href="/learn-about-credit/where-to-get-your-free-credit-report/">Free credit report</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/learn-about-credit/credit-report-summary/">Credit report summary</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/learn-about-credit/whats-in-a-credit-report/">What&#039;s in a credit report?</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/learn-about-credit/manage-your-credit-report/">Manage your credit report</a>
+							
+							<ul class="vertical menu">
+								<li class="hide-for-large"><a href="/learn-about-credit/manage-your-credit-report/" class="overview">Manage your credit report overview</a></li>
+								
+								<li>
+									<a href="/learn-about-credit/manage-your-credit-report/keeping-your-credit-report-healthy/">Keeping your credit report healthy</a>
+									
+								</li>
+								
+								<li>
+									<a href="/learn-about-credit/manage-your-credit-report/buy-now-pay-later-explained/">Buy now pay later explained</a>
+									
+								</li>
+								
+								<li>
+									<a href="/learn-about-credit/manage-your-credit-report/beware-credit-repair-companies/">Beware of credit repair companies</a>
+									
+								</li>
+								
+								<li>
+									<a href="/learn-about-credit/manage-your-credit-report/what-to-check-in-your-credit-report/">What to check in your credit report </a>
+									
+								</li>
+								
+								<li>
+									<a href="/learn-about-credit/manage-your-credit-report/fixing-errors-in-your-credit-report/">Fixing errors in your credit report</a>
+									
+								</li>
+								
+							</ul>
+							
+						</li>
+						
+						  <li>
+							<a href="/learn-about-credit/how-to-look-good-to-lenders/">How to look good to lenders</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/learn-about-credit/which-lenders-access-my-credit-report/">Which lenders access my credit report</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/learn-about-credit/faqs/">Frequently asked credit questions</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/learn-about-credit/managing-credit-in-tough-times/">Managing credit in tough times</a>
+							
+						</li>
+						
+					</ul>
+					
+				</li>
+			
+				<li>
+				  <a href="/comprehensive-credit-reporting/">Comprehensive credit reporting </a>
+					
+					<ul class="vertical menu">
+					  <li class="hide-for-large"><a href="/comprehensive-credit-reporting/" class="overview">Comprehensive credit reporting  overview</a></li>
+					  
+						  <li>
+							<a href="/comprehensive-credit-reporting/partial-comprehensive-credit-reporting/">Partial comprehensive credit reporting</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/comprehensive-credit-reporting/credit-providers-that-currently-participate-in-ccr/">Comprehensive credit reporting participants</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/comprehensive-credit-reporting/credit-reporting-laws/">Credit reporting laws</a>
+							
+						</li>
+						
+					</ul>
+					
+				</li>
+			
+				<li>
+				  <a href="/know-your-credit-score/">Know your credit score</a>
+					
+					<ul class="vertical menu">
+					  <li class="hide-for-large"><a href="/know-your-credit-score/" class="overview">Know your credit score overview</a></li>
+					  
+						  <li>
+							<a href="/know-your-credit-score/what-is-a-credit-score/">What is a credit score?</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/know-your-credit-score/what-is-a-good-credit-score/">What is a good credit score?</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/know-your-credit-score/how-to-improve-your-credit-score/">How to improve your credit score</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/know-your-credit-score/how-to-check-your-credit-rating/">How to check your credit rating</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/know-your-credit-score/faqs/">Frequently asked credit score questions</a>
+							
+						</li>
+						
+					</ul>
+					
+				</li>
+			
+				<li>
+				  <a href="/struggling-with-debt/">Struggling with debt</a>
+					
+					<ul class="vertical menu">
+					  <li class="hide-for-large"><a href="/struggling-with-debt/" class="overview">Struggling with debt overview</a></li>
+					  
+						  <li>
+							<a href="/struggling-with-debt/about-defaults/">About defaults</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/struggling-with-debt/payday-loans/">Payday loans</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/struggling-with-debt/no-credit-check-loans/">No credit check loan</a>
+							
+						</li>
+						
+					</ul>
+					
+				</li>
+			
+				<li>
+				  <a href="/otherhelpfulservices/">Helpful services</a>
+					
+					<ul class="vertical menu">
+					  <li class="hide-for-large"><a href="/otherhelpfulservices/" class="overview">Helpful services overview</a></li>
+					  
+						  <li>
+							<a href="/otherhelpfulservices/credit-reporting-bodies/">Credit reporting bodies</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/otherhelpfulservices/optus-data-breach-support-services/">Data Breach Support services/Relevant authorities</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/otherhelpfulservices/identity-theft/">Identity theft</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/otherhelpfulservices/legal-advice/">Debt and legal help</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/otherhelpfulservices/financial-abuse-support/">Financial abuse support</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/otherhelpfulservices/emergency-help/">Emergency help</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/otherhelpfulservices/credit-industry-complaints/">External dispute resolution</a>
+							
+						</li>
+						
+						  <li>
+							<a href="/otherhelpfulservices/government-agencies/">Government agencies</a>
+							
+						</li>
+						
+					</ul>
+					
+				</li>
+			
+          </ul>
+        </nav>
+        </div> <!-- END topbar bottom row -->
+        <div class="cell large-order-1 utility__row">
+          <div class="grid-x grid-padding-x grid-padding-x-collapse-medium-down">
+            <div class="cell auto show-for-large">
+            
+              <!-- If innerpage  -->
+              <div class="header-logo">
+                <span class="text-hide">CreditSmart</span>
+                <a href="/">
+                  <img src="/_resources/themes/creditsmart/img/logo-creditsmart-pos.svg" width="182" height="50" alt="CreditSmart logo">
+                </a>
+              </div>
+			
+            </div>
+            
+            <div class="cell small-12 large-shrink small-order-1 large-order-2 consultant-resource-menu">
+              <a href="/consultant-resources/">Consultant Resources</a>
+            </div>
+            
+              
+                <div class="cell small-12 large-shrink small-order-3 large-order-4">
+                    <a href="/news/" class="button large smartblog ga-button-news">News</a>
+                </div>
+              
+                <div class="cell small-12 large-shrink small-order-3 large-order-4">
+                    <a href="/smart-blog/" class="button large smartblog ga-button-">SmartBlog</a>
+                </div>
+              
+            <div class="cell small-12 large-shrink small-order-4 large-order-1 search_form">
+            	<form id="SearchForm_SearchForm" action="/site-search">
+            	  <input class="site__search" type="text" name="addsearch" placeholder="Search" role="search">
+            	</form>
+            </div>
+            <div class="cell small-12 large-shrink small-order-4 large-order-2 show-for-large">
+                <button class="button hollow large button__language--desktop" type="button" data-toggle="language-dropdown"><span class="show-for-xlarge">English</span></button>
+            </div>
+            <div class="dropdown-pane language-dropdown-pane" id="language-dropdown" data-dropdown data-position="bottom" data-alignment="left" data-close-on-click="true" data-hide-for="large">
+                <div id="weglot_bar"></div>
+            </div>
+          </div>
+        </div> <!-- END topbar top row -->
+      </div>
+    </div>
+  </header> <!-- END top bar -->
+
+
+    <div class="grid-container ">
+    <div class="grid-x center__content-medium-up">
+        <div class="large-8 cell wysiwyg__main">
+            <article>
+                <h2>Page not found</h2>
+                <p>Sorry, it seems you were trying to access a page that doesn't exist.</p><p>Please check the spelling of the URL you were trying to access and try again.</p>
+<p><b>Error detail: The requested page could not be found.</b></p>
+                
+            </article>
+        </div>
+    </div>
+</div>
+
+
+    
+  <footer class="grid-container">
+    <div class="grid-x grid-padding-x dark__bg">
+      <div class="medium-3 large-3 cell">
+        <div><img src="/_resources/themes/creditsmart/img/logo-creditsmart-neg.svg" class="logo" width="237" height="65" alt="CreditSmart logo The word smart in green and all caps"></div>
+        <p class="small__text white__text">© 2024 All Rights Reserved</p>
+      </div>
+      <div class="medium-9 large-9 cell position__relative">
+        <div class="vert__medium">
+			
+			
+				<a href="/contact-us/" class="button large dark">Got a question?</a>
+			
+				<a href="/who-is-creditsmart/" class="button large dark">Who is CreditSmart?</a>
+			
+			
+		</div>
+      </div>
+    </div>
+    <div class="grid-x grid-padding-x green__bg">
+      <div class="large-12 cell">
+        <ul class="list__inline list__clear">
+			
+			
+			<li><a href="/terms-of-use/">Terms of use</a></li>
+			
+			<li><a href="/privacy-policy/">Privacy Policy</a></li>
+			
+			<li><a href="/contact-us/">Contact us</a></li>
+			
+			
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <section class="grid-container">
+    <div class="grid-x grid-padding-x sg__container">
+      <div class="large-12 cell">
+			<p class="text-right">Digital Agency: <a href="https://sgyagency.com.au/" target="_blank" rel="noopener">SGY</a></p>
+      </div>
+    </div>
+  </section>
+
+
+
+
+    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-6526479-9', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GJ7Y0WE418"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GJ7Y0WE418');
+</script>
+<!-- End GA4 -->
+
+
+<script type="application/javascript" src="/_resources/themes/creditsmart/dist/js/app.js"></script>
+</body>
+</html>
+<!--  © SGY -->

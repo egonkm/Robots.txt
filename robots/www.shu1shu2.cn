@@ -1,0 +1,17 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
+User-agent: *
+Disallow: /recruitment.php
+Disallow: /index.php
+Disallow: /web/
+Disallow: /template/
+Disallow: /acadmin/
+Disallow:/aspnet_client/
+Disallow:/cid/
+Disallow:/files/
+Disallow:/js/
+Disallow:/plugin/
+Disallow:/sorry/
+Disallow:/xwy/
+Disallow:/upfile/
+Disallow:/shuyishumaocai.sql
+Sitemap: http://www.shu1shu2.cn/sitemap.xml

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /css
+Disallow: /js
+Disallow: /user
+Disallow: /kjzy
+Disallow: /qyfw
+Disallow: /cgzh
+Disallow: /kjzy
+Disallow: /cgzhh
+Disallow: /404.aspx
+Disallow: /onepage*.html
+Sitemap: http://www.wdsk.net/sitemap.txt

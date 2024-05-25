@@ -1,0 +1,20 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /kontakt-formular
+Disallow: /en/contact-form
+Disallow: /wie-hoch-ist-mein-klimabonus
+Disallow: /en/how-much-is-my-klimabonus
+Disallow: /en/enquiry-mobility
+Disallow: /anfrage-mobilitaetseinschraenkung
+Disallow: /en/enquiry-rsa-collection
+Disallow: /anfrage-rsa-abholung
+
+# Host
+Host: https://www.klimabonus.gv.at
+
+# Sitemaps
+Sitemap: https://www.klimabonus.gv.at/sitemap.xml

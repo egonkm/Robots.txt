@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /api
+Disallow: /api/*
+Disallow: /pages/footer
+Disallow: /pages/topbar
+Disallow: /link/*
+Disallow: /signin/*
+Disallow: /cdn-cgi/
+Sitemap: https://learn.advertisingweek.com/sitemap.xml

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /thanks/
+Disallow: /tag/
+Disallow: /feed/
+Disallow: /author/
+Disallow: /my-account/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /portfolio_page/
+Sitemap: https://farmasmart.com/sitemap_index.xml

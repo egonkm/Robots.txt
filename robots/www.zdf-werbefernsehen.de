@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /typo3/
+Sitemap: https://www.zdf-werbefernsehen.de/?type=1533906435

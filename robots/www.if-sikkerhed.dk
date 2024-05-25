@@ -1,0 +1,127 @@
+# Crawlers Setup
+
+# Alexa: https://support.alexa.com/hc/en-us/articles/200450194-Alexa-s-Web-and-Site-Audit-Crawlers
+User-agent: ia_archiver
+Disallow: /
+
+# Ahrefs: https://ahrefs.com/robot
+User-agent: AhrefsBot
+Disallow: /
+
+# MOZ: https://moz.com/help/moz-procedures/crawlers/rogerbot
+User-agent: rogerbot
+Disallow: /
+
+# MOZ: https://moz.com/help/moz-procedures/crawlers/dotbot
+User-agent: dotbot
+Disallow: /
+
+# Semrush: https://www.semrush.com/bot/
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SiteAuditBot
+Disallow: /
+
+User-agent: SemrushBot-BA
+Disallow: /
+
+User-agent: SemrushBot-SI
+Disallow: /
+
+User-agent: SemrushBot-SWA
+Disallow: /
+
+User-agent: SemrushBot-CT
+Disallow: /
+
+User-agent: SemrushBot-BM
+Disallow: /
+
+User-agent: SplitSignalBot
+Disallow: /
+
+# Majestic: https://mj12bot.com/
+User-agent: MJ12bot
+Disallow: /
+
+# SerpStat: https://serpstatbot.com/
+User-agent: serpstatbot
+Disallow: /
+
+# MegaIndex: https://ru.megaindex.com/blog/seo-bot-detection
+User-agent: MegaIndexBot
+Disallow: /
+
+# SEO-PowerSuite-bot: https://www.link-assistant.com/seo-workflow/site-audit.html
+User-agent: SEO-PowerSuite-bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+# Google Search Bot
+User-agent: Googlebot
+Allow: /
+
+# Google Image Bot
+User-agent: Googlebot-image
+Allow: /
+
+# Google Ads Bot
+User-agent: AdsBot-Google
+Allow: /
+
+# Google Ads Bot
+User-agent: adsBot
+Allow: /
+
+# Directories
+Disallow: /admin/
+Disallow: /api/
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+Disallow: /pkginfo/
+Disallow: /pub/
+Disallow: /report/
+Disallow: /setup/
+Disallow: /update/
+Disallow: /var/
+Disallow: /vendor/
+Disallow: /catalog/
+
+# PATHS (clean URLs)
+Disallow: /index.php/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalog/product/gallery/
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /sveacheckout/
+Disallow: /control/
+Disallow: /customer/
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /wishlist/
+Disallow: /catalog/product_compare/
+Disallow: /stores/store/
+
+# PATHS (not clean URLs)
+Disallow: /*SID=
+#Disallow: /*.js$
+#Disallow: /*.css$
+Disallow: /*.php$
+
+# PATHS (filter URLs)
+Disallow: /*?*
+Sitemap: https://www.if-sikkerhed.dk/media/sitemap_if_dk.xml

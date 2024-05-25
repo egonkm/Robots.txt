@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+Disallow: /test/*/otazka
+Disallow: /test/*/question
+Disallow: /en/test/*/question
+Disallow: /test/*/pytanie
+Disallow: /test/anonymni-vysledek/*
+Disallow: /en/test/anonymous-result/*
+Disallow: /test/anonymous-result/*
+Disallow: /test/anonimowy-wynik/*
+
+Sitemap: https://www.startupjobs.cz/sitemap/categories.xml
+Sitemap: https://www.startupjobs.cz/sitemap/companies.xml
+Sitemap: https://www.startupjobs.cz/sitemap/offers.xml
+Sitemap: https://www.startupjobs.cz/sitemap/quiz-fields.xml
+Sitemap: https://www.startupjobs.cz/sitemap/static-pages.xml
+
+Sitemap: https://www.startupjobs.com/sitemap/categories.xml
+Sitemap: https://www.startupjobs.com/sitemap/companies.xml
+Sitemap: https://www.startupjobs.com/sitemap/offers.xml
+Sitemap: https://www.startupjobs.com/sitemap/quiz-fields.xml
+Sitemap: https://www.startupjobs.com/sitemap/static-pages.xml

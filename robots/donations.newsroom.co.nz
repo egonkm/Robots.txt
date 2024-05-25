@@ -1,0 +1,9 @@
+Sitemap: https://donations.newsroom.co.nz/sitemap.xml
+Sitemap: https://donations.newsroom.co.nz/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /adminclient/
+Sitemap: https://www.acce-o.fr/sitemap.xml

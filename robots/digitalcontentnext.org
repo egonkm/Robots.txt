@@ -1,0 +1,7 @@
+User-agent: Twitterbot
+Allow: /
+
+User-agent: *
+Disallow: /wp-content/uploads/
+Disallow: /the-resource-center/*
+Disallow: /blog/the-resource-center/*

@@ -1,0 +1,53 @@
+# If the Joomla site is installed within a folder such as at
+# e.g. www.example.com/joomla/ the robots.txt file MUST be
+# moved to the site root at e.g. www.example.com/robots.txt
+# AND the joomla folder name MUST be prefixed to the disallowed
+# path, e.g. the Disallow rule for the /administrator/ folder
+# MUST be changed to read Disallow: /joomla/administrator/
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+#
+# For syntax checking, see:
+# http://tool.motoricerca.info/robots-checker.phtml
+
+
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Disallow: /site/administrator/
+Disallow: /site/bin/
+Disallow: /site/cache/
+Disallow: /site/cli/
+Disallow: /site/components/
+Disallow: /site/images/
+Disallow: /site/includes/
+Disallow: /site/installation/
+Disallow: /site/language/
+Disallow: /site/layouts/
+Disallow: /site/libraries/
+Disallow: /site/logs/
+Disallow: /site/media/
+Disallow: /site/modules/
+Disallow: /site/plugins/
+Disallow: /site/templates/
+Disallow: /site/tmp/
+Disallow: /bows/
+Disallow: /comm/
+Disallow: /biems/
+Disallow: /demo/
+Disallow: /demoems/
+Disallow: /docs/
+Disallow: /ems/
+Disallow: /expo2012/
+Disallow: /expo2015/
+Disallow: /expo2017/
+Disallow: /newsletter/
+Disallow: /tme/
+Disallow: /survey/
+Disallow: /services/
+Disallow: /crm/
+Disallow: /site/itemlist/user/
+
+

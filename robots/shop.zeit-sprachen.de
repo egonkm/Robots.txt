@@ -1,0 +1,7 @@
+# All spiders are allowed to access all static resources
+User-agent: *
+Disallow: */Search-ShowAjax*
+Disallow: */Search-UpdateGrid*
+Disallow: */on/demandware.store*
+
+Sitemap: https://shop.spotlight-verlag.de/sitemap_index.xml

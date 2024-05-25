@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>key not found</Message>
+  <Resource>/robots.txt</Resource>
+  <RequestId>ef038799-2405-2603-0535-5ca7213e030a</RequestId>
+</Error>

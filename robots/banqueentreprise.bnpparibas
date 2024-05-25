@@ -1,0 +1,17 @@
+
+  User-agent: *
+  Allow: /
+  Disallow: /auth/signin
+  Disallow: /auth/signup
+  Disallow: /demande-resiliation
+  Disallow: /tag/
+  Disallow: /rechercher
+  Disallow: /rechercher-thematique
+  Disallow: /maintenance
+  Disallow: /auth/forgot-password
+  Disallow: /auth/reset-password
+  Disallow: /auth/account-blocked
+  Disallow: /unsupportedbrowser
+  Disallow: /page-expiree
+  Sitemap: https://banqueentreprise.bnpparibas/sitemap.xml
+  

@@ -1,0 +1,4 @@
+# Algolia-Crawler-Verif: 5F5E70ADB860A6A0
+User-agent: *
+Allow: /
+Sitemap: https://bernafon-main-en-gb.prod.aquarium.demant.com/sitemap.xml

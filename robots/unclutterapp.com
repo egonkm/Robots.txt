@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /purchase/thank-you/
+Disallow: /order/
+Disallow: /bundle/order/
+Disallow: /license/activate/
+Disallow: /license/download/
+Disallow: /bundle/order/
+Disallow: /pub2/
+Disallow: /pub2/*
+Disallow: /ptype/
+Disallow: /ptype/*
+Disallow: /prototypes/
+Disallow: /prototypes/*

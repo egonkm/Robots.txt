@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /product-research/techvalidate/
+Disallow: /product-research/broadcom-aiops/
+Disallow: /product-research/spear-marketing-group/
+Disallow: /product-research/techvalidate-market-research/
+Disallow: /product-research/Momentive-Market-Research/
+Disallow: /product-research/spear-marketing-market-research/
+Disallow: /product-research/fluidreview/
+Disallow: /product-research/surveymonkey-for-business/
+Disallow: /product-research/revelation-software-concepts/
+Disallow: /product-research/clear-123/
+Disallow: /product-research/surveymonkey/
+Disallow: /product-research/surveymonkey-salesforce/
+Disallow: /product-research/kate-test/

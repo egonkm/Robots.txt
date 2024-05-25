@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+User-agent: Bingbot
+Crawl-delay: 5
+
+User-agent: ClaudeBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 30
+
+User-agent: AhrefsBot 
+âCrawl-Delay: 30

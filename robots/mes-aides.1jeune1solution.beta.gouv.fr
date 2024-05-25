@@ -1,0 +1,16 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow: /api
+Disallow: /api/*
+Allow: /foyer/demandeur
+Allow: /communication/2020-04-08-fonds-solidarites-logement-75-aides
+Disallow: /foyer/*
+Disallow: /redirection
+Disallow: /simulation/*
+Disallow: /tests
+Disallow: /tests/*
+Disallow: /validation
+
+Sitemap: https://mes-aides.1jeune1solution.beta.gouv.fr/sitemap.xml

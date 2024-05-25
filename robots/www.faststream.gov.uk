@@ -1,0 +1,9 @@
+<script type="text/javascript">
+
+if ((window.location.href.endsWith("/") && !window.location.href.endsWith(".gov.uk/"))) {
+    window.location.href = window.location.href + "index.html";
+}
+else {
+    document.write("Access Denied.");
+}
+</script>

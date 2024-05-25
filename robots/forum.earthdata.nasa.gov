@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /ucp.php?
+Disallow: /adm/
+Disallow: /mcp.php?
+Disallow: /memberlist.php?
+Allow: /index.php?
+Allow: /viewforum.php?
+Allow: /viewtopic.php?
+Allow: /app.php/tag/
+Allow: /app.php/

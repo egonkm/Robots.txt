@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /aszf/
+Disallow: /adatkezelesi-szabalyzat/
+Disallow: /knyp-jelentkezes/
+Disallow: /koszonjuk-az-erdeklodest/*
+Disallow: /thank-you-page-for-angloville-family/
+Disallow: /thank-you-page-for-angloville-family-2/
+Disallow: /koszonjuk/*
+Disallow: /blog/testimonial/*
+Disallow: /karrier/*
+Disallow: *.pdf
+Disallow: *.doc
+Disallow: *.docx
+Crawl-delay: 10
+

@@ -1,0 +1,4 @@
+sitemap: https://primo.lib.umn.edu/view/scholar/siteindex.xml
+
+User-agent: *
+Allow: /

@@ -1,0 +1,57 @@
+User-agent: *
+
+Allow: /
+
+# Paths (clean URLs)
+Disallow: /index.php/
+Disallow: /catalog/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /control/
+Disallow: /contacts/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /onestepcheckout/
+Disallow: /wishlist/
+Disallow: /home/
+
+
+Disallow: /*SID=
+Disallow: /*.php$
+Disallow: /*?
+
+
+# Do not index pages that are sorted or filtered.
+Disallow: /*?*product_list_mode=
+Disallow: /*?*product_list_order=
+Disallow: /*?*product_list_limit=
+Disallow: /*?*product_list_dir=
+
+
+# CVS, SVN directory and dump files
+Disallow: /*.CVS
+Disallow: /*.zip$
+Disallow: /*.svn$
+Disallow: /*.Idea$
+Disallow: /*.sql$
+Disallow: /*.tgz$
+
+#magento sitemaps
+Sitemap: https://remus.eu/media/sitemap/sitemap_int_e.xml
+Sitemap: https://remus.eu/media/sitemap/sitemap_int_de.xml
+Sitemap: https://remus.eu/media/sitemap/sitemap_int_i.xml
+Sitemap: https://remus.eu/media/sitemap/sitemap_int_fr.xml
+Sitemap: https://remus.eu/media/sitemap/sitemap_int_ba.xml

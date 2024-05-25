@@ -1,0 +1,32 @@
+# robots.txt for www.wayne.uakron.edu
+User-agent: *
+Disallow: /*?internalmonth*
+Disallow: /dotAsset/
+Disallow: /clubs/waynessence/
+Disallow: /clubs/mirror/
+Disallow: /tss/
+Disallow: /search/*
+Disallow: *promoId*
+Disallow: *darkmode*
+Disallow: *assistiveView*
+Disallow: /calendar/#*
+Disallow: /calendar/?*
+Allow: /calendar/all$
+Disallow: /news-media/?internalyear*
+Disallow: /news-media/?currentPage*
+Disallow: /news-media/?paramu=*
+Disallow: /news-media/index.dot?paramu=*
+Disallow: /news-media/?assistiveView*
+Disallow: /news-media/index_old.dot*
+Disallow: /index.dot?assistiveView=on&darkmode=on
+Disallow: /index.dot?assistiveView=on&darkmode=off
+Disallow: /index.dot?assistiveView=on
+Disallow: /index.dot?assistiveView=off
+Disallow: /clubs/waynessence/
+Disallow: /clubs/mirror/
+Disallow: /tss/
+Disallow: /im/*
+Disallow: /learning-center/profile.dot*
+Disallow: /academics-majors/current-wayne-courses.dot*
+
+SITEMAP: https://a245048.sitemaphosting5.com/4227927/sitemap.xml

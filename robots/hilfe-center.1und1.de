@@ -1,0 +1,27 @@
+#Sitemap 
+Sitemap:https://hilfe-center.1und1.de/sitemap.xml
+
+User-agent:*
+
+#Disallow folders and search
+Disallow:/suchergebnisse
+Disallow:/api/
+
+
+#All general disallows
+User-agent:SlySearch
+Disallow:/
+User-agent:SmartDownload
+Disallow:/
+User-agent:SpankBot
+Disallow:/
+User-agent:spanner
+Disallow:/
+User-agent:SuperBot
+Disallow:/
+User-agent:SupperHTTP
+Disallow:/
+User-agent:Surfbot
+Disallow:/
+User-agent:ia_archiver
+Disallow:/

@@ -1,0 +1,5 @@
+Sitemap: https://momente.ambient.info/sitemap.xml
+Sitemap: https://momente.ambient.info/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,38 @@
+# Det är uttryckligen förbjudet att använda sökrobotar eller andra
+# automatiska metoder för att tillgå blocket.se. Endast om blocket.se
+# givit särskilt tillstånd får sådan access ske.
+
+User-agent: Riddler
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /feeds/banners
+Disallow: /redirect_ar
+Disallow: /ad_reply_redirect.html
+Disallow: /adreply_redirect
+Disallow: /ajax
+Disallow: /ar/
+Disallow: /ar$
+Disallow: /blocket_puff.html
+Disallow: /blocket_puff_vi.html
+Disallow: /puffs.html
+Disallow: /puffs
+Disallow: /pux
+Disallow: /lix
+Disallow: /dynamic.xml
+Disallow: /backoffice 
+Disallow: /konto/
+Disallow: /bevakningar
+Disallow: /adreply
+Disallow: /api
+Disallow: /integration
+
+Sitemap: https://jobb.blocket.se/sitemap_ads.xml
+Sitemap: https://jobb.blocket.se/sitemap_static.xml
+Sitemap: https://jobb.blocket.se/sitemap/1
+Sitemap: https://jobb.blocket.se/sitemap/2
+Sitemap: https://jobb.blocket.se/sitemap/3

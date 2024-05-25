@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+Disallow: /pages/terms-of-use.html
+Disallow: /pages/privacy-policy.html
+Disallow: /api/
+Sitemap: https://learninginstitute.aaaa.org/sitemap.xml

@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Disallow: /onlygooglebot/
+
+Disallow: *.pdf$
+
+Sitemap: http://www.example.com/sitemap.xml

@@ -1,0 +1,39 @@
+# robots.txt for http://www.gangl.de/
+Sitemap: https://www.gangl.de/share/sitemap.xml
+
+# Zugriff auf alle Dateien erlauben
+User-agent: *
+
+# Zugriff auf nachstehende System-Verzeichnisse NICHT erlauben
+Disallow: /.bash_history/
+Disallow: /.ssh/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /dev/
+Disallow: /etc/
+Disallow: /lib/
+Disallow: /lib32/
+Disallow: /lib64/
+Disallow: /log/
+Disallow: /opt/
+Disallow: /proc/
+Disallow: /selinux/
+Disallow: /tmp/
+Disallow: /usr/
+Disallow: /var/
+
+
+# Zugriff auf nachstehende interne Verzeichnisse NICHT erlauben
+Disallow: /CRONJOBS/
+Disallow: /DEMO/
+Disallow: /!!!MOBILEOUTPUT!!!/
+Disallow: /!res/
+Disallow: /!webapps/
+
+
+# Zugriff auf nachstehende Verzeichnisse/Dateien für Googlebot-Mobile  NICHT erlauben
+User-agent: Googlebot-Mobile
+Disallow: /DEMO/
+Disallow: /!!!MOBILEOUTPUT!!!/
+Disallow: /!res/
+Disallow: /!webapps/

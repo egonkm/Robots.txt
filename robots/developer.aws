@@ -1,0 +1,1571 @@
+<!doctype html>
+<html class="no-js aws-lng-en_US aws-with-target" lang="en-US" data-static-assets="https://a0.awsstatic.com" data-js-version="1.0.582" data-css-version="1.0.496">
+ <head> 
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: https://a0.awsstatic.com https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev; connect-src 'self' https://*.analytics.console.aws.a2z.com https://*.prod.chc-features.uxplatform.aws.dev https://112-tzm-766.mktoresp.com https://112-tzm-766.mktoutil.com https://a0.awsstatic.com https://a0.p.awsstatic.com https://a1.awsstatic.com https://amazonwebservices.d2.sc.omtrdc.net https://amazonwebservicesinc.tt.omtrdc.net https://api.regional-table.region-services.aws.a2z.com https://api.us-west-2.prod.pricing.aws.a2z.com https://auth.aws.amazon.com https://aws.amazon.com https://aws.amazon.com/p/sf/ https://aws.demdex.net https://b0.p.awsstatic.com https://c0.b0.p.awsstatic.com https://calculator.aws https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://chatbot-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://cm.everesttech.net https://csml-plc-prod.us-west-2.api.aws/plc/csml/logging https://d0.awsstatic.com https://d1.awsstatic.com https://d1fgizr415o1r6.cloudfront.net https://d2c.aws.amazon.com https://d3borx6sfvnesb.cloudfront.net https://dftu77xade0tc.cloudfront.net https://dpm.demdex.net https://fls-na.amazon.com https://i18n-string.us-west-2.prod.pricing.aws.a2z.com https://infra-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://livechat-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://pricing-table.us-west-2.prod.site.p.awsstatic.com https://prod-us-west-2.csp-report.marketing.aws.dev https://prod.log.shortbread.aws.dev https://prod.tools.shortbread.aws.dev https://prod.us-east-1.api.gcr-chat.marketing.aws.dev https://prod.us-east-1.rest-bot.gcr-chat.marketing.aws.dev https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev https://prod2.clientlogger.cn-northwest-1.marketplace.aws.a2z.org.cn https://public.lotus.awt.aws.a2z.com https://s0.awsstatic.com https://s3.amazonaws.com/aws-messaging-pricing-information/ https://s3.amazonaws.com/public-pricing-agc/ https://spot-bid-advisor.s3.amazonaws.com https://t0.m.awsstatic.com https://target.aws.amazon.com https://token.us-west-2.prod.site.p.awsstatic.com https://view-stage.us-west-2.prod.pricing.aws.a2z.com https://view-staging.us-east-1.prod.plc1-prod.pricing.aws.a2z.com https://vs.aws.amazon.com https://webchat-aws.clink.cn https://wrp.aws.amazon.com https://www.youtube-nocookie.com wss://*.transport.connect.us-east-1.amazonaws.com wss://prod.us-east-1.wss-bot.gcr-chat.marketing.aws.dev wss://webchat-aws.clink.cn; font-src 'self' data: https://a0.awsstatic.com https://f0.awsstatic.com https://fonts.gstatic.com https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev; frame-src 'self' https://aws.demdex.net https://c0.b0.p.awsstatic.com https://calculator.aws https://conversational-experience-worker.widget.console.aws.amazon.com/lotus/isolatedIFrame https://dpm.demdex.net https://pricing-table.us-west-2.prod.site.p.awsstatic.com https://token.us-west-2.prod.site.p.awsstatic.com https://www.youtube-nocookie.com; img-src 'self' data: https://*.vidyard.com https://*.ytimg.com https://a0.awsstatic.com https://amazonwebservices.d2.sc.omtrdc.net https://aws-clink2-resource.s3.cn-northwest-1.amazonaws.com.cn https://aws-quickstart.s3.amazonaws.com https://aws.amazon.com https://aws.demdex.net https://awsmedia.s3.amazonaws.com https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://cm.everesttech.net https://d1.awsstatic.com https://d1d1et6laiqoh9.cloudfront.net https://d2908q01vomqb2.cloudfront.net https://d2c.aws.amazon.com https://d2cpw7vd6a2efr.cloudfront.net https://d36cz9buwru1tt.cloudfront.net https://docs.aws.amazon.com https://dpm.demdex.net https://fls-na.amazon.com https://google.ca https://google.co.in https://google.co.jp https://google.co.th https://google.co.uk https://google.com https://google.com.ar https://google.com.au https://google.com.br https://google.com.hk https://google.com.mx https://google.com.tr https://google.com.tw https://google.de https://google.es https://google.fr https://google.it https://google.nl https://google.pl https://google.ru https://img.youtube.com https://marketingplatform.google.com https://media.amazonwebservices.com https://p.adsymptotic.com https://pages.awscloud.com https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev https://s3.amazonaws.com/aws-quickstart/ https://ssl-static.libsyn.com https://static-cdn.jtvnw.net https://webchat-aws.clink.cn https://www.google.com https://www.linkedin.com https://yt3.ggpht.com; media-src 'self' blob: https://*.libsyn.com https://a0.awsstatic.com https://anchor.fm https://awsmedia.s3.amazonaws.com https://awspodcastsiberiaent.s3.eu-west-3.amazonaws.com https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://chtbl.com https://content.production.cdn.art19.com https://d1.awsstatic.com https://d1hemuljm71t2j.cloudfront.net https://d1le29qyzha1u4.cloudfront.net https://d1oqpvwii7b6rh.cloudfront.net https://d1vo51ubqkiilx.cloudfront.net https://d1yyh5dhdgifnx.cloudfront.net https://d2908q01vomqb2.cloudfront.net https://d2a6igt6jhaluh.cloudfront.net https://d3ctxlq1ktw2nl.cloudfront.net https://d3h2ozso0dirfl.cloudfront.net https://dgen8gghn3u86.cloudfront.net https://dk261l6wntthl.cloudfront.net https://download.stormacq.com/aws/podcast/ https://dts.podtrac.com https://media.amazonwebservices.com https://mktg-apac.s3-ap-southeast-1.amazonaws.com https://rss.art19.com https://s3-ap-northeast-1.amazonaws.com/aws-china-media/ https://www.buzzsprout.com; object-src 'none'; script-src 'sha256-ghBVHRzgRzhMwBt3OmfHw+wb138BIP2IntrCTNdez5o=' blob: 'nonce-eHwzQ1qL4YueBfxakk9Ftvl+g3A221pNOCUvC7fbz8s=' 'self' https://*.cdn.console.awsstatic.com/ https://*.cdn.uis.awsstatic.com/ https://a.b.cdn.console.awsstatic.com https://a0.awsstatic.com https://amazonwebservicesinc.tt.omtrdc.net https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://d2c.aws.amazon.com https://googleads.g.doubleclick.net https://loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev https://spot-price.s3.amazonaws.com https://static.doubleclick.net https://t0.m.awsstatic.com https://website.spot.ec2.aws.a2z.com https://www.google.com https://www.gstatic.com https://www.youtube.com/iframe_api https://www.youtube.com/s/player/; style-src 'self' 'unsafe-inline' https://a0.awsstatic.com https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev" data-report-uri="https://prod-us-west-2.csp-report.marketing.aws.dev/submit"> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <link rel="preconnect" href="https://a0.awsstatic.com" crossorigin="anonymous"> 
+  <link rel="dns-prefetch" href="https://a0.awsstatic.com"> 
+  <link rel="dns-prefetch" href="https://d1.awsstatic.com"> 
+  <link rel="dns-prefetch" href="https://amazonwebservicesinc.tt.omtrdc.net"> 
+  <link rel="dns-prefetch" href="https://s0.awsstatic.com"> 
+  <title>AWS for Developers | Programming Languages, Tools, Community | AWS Developer Center</title> 
+  <meta name="description" content="Whether you’re new to developing in the cloud or a seasoned user of AWS’ offerings, the Developer Center is your source for language-specific resources, tools, community, experts, and tutorials for launching your latest workload. Build on!"> 
+  <meta name="robots" content="index, follow"> 
+  <meta property="twitter:title" content="AWS for Developers | Programming Languages, Tools, Community | AWS Developer Center"> 
+  <meta property="twitter:description" content="Whether you’re new to developing in the cloud or a seasoned user of AWS’ offerings, the Developer Center is your source for language-specific resources, tools, community, experts, and tutorials for launching your latest workload. Build on!"> 
+  <meta property="og:title" content="AWS for Developers | Programming Languages, Tools, Community | AWS Developer Center"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <link rel="canonical" href="https://aws.amazon.com/developer/"> 
+  <link rel="alternate" href="https://aws.amazon.com/ar/developer/" hreflang="ar-sa"> 
+  <link rel="alternate" href="https://aws.amazon.com/de/developer/" hreflang="de-de"> 
+  <link rel="alternate" href="https://aws.amazon.com/developer/" hreflang="en-us"> 
+  <link rel="alternate" href="https://aws.amazon.com/es/developer/" hreflang="es-es"> 
+  <link rel="alternate" href="https://aws.amazon.com/fr/developer/" hreflang="fr-fr"> 
+  <link rel="alternate" href="https://aws.amazon.com/id/developer/" hreflang="id-id"> 
+  <link rel="alternate" href="https://aws.amazon.com/it/developer/" hreflang="it-it"> 
+  <link rel="alternate" href="https://aws.amazon.com/jp/developer/" hreflang="ja-jp"> 
+  <link rel="alternate" href="https://aws.amazon.com/ko/developer/" hreflang="ko-kr"> 
+  <link rel="alternate" href="https://aws.amazon.com/pt/developer/" hreflang="pt-br"> 
+  <link rel="alternate" href="https://aws.amazon.com/ru/developer/" hreflang="ru-ru"> 
+  <link rel="alternate" href="https://aws.amazon.com/th/developer/" hreflang="th-th"> 
+  <link rel="alternate" href="https://aws.amazon.com/tr/developer/" hreflang="tr-tr"> 
+  <link rel="alternate" href="https://aws.amazon.com/vi/developer/" hreflang="vi-vn"> 
+  <link rel="alternate" href="https://aws.amazon.com/cn/developer/" hreflang="zh-cn"> 
+  <link rel="alternate" href="https://aws.amazon.com/tw/developer/" hreflang="zh-tw"> 
+  <script src="https://a0.awsstatic.com/libra/1.0.582/csp/csp-report.js" async="true"></script> 
+  <meta property="twitter:card" content="summary"> 
+  <meta property="twitter:image" content="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png"> 
+  <meta property="twitter:site" content="@awscloud"> 
+  <meta property="fb:pages" content="153063591397681"> 
+  <meta name="baidu-site-verification" content="pjxJUyWxae"> 
+  <meta name="360-site-verification" content="cbe5c6f0249e273e71fffd6d6580ce09"> 
+  <meta name="shenma-site-verification" content="79b94bb338f010af876605819a332e19_1617844070"> 
+  <meta name="sogou_site_verification" content="Ow8cCy3Hgq"> 
+  <link rel="icon" type="image/ico" href="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"> 
+  <link rel="shortcut icon" type="image/ico" href="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"> 
+  <link rel="apple-touch-icon" sizes="57x57" href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png"> 
+  <link rel="apple-touch-icon" sizes="72x72" href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png"> 
+  <link rel="apple-touch-icon" sizes="114x114" href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png"> 
+  <link rel="apple-touch-icon" sizes="144x144" href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png"> 
+  <meta property="og:type" content="company"> 
+  <meta property="og:url" content="https://aws.amazon.com/developer/"> 
+  <meta property="og:image" content="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"> 
+  <meta property="og:site_name" content="Amazon Web Services, Inc."> 
+  <meta name="facebook-domain-verification" content="ucogvbvio3zpukhjxw4pcprci7qylr"> 
+  <meta name="google-site-verification" content="XHghG81ulgiW-3EylGcF48sG28tBW5EH0bNUhgo_DrU"> 
+  <meta name="msvalidate.01" content="6F92E52A288E266E30C2797ECB5FCCF3"> 
+  <link rel="stylesheet" href="https://a0.awsstatic.com/libra-css/css/1.0.496/style-awsm-base.css"> 
+  <link rel="stylesheet" href="https://a0.awsstatic.com/libra-css/css/1.0.496/style-awsm-components.css"> 
+  <script type="esms-options">{"noLoadEventRetriggers": true, "nonce":"eHwzQ1qL4YueBfxakk9Ftvl+g3A221pNOCUvC7fbz8s="}</script> 
+  <script async src="https://a0.awsstatic.com/eb-csr/1.0.92/polyfills/es-module-shims/es-module-shims.js"></script> 
+  <script type="importmap">{"imports":{"react":"https://a0.awsstatic.com/eb-csr/1.0.92/react/react.js","react/jsx-runtime":"https://a0.awsstatic.com/eb-csr/1.0.92/react/jsx-runtime.js","react-dom":"https://a0.awsstatic.com/eb-csr/1.0.92/react/react-dom.js","react-dom/server":"https://a0.awsstatic.com/eb-csr/1.0.92/react/server-browser.js","react-dom-server-browser":"https://a0.awsstatic.com/eb-csr/1.0.92/react/react-dom-server-browser.js"}}</script> 
+  <script type="application/json" id="aws-page-settings">
+  {
+    "supportedLanguages": ["ar","cn","de","en","es","fr","id","it","jp","ko","pt","ru","th","tr","tw","vi"],
+    "defaultLanguage": "en",
+    "logDataSet": "LIVE:PROD",
+    "logInstance": "PUB",
+    "csdsEndpoint": "https://aws.amazon.com/",
+    "framework": "v2",
+    "g11nLibPath": "https://a0.awsstatic.com/g11n-lib/2.0.104",
+    "i18nStringPath": "https://i18n-string.us-west-2.prod.pricing.aws.a2z.com",
+    "libraCSSPath": "https://a0.awsstatic.com/libra-css/css/1.0.496",
+    "libraCSSImagePath": "https://a0.awsstatic.com/libra-css/images",
+    "isLoggingEnabled": true,
+    "currentLanguage": "en-US",
+    "currentStage": "Prod",
+    "isBJS": false,
+    "isMarketplace": false,
+    "isRTL": false,
+    "requireBaseUrl": "https://a0.awsstatic.com",
+    "requirePackages":[
+      {
+          "name": "libra",
+          "location": "libra/1.0.582"
+      }
+    ],
+    "requirePaths": {
+      "directories": "https://a0.awsstatic.com/libra/1.0.582/directories",
+      "libra-cardsui": "https://a0.awsstatic.com/libra/1.0.582/libra-cardsui",
+      "librastandardlib": "https://a0.awsstatic.com/libra/1.0.582/librastandardlib",
+      "aws-blog": "https://a0.awsstatic.com/aws-blog/1.0.66/js",
+      "plc": "https://a0.awsstatic.com/plc/js/1.0.138/plc",
+      "scripts": "libra/1.0.582/v1-polyfills/scripts",
+      "libra-search": "https://a0.awsstatic.com/libra-search/1.0.19/js",
+      "pricing-calculator": "https://a0.awsstatic.com/pricing-calculator/js/1.0.2",
+      "pricing-savings-plan": "https://a0.awsstatic.com/pricing-savings-plan/js/1.0.21"
+    },
+    "staticAssetPath": "https://a0.awsstatic.com",
+    "jsAssetPath": "https://a0.awsstatic.com/libra/1.0.582"
+  }
+</script> 
+  <script src="https://a0.awsstatic.com/libra/1.0.582/libra-head.js"></script> 
+  <script src="https://a0.awsstatic.com/s_code/js/3.0/awshome_s_code.js"></script> 
+  <script src="https://d2c.aws.amazon.com/client/loader/v1/d2c-load.js"></script> 
+  <link rel="stylesheet" href="https://a0.awsstatic.com/eb-csr/1.0.92/orchestrate.css"> 
+  <script type="module" async="true" src="https://a0.awsstatic.com/eb-csr/1.0.92/orchestrate.js"></script> 
+  <script type="application/json" id="target-mediator">{"pageLanguage":"en","supportedLanguages":["ar","cn","de","en","es","fr","id","it","jp","ko","pt","ru","th","tr","tw","vi"],"offerOrigin":"https://s0.awsstatic.com"}</script> 
+  <script data-js-script="target-mediator" src="https://a0.awsstatic.com/target/1.0.122/aws-target-mediator.js" async="true"></script> 
+ </head> 
+ <body class="awsm"> 
+  <script id="awsc-panorama-bundle" type="text/javascript" src="https://prod.pa.cdn.uis.awsstatic.com/panorama-nav-init.js" data-config="{&quot;appEntity&quot;:&quot;aws-marketing&quot;,&quot;region&quot;:&quot;us-west-1&quot;,&quot;service&quot;:&quot;global-site&quot;,&quot;trackerConstants&quot;:{&quot;cookieDomain&quot;:&quot;aws.amazon.com&quot;}}" async="true"></script> 
+  <a id="aws-page-skip-to-main" class="lb-sr-only lb-sr-only-focusable lb-bold lb-skip-el" href="#aws-page-content-main"> Skip to main content</a> 
+  <header id="aws-page-header" class="awsm m-page-header lb-with-mobile-subrow" role="banner"> 
+   <div id="m-nav" class="m-nav" role="navigation"> 
+    <div class="m-nav-header lb-clearfix" data-menu-url="https://s0.awsstatic.com/en_US/nav/v3/panel-content/desktop/index.html"> 
+     <div class="m-nav-logo"> 
+      <div class="lb-bg-logo aws-amazon_web_services_smile-header-desktop-en"> 
+       <a href="https://aws.amazon.com/?nc2=h_lg"><span>Click here to return to Amazon Web Services homepage</span></a> 
+      </div> 
+     </div> 
+     <nav class="m-nav-secondary-links" style="min-width: 620px" aria-label="Secondary navigation"> 
+      <a href="/about-aws/?nc2=h_header">About AWS</a> 
+      <a href="/contact-us/?nc2=h_header">Contact Us</a> 
+      <a class="lb-txt-none lb-tiny-iblock lb-txt-13 lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="popover-support-selector" role="button" aria-expanded="false" aria-label="Explore support options" id="popover-popover-support-selector-trigger" aria-controls="popover-support-selector" aria-haspopup="true"> Support&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+      <a id="m-nav-language-selector" class="lb-tiny-iblock lb-txt lb-has-trigger-indicator" href="#" data-lb-popover-trigger="popover-language-selector" data-language="en" aria-label="Set site language" role="button" aria-controls="popover-language-selector" aria-expanded="false" aria-haspopup="true">English&nbsp;<i class="icon-caret-down lb-trigger-mount"></i></a> 
+      <a class="lb-tiny-iblock lb-txt lb-has-trigger-indicator" href="#" data-lb-popover-trigger="popover-my-account" aria-label="Access account options" role="button" aria-controls="popover-my-account" aria-expanded="false" aria-haspopup="true">My Account&nbsp;<i class="icon-caret-down lb-trigger-mount"></i></a> 
+      <div class="m-nav-cta-btn"> 
+       <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_header_nav_cta"> 
+        <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="nav-buttons" data-da-so-version="sign-up-sign-in-all" data-da-so-url="nav"> 
+         <div class="data-attr-wrapper lb-tiny-iblock lb-none-pad lb-box" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="nav-buttons" data-da-so-version="prospect-sign-in" data-da-so-url="all"> 
+          <a class="lb-txt-none lb-tiny-iblock lb-txt-13 lb-txt" style="padding-top:8px; padding-right:13px;" href="https://console.aws.amazon.com/console/home?nc2=h_ct&amp;src=header-signin"> Sign In</a> 
+         </div> 
+         <div class="data-attr-wrapper lb-tiny-iblock lb-none-v-margin lb-btn" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="nav-buttons" data-da-so-version="prospect-signup" data-da-so-url="all"> 
+          <a class="lb-btn-p-primary" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&amp;src=header_signup" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}" role="button"> <span> Create an AWS Account</span> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </nav> 
+     <div class="m-nav-primary-group"> 
+      <nav class="m-nav-primary-links" aria-label="Primary navigation"> 
+       <i class="m-nav-angle-left-icon" aria-hidden="true"></i> 
+       <ul> 
+        <li aria-expanded="false"><span><a href="/products/?nc2=h_ql_prod" data-panel="m-nav-panel-products">Products</a></span></li> 
+        <li aria-expanded="false"><span><a href="/solutions/?nc2=h_ql_sol" data-panel="m-nav-panel-solutions">Solutions</a></span></li> 
+        <li aria-expanded="false"><span><a href="/pricing/?nc2=h_ql_pr" data-panel="m-nav-panel-pricing">Pricing</a></span></li> 
+        <li aria-expanded="false"><span><a href="https://aws.amazon.com/documentation-overview/?nc2=h_ql_doc_do" data-panel="m-nav-panel-documentation">Documentation</a></span></li> 
+        <li aria-expanded="false"><span><a href="/getting-started/?nc2=h_ql_le" data-panel="m-nav-panel-learn">Learn</a></span></li> 
+        <li aria-expanded="false"><span><a href="/partners/?nc2=h_ql_pn" data-panel="m-nav-panel-partner">Partner Network</a></span></li> 
+        <li aria-expanded="false"><span><a href="https://aws.amazon.com/marketplace/?nc2=h_ql_mp" data-panel="m-nav-panel-marketplace">AWS Marketplace</a></span></li> 
+        <li aria-expanded="false"><span><a href="/customer-enablement/?nc2=h_ql_ce" data-panel="m-nav-panel-customer">Customer Enablement</a></span></li> 
+        <li aria-expanded="false"><span><a href="/events/?nc2=h_ql_ev" data-panel="m-nav-panel-events">Events</a></span></li> 
+        <li aria-expanded="false"><span><a href="/contact-us/?nc2=h_ql_exm" data-panel="m-nav-panel-more">Explore More </a></span></li> 
+       </ul> 
+       <div class="m-nav-icon-group"> 
+        <i class="m-nav-angle-right-icon" aria-hidden="true"></i> 
+        <i class="m-nav-search-icon" tabindex="0" role="button" aria-expanded="false" aria-label="Search"></i> 
+       </div> 
+      </nav> 
+      <div id="m-nav-desktop-search" class="m-nav-search"> 
+       <form action="https://aws.amazon.com/search/" role="search"> 
+        <div class="m-typeahead" data-directory-id="typeahead-suggestions" data-lb-comp="typeahead"> 
+         <input class="m-nav-search-field" placeholder="Search" autocomplete="off" spellcheck="false" dir="auto" type="text" name="searchQuery"> 
+        </div> 
+       </form> 
+       <i class="m-nav-close-icon" role="button" aria-label="Close"></i> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="popover-language-selector" id="popover-language-selector" aria-modal="false" aria-labelledby="popover-popover-language-selector-trigger" data-action="hover" data-position="top"> 
+     <a class="lb-popover-close" role="button" tabindex="0" aria-label="Close" title="Close"> <span class="lb-sr-only">Close</span> </a> 
+     <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-mid-12"> 
+       <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block"> 
+        <li lang="ar-SA" translate="no" data-language="ar"><a href="https://aws.amazon.com/ar/?nc1=h_ls">عربي</a></li> 
+        <li lang="id-ID" translate="no" data-language="id"><a href="https://aws.amazon.com/id/?nc1=h_ls">Bahasa Indonesia</a></li> 
+        <li lang="de-DE" translate="no" data-language="de"><a href="https://aws.amazon.com/de/?nc1=h_ls">Deutsch</a></li> 
+        <li lang="en-US" translate="no" data-language="en"><a href="https://aws.amazon.com/?nc1=h_ls">English</a></li> 
+        <li lang="es-ES" translate="no" data-language="es"><a href="https://aws.amazon.com/es/?nc1=h_ls">Español</a></li> 
+        <li lang="fr-FR" translate="no" data-language="fr"><a href="https://aws.amazon.com/fr/?nc1=h_ls">Français</a></li> 
+        <li lang="it-IT" translate="no" data-language="it"><a href="https://aws.amazon.com/it/?nc1=h_ls">Italiano</a></li> 
+        <li lang="pt-BR" translate="no" data-language="pt"><a href="https://aws.amazon.com/pt/?nc1=h_ls">Português</a></li> 
+       </ul> 
+      </div> 
+      <div class="lb-col lb-tiny-24 lb-mid-12"> 
+       <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block"> 
+        <li lang="vi-VN" translate="no" data-language="vi"><a href="https://aws.amazon.com/vi/?nc1=f_ls">Tiếng Việt</a></li> 
+        <li lang="tr-TR" translate="no" data-language="tr"><a href="https://aws.amazon.com/tr/?nc1=h_ls">Türkçe</a></li> 
+        <li lang="ru-RU" translate="no" data-language="ru"><a href="https://aws.amazon.com/ru/?nc1=h_ls">Ρусский</a></li> 
+        <li lang="th-TH" translate="no" data-language="th"><a href="https://aws.amazon.com/th/?nc1=f_ls">ไทย</a></li> 
+        <li lang="ja-JP" translate="no" data-language="jp"><a href="https://aws.amazon.com/jp/?nc1=h_ls">日本語</a></li> 
+        <li lang="ko-KR" translate="no" data-language="ko"><a href="https://aws.amazon.com/ko/?nc1=h_ls">한국어</a></li> 
+        <li lang="zh-CN" translate="no" data-language="cn"><a href="https://aws.amazon.com/cn/?nc1=h_ls">中文 (简体)</a></li> 
+        <li lang="zh-TW" translate="no" data-language="tw"><a href="https://aws.amazon.com/tw/?nc1=h_ls">中文 (繁體)</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="popover-my-account" id="popover-my-account" aria-modal="false" aria-labelledby="popover-popover-my-account-trigger" data-action="hover" data-position="top"> 
+     <a class="lb-popover-close" role="button" tabindex="0" aria-label="Close" title="Close"> <span class="lb-sr-only">Close</span> </a> 
+     <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block"> 
+      <li class="m-no-auth" data-myaws-auth-only="true"><a href="/profile/?nc2=h_m_mc">My Profile</a></li> 
+      <li class="m-no-auth" data-myaws-auth-only="true"><a href="https://auth.aws.amazon.com/sign-out/?nc2=h_m_mc">Sign out of AWS Builder ID</a></li> 
+      <li><a href="https://console.aws.amazon.com/?nc2=h_m_mc">AWS Management Console</a></li> 
+      <li><a href="https://console.aws.amazon.com/billing/home#/account?nc2=h_m_ma">Account Settings</a></li> 
+      <li><a href="https://console.aws.amazon.com/billing/home?nc2=h_m_bc">Billing &amp; Cost Management</a></li> 
+      <li><a href="https://console.aws.amazon.com/iam/home?nc2=h_m_sc#security_credential">Security Credentials</a></li> 
+      <li><a href="https://phd.aws.amazon.com/?nc2=h_m_sc">AWS Personal Health Dashboard</a></li> 
+     </ul> 
+    </div> 
+    <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="popover-support-selector" id="popover-support-selector" aria-modal="false" aria-labelledby="popover-popover-support-selector-trigger" data-action="hover" data-position="top"> 
+     <a class="lb-popover-close" role="button" tabindex="0" aria-label="Close" title="Close"> <span class="lb-sr-only">Close</span> </a> 
+     <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block"> 
+      <li><a href="https://console.aws.amazon.com/support/home/?nc2=h_ql_cu">Support Center</a></li> 
+      <li><a href="https://iq.aws.amazon.com/?utm=mkt.nav">Expert Help</a></li> 
+      <li><a href="https://repost.aws/knowledge-center/?nc2=h_m_ma">Knowledge Center</a></li> 
+      <li><a href="/premiumsupport/?nc2=h_m_bc">AWS Support Overview</a></li> 
+      <li><a href="https://repost.aws/">AWS re:Post</a></li> 
+     </ul> 
+    </div> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/suggestions" data-hbs-context="{&quot;pricingText&quot;:&quot;Pricing&quot;,&quot;documentationText&quot;:&quot;Documentation&quot;,&quot;calculatorText&quot;:&quot;Calculator&quot;}"></script> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/products-head" data-hbs-context="{&quot;productsText&quot;:&quot;Products&quot;}"></script> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/keypages-head" data-hbs-context="{&quot;relatedPagesText&quot;:&quot;Related Pages&quot;}"></script> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/tutorials-head" data-hbs-context="{&quot;tutorialsText&quot;:&quot;Tutorials&quot;}"></script> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/blogs-head" data-hbs-context="{&quot;blogsText&quot;:&quot;Blogs&quot;}"></script> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/see-all" data-hbs-context="{&quot;resultsText&quot;:&quot;See more results for&quot;}"></script> 
+   </div> 
+   <div id="m-nav-mobile" class="m-nav-mobile"> 
+    <div id="m-nav-mobile-header" class="m-nav-mobile-header m-nav-mobile-with-sub-row" data-menu-url="https://s0.awsstatic.com/en_US/nav/v3/panel-content/mobile/index.html"> 
+     <div class="lb-bg-logo aws-amazon_web_services_smile-header-mobile-en"> 
+      <a href="https://aws.amazon.com/?nc2=h_lg"><span>Click here to return to Amazon Web Services homepage</span></a> 
+     </div> 
+     <div class="m-nav-mobile-button-group"> 
+      <i class="m-nav-mobile-button icon-search" tabindex="0" role="button" aria-expanded="false" aria-label="Search"></i> 
+      <i class="m-nav-mobile-button icon-reorder" tabindex="0" role="button" aria-expanded="false" aria-label="Menu"></i> 
+     </div> 
+     <div id="m-nav-mobile-sub-row" class="m-nav-mobile-sub-row"> 
+      <div class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="global-mobile-sticky-cta-buttons" data-da-so-type="viewport" data-da-so-version="get-started-for-free-cta" data-da-so-url="all"> 
+       <a class="lb-btn-p-primary" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_mobile" role="button"> <span> Get Started for Free</span> </a> 
+      </div> 
+      <div class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="global-mobile-sticky-cta-buttons" data-da-so-type="viewport" data-da-so-version="contact-us"> 
+       <a class="lb-btn-p" href="https://aws.amazon.com/contact-us/?nc2=h_mobile" role="button"> <span> Contact Us</span> </a> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="m-nav-mobile-search" class="m-nav-mobile-search"> 
+     <form action="https://aws.amazon.com/search" role="search"> 
+      <div class="m-typeahead"> 
+       <input class="m-nav-search-field" placeholder="Search" autocomplete="off" spellcheck="false" dir="auto" type="text" name="searchQuery"> 
+      </div> 
+     </form> 
+    </div> 
+    <nav id="m-nav-trimdown" role="navigation"> 
+     <ul class="m-nav-mobile-menu-group"> 
+      <li> <a href="/products/?nc2=h_mo">Products</a> </li> 
+      <li> <a href="/solutions/?nc2=h_mo">Solutions</a> </li> 
+      <li> <a href="/pricing/?nc2=h_mo">Pricing</a> </li> 
+      <li> <a href="/what-is-aws/?nc2=h_mo">Introduction to AWS</a> </li> 
+      <li> <a href="/getting-started/?nc2=h_mo">Getting Started</a> </li> 
+      <li> <a href="https://aws.amazon.com/documentation-overview/?nc2=h_mo">Documentation</a> </li> 
+      <li> <a href="/training/?nc2=h_mo">Training and Certification</a> </li> 
+      <li> <a href="/developer/?nc2=h_mo">Developer Center</a> </li> 
+      <li> <a href="/solutions/case-studies/?nc2=h_mo">Customer Success</a> </li> 
+      <li> <a href="/partners/?nc2=h_mo">Partner Network</a> </li> 
+      <li> <a href="https://aws.amazon.com/marketplace/?nc2=h_mo">AWS Marketplace</a> </li> 
+      <li> <a href="https://console.aws.amazon.com/support/home?nc2=h_ql_cu">Support</a> </li> 
+      <li> <a href="https://repost.aws/">AWS re:Post</a> </li> 
+      <li> <a href="https://console.aws.amazon.com/console/home">Log into Console</a> </li> 
+      <li> <a href="/console/mobile/">Download the Mobile App</a> </li> 
+     </ul> 
+    </nav> 
+   </div> 
+   <div class="data-attr-wrapper lb-sticky-subnav" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="mainnavbar" data-da-so-url="/developer" data-lb-comp="sticky-subnav" data-lb-page-path="/developer/"> 
+    <div class="lb-row lb-row-max-large lb-snap"> 
+     <div class="lb-tiny-24 lb-sticky-subnav-content"> 
+      <div class="lb-sticky-subnav-title"> 
+       <a class="lb-txt-none lb-txt lb-current-page-link" href="/developer/" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Developer Center</a> 
+      </div> 
+      <div class="lb-sticky-subnav-links"> 
+       <a class="lb-txt-none lb-txt-14 lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="learning" role="button" aria-expanded="false" aria-label="Learning options for Developers" id="popover-learning-trigger" aria-controls="learning" aria-haspopup="true" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Learning&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+       <a class="lb-txt-none lb-txt-14 lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="programming-languages" role="button" aria-expanded="false" aria-label="Programming Languages" id="popover-programming-languages-trigger" aria-controls="programming-languages" aria-haspopup="true" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Programming Languages&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+       <a class="lb-txt-none lb-txt-14 lb-txt" href="/developer/events/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Events</a> 
+       <a class="lb-txt-none lb-txt-14 lb-txt" href="/developer/tools/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Tools</a> 
+       <a class="lb-txt-none lb-txt-14 lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="community" role="button" aria-expanded="false" aria-label="community" id="popover-community-trigger" aria-controls="community" aria-haspopup="true" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Community&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+       <a class="lb-txt-none lb-txt-14 lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="resources" role="button" aria-expanded="false" aria-label="Access more resources" id="popover-resources-trigger" aria-controls="resources" aria-haspopup="true" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> More Resources&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="learning" id="learning" aria-modal="false" aria-labelledby="popover-learning-trigger" data-action="hover" data-position="top"> 
+    <a class="lb-popover-close" role="button" tabindex="0" aria-label="Close" title="Close"> <span class="lb-sr-only">Close</span> </a> 
+    <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="navbarlearning" data-da-so-url="/developer"> 
+     <a class="lb-txt-none lb-txt" href="/developer/learning/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Learn with AWS</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/hands-on/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Tutorials</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/code-examples/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> SDK Code Examples</a> 
+     <a class="lb-txt-none lb-txt" href="https://www.aws.training/" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Training &amp; Certification</a> 
+     <a class="lb-txt-none lb-txt" href="https://workshops.aws/" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Workshops</a> 
+    </div> 
+   </div> 
+   <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="programming-languages" id="programming-languages" aria-modal="false" aria-labelledby="popover-programming-languages-trigger" data-action="hover" data-position="top"> 
+    <a class="lb-popover-close" role="button" tabindex="0" aria-label="Close" title="Close"> <span class="lb-sr-only">Close</span> </a> 
+    <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="navbarproglanguage" data-da-so-url="/developer"> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/cpp/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> C++</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/net/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> .NET</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/go/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Go</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/javascript/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> JavaScript</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/java/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Java</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/kotlin/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Kotlin</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/php/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> PHP</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/python/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Python</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/ruby/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Ruby</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/rust/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Rust</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/language/swift/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Swift</a> 
+    </div> 
+   </div> 
+   <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="community" id="community" aria-modal="false" aria-labelledby="popover-community-trigger" data-action="hover" data-position="top"> 
+    <a class="lb-popover-close" role="button" tabindex="0" aria-label="Close" title="Close"> <span class="lb-sr-only">Close</span> </a> 
+    <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="navbarcommunity" data-da-so-url="/developer"> 
+     <a class="lb-txt-none lb-txt" href="https://community.aws/?ref=dc&amp;id=dc_navbar" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Community.aws</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/community/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Discover Communities</a> 
+     <a class="lb-txt-none lb-txt" href="https://repost.aws/?trk=859f3c3f-c0fa-4b16-9fd5-8f05cf9273de" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Expert Q&amp;A on re:Post</a> 
+     <a class="lb-txt-none lb-txt" href="/developer/community/students/?intClick=dc_navbar" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Student Hub</a> 
+    </div> 
+   </div> 
+   <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="resources" id="resources" aria-modal="false" aria-labelledby="popover-resources-trigger" data-action="hover" data-position="top"> 
+    <a class="lb-popover-close" role="button" tabindex="0" aria-label="Close" title="Close"> <span class="lb-sr-only">Close</span> </a> 
+    <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="navbarresources" data-da-so-url="/developer"> 
+     <a class="lb-txt-none lb-txt" href="/architecture/?pg=devctr" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Architecture Center</a> 
+     <a class="lb-txt-none lb-txt" href="/builder-library/?pg=devctr" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Builders Library</a> 
+     <a class="lb-txt-none lb-txt" href="https://docs.aws.amazon.com/?pg=devctr" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Documentation</a> 
+     <a class="lb-txt-none lb-txt" href="/getting-started/?intClick=dc_navbar" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> Getting Started Resource Center</a> 
+     <a class="lb-txt-none lb-txt" href="/it-pro/?intClick=dc_navbar" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> IT Pro Center</a> 
+    </div> 
+   </div> 
+  </header> 
+  <div id="aws-page-content" class="lb-page-content lb-page-with-sticky-subnav" style="padding-top:0px; padding-bottom:0px;" data-page-alert-target="true"> 
+   <main id="aws-page-content-main" role="main" tabindex="-1"> 
+    <div class="lb-bg-left-center-cover-no-repeat data-attr-wrapper lb-mid-pad lb-none-v-margin lb-grid" style="background-image:url('https://d1.awsstatic.com/aws-patterns/AWS_Pattern_Blueprint-Blocks-B_Dark-BG_Blue.4aba7e7e8741b95c7c003dba93b1b8678640495d.png');" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="1" data-da-so-version="hero" data-da-so-url="/developer"> 
+     <div class="lb-row lb-row-max-large lb-snap lb-collapse"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <h1 id="AWS_Developer_Center" class="lb-txt-light lb-txt-none lb-txt-white lb-tiny-v-margin lb-h1 lb-title"> AWS Developer Center</h1> 
+       <h2 id="Explore_topics.2C_Learn_tutorials.2C_Download_tools.2C_and_Join_us_at_an_AWS_Developer_event" class="lb-txt-light lb-txt-none lb-txt-white lb-tiny-v-margin lb-h2 lb-title"> Explore topics, Learn tutorials, Download tools, and Join us at an AWS Developer event</h2> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_ribbon_below-hero"> 
+    </div> 
+    <div class="lb-carousel-wrapper dark"> 
+     <div id="aws-element-8487c4ad-6873-4f23-abfa-86822a9cc5df" class="lb-none-v-margin lb-carousel lb-carousel-arrows-inside" style="background-color:#232F3E; margin-top:0px; margin-bottom:0px;" data-lb-comp="carousel" data-items="1" data-drag-end-speed="250" data-smart-speed="1500" data-autoplay-timeout="7000" data-autoplay="true" data-loop="true" data-withid="aws-element-8487c4ad-6873-4f23-abfa-86822a9cc5df" data-theme="dark" data-prev-text="Previous Slide" data-next-text="Next Slide" data-slide-text="Slide"> 
+      <div class="lb-bg-left-center-cover data-attr-wrapper lb-mid-small-pad lb-carousel-item-inner-wrapper" style="padding-left:0px; background-image:url('https://d1.awsstatic.com/getting-started-guides/dev-center/banner - dc- main.561de83680bbc86d811145823edafe2e5ac033da.png'); padding-right:0px;" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="1" data-da-so-type="viewport" data-da-so-version="herocarousel2" data-da-so-url="/developer"> 
+       <div class="lb-carousel-item-inner"> 
+        <div class="lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-13"> 
+          <h2 id="Amazon_Q" class="lb-txt-none lb-txt-white lb-txt-32 lb-none-v-margin lb-h2 lb-title" style="margin-top:20px;"> Amazon Q</h2> 
+          <div class="lb-txt-light lb-txt-none lb-txt-white lb-txt-16 lb-small-v-margin lb-txt" style="margin-bottom:0px;">
+            Amazon Q is with you when reading AWS documentation, working in the AWS console, and even inside of your IDE. Learn about all the places you can use Amazon Q, and how to get started. 
+          </div> 
+          <div class="lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+            <div class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="button1" data-da-so-type="viewport" data-da-so-version="banner-partyrock" data-da-so-url="/developer"> 
+             <a class="lb-btn-p-primary" href="/developer/generative-ai/amazon-q/?ref=dc&amp;id=b3" target="_blank" rel="noopener noreferrer" role="button"> <span> Learn More&nbsp;<i class="icon-external-link lb-after"></i></span> </a> 
+            </div> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-11"> 
+          <figure class="lb-img"> 
+           <a href="/q/?ref=dc&amp;id=b1" target="_blank" rel="noopener noreferrer"> <img src="https://d1.awsstatic.com/getting-started-guides/dev-center/amazon_q-800x450-modified.96ac502902a41ce2d1daeb649925020d67d2ba74.png" alt="Amazon Q" title="" class="cq-dd-image"></a> 
+          </figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="lb-bg-left-center-cover data-attr-wrapper lb-mid-small-pad lb-carousel-item-inner-wrapper" style="background-color:#263444; padding-left:0px; background-image:url('https://d1.awsstatic.com/getting-started-guides/dev-center/banner - dc- main.561de83680bbc86d811145823edafe2e5ac033da.png'); padding-right:0px;" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="1" data-da-so-type="viewport" data-da-so-version="herocarousel1" data-da-so-url="/developer"> 
+       <div class="lb-carousel-item-inner"> 
+        <div class="lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-13"> 
+          <h2 id="Amazon_Bedrock_Launches_New_Features_Amid_Rising_Adoption_for_AI_Applications" class="lb-txt-none lb-txt-white lb-txt-32 lb-none-v-margin lb-h2 lb-title" style="margin-top:20px;"> Amazon Bedrock Launches New Features Amid Rising Adoption for AI Applications</h2> 
+          <div class="lb-txt-light lb-txt-none lb-txt-white lb-txt-16 lb-small-v-margin lb-txt" style="margin-bottom:0px;">
+            New Custom Model Import capability lets customers easily bring their proprietary models to Amazon Bedrock so they can take advantage of its powerful capabilities 
+          </div> 
+          <div class="data-attr-wrapper lb-none-pad lb-grid lb-row lb-row-max-large lb-snap" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="devctr" data-da-so-name="carousel4cta" data-da-so-url="/developer"> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+            <div class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="button1" data-da-so-type="viewport" data-da-so-version="banner-twitch" data-da-so-url="/developer"> 
+             <a class="lb-btn-p-primary" href="https://press.aboutamazon.com/2024/4/amazon-bedrock-launches-new-capabilities-as-tens-of-thousands-of-customers-choose-it-as-the-foundation-to-build-and-scale-secure-generative-ai-applications" target="_blank" rel="noopener noreferrer" role="button"> <span> Learn More&nbsp;<i class="icon-external-link lb-after"></i></span> </a> 
+            </div> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-11"> 
+          <figure class="lb-img"> 
+           <a href="https://press.aboutamazon.com/2024/4/amazon-bedrock-launches-new-capabilities-as-tens-of-thousands-of-customers-choose-it-as-the-foundation-to-build-and-scale-secure-generative-ai-applications" target="_blank" rel="noopener noreferrer"> <img src="https://d1.awsstatic.com/getting-started-guides/learning/amazon-bedrock-2-banner-modified.0bda0adaf5097c20a734945a1458a3abba9bcbdf.png" alt="amazon bedrock" title="" class="cq-dd-image"></a> 
+          </figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="lb-bg-left-center-cover data-attr-wrapper lb-mid-small-pad lb-carousel-item-inner-wrapper" style="padding-left:0px; background-image:url('https://d1.awsstatic.com/getting-started-guides/developer-tools/banner - dc-2.561de83680bbc86d811145823edafe2e5ac033da.png'); padding-right:0px;" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="1" data-da-so-type="viewport" data-da-so-version="herocarousel4" data-da-so-url="/developer"> 
+       <div class="lb-carousel-item-inner"> 
+        <div class="lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-13"> 
+          <h2 id="Learn.2C_Build.2C_and_Explore_Generative_AI_on_AWS_with_Amazon_Q_Developer.2C_PartyRock.2C_Amazon_Bedrock.2C_and_more..." class="lb-txt-none lb-txt-white lb-txt-32 lb-none-v-margin lb-h2 lb-title" style="margin-top:20px;"> Learn, Build, and Explore Generative AI on AWS with Amazon Q Developer, PartyRock, Amazon Bedrock, and more...</h2> 
+          <div class="data-attr-wrapper lb-none-pad lb-grid lb-row lb-row-max-large lb-snap" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="devctr" data-da-so-name="carousel4cta" data-da-so-url="/developer"> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+            <div class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="button1" data-da-so-type="viewport" data-da-so-version="banner-twitch" data-da-so-url="/developer"> 
+             <a class="lb-btn-p-primary" href="/developer/generative-ai/?ref=dc&amp;id=b2" target="_blank" rel="noopener noreferrer" role="button"> <span> Learn More&nbsp;<i class="icon-external-link lb-after"></i></span> </a> 
+            </div> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-11"> 
+          <figure class="lb-img"> 
+           <a href="/developer/generative-ai/?ref=dc&amp;id=b3" target="_blank" rel="noopener noreferrer" title="generative-ai-with-llms"> <img src="https://d1.awsstatic.com/getting-started-guides/dev-center/gen-ai-1200-modified1.485a4cafc21fe99f678f2b1f474730c36fefbff4.png" alt="gen ai" title="" class="cq-dd-image"></a> 
+          </figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="lb-bg-left-center-cover data-attr-wrapper lb-mid-small-pad lb-carousel-item-inner-wrapper" style="padding-left:0px; background-image:url('https://d1.awsstatic.com/getting-started-guides/dev-center/banner - dc- main.561de83680bbc86d811145823edafe2e5ac033da.png'); padding-right:0px;" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="1" data-da-so-type="viewport" data-da-so-version="herocarousel3" data-da-so-url="/developer"> 
+       <div class="lb-carousel-item-inner"> 
+        <div class="lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-13"> 
+          <h2 id="PartyRock" class="lb-txt-none lb-txt-white lb-txt-32 lb-none-v-margin lb-h2 lb-title" style="margin-top:20px;"> PartyRock</h2> 
+          <div class="lb-txt-light lb-txt-none lb-txt-white lb-txt-16 lb-small-v-margin lb-txt" style="margin-bottom:0px;">
+            PartyRock is a new space powered by Amazon Bedrock that allows you to build your own cool apps in seconds, share it with others, and learn about generative AI while having fun... 
+          </div> 
+          <div class="lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+           <div class="lb-col lb-tiny-24 lb-mid-20"> 
+            <div class="data-attr-wrapper lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="devctr" data-da-so-name="carousel4cta" data-da-so-url="/developer"> 
+             <div class="lb-col lb-tiny-24 lb-mid-12"> 
+              <div class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="button1" data-da-so-type="viewport" data-da-so-version="banner-partyrock" data-da-so-url="/developer"> 
+               <a class="lb-btn-p-primary" href="https://www.youtube.com/watch?v=-6p-u-BwJww" target="_blank" rel="noopener noreferrer" role="button"> <span> Quick Start Video (9 min)&nbsp;<i class="icon-youtube lb-after"></i></span> </a> 
+              </div> 
+             </div> 
+             <div class="lb-col lb-tiny-24 lb-mid-12"> 
+              <div class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="button1" data-da-so-type="viewport" data-da-so-version="banner-partyrock" data-da-so-url="/developer"> 
+               <a class="lb-btn-p-primary" href="https://partyrock.aws/?ref=dc&amp;id=b2" target="_blank" rel="noopener noreferrer" role="button"> <span> Build your own app&nbsp;<i class="icon-external-link lb-after"></i></span> </a> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-4"> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-11"> 
+          <figure class="lb-img"> 
+           <a href="https://partyrock.aws/?ref=dc&amp;id=b2" target="_blank" rel="noopener noreferrer"> <img src="https://d1.awsstatic.com/getting-started-guides/dev-center/pr-46-modified.a0e0fd4c3dbf7bcc7005ec5067157c1b0a435e20.png" alt="pR" title="" class="cq-dd-image"></a> 
+          </figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="lb-bg-left-center-cover data-attr-wrapper lb-mid-small-pad lb-carousel-item-inner-wrapper" style="background-color:#263444; padding-left:0px; background-image:url('https://d1.awsstatic.com/getting-started-guides/dev-center/banner - dc- main.561de83680bbc86d811145823edafe2e5ac033da.png'); padding-right:0px;" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="1" data-da-so-type="viewport" data-da-so-version="herocarousel1" data-da-so-url="/developer"> 
+       <div class="lb-carousel-item-inner"> 
+        <div class="lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-13"> 
+          <h2 id="New_-_Coursera_course_.3A_Fundamentals_of_Generative_AI_for_Beginners" class="lb-txt-none lb-txt-white lb-txt-32 lb-none-v-margin lb-h2 lb-title" style="margin-top:20px;"> New - Coursera course : Fundamentals of Generative AI for Beginners</h2> 
+          <div class="lb-txt-light lb-txt-none lb-txt-white lb-txt-16 lb-small-v-margin lb-txt" style="margin-bottom:0px;">
+            This free course is designed for students, early career professionals, and non-ML practitioners who want to get started with Generative AI. 
+          </div> 
+          <div class="data-attr-wrapper lb-none-pad lb-grid lb-row lb-row-max-large lb-snap" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="devctr" data-da-so-name="carousel4cta" data-da-so-url="/developer"> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+            <div class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="devctr" data-da-so-language="en" data-da-so-name="button1" data-da-so-type="viewport" data-da-so-version="banner-twitch" data-da-so-url="/developer"> 
+             <a class="lb-btn-p-primary" href="https://www.coursera.org/learn/aws-generative-ai-for-beginners" target="_blank" rel="noopener noreferrer" role="button"> <span> Learn More&nbsp;<i class="icon-external-link lb-after"></i></span> </a> 
+            </div> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-8"> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-11"> 
+          <figure class="lb-img"> 
+           <a href="https://www.coursera.org/learn/aws-generative-ai-for-beginners" target="_blank" rel="noopener noreferrer"> <img src="https://d1.awsstatic.com/getting-started-guides/dev-center/Fundamentals%20of%20Generative%20AI%20for%20Beginners(1)-modified.206718a29f12d7453c44e2bf1c6e6cc318f521c3.png" alt="gen ai" title="" class="cq-dd-image"></a> 
+          </figure> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div> 
+      <div class="lb-carousel-controls"> 
+       <div class="lb-hidden-item lb-item"> 
+        <button class="lb-placeholder">Play</button> 
+        <button class="lb-placeholder">Prev</button> 
+        <button class="lb-placeholder">Next</button> 
+       </div> 
+       <div class="lb-dot-container lb-item aws-element-8487c4ad-6873-4f23-abfa-86822a9cc5df"></div> 
+       <button class="lb-rotation-button is-control"> <span class="lb-pause-container"> <span class="lb-icon lb-pause-icon" aria-hidden="true"> 
+          <svg width="11" height="16" viewbox="0 0 11 16" fill="none" xmlns="http://www.w3.org/2000/svg"> 
+           <line x1="9.5" y1="6.55671e-08" x2="9.5" y2="16" stroke-width="3" /> 
+           <line x1="1.5" y1="6.55671e-08" x2="1.5" y2="16" stroke-width="3" /> 
+          </svg> </span> <span class="lb-sr-only">Pause slide rotation</span> </span> <span class="lb-resume-container"> <span class="lb-icon play-icon" aria-hidden="true"> 
+          <svg viewbox="0 0 18 20" fill="none" xmlns="http://www.w3.org/2000/svg"> 
+           <path d="M15.6296 9.14268C16.2766 9.53114 16.2766 10.4689 15.6296 10.8573L2.76478 18.5819C2.09826 18.9821 1.25 18.502 1.25 17.7246L1.25 2.2754C1.25 1.49796 2.09826 1.01786 2.76478 1.41807L15.6296 9.14268Z" stroke-width="2" stroke-linejoin="round"></path> 
+          </svg> </span> <span class="lb-sr-only">Resume slide rotation</span> </span> </button> 
+       <div class="aws-element-8487c4ad-6873-4f23-abfa-86822a9cc5df lb-nav-container lb-item"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-small-show lb-mid-hide lb-large-hide lb-xlarge-hide lb-none-pad lb-box"> 
+     <div class="data-attr-wrapper lb-mid-small-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#005276; padding-left:0px; padding-right:0px;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="homepage-desktop" data-da-so-type="viewport" data-da-so-version="jumplinks" data-da-so-url="/"> 
+      <div class="lb-xb-grid lb-row-max-large lb-snap lb-gutter-mid lb-tiny-xb-1 lb-small-xb-4"> 
+       <div class="lb-xbcol"> 
+        <div class="lb-border-p lb-tiny-pad lb-none-v-margin lb-box lb-has-link" style="border-color:#ffffff;"> 
+         <a href="#Get_Hands-on_with_AWS_"> 
+          <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-white lb-txt-14 lb-txt" style="color:#ff9900; padding-left:0px; padding-right:0px;">
+            Get Hands-on with AWS 
+          </div> </a> 
+        </div> 
+       </div> 
+       <div class="lb-xbcol"> 
+        <div class="lb-border-p lb-tiny-pad lb-none-v-margin lb-box lb-has-link" style="border-color:#ffffff;"> 
+         <a href="#Supported_languages"> 
+          <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-white lb-txt-14 lb-txt" style="color:#ff9900; padding-left:0px; padding-right:0px;">
+            Use Your Favorite Language 
+          </div> </a> 
+        </div> 
+       </div> 
+       <div class="lb-xbcol"> 
+        <div class="lb-border-p lb-tiny-pad lb-none-v-margin lb-box lb-has-link" style="border-color:#ffffff;"> 
+         <a href="#Upcoming_AWS_Developer_Events"> 
+          <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-white lb-txt-14 lb-txt" style="color:#ff9900; padding-left:0px; padding-right:0px;">
+            Upcoming AWS Developer Events 
+          </div> </a> 
+        </div> 
+       </div> 
+       <div class="lb-xbcol"> 
+        <div class="lb-border-p lb-tiny-pad lb-none-v-margin lb-box lb-has-link" style="border-color:#ffffff;"> 
+         <a href="#Explore_What_Is_Possible"> 
+          <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-white lb-txt-14 lb-txt" style="color:#ff9900; padding-left:0px; padding-right:0px;">
+            Explore What Is Possible 
+          </div> </a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-tiny-hide lb-small-hide lb-mid-show lb-large-show lb-xlarge-show lb-none-pad lb-box"> 
+     <div class="data-attr-wrapper lb-mid-small-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#005276; padding-left:0px; padding-right:0px;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="homepage-desktop" data-da-so-type="viewport" data-da-so-version="jumplinks" data-da-so-url="/"> 
+      <div class="lb-xb-grid lb-row-max-large lb-snap lb-gutter-mid lb-tiny-xb-1 lb-small-xb-4"> 
+       <div class="lb-xbcol"> 
+        <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link lb-hover-opacity-50"> 
+         <a href="#Get_Hands-on_with_AWS"> 
+          <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-white lb-txt-18 lb-txt" style="color:#ff9900; padding-left:0px; padding-right:0px;">
+            Get Hands-on with AWS 
+          </div> </a> 
+        </div> 
+       </div> 
+       <div class="lb-xbcol"> 
+        <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link lb-hover-opacity-50"> 
+         <a href="#Use_Your_Favorite_Language"> 
+          <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-white lb-txt-18 lb-txt" style="color:#ff9900; padding-left:0px; padding-right:0px;">
+            Use Your Favorite Language 
+          </div> </a> 
+        </div> 
+       </div> 
+       <div class="lb-xbcol"> 
+        <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link lb-hover-opacity-50"> 
+         <a href="#Upcoming_AWS_Developer_Events"> 
+          <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-white lb-txt-17 lb-txt" style="color:#ff9900; padding-left:0px; padding-right:0px;">
+            Upcoming AWS Developer Events 
+          </div> </a> 
+        </div> 
+       </div> 
+       <div class="lb-xbcol"> 
+        <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link lb-hover-opacity-50"> 
+         <a href="#Explore_What_Is_Possible"> 
+          <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-white lb-txt-18 lb-txt" style="color:#ff9900; padding-left:0px; padding-right:0px;">
+            Explore What Is Possible 
+          </div> </a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="data-attr-wrapper lb-tiny-hide lb-small-hide lb-mid-show lb-large-show lb-xlarge-show lb-none-pad lb-none-v-margin lb-grid" style="background-color:#232f3e; padding-top:0px; padding-bottom:0px; margin-top:0px; margin-bottom:0px;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="28" data-da-so-type="viewport" data-da-so-version="get-started-with-aws" data-da-so-url="/developer"> 
+      <div class="lb-row lb-row-max-large lb-snap"> 
+       <div class="lb-col lb-tiny-24 lb-mid-24"> 
+        <h2 id="Get_Hands-on_with_AWS" class="lb-txt-none lb-txt-white lb-mid-v-margin lb-h2 lb-title" style="color:#FFFFFF; margin-bottom:0px;"> Get Hands-on with AWS</h2> 
+        <div class="lb-tiny-hide lb-small-hide lb-mid-show lb-large-show lb-xlarge-show lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-24"> 
+          <div class="data-attr-wrapper lb-xb-grid-wrap" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="29" data-da-so-type="viewport" data-da-so-version="get-hands-on-with-aws" data-da-so-url="/developer"> 
+           <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-xb-justify-center lb-gutter-tinyOutsideCollapse lb-tiny-xb-2 lb-mid-xb-4"> 
+            <div> 
+             <div class="lb-xbcol"> 
+              <div class="lb-border-p lb-mid-radius data-attr-wrapper lb-tiny-pad lb-none-v-margin lb-box lb-has-link lb-hover-p-feature-shadow lb-box-p" style="background-color:#FFFFFF;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="31" data-da-so-type="viewport" data-da-so-version="devops" data-da-so-url="/developer"> 
+               <a href="https://aws.amazon.com/developer/learning/devops-on-aws/?ref=dc&amp;id=tp1"> 
+                <div class="lb-tiny-align-center lb-small-align-center lb-mid-align-center lb-large-align-center lb-xlarge-align-center lb-txt-bold lb-txt-none lb-txt-18 lb-none-pad lb-none-v-margin lb-txt" style="color:#000000;">
+                  DevOps 
+                </div> </a> 
+              </div> 
+             </div> 
+             <div class="lb-xbcol"> 
+              <div class="lb-border-p lb-mid-radius data-attr-wrapper lb-tiny-pad lb-none-v-margin lb-box lb-has-link lb-hover-p-feature-shadow lb-box-p" style="background-color:#FFFFFF;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="32" data-da-so-type="viewport" data-da-so-version="data-ml" data-da-so-url="/developer"> 
+               <a href="http://aws.amazon.com/developer/learning/data-ops-ml-on-aws/?ref=dc&amp;id=tp2"> 
+                <div class="lb-tiny-align-center lb-small-align-center lb-mid-align-center lb-large-align-center lb-xlarge-align-center lb-txt-bold lb-txt-none lb-txt-18 lb-none-pad lb-none-v-margin lb-txt" style="color:#000000;">
+                  Data and ML 
+                </div> </a> 
+              </div> 
+             </div> 
+             <div class="lb-xbcol"> 
+              <div class="lb-border-p lb-mid-radius data-attr-wrapper lb-tiny-pad lb-none-v-margin lb-box lb-has-link lb-hover-p-feature-shadow lb-box-p" style="background-color:#FFFFFF;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="33" data-da-so-type="viewport" data-da-so-version="genai" data-da-so-url="/developer/"> 
+               <a href="/developer/generative-ai/?ref=dc&amp;id=tp3"> 
+                <div class="lb-tiny-align-center lb-small-align-center lb-mid-align-center lb-large-align-center lb-xlarge-align-center lb-txt-bold lb-txt-none lb-txt-18 lb-none-pad lb-none-v-margin lb-txt" style="color:#000000;">
+                  Generative AI 
+                </div> </a> 
+              </div> 
+             </div> 
+             <div class="lb-xbcol"> 
+              <div class="lb-border-p lb-mid-radius data-attr-wrapper lb-tiny-pad lb-none-v-margin lb-box lb-has-link lb-hover-p-feature-shadow lb-box-p" style="background-color:#FFFFFF;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="34" data-da-so-type="viewport" data-da-so-version="more-ai/ml-tutorials" data-da-so-url="/developer/"> 
+               <a href="/tutorials/?ref=dc&amp;id=tp4"> 
+                <div class="lb-tiny-align-center lb-small-align-center lb-mid-align-center lb-large-align-center lb-xlarge-align-center lb-txt-bold lb-txt-none lb-txt-18 lb-none-pad lb-none-v-margin lb-txt" style="color:#000000;">
+                  More Tutorials 
+                </div> </a> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="data-attr-wrapper lb-mid-hide lb-large-hide lb-xlarge-hide lb-none-pad lb-none-v-margin lb-grid" style="background-color:#232f3e; padding-top:0px; padding-bottom:0px; margin-top:0px; margin-bottom:0px;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="28" data-da-so-type="viewport" data-da-so-version="get-started-with-aws" data-da-so-url="/developer"> 
+     <div class="lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <h2 id="Get_Hands-on_with_AWS_" class="lb-txt-none lb-txt-white lb-mid-v-margin lb-h2 lb-title" style="color:#FFFFFF;"> Get Hands-on with AWS </h2> 
+       <div class="lb-mid-hide lb-large-hide lb-xlarge-hide lb-grid lb-row lb-row-max-large lb-snap"> 
+        <div class="lb-col lb-tiny-24 lb-mid-6"> 
+         <div class="lb-border-p lb-mid-radius data-attr-wrapper lb-tiny-pad lb-none-v-margin lb-box lb-has-link lb-hover-p-feature-shadow lb-box-p" style="background-color:#FFFFFF; margin-bottom:10px;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="31" data-da-so-type="viewport" data-da-so-version="devops" data-da-so-url="/developer"> 
+          <a href="https://aws.amazon.com/developer/learning/devops-on-aws/?ref=dc&amp;id=tp1" target="_blank" rel="noopener noreferrer"> 
+           <div class="lb-tiny-align-center lb-small-align-center lb-mid-align-center lb-large-align-center lb-xlarge-align-center lb-txt-bold lb-txt-none lb-txt-18 lb-none-pad lb-none-v-margin lb-txt" style="color:#000000;">
+             DevOps 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-col lb-tiny-24 lb-mid-6"> 
+         <div class="lb-border-p lb-mid-radius data-attr-wrapper lb-tiny-pad lb-none-v-margin lb-box lb-has-link lb-hover-p-feature-shadow lb-box-p" style="background-color:#FFFFFF; margin-bottom:10px;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="32" data-da-so-type="viewport" data-da-so-version="data-ml" data-da-so-url="/developer"> 
+          <a href="http://aws.amazon.com/developer/learning/data-ops-ml-on-aws/?ref=dc&amp;id=tp2" target="_blank" rel="noopener noreferrer"> 
+           <div class="lb-tiny-align-center lb-small-align-center lb-mid-align-center lb-large-align-center lb-xlarge-align-center lb-txt-bold lb-txt-none lb-txt-18 lb-none-pad lb-none-v-margin lb-txt" style="color:#000000;">
+             Data and ML 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-col lb-tiny-24 lb-mid-6"> 
+         <div class="lb-border-p lb-mid-radius data-attr-wrapper lb-tiny-pad lb-none-v-margin lb-box lb-has-link lb-hover-p-feature-shadow lb-box-p" style="background-color:#FFFFFF; margin-bottom:10px;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="33" data-da-so-type="viewport" data-da-so-version="genai-bedrock" data-da-so-url="/developer/"> 
+          <a href="/developer/generative-ai/?ref=dc&amp;id=tp3" target="_blank" rel="noopener noreferrer"> 
+           <div class="lb-tiny-align-center lb-small-align-center lb-mid-align-center lb-large-align-center lb-xlarge-align-center lb-txt-bold lb-txt-none lb-txt-18 lb-none-pad lb-none-v-margin lb-txt" style="color:#000000;">
+             Generative AI 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-col lb-tiny-24 lb-mid-6"> 
+         <div class="lb-border-p lb-mid-radius data-attr-wrapper lb-tiny-pad lb-none-v-margin lb-box lb-has-link lb-hover-p-feature-shadow lb-box-p" style="background-color:#FFFFFF;" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="34" data-da-so-type="viewport" data-da-so-version="more-ai/ml-tutorials" data-da-so-url="/developer/"> 
+          <a href="/tutorials/?ref=dc&amp;id=tp4" target="_blank" rel="noopener noreferrer"> 
+           <div class="lb-tiny-align-center lb-small-align-center lb-mid-align-center lb-large-align-center lb-xlarge-align-center lb-txt-bold lb-txt-none lb-txt-18 lb-none-pad lb-none-v-margin lb-txt" style="color:#000000;">
+             More Tutorials 
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="data-attr-wrapper lb-tiny-hide lb-small-hide lb-mid-show lb-mid-pad lb-none-v-margin lb-grid" style="padding-top:0px; padding-bottom:0px;" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="3" data-da-so-version="use-your-favorite-language" data-da-so-url="/developer"> 
+     <div class="lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <h2 id="Use_Your_Favorite_Language" class="lb-txt-none lb-txt-white lb-mid-v-margin lb-h2 lb-title" style="color:#232F3E;"> Use Your Favorite Language</h2> 
+       <div class="lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap lb-collapse" style="margin-bottom:25px;"> 
+        <div class="lb-col lb-tiny-24 lb-small-24"> 
+         <div class="lb-border-p lb-xlarge-radius lb-none-v-margin lb-box" style="background-color:#FAFAFA; height:285px;"> 
+          <div class="lb-tiny-align-center lb-vpos-center"> 
+           <div> 
+            <div class="lb-small-pad lb-none-v-margin lb-grid" style="background-color:#FAFAFA;"> 
+             <div class="lb-row lb-row-max-none lb-snap"> 
+              <div class="lb-col lb-tiny-24 lb-mid-24"> 
+               <div class="lb-none-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#FAFAFA;"> 
+                <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1 lb-small-xb-6"> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/net/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div> 
+                      <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/NET.85c6f333a8f4ea7e9b852071c871d208a986ecbf.png" alt="C# programming language and .net framework" title="C# programming language and .net framework" class="cq-dd-image"> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                      .NET 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/cpp/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div> 
+                      <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/Cpp.4d7f0bd9b504c17645ab0e298919bb21222ea202.png" alt="C++ programming language" title="C++ programming language" class="cq-dd-image"> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                      C++ 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/go/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div> 
+                      <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/Go.c5e9347f418da91a191a43aefdf5eec1bd6385e0.png" alt="Go programming language SDK" title="Go programming language SDK" class="cq-dd-image"> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                      Go 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/java/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div> 
+                      <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/Java.2f620837800e42445e1803f95c6113c9951d70b5.png" alt="java programming language" title="java programming language" class="cq-dd-image"> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                      Java 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/javascript/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div> 
+                      <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/JavaScript.b449ad624ba31cf1d8ce916c0db4779f97558e04.png" alt="javascript programming language" title="javascript programming language" class="cq-dd-image"> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                      JavaScript 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/kotlin/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div> 
+                      <img src="https://d1.awsstatic.com/getting-started-guides/dev-center/kotlin-logo-60-modified.9ffc3443210b4860376d7e44fc45580f07c74dc8.png" alt="Kotlin programming language" title="Kotlin programming language" class="cq-dd-image"> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                      Kotlin 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> 
+               <div class="lb-none-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#FAFAFA;"> 
+                <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1 lb-small-xb-6"> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/php/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div> 
+                      <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/PHP.e2538a29b86b553c484f3ad41720ead19d0e1978.png" alt="PHP programming language" title="PHP programming language" class="cq-dd-image"> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                      PHP 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/python/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div> 
+                      <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/Python.8b1f30aaf76e4b404591ad03a3a1e39ebae6c5bd.png" alt="python programming language" title="python programming language" class="cq-dd-image"> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                      Python 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/ruby/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div> 
+                      <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/Ruby.6085d385bf002b767a2c9be42884645eecd063a5.png" alt="ruby programming language" title="ruby programming language" class="cq-dd-image"> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                      Ruby 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/rust/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div> 
+                      <img src="https://d1.awsstatic.com/developer-center/rust-logo-sm.521971fa3752aa5c028355cd552abae985d0f91c.png" alt="Rust Programming Language" title="Rust Programming Language" class="cq-dd-image"> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt">
+                      Rust 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                 <div class="lb-xbcol"> 
+                  <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                   <a href="/developer/language/swift/"> 
+                    <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                     <div class="lb-round-radius"> 
+                      <span class="lb-round-radius"> <img src="https://d1.awsstatic.com/developer-center/Swift-logo-sm.83b692d037ed5a7999ffb9c55743900074469a73.png" alt="Swift programming language" title="Swift programming language" class="cq-dd-image"></span> 
+                     </div> 
+                    </figure> 
+                    <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                      Swift 
+                    </div> </a> 
+                  </div> 
+                 </div> 
+                 <div class="lb-xbcol"> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-small-show lb-mid-hide lb-large-hide lb-xlarge-hide lb-mid-pad lb-none-v-margin lb-grid"> 
+     <div class="lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <div class="lb-tiny-align-center lb-vpos-center"> 
+        <div> 
+         <div class="lb-small-pad lb-none-v-margin lb-grid" style="background-color:#FAFAFA;"> 
+          <div class="lb-row lb-row-max-none lb-snap"> 
+           <div class="lb-col lb-tiny-24 lb-mid-24"> 
+            <h3 id="Supported_languages" class="lb-tiny-align-left lb-small-align-left lb-mid-align-left lb-large-align-left lb-xlarge-align-left lb-txt-none lb-txt-22 lb-h3 lb-title"> Supported languages</h3> 
+            <div class="lb-none-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#FAFAFA;"> 
+             <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-2"> 
+              <div class="lb-xbcol"> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/net/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div> 
+                   <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/NET.85c6f333a8f4ea7e9b852071c871d208a986ecbf.png" alt="C# programming language and .net framework" title="C# programming language and .net framework" class="cq-dd-image"> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   .NET 
+                 </div> </a> 
+               </div> 
+              </div> 
+              <div class="lb-xbcol"> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/cpp/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div> 
+                   <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/Cpp.4d7f0bd9b504c17645ab0e298919bb21222ea202.png" alt="C++ programming language" title="C++ programming language" class="cq-dd-image"> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   C++ 
+                 </div> </a> 
+               </div> 
+              </div> 
+              <div class="lb-xbcol"> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/go/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div> 
+                   <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/Go.c5e9347f418da91a191a43aefdf5eec1bd6385e0.png" alt="Go programming language SDK" title="Go programming language SDK" class="cq-dd-image"> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   Go 
+                 </div> </a> 
+               </div> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/javascript/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div> 
+                   <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/JavaScript.b449ad624ba31cf1d8ce916c0db4779f97558e04.png" alt="javascript programming language" title="javascript programming language" class="cq-dd-image"> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   JavaScript 
+                 </div> </a> 
+               </div> 
+              </div> 
+              <div class="lb-xbcol"> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/java/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div> 
+                   <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/Java.2f620837800e42445e1803f95c6113c9951d70b5.png" alt="java programming language" title="java programming language" class="cq-dd-image"> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   Java 
+                 </div> </a> 
+               </div> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/kotlin/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div> 
+                   <img src="https://d1.awsstatic.com/getting-started-guides/dev-center/kotlin-logo-60-modified.9ffc3443210b4860376d7e44fc45580f07c74dc8.png" alt="Kotlin programming language" title="Kotlin programming language" class="cq-dd-image"> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   Kotlin 
+                 </div> </a> 
+               </div> 
+              </div> 
+              <div class="lb-xbcol"> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-none-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#FAFAFA;"> 
+             <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-2"> 
+              <div class="lb-xbcol"> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/php/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div> 
+                   <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/PHP.e2538a29b86b553c484f3ad41720ead19d0e1978.png" alt="PHP programming language" title="PHP programming language" class="cq-dd-image"> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   PHP 
+                 </div> </a> 
+               </div> 
+              </div> 
+              <div class="lb-xbcol"> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/python/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div> 
+                   <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/Python.8b1f30aaf76e4b404591ad03a3a1e39ebae6c5bd.png" alt="python programming language" title="python programming language" class="cq-dd-image"> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   Python 
+                 </div> </a> 
+               </div> 
+              </div> 
+              <div class="lb-xbcol"> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/ruby/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div> 
+                   <img src="https://d1.awsstatic.com/Getting%20Started/v3/sdks-tools-60x60/Ruby.6085d385bf002b767a2c9be42884645eecd063a5.png" alt="Ruby programming language" title="Ruby programming language" class="cq-dd-image"> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   Ruby 
+                 </div> </a> 
+               </div> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/swift/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div class="lb-round-radius"> 
+                   <span class="lb-round-radius"> <img src="https://d1.awsstatic.com/developer-center/Swift-logo-sm.83b692d037ed5a7999ffb9c55743900074469a73.png" alt="Swift programming language" title="Swift programming language" class="cq-dd-image"></span> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   Swift 
+                 </div> </a> 
+               </div> 
+              </div> 
+              <div class="lb-xbcol"> 
+               <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+                <a href="/developer/language/rust/"> 
+                 <figure class="lb-tiny-iblock lb-none-v-margin lb-img"> 
+                  <div> 
+                   <img src="https://d1.awsstatic.com/developer-center/rust-logo-sm.521971fa3752aa5c028355cd552abae985d0f91c.png" alt="Rust Programming Language" title="Rust Programming Language" class="cq-dd-image"> 
+                  </div> 
+                 </figure> 
+                 <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-squid lb-txt">
+                   Rust 
+                 </div> </a> 
+               </div> 
+              </div> 
+              <div class="lb-xbcol"> 
+              </div> 
+              <div class="lb-xbcol"> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="data-attr-wrapper lb-mid-pad lb-none-v-margin lb-grid" style="background-color:#232F3E;" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="events"> 
+     <div class="lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <h2 id="Upcoming_AWS_Developer_Events" class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h2 lb-title"> Upcoming AWS Developer Events</h2> 
+       <div id="aws-element-afb3647f-c0f3-4656-bd78-ea7e8cf9b488" class="data-attr-wrapper lb-none-v-margin lb-directory-cards aws-directories-items m-cards-dark" style="margin-top:8px;" data-da-type="so" data-da-so-type="viewport" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="directories-cards" data-da-so-url="events/explore-aws-events" data-da-so-version="bulk" data-api="search" data-directory-id="developer-center-activities" data-cards-id="developer-center-activities-cards" data-sort_order="asc" data-size="4" data-allow-empty-results="false" data-last-page-num="false" data-theme-config="{&quot;themeName&quot;:&quot;events-grid&quot;,&quot;themeVersion&quot;:&quot;1.0.0&quot;,&quot;formatVersion&quot;:&quot;1.0.0&quot;,&quot;themeJS&quot;:&quot;master-card&quot;,&quot;skeletonType&quot;:&quot;grid&quot;,&quot;hasShare&quot;:true,&quot;hasAddToCalendar&quot;:true,&quot;mappings&quot;:{&quot;requiredFields&quot;:{&quot;category&quot;:&quot;contentType&quot;,&quot;contentType&quot;:&quot;blank&quot;,&quot;headline&quot;:&quot;headline&quot;,&quot;headlineUrl&quot;:&quot;headlineUrl&quot;,&quot;description&quot;:&quot;description&quot;,&quot;startDate&quot;:&quot;startDate&quot;},&quot;optionalFields&quot;:{&quot;subHeadline&quot;:&quot;subHeadline&quot;,&quot;expertise&quot;:&quot;&quot;,&quot;expertiseTooltip&quot;:&quot;&quot;,&quot;imageAltText&quot;:&quot;&quot;,&quot;imageSrcUrl&quot;:&quot;&quot;,&quot;videoSrcUrl&quot;:&quot;&quot;,&quot;featureFlag&quot;:&quot;expertise&quot;,&quot;endDate&quot;:&quot;&quot;,&quot;duration&quot;:&quot;duration&quot;,&quot;eventSubinfo&quot;:&quot;eventSubinfo&quot;,&quot;outlookCalUrl&quot;:&quot;&quot;,&quot;googleCalUrl&quot;:&quot;&quot;,&quot;appleCalUrl&quot;:&quot;&quot;,&quot;registerUrl&quot;:&quot;&quot;,&quot;enableShare&quot;:&quot;enableShare&quot;,&quot;trkOutputParam&quot;:&quot;&quot;,&quot;trkCampaign&quot;:&quot;&quot;,&quot;trkOverrideWithQs&quot;:&quot;&quot;},&quot;dialogFields&quot;:{&quot;shareLinksLabel&quot;:&quot;Share via...&quot;,&quot;facebookLabel&quot;:&quot;Facebook&quot;,&quot;twitterLabel&quot;:&quot;Twitter&quot;,&quot;linkedInLabel&quot;:&quot;LinkedIn&quot;,&quot;copyUrlLabel&quot;:&quot;Copy Link&quot;,&quot;addToLabel&quot;:&quot;Add to Calendar&quot;,&quot;registerLabel&quot;:&quot;Register&quot;,&quot;outlookCalLabel&quot;:&quot;Outlook&quot;,&quot;googleCalLabel&quot;:&quot;Google&quot;,&quot;appleCalLabel&quot;:&quot;Apple&quot;}}}" data-expose-query-params="false" data-error-message="Something went wrong. We have been notified and are working to fix the issue." data-pagination-error-message="Pagination limit reached. No items returned on the page." data-lb-comp="cards" data-theme-js="libra-cardsui/themes/master-card" data-sort_by="item.additionalFields.startDateTime" data-tag="[&quot;!developer-center-activities#series#twitch-streams&quot;, &quot;!developer-center-activities#gameday#game-day-events&quot;, &quot;!developer-center-activities#test#test&quot;]"> 
+        <div class="m-cards-skl m-cards-skl-grid"> 
+         <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1 lb-small-xb-2 lb-large-xb-4 lb-xb-equal-height lb-vgutter-collapse"> 
+          <div class="lb-xbcol"> 
+           <div class="m-cards-skl-dark"></div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="m-cards-skl-dark"></div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="m-cards-skl-dark"></div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="m-cards-skl-dark"></div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="m-cards-header"> 
+         <span class="m-card-numbers"></span> 
+         <div class="lb-sr-only m-card-numbers-a11y" role="status" data-label-showing-results="Showing results" data-label-total-results="Total results" data-label-no-results="No result found"></div> 
+         <span class="m-card-sort-container"> 
+          <div id="aws-element-92147890-21a7-4c9c-8a1a-310017a1e476" class="lb-form-item lb-label-left m-disabled m-sort m-sort-light" data-lb-comp="sort" data-sort-scope="developer-center-activities" data-ui-scope="developer-center-activities-cards"> 
+           <label id="aws-element-92147890-21a7-4c9c-8a1a-310017a1e476-label">Sort by:</label> 
+           <div class="lb-dropdown lb-dropdown-p"> 
+            <div class="lb-dropdown-label" id="aws-element-92147890-21a7-4c9c-8a1a-310017a1e476-combobox" tabindex="0" aria-controls="aws-element-92147890-21a7-4c9c-8a1a-310017a1e476-listbox" role="combobox" aria-labelledby="aws-element-92147890-21a7-4c9c-8a1a-310017a1e476-label" aria-haspopup="listbox" aria-expanded="false" aria-activedescendant=""> 
+             <span>Upcoming</span> 
+            </div> 
+            <input class="lb-dropdown-selected" type="hidden"> 
+            <ul class="lb-dropdown-list" role="listbox" id="aws-element-92147890-21a7-4c9c-8a1a-310017a1e476-listbox"> 
+             <li id="aws-element-92147890-21a7-4c9c-8a1a-310017a1e476-opt-item.additionalFields.startDateTime-asc" data-value="item.additionalFields.startDateTime-asc" data-sort-by="item.additionalFields.startDateTime" data-sort-order="asc" role="option" tabindex="0" class="lb-dropdown-item"> <span>Upcoming</span> </li> 
+             <li id="aws-element-92147890-21a7-4c9c-8a1a-310017a1e476-opt-item.additionalFields.headline-asc" data-value="item.additionalFields.headline-asc" data-sort-by="item.additionalFields.headline" data-sort-order="asc" role="option" tabindex="0" class="lb-dropdown-item"> <span>Event Name (A-Z)</span> </li> 
+             <li id="aws-element-92147890-21a7-4c9c-8a1a-310017a1e476-opt-item.additionalFields.headline-desc" data-value="item.additionalFields.headline-desc" data-sort-by="item.additionalFields.headline" data-sort-order="desc" role="option" tabindex="0" class="lb-dropdown-item"> <span>Event Name (Z-A)</span> </li> 
+            </ul> 
+           </div> 
+          </div> </span> 
+        </div> 
+        <div class="m-cards-no-items"> 
+         <div class="lb-tiny-align-center lb-txt-none lb-txt-orange lb-txt-16 lb-large-v-margin lb-txt">
+           No events found matching that criteria. 
+         </div> 
+        </div> 
+        <script type="text/x-handlebars-template" data-hbs-template-path="events-grid/1.0.0/events-grid" data-hbs-context="{&quot;componentInstanceId&quot;:&quot;aws-element-afb3647f-c0f3-4656-bd78-ea7e8cf9b488&quot;}"></script> 
+        <div class="aws-directories-container-wrapper"> 
+         <section class="m-card-events-grid lb-row lb-snap lb-row-max-large"> 
+          <ul class="aws-directories-container lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1 lb-small-xb-2 lb-large-xb-4 lb-xb-equal-height lb-vgutter-collapse"> 
+          </ul> 
+         </section> 
+        </div> 
+       </div> 
+       <a class="lb-txt-bold lb-txt-none lb-txt-white lb-txt" href="/developer/events/"> Explore More Upcoming Events »</a> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="data-attr-wrapper lb-mid-pad lb-none-v-margin lb-grid" style="background-color:#ffffff;" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="5" data-da-so-version="explore-what-is-possible" data-da-so-url="/developer"> 
+     <div class="lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <h2 id="Explore_What_Is_Possible" class="lb-txt-none lb-txt-white lb-none-v-margin lb-h2 lb-title" style="color:#232F3E;"> Explore What Is Possible</h2> 
+       <div class="lb-txt-none lb-txt-lead lb-txt">
+         Check out several ways to extend the capabilities of your application. 
+       </div> 
+       <div class="lb-tiny-pad lb-none-v-margin lb-grid"> 
+        <div class="lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-8"> 
+          <div class="data-attr-wrapper lb-small-v-margin lb-box" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="explore-data"> 
+           <div class="data-attr-wrapper lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap lb-div" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="19" data-da-so-type="viewport" data-da-so-version="connect-data" data-da-so-url="/developer"> 
+            <div class="lb-col lb-tiny-24 lb-mid-8"> 
+             <figure class="lb-none-v-margin lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/100x100_database-light.a921de7c8be5d0ec2750e281685f14b866e69dae.png" alt="" title="" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+            </div> 
+            <div class="lb-col lb-tiny-24 lb-mid-16"> 
+             <h3 id="Connect_Your_Data" class="lb-txt-none lb-txt-squid lb-none-v-margin lb-h3 lb-title"> <a href="/products/databases/learn/?intClick=dev-center-2021_main"> Connect Your Data</a> </h3> 
+             <div class="lb-txt-normal lb-txt-none lb-txt-squid lb-txt" style="margin-top:20px;">
+               Choose the right database to store your data 
+             </div> 
+             <a class="lb-txt-none lb-txt-14 lb-txt" href="/products/databases/learn/?pg=devctr-home-explore"> Learn More »</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-8"> 
+          <div class="data-attr-wrapper lb-small-v-margin lb-box" style="margin-bottom:20px;" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="explore-ml"> 
+           <div class="data-attr-wrapper lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap lb-div" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="20" data-da-so-type="viewport" data-da-so-version="al-ml-servives" data-da-so-url="/developer"> 
+            <div class="lb-col lb-tiny-24 lb-mid-8"> 
+             <figure class="lb-none-v-margin lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/icons/100x100_machine-learning_light.6e36ba1b331696efc79070378c1be5f51e3b1eff.png" alt="Machine Learning" title="Machine Learning" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+            </div> 
+            <div class="lb-col lb-tiny-24 lb-mid-16"> 
+             <h3 id="AI_.26_ML_Services" class="lb-txt-none lb-txt-squid lb-none-v-margin lb-h3 lb-title"> <a href="/machine-learning/learn/?intClick=dev-center-2021_main"> AI &amp; ML Services</a> </h3> 
+             <div class="lb-txt-normal lb-txt-none lb-txt-squid lb-txt" style="margin-top:20px;">
+               Integrate AI &amp; ML services with your application 
+             </div> 
+             <a class="lb-txt-none lb-txt-14 lb-txt" href="/machine-learning/learn/?pg=devctr-home-explore"> Learn More »</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-8"> 
+          <div class="data-attr-wrapper lb-small-v-margin lb-box" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="explore-arch"> 
+           <div class="data-attr-wrapper lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap lb-div" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="22" data-da-so-type="viewport" data-da-so-version="continous-delivery" data-da-so-url="/developer"> 
+            <div class="lb-col lb-tiny-24 lb-mid-8"> 
+             <figure class="lb-none-v-margin lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/icons/100x100_run-containers_light.cdfdf679cde5f09867ed5e377010f518d8949c8d.png" alt="Containers" title="Containers" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+            </div> 
+            <div class="lb-col lb-tiny-24 lb-mid-16"> 
+             <h3 id="Architecture_Guidance_for_Containers" class="lb-txt-none lb-txt-squid lb-none-v-margin lb-h3 lb-title"> <a href="https://aws.amazon.com/architecture/containers/?pg=devctr-home-explore"> Architecture Guidance for Containers</a> </h3> 
+             <div class="lb-txt-normal lb-txt-none lb-txt-squid lb-txt" style="margin-top:20px;">
+               Browse best practices for deploying and managing your containers on AWS 
+             </div> 
+             <a class="lb-txt-none lb-txt-14 lb-txt" href="https://aws.amazon.com/architecture/containers/?pg=devctr-home-explore" target="_blank" rel="noopener noreferrer"> Learn More »</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="lb-tiny-pad lb-none-v-margin lb-grid"> 
+        <div class="lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-8"> 
+          <div class="data-attr-wrapper lb-small-v-margin lb-box" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="explore-iac"> 
+           <div class="data-attr-wrapper lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap lb-div" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="21" data-da-so-type="viewport" data-da-so-version="infra-code" data-da-so-url="/developer"> 
+            <div class="lb-col lb-tiny-24 lb-mid-8"> 
+             <figure class="lb-none-v-margin lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/webteam/category-pages/Developer%20Tools/Page-Illo_Use-Case_infrastructure-as-code.8e80734665c908bad1d9fa2559645aae971983e6.png" alt="" title="" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+            </div> 
+            <div class="lb-col lb-tiny-24 lb-mid-16"> 
+             <h3 id="Infrastructure_as_Code" class="lb-txt-none lb-txt-squid lb-none-v-margin lb-h3 lb-title"> <a href="https://aws.amazon.com/cdk"> Infrastructure as Code</a> </h3> 
+             <div class="lb-txt-normal lb-txt-none lb-txt-squid lb-txt" style="margin-top:20px;">
+               Define your infrastructure using familiar programming languages 
+             </div> 
+             <a class="lb-txt-none lb-txt-14 lb-txt" href="/cdk/?pg=devctr-home-explore"> Learn More »</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-8"> 
+          <div class="data-attr-wrapper lb-small-v-margin lb-box" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="explore-cicd"> 
+           <div class="data-attr-wrapper lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap lb-div" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="22" data-da-so-type="viewport" data-da-so-version="continous-delivery" data-da-so-url="/developer"> 
+            <div class="lb-col lb-tiny-24 lb-mid-8"> 
+             <figure class="lb-none-v-margin lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/webteam/category-pages/Developer%20Tools/Page-Illo_Use-Case_Continuous-Delivery.92e6c6fd8a5fdd611f97de6e348a4bb214c79639.png" alt="" title="" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+            </div> 
+            <div class="lb-col lb-tiny-24 lb-mid-16"> 
+             <h3 id="Continuous_Delivery" class="lb-txt-none lb-txt-squid lb-none-v-margin lb-h3 lb-title"> <a href="/products/developer-tools/?intClick=dev-center-2021_main"> Continuous Delivery</a> </h3> 
+             <div class="lb-txt-normal lb-txt-none lb-txt-squid lb-txt" style="margin-top:20px;">
+               Continuously build, integrate, and deliver with an end-to-end pipeline 
+             </div> 
+             <a class="lb-txt-none lb-txt-14 lb-txt" href="/products/developer-tools/?pg=devctr-home-explore"> Learn More »</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-8"> 
+          <div class="data-attr-wrapper lb-small-v-margin lb-box" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="explore-monlog"> 
+           <div class="data-attr-wrapper lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap lb-div" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="en" data-da-so-name="23" data-da-so-type="viewport" data-da-so-version="monitor-log" data-da-so-url="/developer"> 
+            <div class="lb-col lb-tiny-24 lb-mid-8"> 
+             <figure class="lb-none-v-margin lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/webteam/category-pages/Developer%20Tools/Page-Illo_Use-Case_monitoring-and-logging.b6c633344fcf3c7b5ea7fa80d99e7ebcb31702d6.png" alt="" title="" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+            </div> 
+            <div class="lb-col lb-tiny-24 lb-mid-16"> 
+             <h3 id="Monitoring_.26_Logging" class="lb-txt-none lb-txt-squid lb-none-v-margin lb-h3 lb-title"> <a href="/products/management-and-governance/use-cases/monitoring-and-observability/?intClick=dev-center-2021_main"> Monitoring &amp; Logging</a> </h3> 
+             <div class="lb-txt-normal lb-txt-none lb-txt-squid lb-txt" style="margin-top:20px;">
+               Observability for your AWS resources and applications 
+             </div> 
+             <a class="lb-txt-none lb-txt-14 lb-txt" href="/products/management-and-governance/use-cases/monitoring-and-observability/?pg=devctr-home-explore"> Learn More »</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-none-pad lb-none-v-margin lb-box lb-has-link"> 
+     <a href="#AWS_Developer_Center"> 
+      <figure class="lb-img"> 
+       <div> 
+        <img src="https://d1.awsstatic.com/getting-started-guides/developer-tools/orange-uparrow.ec42b7cc3580de87a5177a164f80644b85f4f940.png" alt="" title="" class="cq-dd-image"> 
+       </div> 
+      </figure> </a> 
+    </div> 
+    <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_developer-whats-next"> 
+     <div class="lb-grid" style="margin-bottom:0px;"> 
+      <div class="lb-row lb-row-max-large lb-snap"> 
+       <div class="lb-col lb-tiny-24 lb-mid-24"> 
+        <div class="lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-24"> 
+          <div class="lb-small-hide lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+           <div class="lb-col lb-tiny-24 lb-mid-24"> 
+            <div class="lb-tiny-pad lb-box"> 
+             <h3 id="Was_this_page_helpful.3F" class="lb-txt-none lb-none-v-margin lb-h3 lb-title"> Was this page helpful?</h3> 
+             <div class="lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+              <div class="lb-col lb-tiny-24 lb-mid-24"> 
+               <div class="lb-tiny-iblock lb-none-pad lb-none-v-margin lb-box"> 
+                <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-category="feedback" data-da-so-url="devctr" data-da-so-name="yes"> 
+                 <div class="lb-tiny-iblock lb-none-v-margin lb-btn lb-icon-only"> 
+                  <a class="lb-btn-p" href="#" data-mbox-ignore="true" data-lb-modal-trigger="modal" role="button" aria-expanded="false" aria-label="Thumbs Up" id="modal-modal-trigger" aria-controls="modal" aria-haspopup="dialog" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> <span> <i class="icon-thumbs-up lb-before"></i></span> </a> 
+                 </div> 
+                </div> 
+               </div> 
+               <div class="lb-tiny-iblock lb-none-pad lb-none-v-margin lb-box"> 
+                <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-category="feedback" data-da-so-url="devctr" data-da-so-name="no"> 
+                 <div class="lb-tiny-iblock lb-none-v-margin lb-btn lb-icon-only"> 
+                  <a class="lb-btn-p" href="#" data-mbox-ignore="true" data-lb-modal-trigger="modal" role="button" aria-expanded="false" aria-label="Thumbs Down" id="modal-modal-trigger" aria-controls="modal" aria-haspopup="dialog" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> <span> <i class="icon-thumbs-down lb-before"></i></span> </a> 
+                 </div> 
+                </div> 
+               </div> 
+               <div class="lb-tiny-iblock lb-none-pad lb-none-v-margin lb-box"> 
+                <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-category="feedback" data-da-so-url="devctr" data-da-so-name="manual"> 
+                 <div class="lb-tiny-iblock lb-none-v-margin lb-btn"> 
+                  <a class="lb-btn-p" href="https://docs-feedback.aws.amazon.com/feedback.jsp?feedback_destination_id=8e04845c-9b60-4f61-8115-710d5bf8efea&amp;topic_url=https://aws.amazon.com/developer/" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}" role="button"> <span> <i class="icon-commenting lb-before"></i>&nbsp;Feedback</span> </a> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="lb-tiny-hide lb-small-show lb-none-pad lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+           <div class="lb-col lb-tiny-24 lb-mid-24"> 
+            <div class="lb-small-show lb-none-pad lb-top-right lb-fixed-pos-wrapper" style="z-index:2; top:50%; right:0%; padding-right:0px;"> 
+             <div class="lb-border-p-feature lb-small-radius lb-tiny-hide lb-small-hide lb-mid-show lb-large-show lb-xlarge-show lb-none-pad lb-none-v-margin lb-box lb-hover-p-feature-shadow" style="background-color:rgba(255,255,255,0.7);"> 
+              <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-category="feedback" data-da-so-url="devctr" data-da-so-name="yes"> 
+               <a class="lb-tiny-align-center lb-txt-none lb-txt-20 lb-txt" style="padding-top:10px; padding-left:5px; padding-bottom:10px; padding-right:0px;" href="#" data-mbox-ignore="true" data-lb-modal-trigger="modal" role="button" aria-expanded="false" aria-label="Thumbs Up" id="modal-modal-trigger" aria-controls="modal" aria-haspopup="dialog"> <i class="icon-thumbs-o-up"></i></a> 
+              </div> 
+              <div class="lb-none-pad lb-none-v-margin lb-box" style="padding-left:10px; padding-right:10px;"> 
+               <hr class="lb-none-v-margin lb-divider"> 
+              </div> 
+              <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-category="feedback" data-da-so-url="devctr" data-da-so-name="no"> 
+               <a class="lb-tiny-align-center lb-txt-none lb-txt-20 lb-txt" style="padding-top:10px; padding-left:5px; padding-bottom:10px; padding-right:0px;" href="#" data-mbox-ignore="true" data-lb-modal-trigger="modal" role="button" aria-expanded="false" aria-label="Thumbs Down" id="modal-modal-trigger" aria-controls="modal" aria-haspopup="dialog"> <i class="icon-thumbs-o-down"></i></a> 
+              </div> 
+              <div class="lb-none-pad lb-none-v-margin lb-box" style="padding-left:10px; padding-right:10px;"> 
+               <hr class="lb-none-v-margin lb-divider"> 
+              </div> 
+              <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-category="feedback" data-da-so-url="devctr" data-da-so-name="manual"> 
+               <a class="lb-tiny-align-center lb-txt-none lb-txt-20 lb-txt" style="padding-top:10px; padding-left:5px; padding-bottom:10px; padding-right:0px;" href="https://docs-feedback.aws.amazon.com/feedback.jsp?feedback_destination_id=8e04845c-9b60-4f61-8115-710d5bf8efea&amp;topic_url=https://aws.amazon.com/developer/" target="_blank" rel="noopener noreferrer"> <i class="icon-commenting"></i></a> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap"> 
+           <div class="lb-col lb-tiny-24 lb-mid-4"> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-16"> 
+            <div class="lb-skt-overlay lb-modal lb-comp-content-container" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-modal-trigger" data-lb-comp="modal" data-lb-modal-id="modal"> 
+             <div class="lb-modal-content"> 
+              <div class="lb-modal-close-container"> 
+               <button class="lb-modal-close" aria-label="Close" title="Close"> <span class="lb-sr-only">Close</span> </button> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-18 lb-none-v-margin lb-txt">
+                Thank you for your feedback 
+              </div> 
+              <div class="lb-txt-none lb-txt-squid lb-txt" style="margin-top:20px;">
+                Feedback helps us improve our experience. If you would like to share more details on the feedback, please click the feedback button below. 
+              </div> 
+              <div class="data-attr-wrapper lb-tiny-iblock lb-btn" data-da-type="so" data-da-so-category="feedback" data-da-so-url="devctr" data-da-so-name="manual"> 
+               <a class="lb-btn-p" href="https://docs-feedback.aws.amazon.com/feedback.jsp?feedback_destination_id=8e04845c-9b60-4f61-8115-710d5bf8efea&amp;topic_url=https://aws.amazon.com/developer/" target="_blank" rel="noopener noreferrer" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}" role="button"> <span> <i class="icon-comments lb-before"></i>&nbsp;Feedback</span> </a> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-col lb-tiny-24 lb-mid-4"> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <h2 id="Next_Steps" class="lb-txt-bold lb-txt-none lb-txt-28 lb-mid-v-margin lb-h2 lb-title" style="margin-bottom:0px;"> Next Steps</h2> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="lb-bg-center-bottom-contain-no-repeat lb-none-v-margin lb-xb-grid-wrap" style="background-color:#FFFFFF; padding-top:25px; padding-bottom:35px; background-image:url('https://d1.awsstatic.com/webteam/category-pages/End User Computing/Layer_F2F3F3_1440x70.e69cea190f7ab0c1efed33d4494ac57f06a24993.png'); margin-bottom:0px;"> 
+      <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-tiny-xb-1 lb-small-xb-2 lb-mid-xb-4"> 
+       <div class="lb-xbcol"> 
+        <div class="lb-border-p data-attr-wrapper lb-box lb-has-link" style="background-color:#FFFFFF; border-width:10px; border-color:#EAEDED;" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="next-steps-arch"> 
+         <a href="/architecture/"> 
+          <div class="lb-tiny-align-left lb-txt-bold lb-txt-18 lb-none-v-margin lb-rtxt" style="color:#EC7211; margin-bottom:0px;"> 
+           <p style="text-align: left;">AWS Architecture Center</p> 
+          </div> 
+          <div class="lb-tiny-align-left lb-txt-none lb-txt-squid lb-txt-16 lb-txt">
+            See reference architecture diagrams, vetted architecture solutions, and best practices for AWS. 
+          </div> 
+          <div class="lb-txt-none lb-txt-blue-600 lb-txt-14 lb-txt">
+            Visit Architecture Center&nbsp; 
+           <i class="icon-angle-double-right"></i> 
+          </div> </a> 
+        </div> 
+       </div> 
+       <div class="lb-xbcol"> 
+        <div class="lb-border-p data-attr-wrapper lb-box lb-has-link" style="background-color:#FFFFFF; border-width:10px; border-color:#EAEDED;" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="next-steps-community"> 
+         <a href="/developer/community/"> 
+          <div class="lb-tiny-align-left lb-txt-bold lb-txt-18 lb-none-v-margin lb-rtxt" style="color:#EC7211; margin-bottom:0px;"> 
+           <p style="text-align: left;">Join the Community<br> </p> 
+          </div> 
+          <div class="lb-tiny-align-left lb-txt-none lb-txt-squid lb-txt-16 lb-txt">
+            Come join the AWS community to meet, network, and learn from like-minded developers from around the world. 
+          </div> 
+          <div class="lb-txt-none lb-txt-blue-600 lb-txt-14 lb-txt">
+            Find Community Near You&nbsp; 
+           <i class="icon-angle-double-right"></i> 
+          </div> </a> 
+        </div> 
+       </div> 
+       <div class="lb-xbcol"> 
+        <div class="lb-border-p data-attr-wrapper lb-box lb-has-link" style="background-color:#FFFFFF; border-width:10px; border-color:#EAEDED;" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="next-steps-tnc"> 
+         <a href="/training/learn-about/developer/"> 
+          <div class="lb-tiny-align-left lb-txt-bold lb-txt-18 lb-none-v-margin lb-rtxt" style="color:#EC7211; margin-bottom:0px;"> 
+           <p style="text-align: left;">Up Level Your Skills<br> </p> 
+          </div> 
+          <div class="lb-tiny-align-left lb-txt-none lb-txt-squid lb-txt-16 lb-txt">
+            Take your skills to the next level. Find learning opportunities or schedule your next certification training. 
+          </div> 
+          <div class="lb-txt-none lb-txt-blue-600 lb-txt-14 lb-txt">
+            Visit Training &amp; Certification&nbsp; 
+           <i class="icon-angle-double-right"></i> 
+          </div> </a> 
+        </div> 
+       </div> 
+       <div class="lb-xbcol"> 
+        <div class="lb-border-p data-attr-wrapper lb-box lb-has-link" style="background-color:#FFFFFF; border-width:10px; border-color:#EAEDED;" data-da-type="so" data-da-so-category="devctr" data-da-so-name="main" data-da-so-url="next-steps-support"> 
+         <a href="/premiumsupport/plans/developers/"> 
+          <div class="lb-tiny-align-left lb-txt-bold lb-txt-18 lb-none-v-margin lb-rtxt" style="color:#EC7211; margin-bottom:0px;"> 
+           <p style="text-align: left;">Get Support<br> </p> 
+          </div> 
+          <div class="lb-tiny-align-left lb-txt-none lb-txt-squid lb-txt-16 lb-txt">
+            Need a hand? Explore support opportunities to get your project unstuck and back on track. 
+          </div> 
+          <div class="lb-txt-none lb-txt-blue-600 lb-txt-14 lb-txt">
+            See Support Options&nbsp; 
+           <i class="icon-angle-double-right"></i> 
+          </div> </a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </main> 
+  </div> 
+  <footer id="aws-page-footer" class="m-page-footer" role="contentinfo"> 
+   <div class="data-attr-wrapper lb-none-v-margin lb-xb-grid-wrap" style="background-color:#242F3E;" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="footer" data-da-so-version="a"> 
+    <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1 lb-small-xb-3 lb-large-xb-5"> 
+     <div class="lb-xbcol"> 
+      <div class="data-attr-wrapper lb-small-hide lb-btn" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="footer_buttons" data-da-so-url="all" data-da-so-version="footer_signin-mobile-default"> 
+       <a class="lb-btn-p-primary" href="https://console.aws.amazon.com/console/home?nc1=f_ct&amp;src=footer-signin-mobile" role="button"> <span> Sign In to the Console</span> </a> 
+      </div> 
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title"> Learn About AWS</h3> 
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;"> 
+       <li><a href="/what-is-aws/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is AWS?</a></li> 
+       <li><a href="/what-is-cloud-computing/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is Cloud Computing?</a></li> 
+       <li><a href="/accessibility/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS Accessibility</a></li> 
+       <li><a href="/diversity-inclusion/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS Inclusion, Diversity &amp; Equity</a></li> 
+       <li><a href="/devops/what-is-devops/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is DevOps?</a></li> 
+       <li><a href="/containers/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is a Container?</a></li> 
+       <li><a href="/what-is/data-lake/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What Is a Data Lake?</a></li> 
+       <li><a href="/what-is/generative-ai/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What is Generative AI?</a></li> 
+       <li><a href="/security/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS Cloud Security</a></li> 
+       <li><a href="/new/?nc1=f_cc" target="_blank" rel="noopener noreferrer">What's New</a></li> 
+       <li><a href="/blogs/?nc1=f_cc" target="_blank" rel="noopener noreferrer">Blogs</a></li> 
+       <li><a href="https://press.aboutamazon.com/press-releases/aws" target="_blank" rel="noopener noreferrer" title="Press Releases">Press Releases</a></li> 
+      </ul> 
+     </div> 
+     <div class="lb-xbcol"> 
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title"> Resources for AWS</h3> 
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;"> 
+       <li><a href="/getting-started/?nc1=f_cc" target="_blank" rel="noopener noreferrer">Getting Started</a></li> 
+       <li><a href="/training/?nc1=f_cc" target="_blank" rel="noopener noreferrer">Training and Certification</a></li> 
+       <li><a href="/solutions/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS Solutions Library</a></li> 
+       <li><a href="/architecture/?nc1=f_cc" target="_blank" rel="noopener noreferrer">Architecture Center</a></li> 
+       <li><a href="/faqs/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Product and Technical FAQs</a></li> 
+       <li><a href="/resources/analyst-reports/?nc1=f_cc" target="_blank" rel="noopener noreferrer">Analyst Reports</a></li> 
+       <li><a href="/partners/work-with-partners/?nc1=f_dr" target="_blank" rel="noopener noreferrer">AWS Partners</a></li> 
+      </ul> 
+     </div> 
+     <div class="lb-xbcol"> 
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title"> Developers on AWS</h3> 
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;"> 
+       <li><a href="/developer/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Developer Center</a></li> 
+       <li><a href="/developer/tools/?nc1=f_dr" target="_blank" rel="noopener noreferrer">SDKs &amp; Tools</a></li> 
+       <li><a href="/developer/language/net/?nc1=f_dr" target="_blank" rel="noopener noreferrer">.NET on AWS</a></li> 
+       <li><a href="/developer/language/python/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Python on AWS</a></li> 
+       <li><a href="/developer/language/java/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Java on AWS</a></li> 
+       <li><a href="/developer/language/php/?nc1=f_cc" target="_blank" rel="noopener noreferrer">PHP on AWS</a></li> 
+       <li><a href="/developer/language/javascript/?nc1=f_dr" target="_blank" rel="noopener noreferrer">JavaScript on AWS</a></li> 
+      </ul> 
+     </div> 
+     <div class="lb-xbcol"> 
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title"> Help</h3> 
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;"> 
+       <li><a href="/contact-us/?nc1=f_m" target="_blank" rel="noopener noreferrer">Contact Us</a></li> 
+       <li><a href="https://iq.aws.amazon.com/?utm=mkt.foot/?nc1=f_m" target="_blank" rel="noopener noreferrer">Get Expert Help</a></li> 
+       <li><a href="https://console.aws.amazon.com/support/home/?nc1=f_dr" target="_blank" rel="noopener noreferrer">File a Support Ticket</a></li> 
+       <li><a href="https://repost.aws/?nc1=f_dr" target="_blank" rel="noopener noreferrer">AWS re:Post</a></li> 
+       <li><a href="https://repost.aws/knowledge-center/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Knowledge Center</a></li> 
+       <li><a href="/premiumsupport/?nc1=f_dr" target="_blank" rel="noopener noreferrer">AWS Support Overview</a></li> 
+       <li><a href="/legal/?nc1=f_cc" target="_blank" rel="noopener noreferrer">Legal</a></li> 
+       <li><a href="/careers/">AWS Careers</a></li> 
+      </ul> 
+      <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_footer-v3_addl-help"> 
+      </div> 
+     </div> 
+     <div class="lb-xbcol"> 
+      <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_footer-v3_cta"> 
+       <div class="data-attr-wrapper lb-tiny-hide lb-small-show lb-btn" data-da-type="so" data-da-so-type="viewport" data-da-so-language="en" data-da-so-category="monitoring" data-da-so-name="footer_buttons" data-da-so-url="all" data-da-so-version="footer_signup-default"> 
+        <a class="lb-btn-p-primary" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc1=f_ct&amp;src=default" role="button"> <span> Create an AWS Account</span> </a> 
+       </div> 
+      </div> 
+      <div class="lb-xb-grid-wrap" style="padding-left:0px; margin-top:20px; margin-bottom:0px;"> 
+       <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-gutter-collapse lb-vgutter-collapse lb-tiny-xb-4"> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-left:0px; padding-right:5px;" href="https://twitter.com/awscloud" target="_blank" rel="noopener noreferrer" title="Twitter"> <i class="icon-twitter"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-none-v-margin lb-txt" style="padding-right:5px;" href="https://www.facebook.com/amazonwebservices" target="_blank" rel="noopener noreferrer" title="Facebook"> <i class="icon-facebook"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="https://www.linkedin.com/company/amazon-web-services/" target="_blank" rel="noopener noreferrer" title="Linkedin"> <i class="icon-linkedin"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="https://www.instagram.com/amazonwebservices/" target="_blank" rel="noopener noreferrer" title="Instagram"> <i class="icon-instagram"></i></a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="lb-xb-grid-wrap" style="padding-left:0px; margin-top:10px;"> 
+       <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-gutter-collapse lb-vgutter-collapse lb-tiny-xb-4"> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="https://www.twitch.tv/aws" target="_blank" rel="noopener noreferrer" title="Twitch"> <i class="icon-twitch"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="https://www.youtube.com/user/AmazonWebServices/Cloud/" target="_blank" rel="noopener noreferrer" title="YouTube"> <i class="icon-youtube"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="/podcasts/" target="_blank" rel="noopener noreferrer" title="Podcast"> <i class="icon-podcast"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="https://pages.awscloud.com/communication-preferences?trk=homepage" target="_blank" rel="noopener noreferrer" title="Email"> <i class="icon-envelope-o"></i></a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="lb-txt-normal lb-txt-white lb-txt-14 lb-rtxt" style="color:#eaeded; margin-top:0px;"> 
+       <div>
+         Amazon is an Equal Opportunity Employer: 
+        <i> Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.</i> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="lb-none-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#242F3E;"> 
+    <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1"> 
+     <div class="lb-xbcol"> 
+      <ul class="lb-txt-white lb-tiny-iblock lb-none-v-margin lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-iblock"> 
+       <li class="lb-txt-bold">Language</li> 
+       <li data-language="ar" lang="ar-SA" translate="no"><a href="https://aws.amazon.com/ar/?nc1=h_ls">عربي</a></li> 
+       <li data-language="id" lang="id-ID" translate="no"><a href="https://aws.amazon.com/id/?nc1=h_ls">Bahasa Indonesia</a></li> 
+       <li data-language="de" lang="de-DE" translate="no"><a href="https://aws.amazon.com/de/?nc1=h_ls">Deutsch</a></li> 
+       <li data-language="en" lang="en-US" translate="no"><a href="https://aws.amazon.com/?nc1=h_ls">English</a></li> 
+       <li data-language="es" lang="es-ES" translate="no"><a href="https://aws.amazon.com/es/?nc1=h_ls">Español</a></li> 
+       <li data-language="fr" lang="fr-FR" translate="no"><a href="https://aws.amazon.com/fr/?nc1=h_ls">Français</a></li> 
+       <li data-language="it" lang="it-IT" translate="no"><a href="https://aws.amazon.com/it/?nc1=h_ls">Italiano</a></li> 
+       <li data-language="pt" lang="pt-BR" translate="no"><a href="https://aws.amazon.com/pt/?nc1=h_ls">Português</a></li> 
+       <li data-language="vi" lang="vi-VN" translate="no"><a href="https://aws.amazon.com/vi/?nc1=f_ls">Tiếng Việt</a></li> 
+       <li data-language="tr" lang="tr-TR" translate="no"><a href="https://aws.amazon.com/tr/?nc1=h_ls">Türkçe</a></li> 
+       <li data-language="ru" lang="ru-RU" translate="no"><a href="https://aws.amazon.com/ru/?nc1=h_ls">Ρусский</a></li> 
+       <li data-language="th" lang="th-TH" translate="no"><a href="https://aws.amazon.com/th/?nc1=f_ls">ไทย</a></li> 
+       <li data-language="jp" lang="ja-JP" translate="no"><a href="https://aws.amazon.com/jp/?nc1=h_ls">日本語</a></li> 
+       <li data-language="ko" lang="ko-KR" translate="no"><a href="https://aws.amazon.com/ko/?nc1=h_ls">한국어</a></li> 
+       <li data-language="cn" lang="zh-CN" translate="no"><a href="https://aws.amazon.com/cn/?nc1=h_ls">中文 (简体)</a></li> 
+       <li data-language="tw" lang="zh-TW" translate="no"><a href="https://aws.amazon.com/tw/?nc1=h_ls">中文 (繁體)</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="lb-none-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#EAEDED; padding-top:5px;"> 
+    <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1"> 
+     <div class="lb-xbcol"> 
+      <ul class="lb-txt-squid lb-none-v-margin lb-ul lb-list-style-none lb-li-none-v-margin lb-tiny-ul-iblock"> 
+       <li><a href="https://aws.amazon.com/privacy/?nc1=f_pr">Privacy</a></li> 
+       <li>|</li> 
+       <li><a href="https://aws.amazon.com/accessibility/?nc1=f_acc">Accessibility</a></li> 
+       <li>|</li> 
+       <li><a href="https://aws.amazon.com/terms/?nc1=f_pr">Site Terms</a></li> 
+       <li>|</li> 
+       <li data-cookie-consent-modal="1"><a href="#"> Cookie Preferences </a></li> 
+       <li>|</li> 
+       <li>© 2024, Amazon Web Services, Inc. or its affiliates. All rights reserved.</li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <div id="aws-page-end"></div> 
+  <div id="lb-page-end"></div> 
+  <script src="https://a0.awsstatic.com/da/js/1.0.50/aws-da.js"></script> 
+  <div id="mrc-sunrise-chat"></div> 
+  <script defer id="mrc-sunrise-chat-loader" src="https://loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev/loader.js"></script> 
+  <!--[if lte IE 9]>
+  <p class="deprecated-browser-support-message">
+    You are using an outdated browser. Please upgrade to a modern browser to improve your experience.<img src="https://fls-na.amazon.com/1/action-impressions/1/OE/aws-mktg/action/awsm_:comp_DeprecatedBrowser@v=1:u=c?dataset=LIVE:PROD&instance=PUB&client=dsk&marketplaceId=A12QK8IU0H0XW5&requestId=ABCDEFGHIJKLMNOPQRST&session=123-1234567-1234567"
+           alt="deprecated-browser pixel tag" />
+      </p>
+<![endif]--> 
+  <div class="lb-skt-overlay lb-modal lb-comp-content-container" data-lb-comp="modal" data-lb-modal-id="ie-deprecation-msg" data-ie10-deprecation-msg="You are using an outdated browser. Please upgrade to a modern browser to improve your experience."> 
+   <div class="lb-modal-dialog"> 
+    <div class="lb-modal-content"> 
+     <div class="lb-modal-header"> 
+      <h4 class="lb-h4"> Ending Support for Internet Explorer</h4> 
+      <a class="lb-modal-close" role="button" href="#" title="Close"> <span class="lb-sr-only">Got it</span> </a> 
+     </div> 
+     <div class="lb-modal-body">
+       AWS support for Internet Explorer ends on 07/31/2022. Supported browsers are Chrome, Firefox, Edge, and Safari. 
+      <a href="https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/" rel="noopener">Learn more »</a> 
+     </div> 
+     <div class="lb-modal-footer"> 
+      <a class="lb-btn-p-primary lb-modal-close lb-modal-action" role="button">Got it</a> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <a data-lb-modal-trigger="ie-deprecation-msg" style="display: none;"></a> 
+  <!-- cms_updated_at: 2024-05-25T04:27:07.373-0700 -->  
+ </body>
+</html>

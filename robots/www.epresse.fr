@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.epresse.fr/sitemap.xml

@@ -1,0 +1,13 @@
+Sitemap: http://globalnews.ca/news-sitemap.xml
+
+Sitemap: https://globalnews.ca/?feed=sitemapsimple
+Sitemap: https://globalnews.ca/videos/sitemap/
+
+User-agent: *
+Disallow: /tag/sochi-olympics/
+Disallow: /video/embed/
+Disallow: /gnca-ajax-redesign/showcase-image/
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

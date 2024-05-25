@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://edda.co
+
+# Sitemaps
+Sitemap: https://edda.co/sitemap.xml

@@ -1,0 +1,10 @@
+Sitemap: https://www.gls.de/privatkunden/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+Disallow: /*?id=*
+Disallow: /unternehmen-institutionen/gls-bank/
+Disallow: /gemeinnuetzige-kunden/gls-bank/

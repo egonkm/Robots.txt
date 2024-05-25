@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /movie_wide.html
+Disallow: /customer/education/active.html
+Disallow: /association/download/
+
+User-agent: Googlebot
+Disallow: /*.pdf$

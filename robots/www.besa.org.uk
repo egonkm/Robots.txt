@@ -1,0 +1,6 @@
+Sitemap: https://besa.org.uk/sitemap.xml
+User-agent: * 
+Disallow: /wp-admin/
+
+User-agent: SemrushBot
+Crawl-delay: 10

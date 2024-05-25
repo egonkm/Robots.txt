@@ -1,0 +1,15 @@
+User-Agent: Funnelback
+Allow: *
+
+User-agent: *
+Disallow: /_phase1
+Disallow: /_phase2
+Disallow: /_designs
+
+Disallow: /*?sq_content_src=
+Disallow: /*_recache
+Disallow: /*_nocache
+Disallow: /*_edit
+Disallow: /*_admin
+Disallow: /*_login
+Disallow: /*_performance

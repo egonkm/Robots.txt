@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Disallow pages
+User-agent: *
+Disallow: /index.php/booking/
+Disallow: /index.php/golf_course/
+Crawl-delay:5
+
+# Sitemap files
+Sitemap: https://oc.golfdigest.co.jp/sitemap.xml

@@ -1,0 +1,23 @@
+Sitemap: https://www3.mtb.com/sitemap.xml
+
+User-agent: *
+Disallow: /content/dam/mtb-web/
+Disallow: /commercial/treasury-management/log-out
+Disallow: /legal-counsel-e-forms
+Disallow: /outside-info-newsletter
+Disallow: /connecticut-e-forms 
+Disallow: /delaware-e-forms 
+Disallow: /florida-e-forms 
+Disallow: /maryland-e-forms 
+Disallow: /massachusetts-e-forms 
+Disallow: /new-jersey-e-forms 
+Disallow: /pennsylvania-e-forms 
+Disallow: /new-york-e-forms
+Disallow: /virginia-e-forms 
+Disallow: /west-virginia-e-forms 
+Disallow: /canada-e-forms 
+Disallow: /tests
+Allow: /locations/mortgage/
+Allow: /locations/business/
+Allow: /locations/loan-services/
+Allow: /content/dam/mtb-web/scripts

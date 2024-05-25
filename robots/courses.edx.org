@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /certificates/
+
+User-agent: *
+Disallow: /credentials/
+
+User-agent: *
+Disallow: /records/programs/shared/
+
+User-agent: *
+Disallow: /media/signatories/
+
+User-agent: *
+Disallow: /auth/login/tpa-saml/
+
+User-agent: Googlebot
+User-agent: bingbot
+User-agent: Slurp
+User-agent: YandexBot
+User-agent: DuckDuckBot
+User-agent: Baiduspider
+Disallow: /videos/
+
+User-agent: HubSpot Crawler
+Disallow: /
+

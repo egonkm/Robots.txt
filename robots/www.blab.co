@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /login/
+Disallow: /services-text-testimonials/
+Disallow: /services-quotes/
+Disallow: /demo-video/
+Disallow: /team/
+Disallow: /example-page/
+Disallow: /tutorials/
+Disallow: /brand/
+Disallow: /milestones/
+Disallow: /in-the-media/
+Disallow: /test/
+
+Sitemap: https://www.blab.co/sitemap.xml

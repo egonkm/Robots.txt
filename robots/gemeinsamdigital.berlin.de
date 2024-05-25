@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /django-admin/
+Sitemap: https://gemeinsamdigital.berlin.de/sitemap.xml

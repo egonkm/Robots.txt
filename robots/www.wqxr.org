@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /media/
+Disallow: /admin/
+Disallow: /feeds/
+Disallow: /player/
+Disallow: /feeds/
+Disallow: /atomfeeds/
+Disallow: /email_change/
+Disallow: /tags/
+Disallow: /grappelli/
+Disallow: /api/
+Disallow: /audio/xspf/
+
+Sitemap: https://www.wqxr.org/sitemap.xml

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wps/
+Allow: /wps/portal/site/sisma-mantova-2012
+Allow: /wps/wcm/connect
+Sitemap: http://www.sismamantova.regione.lombardia.it/sitemap.xml
+Crawl-delay: 1  #Tempo di attesa in secondi fra una richiesta e un altra

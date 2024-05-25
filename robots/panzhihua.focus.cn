@@ -1,0 +1,18 @@
+User-agent: Baiduspider-ads
+Allow: ?utm_source=
+
+User-agent: *
+Disallow: /*?*
+Disallow: /search/
+Disallow: /loupan/*/lpdt*.html
+Disallow: /msglist/
+Disallow: /votehouse/
+Disallow: /photoshow/
+Disallow: /*tu*
+Disallow: /daogou/
+Disallow: /msgview*
+Disallow: ?utm_source=
+Disallow: ?from
+Disallow: ?orp
+
+Sitemap: https://panzhihua.focus.cn/sitemap.xml

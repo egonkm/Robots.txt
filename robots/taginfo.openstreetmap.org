@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /api
+Disallow: /compare
+Disallow: /css
+Disallow: /download
+Disallow: /embed
+Disallow: /img
+Disallow: /js
+Disallow: /keys
+Disallow: /projects
+Disallow: /relations
+Disallow: /search/suggest
+Disallow: /tags
+Disallow: /taginfo/i18n
+Disallow: /test

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /redirects.json
+Allow: /
+Sitemap: https://ooomacros.org/sitemap.xml

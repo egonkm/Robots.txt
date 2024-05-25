@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.hyundai.news/eu/sitemap.xml
+Sitemap: https://www.hyundai.news/de/sitemap.xml
+Sitemap: https://www.hyundai.news/es/sitemap.xml
+Sitemap: https://www.hyundai.news/it/sitemap.xml
+Sitemap: https://www.hyundai.news/dk/sitemap.xml
+Sitemap: https://www.hyundai.news/fr/sitemap.xml
+Sitemap: https://www.hyundai.news/uk/sitemap.xml
+Sitemap: https://www.hyundai.news/pl/sitemap.xml
+Sitemap: https://www.hyundai.news/no/sitemap.xml
+Sitemap: https://www.hyundai.news/cz/sitemap.xml

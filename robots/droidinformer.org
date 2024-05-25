@@ -1,0 +1,39 @@
+User-Agent: *
+Disallow: /search/
+Disallow: /ajax/
+Disallow: /manage/
+Disallow: /guest
+Disallow: /comment/
+Disallow: /downloads/page/
+Disallow: /page/topdevelopers*
+Disallow: /sort/
+Disallow: /software/sort/
+Disallow: /go/
+Disallow: /download/
+Disallow: /*/download/
+Disallow: /kcaptcha.php
+Disallow: /log.php
+Disallow: /hot_programs_counter.php
+Disallow: /js_tag.php
+Disallow: /filter/
+Disallow: /*/filter/
+Disallow: /275405283/
+
+#User-agent: YandexBot
+#Crawl-delay: 1
+
+User-agent: msnbot 
+Crawl-delay: 1
+
+User-agent: Mediapartners-Google
+Disallow: /ajax/
+Disallow: /manage/
+Disallow: /guest
+Disallow: /comment/
+Disallow: /go/
+Disallow: /kcaptcha.php
+Disallow: /log.php
+Disallow: /hot_programs_counter.php
+Disallow: /js_tag.php
+Disallow: /275405283/
+Allow: /

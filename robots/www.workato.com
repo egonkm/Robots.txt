@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /training_and_certification
+Disallow: /calculator-thank-you
+Disallow: /fr-FR/*
+Disallow: /ko-KR/*
+Sitemap: https://www.workato.com/sitemapindex.xml
+Sitemap: https://www.workato.com/the-connector/author-sitemap.xml
+Sitemap: https://www.workato.com/the-connector/category-sitemap.xml
+Sitemap: https://www.workato.com/the-connector/page-sitemap.xml
+Sitemap: https://www.workato.com/the-connector/post-sitemap.xml/

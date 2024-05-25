@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /shop/products/abbott-binaxNOW-COVID-19-ag-at-home-test-kit-2-pack
+Allow: /shop/products/abbott-binaxNOW-COVID-19-ag-at-home-test-kit-3-pack
+Disallow: /purchase-history
+Disallow: /cancel-order
+Disallow: /checkout
+Disallow: /order-receipts
+Disallow: /fill-prescriptions/**
+Disallow: /royal-caribbean-tests/**
+Disallow: /celebrity-cruises-tests/**
+Disallow: /royal-caribbean-tests
+Disallow: /celebrity-cruises-tests
+Disallow: /shop/products/abbott-binaxNOW-COVID-19-ag-at-home-test-kit/
+Disallow: /shop/products/abbott-binaxNOW-COVID-19-ag-at-home-test-kit-2-pack-rc
+Disallow: /shop/products/abbott-binaxNOW-COVID-19-ag-at-home-test-kit-2-pack-cc
+Disallow: /shop/products/abbott-binaxNOW-COVID-19-ag-at-home-test-kit-3-pack-rc
+Disallow: /shop/products/abbott-binaxNOW-COVID-19-ag-at-home-test-kit-3-pack-cc
+
+User-agent: ChatGPT
+Disallow: /
+Sitemap: https://store.optum.com/sitemap.xml
+Host: https://store.optum.com

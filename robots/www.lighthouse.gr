@@ -1,0 +1,8 @@
+User-agent: * 
+Disallow:  
+
+Disallow: /frep/
+
+Noindex: /frep/
+
+Sitemap: https://www.lighthouse.gr/sitemap.xml

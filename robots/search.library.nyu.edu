@@ -1,0 +1,4 @@
+sitemap: https://search.library.nyu.edu/view/scholar/siteindex.xml
+
+User-agent: *
+Allow: /

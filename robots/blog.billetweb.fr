@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.billetweb.fr/files/sitemap_blog.xml

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /su/
+Disallow: /buscador/
+Disallow: /config/
+Disallow: /stats/
+Allow: /
+Sitemap: https://www.rockfm.fm/sitemap-noticias.xml
+Sitemap: https://www.rockfm.fm/sitemap-google_news.xml
+Sitemap: https://www.rockfm.fm/sitemap-google_news_audios.xml
+Sitemap: https://www.rockfm.fm/sitemap-google_news_videos.xml
+# fin robots 16marzo2022 1250

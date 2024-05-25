@@ -1,0 +1,11 @@
+User-agent: Scrapy
+Allow: /
+
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /wp-content/uploads/wpforms/
+Crawl-delay:10
+
+Sitemap: https://www.tiob.org.uk/sitemap.xml
+Sitemap: https://www.tiob.org.uk/sitemap.rss

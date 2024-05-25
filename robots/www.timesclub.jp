@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /owner/
+Disallow: /start/
+Disallow: /sp/start/
+Disallow: /sp/start_02/
+Disallow: /open/tdlesson/closedDetail.jsp
+Disallow: /open/tdlesson/closedInput.jsp
+Disallow: /hometown/
+Disallow: /about/rs_treatment.html
+Disallow: /member/view/sp/secure/regist/simplify/mail.jsp
+Disallow: /closed/
+Disallow: /lp/takeone/
+Disallow: /lp/crew/
+Disallow: /app/

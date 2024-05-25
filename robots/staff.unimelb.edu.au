@@ -1,0 +1,31 @@
+
+
+<!doctype html>
+<html>
+                <!-- Not Logged In -->
+            <head>
+                <!-- /robots.txt -->
+                <!-- 4132506 -->
+                <script>
+                    if (window && localStorage) {
+                        localStorage.setItem("redirect-sso-url", "https%3A//staff.unimelb.edu.au/robots.txt".replace('%3A',':')); 
+                    }
+                </script>
+                <meta http-equiv="refresh" content="0; url=https://staff.unimelb.edu.au/_okta_sso/okta-account-manager-default?url=https%3A//staff.unimelb.edu.au/robots.txt" />
+                <title>Redirecting...</title>
+            
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 26 May 2024 05:32:17
+-->
+
+
+</head>
+            
+            <!--<body>Please wait while you are redirected to log in...
+
+</body>-->
+          
+</html>

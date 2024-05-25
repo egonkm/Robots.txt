@@ -1,0 +1,32 @@
+Sitemap: https://home.pearsonvue.com/googlesitemap.xml
+
+User-agent:*
+Disallow: /Admin/
+Disallow: /App_Browsers/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /App_Start/
+Disallow: /App_WebReferences/
+Disallow: /bin/
+Disallow: /ClientBin/
+Disallow: /CMSAdminControls/
+Disallow: /CMSAPIExamples/
+Disallow: /CMSDesk/
+Disallow: /CMSEdit/
+Disallow: /CMSFormControls/
+Disallow: /CMSGlobalFiles/
+Disallow: /CMSHelp/
+Disallow: /CMSImportFiles/
+Disallow: /CMSInlineControls/
+Disallow: /CMSInstall/
+Disallow: /CMSMasterPages/
+Disallow: /CMSMessages/
+Disallow: /CMSModules/
+Disallow: /CMSResources/
+Disallow: /CMSSiteManager/
+Disallow: /CMSSiteUtils/
+Disallow: /CMSWebParts/
+Disallow: /Legal/
+Disallow: /Service-Bulletins/
+Disallow: /SpecialPages/
+Disallow: /Emails/

@@ -1,0 +1,14 @@
+# Example robots.txt for http://heasarc.gsfc.nasa.gov/
+
+#Keep them robots out of the FTP area.
+User-Agent: *
+Disallow: /FTP/
+Disallow: /cgi-bin/
+Disallow: /db-perl/
+Disallow: /cgi-perl/
+Disallow: /xte_weather/data/
+Disallow: /Tools/xraybg/images/
+Disallow: /Tools/xraybg/spectrum/
+Disallow: /vo/
+Disallow: /uadb/
+Disallow: /srvlogin/

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /service/suche/
+Sitemap: https://www.butenunbinnen.de/apps/frontend/sitemap/xml-sitemap-index.jsp

@@ -1,0 +1,33 @@
+User-Agent: *
+Crawl-Delay: 60
+Allow: /                                      # Allow bot to enter
+Disallow: /t3lib/                             # Nothing to see here
+Disallow: /typo3/                             # Nothing to see here
+Disallow: /typo3conf/                         # Nothing to see here
+Disallow: /themen/wasser-abfall-boden/abfallwirtschaft/buergerdialog-wertstofftonne/    # Nothing to see
+Disallow: /statistiken/                       # Nothing to see here
+Disallow: /service/publikationen/export-webshop-bpa/                     # Nothing to see here
+Disallow: /service/publikationen/broschueren-bestellen/export-webshop-bpa/                  # Nothing to see here
+Disallow: /*.php$
+Disallow: /*&type=98
+Disallow: /*?type=98
+Disallow: /service/publikationen/warenkorb/   # Nothing to see here
+Disallow: /buergerservice/broschueren/warenkorb/ # Nothing to see here
+Disallow: /buergerservice/broschueren/bestellung/ # Nothing to see here
+Disallow: /buergerservice/broschueren/broschueren-bestellen/export-webshop-bpa/       # Nothing to see here
+
+Disallow: /*&eID=tx_solr
+Disallow: /*?eID=tx_solr
+Disallow: /*?id=1892
+Disallow: /*&id=1892
+
+User-agent: BLP_bbot
+User-agent: BLP_bbot/0.1
+Crawl-delay: 300
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: Scrapy/1.0.1 (+http://scrapy.org)
+Disallow: /
+

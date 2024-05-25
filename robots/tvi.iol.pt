@@ -1,0 +1,49 @@
+User-agent: *
+Disallow: /search
+Disallow: /7811748
+Disallow: /300x100
+Disallow: /320x50
+Disallow: /LDB1
+Disallow: /_preview
+Disallow: /goucha/noticias
+Disallow: /doisas10/noticias
+Disallow: /bigbrother/noticias
+Disallow: /aexperiencia/noticias
+Disallow: /otriangulo/noticias
+Disallow: /novelas/noticias
+Disallow: /tvificcao/noticias
+Disallow: /cabelopantene/noticias
+Disallow: /morangoscomacucar/noticias
+Disallow: /tvireality/noticias
+
+User-agent: OpenAI
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Googlebot-Bard
+Disallow: /
+
+User-agent: OpenAI-Crawler
+Disallow: /
+
+Sitemap: https://tvi.iol.pt/sitemap.xml
+Sitemap: https://tvi.iol.pt/sitemaps/news.xml
+Sitemap: https://tvi.iol.pt/sitemaps/index.xml
+Sitemap: https://tvi.iol.pt/sitemaps/videos.xml
+
+
+
+
+    
+        Sitemap: https://tvi.iol.pt/noticias/sitemap.xml
+        Sitemap: https://tvi.iol.pt/noticias/sitemaps/news.xml
+        Sitemap: https://tvi.iol.pt/noticias/sitemaps/index.xml
+        Sitemap: https://tvi.iol.pt/noticias/sitemaps/videos.xml
+    
+        Sitemap: https://tvi.iol.pt/bigbrother/sitemap.xml
+        Sitemap: https://tvi.iol.pt/bigbrother/sitemaps/news.xml
+        Sitemap: https://tvi.iol.pt/bigbrother/sitemaps/index.xml
+        Sitemap: https://tvi.iol.pt/bigbrother/sitemaps/videos.xml
+    

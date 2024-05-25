@@ -1,0 +1,15 @@
+User-agent:*
+Disallow: /*2013
+Disallow: /*2014
+Disallow: /*2015
+Disallow: /*2016
+
+Allow:/
+Sitemap:http://edu.gmw.cn/baidu_edu.xml
+Sitemap:http://edu.gmw.cn/google_edu.xml
+Sitemap:http://edu.gmw.cn/bing_edu.xml
+Sitemap:http://edu.gmw.cn/sogou_edu.xml
+Sitemap:http://edu.gmw.cn/newspaper/baidu_news.xml
+Sitemap:http://edu.gmw.cn/newspaper/google_news.xml
+Sitemap:http://edu.gmw.cn/newspaper/bing_news.xml
+Sitemap:http://edu.gmw.cn/newspaper/sogou_news.xml

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /search
+Disallow: /videoConfig/*
+Disallow: /captcha/*
+Disallow: /*?*nocache*
+Disallow: /*?*nocat*
+Disallow: /*?*__log*
+Disallow: /*?*mver*
+Disallow: /*.js*
+Disallow: /version.txt
+
+Sitemap: http://www.predplatnejakodarek.cz/sitemap-predplatne.xml
+
+User-agent: dotbot
+Disallow: /

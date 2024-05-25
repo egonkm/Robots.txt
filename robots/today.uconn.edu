@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wordpress/wp-admin/
+Disallow: /wp-content/cache/
+Disallow: /*?s=
+Disallow: /*?*&s=
+Allow: /wordpress/wp-admin/admin-ajax.php
+
+Sitemap: https://today.uconn.edu/sitemap.xml

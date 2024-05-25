@@ -1,0 +1,20 @@
+User-agent: ExtractorPro
+Disallow: /
+
+User-agent: StayOn Pro
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: *
+Disallow: /includes/
+
+User-agent: *
+Disallow: /sa/downloads/
+
+User-agent: *
+Disallow: /sfl/downloads/
+
+User-agent: Googlebot
+Allow: /includes/

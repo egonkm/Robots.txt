@@ -1,0 +1,19 @@
+User-agent:  ICCrawler - iCjobs
+Disallow: /
+
+User-agent: *
+Disallow: /tv/maus_online/
+Disallow: /tv/neuneinhalb/
+Disallow: /php/
+Disallow: /rw/
+Disallow: /themen/_config_/
+Allow: /themen/_config_/script/20*
+Disallow: /*/codebase/
+Allow: /*/codebase/css/
+Allow: /*/codebase/img/
+Allow: /*/codebase/images/
+Allow: /*/codebase/js/
+Disallow: /*.nimex$
+Disallow: /wdrde_specials/vpn/
+Disallow:  /tv/wissenmachtah/
+

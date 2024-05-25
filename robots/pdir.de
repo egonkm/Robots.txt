@@ -1,0 +1,7 @@
+user-agent:*
+disallow:/contao/
+disallow:/_contao/
+
+disallow:/*?*zahlung=
+disallow:/*?*theme=
+sitemap:https://pdir.de/sitemap.xml

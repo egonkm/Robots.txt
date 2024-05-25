@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /decision/view
+Disallow: /doc/*
+Disallow: /luminapi/api/decisions/*
+Disallow: /f/all/ada/*

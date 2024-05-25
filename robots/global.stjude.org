@@ -1,0 +1,9 @@
+Sitemap: https://global.stjude.org/en-us/sitemap1.xml
+
+User-agent: *
+Disallow: /content-library
+Disallow: /search
+Disallow: /error
+Disallow: /header-footer-config
+Disallow: /no-index/
+Disallow: *.subscribe.json

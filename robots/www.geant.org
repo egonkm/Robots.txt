@@ -1,0 +1,25 @@
+<html>
+
+<head>
+    <title>Forbidden</title>
+</head>
+
+<style>
+    body { text-align: center; padding: 150px; }
+    h1 { font-size: 50px; color: #003f5f; text-decoration: none; }
+    body { font: 20px Helvetica, sans-serif; color: #333; }
+    article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+    a { color: #0088cc; text-decoration: none; }
+    a:hover { color: #333; text-decoration: none; }
+</style>
+
+<article>
+    <img src="https://filesender.geant.org/images/geant_mini_logo.jpg" alt="Geant Logo" />
+    <h1>Forbidden!</h1>
+    <div>
+        <p>The URL you have tried to open is forbidden. If you feel that this is wrong you can always
+        <a href="mailto:help@geant.org?subject=Website: Forbidden URL">contact us</a>.</p>
+    </div>
+</article>
+
+</html>

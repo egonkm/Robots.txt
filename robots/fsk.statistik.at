@@ -1,0 +1,6 @@
+# We do not distinguish between the browsers.
+User-agent: *
+
+# Deny access to search
+Disallow: /suchergebnisse
+Disallow: /en/search-results

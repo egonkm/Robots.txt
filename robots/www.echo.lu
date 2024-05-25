@@ -1,0 +1,22 @@
+<!doctype html><html dir="ltr" lang="en"><head> <!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-NXZ24BN');</script> <!-- End Google Tag Manager --> <meta charset="utf-8"> <title>ECHO - Events in Luxembourg</title> <link rel="alternate" href="https://echo.lu/en" hreflang="en-lu"> <link rel="alternate" href="https://echo.lu/fr" hreflang="fr-lu"> <link rel="alternate" href="https://echo.lu/de" hreflang="de-lu"> <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=no"> <meta name="theme-color" content="#16161d"> <meta name="apple-mobile-web-app-capable" content="yes"> <meta http-equiv="x-ua-compatible" content="IE=Edge"> <meta name="description" content="ECHO aims to contribute to the cultural life of the country by offering the public an easy-to-access and simple-to-use solution for finding experiences to enjoy on their own or in groups."> <meta property="og:type" content="website"> <meta property="og:title" content="ECHO - Events in Luxembourg"> <meta property="og:description" content="ECHO aims to contribute to the cultural life of the country by offering the public an easy-to-access and simple-to-use solution for finding experiences to enjoy on their own or in groups."> <meta property="og:image" content="/assets/images/default-share-echo-homepage.jpg"> <meta property="og:url" content="https://echo.lu"> <meta name="twitter:title" content="ECHO - Events in Luxembourg"> <meta name="twitter:description" content="ECHO aims to contribute to the cultural life of the country by offering the public an easy-to-access and simple-to-use solution for finding experiences to enjoy on their own or in groups."> <meta name="twitter:image" content="/assets/images/default-share-echo-homepage.jpg"> <meta property="twitter:url" content="https://echo.lu"> <meta name="twitter:card" content="summary_large_image"> <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png"> <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png"> <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"> <link rel="manifest" href="/assets/favicons/site.webmanifest"> <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5"> <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&amp;family=Rubik:wght@400;700&amp;display=swap" rel="stylesheet"> <link href="https://cdn.icomoon.io/300619/Echo/style.css?jklqvu" rel="stylesheet"> <script type="module" src="/build/app.esm.js" data-stencil data-resources-url="/build/" data-stencil-namespace="app"></script> <script nomodule="" src="/build/app.js" data-stencil></script> <link href="/build/app.css" rel="stylesheet"> <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script> </head> <body> <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXZ24BN"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) --> <app-root></app-root> <script data-build="2024-05-19T18:47:23">
+if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+  window.addEventListener('load', function() {
+  navigator.serviceWorker.register('/sw.js')
+    .then(function(reg) {
+    reg.onupdatefound = function() {
+      var installingWorker = reg.installing;
+      installingWorker.onstatechange = function() {
+      if (installingWorker.state === 'installed') {
+        window.dispatchEvent(new Event('swUpdate'))
+      }
+      }
+    }
+    })
+    .catch(function(err) { console.error('service worker error', err) });
+  });
+}</script></body></html>

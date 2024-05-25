@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /statshot
+Disallow: /about-billing
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /

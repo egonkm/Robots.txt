@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /oldsite/
+Disallow: /bounce/
+Disallow: /costcalculator/
+Disallow: /demo/
+Disallow: /email_signature/
+Disallow: /HTML/
+Disallow: /inphophotography/
+Disallow: /paypaldemo/
+Disallow: /plspharma/
+Disallow: /murrays/
+Disallow: /*?*start=*
+Disallow: /portfolio/item/show/*

@@ -1,0 +1,119 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="fragment" content="!">
+  <title>2024 Mountainfilm Festival</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="/cookieconsent.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,500,700,400italic,700italic" rel="stylesheet">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="msapplication-TileColor" content="#003c4d">
+  <meta name="theme-color" content="#003c4d">
+  <link rel="manifest" href="/manifest.json">
+<meta name="apple-mobile-web-app-title" content="Mountainfilm">
+<link rel="apple-touch-icon" sizes="180x180" href="https://static-a.eventive.org/bd8763e09578445313fcf82e1588ae54.png?fm=png&w=180">
+<link rel="icon" type="image/png" sizes="32x32" href="https://static-a.eventive.org/bd8763e09578445313fcf82e1588ae54.png?fm=png&w=32">
+<link rel="icon" type="image/png" sizes="16x16" href="https://static-a.eventive.org/bd8763e09578445313fcf82e1588ae54.png?fm=png&w=16">
+  <style>
+    html:not(.embedded) {
+      background-color: #fff;
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+    }
+
+    html {
+      font-family: 'Lato', sans-serif !important;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    #loader, #loader-custom {
+      width: 100%;
+      height: 100%;
+      position: relative;
+    }
+
+    #loader img {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin: -64px 0px 0px -64px;
+    }
+
+    #loader-custom img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    html.embedded, .embedded body {
+      height: auto;
+    }
+    .embedded #loader, .embedded #loader-custom {
+      display: none;
+    }
+    .embedded #app {
+      padding-bottom: 10px;
+    }
+  </style>
+
+  <script>
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    // ~~~ Eventive inline scripts ~~~~
+    // ~ fun & games across the board ~
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    // Handle malformed url - due to temporary Handlebars update, the "=" sign might have been
+    // erroneously encoded in the url contents, leading to a world of hurt. (10/23/2017)
+    var originalUrl = window.location.href,
+      fixedUrl = originalUrl.replace('&#x3D;','=');
+    if (originalUrl !== fixedUrl) {
+      window.location.href = fixedUrl;
+    }
+
+    // Last ditch effort - clientside force https in production
+    // In case we fail to autoredirect / they're on an old non-HSTS browser
+    if (window.location.protocol !== 'https:') {
+      window.location.protocol = 'https:';
+    }
+
+    // Embed mode
+    if (window.location.search.indexOf('embed=true') !== -1) {
+      document.documentElement.className += ' embedded';
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.src = window.location.protocol + '//' + window.location.host + '/embedded.js';
+      document.getElementsByTagName('head')[0].appendChild(script);
+    }
+    else {
+      // cookie consent included if the page is not embedded
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.src = window.location.protocol + '//' + window.location.host + '/cookieconsent.umd.js';
+      document.getElementsByTagName('head')[0].appendChild(script);
+    }
+  </script>
+
+  
+</head>
+
+<body>
+  <div id="loader"><img src="/img/preloader.gif"></div>
+  <div id="app"></div>
+  <script type="text/javascript" src="https://js.stripe.com/v3/"></script>
+  
+  <script data-type="tenant" src="/mountainfilm.7e423036b842a870bcee.js"></script>
+  <script data-type="global" src="/global.3d5ad6e476c37b8fdb1d.js"></script>
+  </body>
+
+</html>

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+ 
+Sitemap: http://www.cubilis.fr/sitemap.xml
+
+Sitemap: https://www.cubilis.fr/sitemap.xml

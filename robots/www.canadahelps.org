@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /wp-admin/
+Disallow: */search/app/
+Disallow: */p2p/*/donation*
+Disallow: */p2p/*/create/
+Disallow: */p2p/*/new/
+Disallow: */p2p/*/sign-up/
+Disallow: */p2p/*/None/*
+Disallow: */pages/page/new*
+Disallow: */pages/page/nouveau*
+Disallow: */givingbasket*
+Disallow: */GivingBasket*
+Disallow: /en/charities/the-frontline-fund/
+Disallow: /fr/organismesdebienfaisance/the-frontline-fund/
+Sitemap: https://www.canadahelps.org/sitemap.xml

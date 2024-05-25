@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+#misc stuff
+Disallow: /ad/*
+# QA pages and url patterns
+Disallow: /qa_*
+Disallow: /*/qa_*
+Disallow: /components*
+Disallow: /*/components*
+# old blocking from original site
+Disallow: /*jsessionid*
+Disallow: /files/*
+Disallow: /machform/
+Disallow: /q/
+Disallow: /search/
+Disallow: /beacon-protocols/
+Disallow: /findadoctor/search
+Disallow: /*news-archive*
+Disallow: /news/main/10435
+Disallow: /news/events/25067
+Disallow: /news/news-from-the-uw-school-of-medicine-and-public-health/51817
+Disallow: /healthfacts/spanish*
+Disallow: /locations/kids*
+Disallow: /home-access/*
+Disallow: /our-services/center-for-wellness/class-registration-landing/46914*
+Disallow: /files-directory/position-descriptions/zrecruitment-information/
+Disallow: /files-directory/position-descriptions/1-benefit-information/
+Disallow: /files-directory/position-descriptions/1cloud/
+Disallow: /files-directory/position-descriptions/2017-benefit-information/
+
+Sitemap: https://www.uwhealth.org/sitemap.xml

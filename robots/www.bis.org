@@ -1,0 +1,27 @@
+#Format is:
+#       User-agent: <name of spider>
+#       Disallow: <nothing> | <path>
+#-------------------------------------------
+
+User-Agent: *
+Disallow: /dcms
+Disallow: /metrics/
+Disallow: /search/
+Disallow: /staff.htm
+Disallow: /embargo/
+Disallow: /app/
+Disallow: /goto.htm
+Disallow: /login
+#Disallow: /cbhub
+Disallow: /cbhub/goto.htm
+Disallow: /doclist/
+# Committee comment letters
+Disallow: /publ/bcbs*/
+Disallow: /bcbs/ca/
+Disallow: /bcbs/commentletters/
+Disallow: /*/publ/comments/
+# Hide the Basel Framework standards, only chapters should be indexed.
+Disallow: /basel_framework/standard/
+
+Sitemap: https://www.bis.org/sitemap.xml
+

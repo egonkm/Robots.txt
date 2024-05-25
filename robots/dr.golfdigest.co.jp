@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Disallow pages
+User-agent: *
+Disallow: /contact/
+Disallow: /topics_list5_test/
+
+# Sitemap files
+Sitemap: http://dr.golfdigest.co.jp/sitemap.xml
+Sitemap: http://dr.golfdigest.co.jp/sitemap_m.xml

@@ -1,0 +1,22 @@
+Sitemap: https://together.stjude.org/en-us/sitemap1.xml
+Sitemap: https://together.stjude.org/es-us/sitemap1.xml
+Sitemap: https://together.stjude.org/fr-fr/sitemap1.xml
+Sitemap: https://together.stjude.org/ar-sa/sitemap1.xml
+Sitemap: https://together.stjude.org/ru-ru/sitemap1.xml
+Sitemap: https://together.stjude.org/my-mm/sitemap1.xml
+Sitemap: https://together.stjude.org/zh-cn/sitemap1.xml
+Sitemap: https://together.stjude.org/hi-in/sitemap1.xml
+Sitemap: https://together.stjude.org/pl-pl/sitemap1.xml
+Sitemap: https://together.stjude.org/uk-ua/sitemap1.xml
+Sitemap: https://together.stjude.org/pt-br/sitemap1.xml
+Sitemap: https://together.stjude.org/ur-pk/sitemap1.xml
+
+User-agent: *
+Disallow: /search
+Disallow: /search-results.html
+Disallow: /error/
+Disallow: /content/
+Disallow: /facility-results/
+Disallow: /no-index/
+Disallow: /*/video/
+Disallow: *.subscribe.json

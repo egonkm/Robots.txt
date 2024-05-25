@@ -1,0 +1,7 @@
+User-agent: * 
+Allow: / 
+Disallow: /weblog
+
+# BEGIN XML-SITEMAP-PLUGIN
+Sitemap: http://derjohng.doitwell.tw/sitemap.xml
+# END XML-SITEMAP-PLUGIN

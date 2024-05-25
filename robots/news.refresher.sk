@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /nahlasit-obsah
+Disallow: /set-lang
+Disallow: /services
+Disallow: /vyhladavanie
+Disallow: /cdn-cgi/
+Disallow: /ajx/
+
+Sitemap: https://refresher.sk/sitemap/news.xml
+Sitemap: https://refresher.sk/sitemap/index.xml

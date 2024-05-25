@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /reports/
+Disallow: /skin/
+Disallow: /wap/
+Disallow: /rdirect

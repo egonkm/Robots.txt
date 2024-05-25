@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /conservator
+Sitemap: https://jobbsafari.se/sitemap.xml

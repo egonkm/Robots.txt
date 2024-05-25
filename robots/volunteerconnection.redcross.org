@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /ama/orig/
+
+User-agent: *
+Crawl-Delay: 10

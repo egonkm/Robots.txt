@@ -1,0 +1,12 @@
+User-agent: bingbot
+Disallow: /suche/
+
+User-agent: Adsbot-Google
+Disallow: /gate/
+
+User-agent: *
+Disallow: /gate/
+
+Sitemap: https://www.otto.de/product-sitemap/sitemap_index.xml
+Sitemap: https://www.otto.de/nav-sitemap/sitemap_index.xml
+Sitemap: https://www.otto.de/updated/sitemap_index.xml

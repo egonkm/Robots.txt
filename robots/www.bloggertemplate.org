@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /search
+Disallow: /feeds/
+Allow: /p/
+Allow: /2021/
+Allow: /2022/
+Allow: /2023/
+Allow: /2024/
+
+Sitemap: https://www.bloggertemplate.org/sitemap-pages.xml
+Sitemap: https://www.bloggertemplate.org/sitemap.xml

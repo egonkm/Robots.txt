@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://letsencrypt.org/sitemap.xml

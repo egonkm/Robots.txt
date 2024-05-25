@@ -1,0 +1,43 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>Portal Carat</title><script src="https://carat.softwareexpress.com.br/libs/runtime.min.js"></script><meta name="importmap-type" content="systemjs-importmap"/><script type="systemjs-importmap">{
+        "imports": {
+          "single-spa": "https://carat.softwareexpress.com.br/libs/single-spa.min.js",
+          "react": "https://carat.softwareexpress.com.br/libs/react@18.2.0.production.min.js",
+          "react-dom": "https://carat.softwareexpress.com.br/libs/react-dom@18.2.0.production.min.js",
+          "react-router-dom": "https://carat.softwareexpress.com.br/libs/react-router-dom.min.js",
+          "react-is": "https://carat.softwareexpress.com.br/libs/react-is.production.min.js",
+          "styled-components": "https://carat.softwareexpress.com.br/libs/styled-components.min.js",
+          "react-query": "https://carat.softwareexpress.com.br/libs/react-query.production.min.js"
+        }
+      }</script><link rel="preload" href="https://carat.softwareexpress.com.br/libs/single-spa.min.js" as="script" crossorigin="anonymous"><script src="/env-config.js"></script><script>const generateImportTag = (url) => {
+              const importTag = document.createElement('script');
+              importTag.src = url + '/env-config.js';
+              document.currentScript.after(importTag);
+            }
+            if (!window.env.IS_ORCHESTRATOR_ENV) {
+              generateImportTag(window.env.GATEWAY_EXPRESS_URL)
+              generateImportTag(window.env.HEADER_URL)
+              generateImportTag(window.env.CONC_ANALITICO_URL)
+              generateImportTag(window.env.VENDAS_URL)
+              generateImportTag(window.env.CONCILIACAO_URL)
+              generateImportTag(window.env.CONCILIACAO_BANCARIA_URL)
+              generateImportTag(window.env.GFIN_URL)
+              generateImportTag(window.env.BOARDING_ADQUIRENCIA_URL)
+              generateImportTag(window.env.ONBOARDING_GFIN_URL)
+            }</script><script>const importMap = document.createElement('script');
+                  importMap.type = "systemjs-importmap";
+                  importMap.textContent = JSON.stringify({
+                    imports: {
+                      "@fiserv/root-config": window.env.ORCHESTRATOR_URL + '/fiserv-root-config.js',
+                      "@fiserv/gateway-express": window.env.GATEWAY_EXPRESS_URL + '/fiserv-gateway-express.js',
+                      "@fiserv/conc-financeira": window.env.CONCILIACAO_URL + '/fiserv-conc-financeira.js',
+                      "@fiserv/conc-analitico": window.env.CONC_ANALITICO_URL + '/fiserv-conc-analitico.js',
+                      "@fiserv/vendas": window.env.VENDAS_URL + '/fiserv-vendas.js',
+                      "@fiserv/header": window.env.HEADER_URL + '/fiserv-header.js',
+                      "@fiserv/global": window.env.GLOBAL_URL + '/fiserv-global.js',
+                      "@fiserv/conciliacao-bancaria": window.env.CONCILIACAO_BANCARIA_URL + '/fiserv-conciliacao-bancaria.js',
+                      "@fiserv/gfin": window.env.GFIN_URL + '/fiserv-gfin.js',
+                      "@fiserv/boarding-adquirencia": window.env.BOARDING_ADQUIRENCIA_URL + '/fiserv-boarding-adquirencia.js',
+                      "@fiserv/onboarding-gfin": window.env.ONBOARDING_GFIN_URL + '/fiserv-onboarding-gfin.js',
+                    }
+                  })
+                  document.currentScript.after(importMap)</script><script src="https://carat.softwareexpress.com.br/libs/import-map-overrides.js"></script><script src="https://carat.softwareexpress.com.br/libs/system.min.js"></script><script src="https://carat.softwareexpress.com.br/libs/amd.min.js"></script><script>var __uzdbm_1 = "58cd8442-0904-4376-9382-4a9e02cb79cc";var __uzdbm_2 = "M2Y0NjkxN2EtYzl1Yi00NzU1LThmMjctMWMyNTE0NTUyNjllJDkwLjE2My4zMi4xNzY=";var __uzdbm_3 = "";var __uzdbm_4 = "false";var __uzdbm_5 = "";var __uzdbm_6 = "";var __uzdbm_7 = "";</script> <script>(function(w, d, e, u, c, g, a, b){ w["SSJSConnectorObj"] = {ss_cid : c, domain_info: "auto"}; a = d.createElement(e); a.async = true; a.src = u; b = d.getElementsByTagName(e)[0]; b.parentNode.insertBefore(a, b); })(window,document,"script","https://cdn.perfdrive.com/aperture/aperture.js","c9ud","ssConf");</script></head><body><main></main><div id="root"></div><script>System.import('@fiserv/root-config');</script><import-map-overrides-full show-when-local-storage="devtools" dev-libs></import-map-overrides-full></body></html>

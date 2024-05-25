@@ -1,0 +1,11 @@
+User-agent: *
+Sitemap: https://mabelslabels.ca/sitemap.xml
+Disallow: /checkout/
+Disallow: /account]/
+Disallow: /search
+Disallow: /en-CA/checkout/
+Disallow: /fr-CA/caisse/
+Disallow: /en-CA/account/
+Disallow: /fr-CA/compte/
+Disallow: /en-CA/search
+Disallow: /fr-CA/recherche

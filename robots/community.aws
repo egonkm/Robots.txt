@@ -1,0 +1,10 @@
+Sitemap: https://community.aws/sitemap.xml
+
+User-agent: *
+Disallow: /preview/
+Disallow: /admin/
+Disallow: /rss
+Disallow: /rss/
+Disallow: /editor/
+Disallow: /licenses.txt
+Allow: /

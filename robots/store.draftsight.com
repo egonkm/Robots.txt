@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*/dk/
+Disallow: /*/p/
+Disallow: /*/pl/
+Disallow: /*/cp/
+Disallow: /*/s/
+Disallow: /ajax/
+Disallow: /mail/
+Disallow: /pinvoice/
+Disallow: /invoice/

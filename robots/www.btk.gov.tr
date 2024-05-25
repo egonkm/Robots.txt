@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /uye-girisi
+Disallow: /uye-ol
+Disallow: /sifremi-unuttum
+
+Sitemap: https://www.btk.gov.tr/sitemaps.xml

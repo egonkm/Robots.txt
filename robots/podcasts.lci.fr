@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow: /player/
+Sitemap: https://podcasts.lci.fr/sitemap.xml

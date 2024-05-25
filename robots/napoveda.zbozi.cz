@@ -1,0 +1,18 @@
+## 8888888888P 888                       d8b
+##       d88P  888                       Y8P
+##      d88P   888
+##     d88P    88888b.   .d88b. 88888888 888      .d8888b 88888888
+##    d88P     888 "88b d88""88b   d88P  888     d88P"       d88P
+##   d88P      888  888 888  888  d88P   888     888        d88P
+##  d88P       888 d88P Y88..88P d88P    888 d8b Y88b.     d88P
+## d8888888888 88888P"   "Y88P" 88888888 888 Y8P  "Y8888P 88888888
+## ###############################################################
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /?s=
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://napoveda.zbozi.cz/sitemap.xml
+Sitemap: https://napoveda.zbozi.cz/en/sitemap.xml
+Sitemap: https://napoveda.zbozi.cz/en/sitemap.xml

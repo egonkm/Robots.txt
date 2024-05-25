@@ -1,0 +1,11 @@
+
+User-agent: Twitterbot
+Allow: *
+User-agent: Facebot
+Allow: *
+User-agent: facebookexternalhit/1.1
+Allow: *
+
+User-agent: *
+Allow: *
+Sitemap: http://openbudget.winnipeg.ca/sitemapindex.xml"

@@ -1,0 +1,195 @@
+User-agent: *
+
+Disallow: /en/weblate-4.9.1/ # Hidden version
+
+Disallow: /en/weblate-4.9/ # Hidden version
+
+Disallow: /en/weblate-4.8.1/ # Hidden version
+
+Disallow: /en/weblate-4.8/ # Hidden version
+
+Disallow: /en/weblate-4.7.2/ # Hidden version
+
+Disallow: /en/weblate-4.7.1/ # Hidden version
+
+Disallow: /en/weblate-4.7/ # Hidden version
+
+Disallow: /en/weblate-4.6.2/ # Hidden version
+
+Disallow: /en/weblate-4.6.1/ # Hidden version
+
+Disallow: /en/weblate-4.6/ # Hidden version
+
+Disallow: /en/weblate-4.5.3/ # Hidden version
+
+Disallow: /en/weblate-4.5.2/ # Hidden version
+
+Disallow: /en/weblate-4.5.1/ # Hidden version
+
+Disallow: /en/weblate-4.5/ # Hidden version
+
+Disallow: /en/weblate-4.4.2/ # Hidden version
+
+Disallow: /en/weblate-4.4.1/ # Hidden version
+
+Disallow: /en/weblate-4.4/ # Hidden version
+
+Disallow: /en/weblate-4.3.2/ # Hidden version
+
+Disallow: /en/weblate-4.3.1/ # Hidden version
+
+Disallow: /en/weblate-4.3/ # Hidden version
+
+Disallow: /en/weblate-4.2.2/ # Hidden version
+
+Disallow: /en/weblate-4.2.1/ # Hidden version
+
+Disallow: /en/weblate-4.2/ # Hidden version
+
+Disallow: /en/weblate-4.16.3/ # Hidden version
+
+Disallow: /en/weblate-4.16.2/ # Hidden version
+
+Disallow: /en/weblate-4.16.1/ # Hidden version
+
+Disallow: /en/weblate-4.16/ # Hidden version
+
+Disallow: /en/weblate-4.15/ # Hidden version
+
+Disallow: /en/weblate-4.14.1/ # Hidden version
+
+Disallow: /en/weblate-4.14/ # Hidden version
+
+Disallow: /en/weblate-4.13/ # Hidden version
+
+Disallow: /en/weblate-4.12.1/ # Hidden version
+
+Disallow: /en/weblate-4.12/ # Hidden version
+
+Disallow: /en/weblate-4.1.1/ # Hidden version
+
+Disallow: /en/weblate-4.11/ # Hidden version
+
+Disallow: /en/weblate-4.10/ # Hidden version
+
+Disallow: /en/weblate-4.1/ # Hidden version
+
+Disallow: /en/weblate-4.0.4/ # Hidden version
+
+Disallow: /en/weblate-4.0.3/ # Hidden version
+
+Disallow: /en/weblate-4.0.2/ # Hidden version
+
+Disallow: /en/weblate-4.0.1/ # Hidden version
+
+Disallow: /en/weblate-4.0/ # Hidden version
+
+Disallow: /en/weblate-3.9.1/ # Hidden version
+
+Disallow: /en/weblate-3.9/ # Hidden version
+
+Disallow: /en/weblate-3.8/ # Hidden version
+
+Disallow: /en/weblate-3.7.1/ # Hidden version
+
+Disallow: /en/weblate-3.7/ # Hidden version
+
+Disallow: /en/weblate-3.6.1/ # Hidden version
+
+Disallow: /en/weblate-3.6/ # Hidden version
+
+Disallow: /en/weblate-3.5.1/ # Hidden version
+
+Disallow: /en/weblate-3.5/ # Hidden version
+
+Disallow: /en/weblate-3.4/ # Hidden version
+
+Disallow: /en/weblate-3.3/ # Hidden version
+
+Disallow: /en/weblate-3.2.2/ # Hidden version
+
+Disallow: /en/weblate-3.2.1/ # Hidden version
+
+Disallow: /en/weblate-3.2/ # Hidden version
+
+Disallow: /en/weblate-3.11.3/ # Hidden version
+
+Disallow: /en/weblate-3.11.2/ # Hidden version
+
+Disallow: /en/weblate-3.11.1/ # Hidden version
+
+Disallow: /en/weblate-3.1.1/ # Hidden version
+
+Disallow: /en/weblate-3.11/ # Hidden version
+
+Disallow: /en/weblate-3.10.3/ # Hidden version
+
+Disallow: /en/weblate-3.10.2/ # Hidden version
+
+Disallow: /en/weblate-3.10.1/ # Hidden version
+
+Disallow: /en/weblate-3.10/ # Hidden version
+
+Disallow: /en/weblate-3.1/ # Hidden version
+
+Disallow: /en/weblate-3.0.1/ # Hidden version
+
+Disallow: /en/weblate-3.0/ # Hidden version
+
+Disallow: /en/weblate-2.9/ # Hidden version
+
+Disallow: /en/weblate-2.8/ # Hidden version
+
+Disallow: /en/weblate-2.7/ # Hidden version
+
+Disallow: /en/weblate-2.6/ # Hidden version
+
+Disallow: /en/weblate-2.5/ # Hidden version
+
+Disallow: /en/weblate-2.4/ # Hidden version
+
+Disallow: /en/weblate-2.3/ # Hidden version
+
+Disallow: /en/weblate-2.20/ # Hidden version
+
+Disallow: /en/weblate-2.2/ # Hidden version
+
+Disallow: /en/weblate-2.19.1/ # Hidden version
+
+Disallow: /en/weblate-2.19/ # Hidden version
+
+Disallow: /en/weblate-2.18/ # Hidden version
+
+Disallow: /en/weblate-2.17.1/ # Hidden version
+
+Disallow: /en/weblate-2.17/ # Hidden version
+
+Disallow: /en/weblate-2.16/ # Hidden version
+
+Disallow: /en/weblate-2.15/ # Hidden version
+
+Disallow: /en/weblate-2.14.1/ # Hidden version
+
+Disallow: /en/weblate-2.14/ # Hidden version
+
+Disallow: /en/weblate-2.13.1/ # Hidden version
+
+Disallow: /en/weblate-2.13/ # Hidden version
+
+Disallow: /en/weblate-2.12/ # Hidden version
+
+Disallow: /en/weblate-2.11/ # Hidden version
+
+Disallow: /en/weblate-2.10.1/ # Hidden version
+
+Disallow: /en/weblate-2.10/ # Hidden version
+
+Disallow: /en/weblate-2.1/ # Hidden version
+
+Disallow: /en/weblate-2.0/ # Hidden version
+
+Disallow: /en/weblate-1.9/ # Hidden version
+
+Disallow: /en/weblate-1.8/ # Hidden version
+
+Sitemap: https://docs.weblate.org/sitemap.xml

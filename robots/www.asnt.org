@@ -1,0 +1,18 @@
+User-agent: Seekport Crawler
+Disallow: /
+
+User-agent: Mozilla/5.0+(compatible;+Seekport+Crawler;+http://seekport.com/)
+Disallow: /
+
+User-agent: Screaming Frog
+Disallow: /
+
+User-agent: Screaming+Frog+SEO+Spider/13.2
+Disallow: /
+
+User-agent: *
+Disallow: /Buyers_Guide/
+Disallow: /en/Buyers_Guide/
+Disallow: /en/sitecore/media_library/Files/Events-Meetings/ASNT_Presentation_Tips.aspx
+Disallow: /en/sitecore/media_library/Files/Events-Meetings/commercialism.aspx
+Crawl-Delay: 20

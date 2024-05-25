@@ -1,0 +1,48 @@
+#robots.txt for https://www.ml.cmu.edu/
+ 
+User-agent: *
+Disallow: /_blocks/
+Disallow: /_internal/
+Disallow: /_sample-pages/
+Disallow: /archive/
+Disallow: /delete/
+Disallow: /help-network/
+Disallow: /mmv60/
+Disallow: /old-published-items/
+Disallow: /sites/ 
+
+Allow: /
+Allow: /about/
+Allow: /academics/
+Allow: /app/
+Allow: /cmsint/
+Allow: /contact-us/
+Allow: /current-students/
+Allow: /honors-and-awards/
+Allow: /images/
+Allow: /news/
+Allow: /people/
+Allow: /prospective-students/
+Allow: /research/
+Allow: /teaching/
+Allow: /machine_learning/
+Allow: /machine learning/
+Allow: /wellness-network/
+
+User-agent: AhrefsBot
+Disallow: /
+Crawl-Delay: 20
+
+User-agent: PhantomJS
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: crawl
+Disallow: /
+
+Sitemap: https://www.ml.cmu.edu/sitemap.xml

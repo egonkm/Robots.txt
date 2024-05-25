@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /extra/gremien
+Disallow: /extra/intern
+Disallow: /extra/mediathek
+Disallow: /*/*~_all-1_
+Disallow: /*/*~_image*
+Disallow: /*/*~postroll.xml
+Disallow: /*/*~recommend.html
+Disallow: /*/*~recommend_image*
+Disallow: /*/*~recommendForm*
+Disallow: /*/*~_date*
+Disallow: /*/*~playlist_date*
+Disallow: /*/*~musictitle.html
+Disallow: /*/*~_page*
+Disallow: /*/*~recommend_month
+Disallow: /*/*seiteempfehlen
+Disallow: /*/*sortOrder
+Disallow: /*/*searchPlz
+Disallow: /*/*searchOrtsname
+Disallow: /*/*?_requestid=*
+Disallow: /wetter/action/bayernwetter/bayern.do?regio=*
+Disallow: /wetter/action/bayernwetter/bayern.do?plz=*
+Disallow: /nachrichten/suche*param*
+Disallow: /service/suche/index.html*query*
+Disallow: /*;jsessionid*
+
+Sitemap: https://www.br.de/sitemapIndex.xml
+Sitemap: https://www.br.de/nachrichten/sitemaps/index.xml
+

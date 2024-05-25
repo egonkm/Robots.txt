@@ -1,0 +1,40 @@
+User-Agent: *
+
+Disallow: /barney/
+Disallow: /barney2/
+Disallow: /barneycam/
+Disallow: /barneybeazley/
+Disallow: /beazley/
+Disallow: /goodbye/
+Disallow: /images/
+Disallow: /kids/
+Disallow: /omb/budget/fy2002/
+Disallow: /omb/budget/fy2003/
+Disallow: /omb/budget/fy2004/
+Disallow: /omb/budget/fy2005/
+Disallow: /omb/budget/fy2006/
+Disallow: /omb/budget/fy2007/
+Disallow: /omb/earmarks/
+Disallow: /omb/budget/fy2002/
+Disallow: /omb/budget/fy2003/
+Disallow: /omb/budget/fy2004/
+Disallow: /omb/budget/fy2005/
+Disallow: /omb/budget/fy2006/
+Disallow: /omb/budget/fy2007/
+Disallow: /omb/earmarks/
+Disallow: /omb/expectmore/
+Disallow: /omb/text/
+Disallow: /omb/expectmore/
+Disallow: /print/
+Disallow: /rss/
+Disallow: /text/
+Disallow: /v/
+Disallow: /webtrends/
+Disallow: /whatnew/
+Disallow: /whitehouse-new/
+Disallow: /z_log_storage/
+
+User-agent: usasearch
+Crawl-delay: 2
+
+Sitemap: /sitemap.xml

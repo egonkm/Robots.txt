@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /pdf/
+Disallow: /swf/
+Disallow: /instructor/images/01.pdf
+Disallow: /company/swf/top120511_3.swf
+Disallow: /swf/TOP130214.swf
+Disallow: /result/
+Disallow: /images/common/banner_guideline.png
+Disallow: /guideline/pdf/report_01.pdf
+Disallow: /guideline/index.html
+
+Sitemap : https://kidsgolf.golfdigest.co.jp/sitemap.xml

@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /login
+Disallow: /suche
+Disallow: /render2
+Disallow: /de/social-media
+Disallow: /de/downloads/stellungnahmen/planungsbeschleunigung-verkehrsbereich.pdf
+Disallow: /de/downloads/stellungnahmen/entwurf-planungsbeschleunigungsgesetz-bmvi.pdf
+Disallow: /de/downloads/broschuere-amazon-seo.pdf
+Disallow: /hs-fs/hubfs/HB-Website/%C3%9Cber%20uns/Team/daniela-dennull.jpg
+
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/
+
+User-Agent: Googlebot-Image
+Disallow: /hs-fs/hubfs/HB-Website/%C3%9Cber%20uns/Team/daniela-dennull.jpg
+
+# XML-Sitemap
+Sitemap: https://www.haendlerbund.de/sitemap.xml
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/

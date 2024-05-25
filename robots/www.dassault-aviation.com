@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp/wp-admin
+Disallow: /wp-includes
+Disallow: /wp/wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp/wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp/wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /wp/wp-content/themes
+Disallow: /trackback
+Disallow: /wp/trackback
+Disallow: /comments
+Disallow: /wp/comments
+Disallow: /*/feed
+Disallow: /*/comments
+Disallow: */trackback
+Disallow: /*?
+Disallow: /en/services/search/*
+Disallow: /fr/services/recherche/*
+
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp/wp-admin/admin-ajax.php
+Allow: /*?utm*
+Allow: *.css
+Allow: *.js
+
+Sitemap: https://www.dassault-aviation.com/fr/sitemap_index.xml
+Sitemap: https://www.dassault-aviation.com/en/sitemap_index.xml

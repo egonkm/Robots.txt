@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search-results/
+
+User-agent: Googlebot
+Disallow: /search-results/
+
+Sitemap: https://www.aws.org/sitemap.xml

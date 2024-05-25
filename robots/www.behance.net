@@ -1,0 +1,25 @@
+Sitemap: https://www.behance.net/sitemap
+
+User-agent: *
+Disallow: /v2/
+Disallow: /v3/
+Disallow: /log$
+Disallow: /search/*?*assetsCategory=*
+Disallow: /search/*?*assetsPriceTier=*
+Disallow: /search/*?*assetsExtensionTypes=*
+Disallow: /search/*?*color_hex=*
+Disallow: /search/*?*country=*
+Disallow: /search/*?*exif_aperture=*
+Disallow: /search/*?*exif_focal_length=*
+Disallow: /search/*?*exif_lens_brand=*
+Disallow: /search/*?*exif_make=*
+Disallow: /search/*?*exif_shutter_speed=*
+Disallow: /search/*?*exif_zoom=*
+Disallow: /search/*?*field=*
+Disallow: /search/*?*gif=*
+Disallow: /search/*?*premium=*
+Disallow: /search/*?*sort=*
+Disallow: /search/*?*schools=*
+Disallow: /search/*?*tools=*
+Disallow: /search/*?*time=*
+Disallow: /search/*?*userAvailability=*

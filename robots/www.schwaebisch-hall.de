@@ -1,0 +1,12 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /content/dam/dambsh/bsh/dokumente/formulare/*
+Disallow: /scripts/*
+Disallow: /static/*
+Disallow: *{{*}}*
+Disallow: *%7B%7B*%7D%7D*
+
+Sitemap: https://www.schwaebisch-hall.de/sitemap.xml
+

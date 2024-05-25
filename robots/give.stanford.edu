@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /editor/
+
+User-agent: *
+Disallow: /user/
+
+User-agent: *
+Disallow: /test/
+Sitemap: https://give.stanford.edu/sitemap/sitemap-index.xml
+Host: https://give.stanford.edu

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /search/
+Disallow: /index.php/search/
+Disallow: /*simple-view$
+
+Sitemap: https://gov.wales/sitemap.xml

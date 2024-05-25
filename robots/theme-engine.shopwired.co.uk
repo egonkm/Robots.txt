@@ -1,0 +1,13 @@
+User-agent: MJ12bot
+Crawl-delay: 20
+Disallow: /wishlist?
+Disallow: /?currency_id=
+Disallow: /*currency_id=
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /wishlist?
+Disallow: /?currency_id=
+Disallow: /*currency_id=
+
+Sitemap: https://theme-engine.shopwired.co.uk/sitemap.xml

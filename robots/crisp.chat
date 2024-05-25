@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+Disallow: /*//
+Disallow: /zh/*
+Disallow: /fr/unleash/*/
+Disallow: /de/unleash/*/
+Disallow: /es/unleash/*/
+Disallow: /fi/unleash/*/
+Disallow: /nl/unleash/*/
+Disallow: /pt/unleash/*/
+Disallow: /tr/unleash/*/
+Disallow: /pl/unleash/*/
+Disallow: /ru/unleash/*/
+Disallow: /zh/unleash/*/
+
+Sitemap: https://crisp.chat/sitemap.xml
+Sitemap: https://crisp.chat/en/integrations/sitemap.xml
+Sitemap: https://crisp.chat/en/blog/sitemap.xml

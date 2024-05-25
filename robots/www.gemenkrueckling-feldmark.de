@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: https://www.gemenkrueckling-feldmark.de/c/
+Disallow: https://www.gemenkrueckling-feldmark.de/protected/
+Disallow: /bildergalerie/sebastian-denise/
+Disallow: /bildergalerie/franz-thea/
+Disallow: /bildergalerie/henrik-anna/
+Disallow: /bildergalerie/kerstin-martin/
+Disallow: /bildergalerie/hendrik-carolin/
+Disallow: /bildergalerie/franz-irmlinde/
+Sitemap: https://www.gemenkrueckling-feldmark.de/sitemap.xml

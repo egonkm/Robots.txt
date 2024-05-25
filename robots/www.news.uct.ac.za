@@ -1,0 +1,4 @@
+Sitemap: https://www.news.uct.ac.za/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /downloads/media/

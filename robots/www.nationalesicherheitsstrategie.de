@@ -1,0 +1,6 @@
+user-agent:*
+disallow:/*?*'
+disallow:/contao/
+disallow:/_contao/
+
+sitemap:https://www.nationalesicherheitsstrategie.de/sitemap.xml

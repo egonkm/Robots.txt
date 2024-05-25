@@ -1,0 +1,81 @@
+#Robots.txt - www.tf1.fr
+
+User-agent: *
+
+Allow: */maliste/recommandations*
+
+Noindex: */mon-compte/*
+
+Disallow: *==.*
+Disallow: */0,,*
+Disallow: *@1x.*
+Disallow: */1000
+Disallow: */image/*
+Disallow: */iframe-*
+Disallow: *.htmltemp
+Disallow: */maliste/*
+Disallow: */livecam/*
+Disallow: */recherche*
+Disallow: */password/*
+Disallow: */player/tf1$
+Disallow: */mon-compte/*
+Disallow: */lostPassword*
+Disallow: */transactions/*
+Disallow: */player/*?amp=*
+Disallow: */videos/undefined$
+Disallow: */connexion?redirect=*
+Disallow: */inscription?redirect=*
+Disallow: /*?ref=*
+Disallow: /*?ves=*
+Disallow: /*&ved=*
+Disallow: /*?page=*
+Disallow: /*_page=*
+Disallow: /*query=*
+Disallow: /*?filter=*
+Disallow: /*?wbraid=*
+Disallow: /*?startAt=*
+Disallow: /*?noExport=*
+Disallow: /*?autoStart=*
+Disallow: /*?user_code=*
+Disallow: /*?redirectUri=*
+Disallow: /*?psafe_param=*
+Disallow: /*?lang=fr&error*
+Disallow: /*?ID_PAGE=Journal*
+
+User-agent: Twitterbot
+Disallow:
+User-agent: facebookexternalhit
+Disallow:
+User-agent: Google-Extended
+Disallow: /
+User-agent: GoogleOther
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SearchmetricsBot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: deepcrawl
+Disallow: /
+User-Agent: OnCrawl
+Disallow: /
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-Agent: Sistrix
+Disallow: /
+
+Sitemap: https://www.tf1.fr/sitemaps/sitemap-i.xml
+Sitemap: https://www.tf1.fr/sitemaps/sitemap-v.xml
+Sitemap: https://www.tf1.fr/sitemaps/sitemap-l-v.xml
+Sitemap: https://www.tf1.fr/sitemaps/sitemap-n.xml

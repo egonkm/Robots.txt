@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://voices.ilo.org
+
+# Sitemaps
+Sitemap: https://voices.ilo.org/sitemap.xml

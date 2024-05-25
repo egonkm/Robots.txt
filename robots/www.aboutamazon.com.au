@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 10
+Sitemap: https://blog.aboutamazon.com.au/sitemap.xml
+Sitemap: https://blog.aboutamazon.com.au/news-sitemap.xml

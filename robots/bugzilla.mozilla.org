@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /
+Crawl-delay: 30
+
+
+Allow: /$
+Allow: /index.cgi
+
+Allow: /page.cgi
+Disallow: /page.cgi*id=voting*
+Disallow: /page.cgi*id=productdashboard*
+Disallow: /page.cgi*id=user_activity*
+
+Allow: /show_bug.cgi
+Disallow: /show_bug.cgi*ctype=*
+Disallow: /show_bug.cgi*format=multiple*
+
+Allow: /describecomponents.cgi
+Allow: /describekeywords.cgi
+Disallow: /showdependency*
+Disallow: /banmyipforever.cgi
+
+Allow: /extensions/OpenGraph/web/
+
+Sitemap: https://storage.googleapis.com/storage/v1/b/bugzilla-prod-prod-sitemap/o/sitemap_index.xml?alt=media

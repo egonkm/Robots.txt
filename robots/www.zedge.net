@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /user
+Disallow: /user/stats
+Disallow: /upload
+
+User-agent: turnitinbot
+User-agent: NPBot
+User-agent: ia_archiver
+User-agent: webzip
+User-agent: OmniExplorer_Bot
+User-agent: BoardReader
+Disallow: /
+
+Sitemap: https://www.zedge.net/sitemap2/static
+Sitemap: https://www.zedge.net/sitemap2/item/wallpaper/index
+Sitemap: https://www.zedge.net/sitemap2/item/audio/index

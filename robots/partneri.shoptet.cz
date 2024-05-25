@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://partneri.shoptet.cz/wp-sitemap.xml
+
+Disallow: *?p=*
+Disallow: /wp-includes/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: *?auth_token=*
+Disallow: *?onboarding_token=*
+Disallow: *?s=*
+
+Disallow: /future-request/*
+
+Disallow: *?token=*
+Disallow: *?orderby=*
+Disallow: *?filterby=*

@@ -1,0 +1,9 @@
+# robots.txt
+User-agent: *
+Disallow: 
+Disallow: /admin
+Disallow: /rss
+Disallow: /content
+Disallow: /contents
+Disallow: /tags
+Disallow: /carrieres-nos-offres-d-emploi

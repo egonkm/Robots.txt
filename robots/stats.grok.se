@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>Wikipedia Statistics</title>
+	</head>
+	<body>
+	<br>
+	<br>
+	<center>
+		<h1>Wikipedia Statistics</h1>
+		<h2>This site is currently undergoing upgrades and will be back soon!</h2>
+		
+		<h3>
+			Until then you can use <a href='https://www.wikishark.com/'>WikiShark Wikipedia Stats</a>	</h3>
+			
+			<h2 style='margin-top: 30px;'>
+		<a href='https://www.wikishark.com/' style='padding: 10px;background: #E91E63;border-radius: 5px;color: white;'>Click here to go to WikiShark</a>
+			</h2>
+			
+			<h2 style='color:#4caf50'>
+			Contact me at : elad.vardi@mail.huji.ac.il
+			</h2>
+	</center>
+	</body>
+</html>

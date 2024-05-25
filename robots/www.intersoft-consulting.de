@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /author/
+Disallow: /snippet/
+Disallow: /vorschlag/
+Disallow: /subsites/
+
+Sitemap: https://www.intersoft-consulting.de/sitemap_index.xml

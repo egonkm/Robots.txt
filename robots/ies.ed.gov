@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /blogs/research/search
+Disallow: /blogs/nces/search
+Disallow: /blogs/search

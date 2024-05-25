@@ -1,0 +1,37 @@
+#Block Certain Bots:
+User-Agent: TweetMeMeBot
+Disallow: /
+
+#Block Certain Bots:
+User-Agent: FatBot
+Disallow: /
+
+#Block Certain Bots:
+User-Agent: AhrefsBot
+Disallow: /
+
+#Block Certain Bots:
+User-agent: PetalBot
+Disallow: /
+
+#Block Certain Bots:
+User-agent: Applebot
+Disallow: /
+
+User-agent: *
+Crawl-delay: 5
+
+#Allow All Others But Block Certain Pages:
+User-agent: *
+Disallow: /css
+Disallow: /include
+Disallow: /akamai
+Disallow: /LBKA
+Disallow: /jsp/compliance
+#Disallow: /jsp/offer
+Disallow:/jsp/offer/recr/uk/common/landing.jsp
+Disallow: /jsp/registration
+Disallow: /jsp/account
+Disallow: /jsp/checkout
+Disallow: /DWBase
+#Disallow: /jsp/offer/cm/common/offer.jsp

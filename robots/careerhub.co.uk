@@ -1,0 +1,6 @@
+User-agent: Scrapy
+Allow: /
+
+User-agent: *
+Noindex: /legal/otc7001u
+Disallow: /legal/otc7001u

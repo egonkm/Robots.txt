@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /*affiliate=*
+Disallow: /*bulk=*
+Disallow: /*?c=*
+Disallow: /*&c=*
+Disallow: /*client_id=*
+Disallow: /*code=*
+Disallow: /*country=*
+Disallow: /*currency=*
+Disallow: /*error=*
+Disallow: /*grid=*
+Disallow: /*lang=*
+Disallow: /*locale=*
+Disallow: /*navigation=*
+Disallow: /*opened=*
+Disallow: /*options=*
+Disallow: /*prefix=*
+Disallow: /*redirect=*
+Disallow: /*size=*
+Disallow: /*source=*
+Disallow: /*state=*
+Disallow: /*template=*
+Disallow: /*tld=*
+Disallow: /*type=*
+Disallow: /pdf/*
+
+Sitemap: https://www.gandi.net/sitemap.xml

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /pdf.php
+Disallow: /*.pdf$
+Disallow: /fund/printComparePdf
+Disallow: /fund/mainPageChartSectors
+Disallow: /fund/mainPageTopX
+Disallow: /fund/compareWidget
+Disallow: /fonds/sparplan-rechner/fuer/
+Sitemap: https://www.dasinvestment.com/sitemap.xml

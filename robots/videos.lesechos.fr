@@ -1,0 +1,5 @@
+User-agent:*
+Disallow:/*?xtor=*
+Disallow:/*?q=*
+Disallow:/recherche*
+Disallow:/*?rubriqueURL*

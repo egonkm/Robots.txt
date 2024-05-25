@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /info/
+Disallow: /document/
+Disallow: /support/net.service/doc/

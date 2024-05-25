@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://crane.hu/sitemap_index.xml

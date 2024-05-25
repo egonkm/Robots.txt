@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /meetings/*
+Disallow: /applink/
+Disallow: /_hcms/
+Disallow: /cs/c
+Sitemap: https://www.audiogo.com/sitemap.xml
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/

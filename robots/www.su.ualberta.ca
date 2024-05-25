@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: 
+Disallow: /search
+Disallow: /helpers
+Disallow: /services/infolink/volunteer/search
+Disallow: /services/infolink/tutor/registry/tutor/
+Disallow: /services/infolink/usedbook/registry/search/
+Disallow: /accounts/
+Disallow: /services/infolink/tutor/registry/search/
+Disallow: /services/infolink/volunteer/opportunity
+Crawl-delay: 5
+
+User-agent: 008
+Disallow: /

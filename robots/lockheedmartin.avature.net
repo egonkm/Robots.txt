@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /icalendar/
+# Disallowed portals are included as Allowed to use noindex strategy: https://developers.google.com/search/docs/advanced/crawling/block-indexing
+Allow: /talent
+Sitemap: https://lockheedmartin.avature.net/talent/sitemap_index.xml
+Allow: /aeronauticstalentnetwork
+Sitemap: https://lockheedmartin.avature.net/aeronauticstalentnetwork/sitemap_index.xml
+Allow: /homefortheholidays2020
+Sitemap: https://lockheedmartin.avature.net/homefortheholidays2020/sitemap_index.xml
+Allow: /aeronauticstalentmatch
+Sitemap: https://lockheedmartin.avature.net/aeronauticstalentmatch/sitemap_index.xml
+Allow: /MFCeNewsletter
+Sitemap: https://lockheedmartin.avature.net/MFCeNewsletter/sitemap_index.xml
+Allow: /DefendHERcareers
+Sitemap: https://lockheedmartin.avature.net/DefendHERcareers/sitemap_index.xml
+Allow: /StarReport
+Sitemap: https://lockheedmartin.avature.net/StarReport/sitemap_index.xml
+Allow: /AMTAP
+Sitemap: https://lockheedmartin.avature.net/AMTAP/sitemap_index.xml
+Allow: /LMEER
+Sitemap: https://lockheedmartin.avature.net/LMEER/sitemap_index.xml
+Allow: /WomenInTech
+Sitemap: https://lockheedmartin.avature.net/WomenInTech/sitemap_index.xml
+Disallow: /

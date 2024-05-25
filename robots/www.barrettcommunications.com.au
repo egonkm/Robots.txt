@@ -1,0 +1,11 @@
+User-agent:*
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /white_paper/
+Disallow: /wordpresstest.old/
+
+#Googlebot
+User-agent: Googlebot
+Allow: *.css
+Allow: *.js# global
+Allow: /wp-content/themes/blake/

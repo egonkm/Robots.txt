@@ -1,0 +1,22 @@
+#LLLLLLLLLLL                  OOOOOOOOO        SSSSSSSSSSSSSSS EEEEEEEEEEEEEEEEEEEEEEVVVVVVVV           VVVVVVVV
+#L:::::::::L                OO:::::::::OO    SS:::::::::::::::SE::::::::::::::::::::EV::::::V           V::::::V
+#L:::::::::L              OO:::::::::::::OO S:::::SSSSSS::::::SE::::::::::::::::::::EV::::::V           V::::::V
+#LL:::::::LL             O:::::::OOO:::::::OS:::::S     SSSSSSSEE::::::EEEEEEEEE::::EV::::::V           V::::::V
+#  L:::::L               O::::::O   O::::::OS:::::S              E:::::E       EEEEEE V:::::V           V:::::V 
+#  L:::::L               O:::::O     O:::::OS:::::S              E:::::E               V:::::V         V:::::V  
+#  L:::::L               O:::::O     O:::::O S::::SSSS           E::::::EEEEEEEEEE      V:::::V       V:::::V   
+#  L:::::L               O:::::O     O:::::O  SS::::::SSSSS      E:::::::::::::::E       V:::::V     V:::::V    
+#  L:::::L               O:::::O     O:::::O    SSS::::::::SS    E:::::::::::::::E        V:::::V   V:::::V     
+#  L:::::L               O:::::O     O:::::O       SSSSSS::::S   E::::::EEEEEEEEEE         V:::::V V:::::V      
+#  L:::::L               O:::::O     O:::::O            S:::::S  E:::::E                    V:::::V:::::V       
+#  L:::::L         LLLLLLO::::::O   O::::::O            S:::::S  E:::::E       EEEEEE        V:::::::::V        
+#LL:::::::LLLLLLLLL:::::LO:::::::OOO:::::::OSSSSSSS     S:::::SEE::::::EEEEEEEE:::::E         V:::::::V         
+#L::::::::::::::::::::::L OO:::::::::::::OO S::::::SSSSSS:::::SE::::::::::::::::::::E          V:::::V          
+#L::::::::::::::::::::::L   OO:::::::::OO   S:::::::::::::::SS E::::::::::::::::::::E           V:::V           
+#LLLLLLLLLLLLLLLLLLLLLLLL     OOOOOOOOO      SSSSSSSSSSSSSSS   EEEEEEEEEEEEEEEEEEEEEE            VVV            
+
+User-agent: *
+Disallow: /bagis/EsyaOdeme.html
+Disallow: /bagis/OyuncakOdeme.html
+Disallow: /bagis/ramazan.html
+Disallow: /bagis/ramazangida.html

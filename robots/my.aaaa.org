@@ -1,0 +1,6 @@
+
+    User-agent: *  
+    Allow: /      
+    Disallow: */secur/forgotpassword.jsp?*
+    Sitemap: https://my.aaaa.org/s/sitemap.xml
+    Sitemap: https://my.aaaa.org/SiteMapCreator

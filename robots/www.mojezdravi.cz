@@ -1,0 +1,15 @@
+Sitemap: https://www.mojezdravi.cz/sitemap.xml
+Sitemap: https://www.mojezdravi.cz/sitemap-image.xml
+Sitemap: https://www.mojezdravi.cz/sitemap-videoarticle.xml
+Sitemap: https://www.mojezdravi.cz/sitemap-news.xml
+Sitemap: https://www.mojezdravi.cz/sitemap-sections.xml
+
+User-agent: *
+Disallow: /*?*nocache*
+Disallow: /*?*nocat*
+Disallow: /Tag,*
+Disallow: /*?*__log*
+Disallow: /*?*mver*
+Disallow: /*.js*
+Disallow: /diskuse/*
+Disallow: /version.txt

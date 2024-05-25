@@ -1,0 +1,13 @@
+# See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+User-agent: *
+Sitemap: https://shopify.dev/sitemap.xml
+Disallow: /*?*shpxid=*
+Disallow: /beta/
+Disallow: /api/shipping-partner-platform/
+Disallow: /docs/api/shipping-partner-platform/
+# disallow Common Crawl bot in effort to prevent being added to the Common Crawl dataset (used in GPT training)
+User-agent: CCBot
+Disallow: /apps/default_app_home
+# disallow ChatGPT plugins from accessing certain routes
+User-agent: ChatGPT-User
+Disallow: /apps/default_app_home

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://de.bushman.eu/content/sitemaps/domain_3_sitemap.xml
+Image Sitemap: https://de.bushman.eu/content/sitemaps/domain_3_sitemap_image.xml

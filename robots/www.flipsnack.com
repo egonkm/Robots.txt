@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /controllers/
+Disallow: /crons/
+Disallow: /css/
+Disallow: /config/
+Disallow: /include/
+Disallow: /templates_c/
+Disallow: /my-account/
+Disallow: /my-flipbooks/
+Disallow: /myaccount/
+Disallow: /flip-preview/
+Disallow: /collections.html
+Disallow: /api/
+Disallow: /app/
+
+Sitemap: https://www.flipsnack.com/sitemap_site.xml
+Sitemap: https://www.flipsnack.com/sitemap_templates.xml
+Sitemap: https://www.flipsnack.com/sitemap_video.xml

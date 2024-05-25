@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /learn/manager
+Disallow: /learn/sign_in
+Disallow: /learn/sign_out
+Disallow: /learn/forgot
+Disallow: /learn/reset_password
+Disallow: /learn/enter_password
+Disallow: /learn/accept_invite
+Disallow: /learn/update_card
+Disallow: /learn/account
+Disallow: /access/jwt
+Disallow: /access/cas
+Sitemap: https://www.eacademy.hss.edu/sitemap.xml

@@ -1,0 +1,32 @@
+# ALL
+User-agent: *
+Disallow: /control/*
+Disallow: /?from=*
+Disallow: /*affiliate_id*
+Disallow: /*track*
+Disallow: /?a=ljpost&login=*
+Disallow: /a-e_reminder
+Disallow: /a-supp
+Disallow: /a-expsearch
+Disallow: /a-confirm_reg
+Disallow: /a-presents-recent
+Disallow: /a-t_user_gifts_hphp
+Disallow: /*a-t_presents_category_hphp*
+Disallow: /*referer-*
+Disallow: /a-main/affiliate
+Disallow: /a-sms_reminder
+Disallow: /a-error
+Disallow:  /*extend-*
+# JS-CSS-IMAGES
+Allow: /*.js
+Allow: /*.css
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.png
+
+Sitemap: https://loveplanet.ru/sitemap.xml
+
+User-agent: SemrushBot
+Disallow: /
+User-agent: Amazonbot
+Disallow: /do-not-crawl/

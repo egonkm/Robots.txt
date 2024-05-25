@@ -1,0 +1,5 @@
+Sitemap: https://popicon.life/sitemap.xml
+Sitemap: https://popicon.life/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,6 @@
+Sitemap: https://goodjobs.eu/sitemap.xml
+User-agent: *
+Disallow: /imageproxy/
+
+User-agent: XingBot 
+Disallow: /

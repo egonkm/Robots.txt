@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /ProdStage
+Disallow: /search?
+Disallow: /search
+Disallow: /client
+Disallow: /client/
+Disallow: /ecoclient
+Disallow: /ecoclient/
+Disallow: /shoppingcart
+Disallow: /shoppingcart/
+Disallow: /checkout
+Disallow: /checkout/
+
+Sitemap: https://www.ikea.com.tw/sitemap.xml

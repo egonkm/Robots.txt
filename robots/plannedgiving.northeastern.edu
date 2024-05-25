@@ -1,0 +1,8 @@
+User-Agent: * 
+Disallow: /action/
+Disallow: /Action/
+Disallow: *.cshtml
+Disallow: *.pdf
+Disallow: /cookie-policy
+Disallow: /privacy-policy
+Disallow: /siteinfo/setsiteinfo

@@ -1,0 +1,13 @@
+
+User-agent: Clewwa-Bot
+Disallow: */SiteGlobals
+Disallow: */DE/Service
+Disallow: */EN/Service
+Crawl-delay: 15
+
+User-agent: *
+Disallow: */SiteGlobals
+Disallow: */DE/Service
+Disallow: */EN/Service
+Crawl-delay: 180
+

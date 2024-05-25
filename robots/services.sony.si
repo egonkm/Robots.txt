@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+<div style="height: 69px;background-color:black;">
+        <div id="cntHeader">
+            <div style="float: left; margin: 25px 16px 0;">
+                <a href="https://www.sony.eu/" id="top" class="logo"><img class="lgo" src="https://web.archive.org/web/20190109094547im_/http://sorry.sony.eu/image/layout/lgoHeaderSony.gif" alt="Sony" title=""></a>
+            </div>
+        </div>
+    </div>	
+<div  style="padding: 80px 200px 60px 40px;width: 960px;margin: 0 auto;font-size:70%;">
+<table>
+	<tbody>
+		<tr>
+			<th><img src="https://web.archive.org/web/20190109094547im_/http://sorry.sony.eu/image/layout/cnt501Error.gif" alt="Wrong server request" title="Wrong server request" class="errorImage"></th>
+			<td><div class="errorInfo" style="padding-left: 50;">
+                <h2>* Were working on it...</h2>
+                <p>Sorry you cant reach the webpage you want. </p>
+                <p>Our engineers are working on the site right now, so <strong>come back later</strong> and things will probably be fine again.</p>
+            </div></td>
+		</tr>
+	</tbody>
+</table>
+            
+            
+        </div>	
+	</body>
+</html>

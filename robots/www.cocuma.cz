@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /jobs/?q=*
+Disallow: /jobs/*?*city=*
+Disallow: /jobs/*?*county=*

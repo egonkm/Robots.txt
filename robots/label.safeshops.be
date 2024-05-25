@@ -1,0 +1,12 @@
+Sitemap: https://trustmark.becom.digital/sitemaps.xml
+Sitemap: https://trustmark.becom.digital/sitemaps/new_webshops_list.xml
+Sitemap: https://trustmark.becom.digital/sitemaps/webshops_list.xml
+Sitemap: https:///sitemaps.xml
+Sitemap: https:///sitemaps/new_webshops_list.xml
+Sitemap: https:///sitemaps/webshops_list.xml
+Sitemap: https://cert.ehi-siegel.de/sitemaps.xml
+Sitemap: https://cert.ehi-siegel.de/sitemaps/new_webshops_list.xml
+Sitemap: https://cert.ehi-siegel.de/sitemaps/webshops_list.xml
+Sitemap: https://dashboard.trustprofile.com/sitemaps.xml
+Sitemap: https://dashboard.trustprofile.com/sitemaps/new_webshops_list.xml
+Sitemap: https://dashboard.trustprofile.com/sitemaps/webshops_list.xml

@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /ajax/   
+Disallow: /admin/
+Disallow: /cron/
+Disallow: /subscriptions/
+Disallow: /comments/
+Disallow: /api/
+Disallow: /pwa/
+Disallow: /templates/
+Disallow: /KmdCpanel/
+Disallow: /log/
+Disallow: /uploads/
+
+User-agent: facebookexternalhit
+Allow: /
+
+Sitemap: https://www.kamadenu.in/rss-feed/sitemap.xml
+Sitemap: https://www.kamadenu.in/sitemap.xml 

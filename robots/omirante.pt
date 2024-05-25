@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://omirante.pt/sitemap/index.xml
+Sitemap: http://omirante.pt/sitemap/news.xml

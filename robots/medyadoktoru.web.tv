@@ -1,0 +1,14 @@
+
+User-agent: *
+Crawl-delay: 1
+Disallow: /search
+Disallow: /auth/login
+Disallow: /liveCategory
+Disallow: /yasal
+Disallow: /uye-ol
+Disallow: /index.php
+
+Allow: .js
+Allow: .css
+
+Sitemap: https://web.tv/sitemap/medyadoktoru

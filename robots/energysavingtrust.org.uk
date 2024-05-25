@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://energysavingtrust.org.uk/sitemap_index.xml
+User-agent: *
+Disallow: /search/
+Disallow: /*?s=
+	

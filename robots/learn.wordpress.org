@@ -1,0 +1,6 @@
+Sitemap: https://learn.wordpress.org/sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-admin/load-scripts.php
+Allow: /wp-admin/load-styles.php

@@ -1,0 +1,7 @@
+ï»¿User-agent: *
+Disallow: /admin
+Disallow: /awake
+Disallow: /uat
+Disallow: /Admin
+Disallow: /Awake
+Disallow: /UAT

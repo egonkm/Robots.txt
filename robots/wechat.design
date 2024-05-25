@@ -1,0 +1,546 @@
+<!doctype html>
+<html data-n-head-ssr>
+
+<head>
+  <title>WeDesign</title>
+  <meta data-n-head="ssr" charset="utf-8">
+  <meta data-n-head="ssr" name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+  <meta data-n-head="ssr" data-hid="description" name="description" content="Frontend for wedesign website">
+  <base href="/">
+  <link data-n-head="ssr" rel="icon" type="image/png" href="/favicon.png">
+  <link data-n-head="ssr" rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link data-n-head="ssr" rel="stylesheet" type="text/css"
+    href="https://res.wx.qq.com/a/wx_fed/cdn_libs/res/vue-weui/index.css">
+  <link data-n-head="ssr" rel="stylesheet" type="text/css"
+    href="https://res.wx.qq.com/open/libs/weui/2.4.0/weui.min.css">
+  <link data-n-head="ssr" rel="stylesheet" type="text/css"
+    href="https://res.wx.qq.com/open/libs/weui-icon/1.0.0/weui-icon.css">
+  <link rel="preload" href="/_nuxt/49c1559.js" as="script">
+  <link rel="preload" href="/_nuxt/d94f348.js" as="script">
+  <link rel="preload" href="/_nuxt/36193aa.js" as="script">
+  <link rel="preload" href="/_nuxt/4503a54.js" as="script">
+  <link rel="preload" href="/_nuxt/71ad52d.js" as="script">
+  <link rel="preload" href="/_nuxt/c67a216.js" as="script">
+  <style data-vue-ssr-id="40fee6fc:0 1a6f8fb1:0 019e1cef:0 6c05f834:0">
+    .weui-icon-outlined-arrow {
+      transform-origin: center
+    }
+
+    .weui-icon-outlined-arrow.down {
+      transform: rotate(90deg)
+    }
+
+    .weui-icon-outlined-arrow.up {
+      transform: rotate(-90deg)
+    }
+
+    @font-face {
+      font-family: MyriadPro-Regular;
+      src: url(//res.wx.qq.com/a/wx_fed/cdn_libs/res/MyriadPro/1.0.0/MyriadPro-Regular.ttf) format("truetype")
+    }
+
+    @font-face {
+      font-family: MyriadPro-Light;
+      src: url(//res.wx.qq.com/a/wx_fed/cdn_libs/res/MyriadPro/1.0.0/MyriadPro-Light.ttf) format("truetype")
+    }
+
+    @font-face {
+      font-family: HYQiHeiX1-45W;
+      src: url(//res.wx.qq.com/a/wx_fed/cdn_libs/res/HYQiHeiX1/1.0.0/HYQiHeiX1-45W.ttf) format("truetype")
+    }
+
+    @font-face {
+      font-family: HYQiHeiX1-55W;
+      src: url(//res.wx.qq.com/a/wx_fed/cdn_libs/res/HYQiHeiX1/1.0.0/HYQiHeiX1-55W.ttf) format("truetype")
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: 400
+    }
+
+    body,
+    html {
+      font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.4;
+      background: #fff;
+      color: rgba(0, 0, 0, .9)
+    }
+
+    body {
+      -webkit-font-smoothing: antialiased
+    }
+
+    @media (-webkit-min-device-pixel-ratio:1.5),
+    (-webkit-min-device-pixel-ratio:2),
+    (min-resolution:2dppx) {
+      body {
+        -webkit-font-smoothing: subpixel-antialiased
+      }
+    }
+
+    code[class*=language-],
+    pre[class*=language-] {
+      color: #ccc;
+      background: 0 0;
+      font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+      font-size: 1em;
+      text-align: left;
+      white-space: pre;
+      word-spacing: normal;
+      word-break: normal;
+      word-wrap: normal;
+      line-height: 1.5;
+      -moz-tab-size: 4;
+      -o-tab-size: 4;
+      tab-size: 4;
+      -webkit-hyphens: none;
+      -ms-hyphens: none;
+      hyphens: none
+    }
+
+    pre[class*=language-] {
+      padding: 1em;
+      margin: .5em 0;
+      overflow: auto
+    }
+
+    :not(pre)>code[class*=language-],
+    pre[class*=language-] {
+      background: #2d2d2d
+    }
+
+    :not(pre)>code[class*=language-] {
+      padding: .1em;
+      border-radius: .3em;
+      white-space: normal
+    }
+
+    .token.block-comment,
+    .token.cdata,
+    .token.comment,
+    .token.doctype,
+    .token.prolog {
+      color: #999
+    }
+
+    .token.punctuation {
+      color: #ccc
+    }
+
+    .token.attr-name,
+    .token.deleted,
+    .token.namespace,
+    .token.tag {
+      color: #e2777a
+    }
+
+    .token.function-name {
+      color: #6196cc
+    }
+
+    .token.boolean,
+    .token.function,
+    .token.number {
+      color: #f08d49
+    }
+
+    .token.class-name,
+    .token.constant,
+    .token.property,
+    .token.symbol {
+      color: #f8c555
+    }
+
+    .token.atrule,
+    .token.builtin,
+    .token.important,
+    .token.keyword,
+    .token.selector {
+      color: #cc99cd
+    }
+
+    .token.attr-value,
+    .token.char,
+    .token.regex,
+    .token.string,
+    .token.variable {
+      color: #7ec699
+    }
+
+    .token.entity,
+    .token.operator,
+    .token.url {
+      color: #67cdcc
+    }
+
+    .token.bold,
+    .token.important {
+      font-weight: 700
+    }
+
+    .token.italic {
+      font-style: italic
+    }
+
+    .token.entity {
+      cursor: help
+    }
+
+    .token.inserted {
+      color: green
+    }
+
+    .nuxt-progress {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 2px;
+      width: 0;
+      opacity: 1;
+      transition: width .1s, opacity .4s;
+      background-color: #07c160;
+      z-index: 999999
+    }
+
+    .nuxt-progress.nuxt-progress-notransition {
+      transition: none
+    }
+
+    .nuxt-progress-failed {
+      background-color: red
+    }
+
+    .home__container {
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0, 0, 0, .9);
+      color: #fff;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      min-height: 575px;
+      position: relative;
+      overflow: hidden
+    }
+
+    .home__info {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      margin-left: 144px;
+      position: relative;
+      z-index: 1
+    }
+
+    @media screen and (min-width:576px) and (max-width:1024px) {
+      .home__info {
+        margin-left: 72px
+      }
+    }
+
+    @media screen and (max-width:576px) {
+      .home__info {
+        margin-left: 72px
+      }
+    }
+
+    @media screen and (max-height:768px) {
+      .home__info {
+        justify-content: flex-end
+      }
+    }
+
+    @media screen and (max-width:576px) {
+      .home__info {
+        margin-left: 40px;
+        justify-content: flex-end
+      }
+    }
+
+    @media screen and (min-width:1600px) {
+      .home__info {
+        margin-left: 10%
+      }
+    }
+
+    .home-menu {
+      display: flex;
+      flex-direction: column;
+      margin-top: 60px
+    }
+
+    @media screen and (max-width:576px) {
+      .home-menu {
+        margin-top: 36px
+      }
+    }
+
+    @-webkit-keyframes home-appear {
+      0% {
+        transform: translateY(24px);
+        opacity: 0
+      }
+
+      to {
+        transform: translateY(0);
+        opacity: 1
+      }
+    }
+
+    @keyframes home-appear {
+      0% {
+        transform: translateY(24px);
+        opacity: 0
+      }
+
+      to {
+        transform: translateY(0);
+        opacity: 1
+      }
+    }
+
+    .home-menu__item {
+      margin: 8px -4px;
+      padding: 4px;
+      text-decoration: none;
+      color: hsla(0, 0%, 100%, .9);
+      font-size: 20px;
+      position: relative
+    }
+
+    .home-menu__item:first-child {
+      -webkit-animation: home-appear .5s 1.05s forwards;
+      animation: home-appear .5s 1.05s forwards
+    }
+
+    .home-menu__item:first-child,
+    .home-menu__item:nth-child(2) {
+      transform: translateY(-100%);
+      opacity: 0;
+      will-change: oapcity, transform
+    }
+
+    .home-menu__item:nth-child(2) {
+      -webkit-animation: home-appear .5s 1.2s forwards;
+      animation: home-appear .5s 1.2s forwards
+    }
+
+    .home-menu__item:nth-child(3) {
+      -webkit-animation: home-appear .5s 1.35s forwards;
+      animation: home-appear .5s 1.35s forwards
+    }
+
+    .home-menu__item:nth-child(3),
+    .home-menu__item:nth-child(4) {
+      transform: translateY(-100%);
+      opacity: 0;
+      will-change: oapcity, transform
+    }
+
+    .home-menu__item:nth-child(4) {
+      -webkit-animation: home-appear .5s 1.5s forwards;
+      animation: home-appear .5s 1.5s forwards
+    }
+
+    .home-menu__item:nth-child(5) {
+      -webkit-animation: home-appear .5s 1.65s forwards;
+      animation: home-appear .5s 1.65s forwards
+    }
+
+    .home-menu__item:nth-child(5),
+    .home-menu__item:nth-child(6) {
+      transform: translateY(-100%);
+      opacity: 0;
+      will-change: oapcity, transform
+    }
+
+    .home-menu__item:nth-child(6) {
+      -webkit-animation: home-appear .5s 1.8s forwards;
+      animation: home-appear .5s 1.8s forwards
+    }
+
+    .home-menu__item:visited {
+      color: hsla(0, 0%, 100%, .5)
+    }
+
+    .home-menu__item:hover {
+      color: #07c160
+    }
+
+    @media screen and (max-width:576px) {
+      .home-menu__item {
+        font-size: 18px
+      }
+    }
+
+    @media screen and (min-width:2160px) {
+      .home-menu__item {
+        font-size: 22px
+      }
+    }
+
+    .home__footer {
+      position: absolute;
+      bottom: 84px;
+      left: 0;
+      opacity: .5;
+      font-weight: 200;
+      letter-spacing: .035em;
+      font-size: 15px
+    }
+
+    .home__footer-icp, .home__footer-copyright {
+      font-size: 12px;
+      color: currentColor !important;
+    }
+    
+    .home__footer-icp {
+      display: inline-block;
+      margin-top: 14px;
+      margin-bottom: 2px
+    }
+
+    .home__footer-icp:hover, .home__footer-icp:active {
+      text-decoration: underline;
+    }
+
+    @media screen and (max-height:768px) {
+      .home__footer {
+        bottom: 0;
+        position: relative;
+        margin: 68px 0 76px
+      }
+    }
+
+    @media screen and (max-width:576px) {
+      .home__footer {
+        bottom: 0;
+        position: relative;
+        margin: 68px 0 76px
+      }
+    }
+
+    @media screen and (min-width:2160px) {
+      .home__footer {
+        font-size: 17px
+      }
+    }
+
+    .home__brand {
+      width: 300px;
+      height: 70px;
+      pointer-events: none;
+      margin-top: 8px;
+      transform: translateY(-100%);
+      opacity: 0;
+      will-change: oapcity, transform;
+      -webkit-animation: home-appear .5s .9s forwards;
+      animation: home-appear .5s .9s forwards;
+      -webkit-animation-duration: 1s;
+      animation-duration: 1s;
+      -webkit-animation-delay: .5s;
+      animation-delay: .5s;
+      transform: none !important
+    }
+
+    @media screen and (max-width:576px) {
+      .home__brand {
+        width: 180px;
+        height: 42px
+      }
+    }
+
+    @media screen and (min-width:2160px) {
+      .home__brand {
+        width: 342.85714286px;
+        height: 80px
+      }
+    }
+
+    .home__background {
+      position: absolute;
+      top: 18px;
+      bottom: 48px;
+      left: 0;
+      right: 144px;
+      opacity: .4;
+      transition: .3s
+    }
+
+    @media screen and (min-width:1600px) {
+      .home__background {
+        margin: calc(-38.57143% + 617.14286px) 0;
+        right: 12%
+      }
+    }
+
+    @media screen and (min-width:2160px) {
+      .home__background {
+        margin: -108px 0
+      }
+    }
+
+    @media screen and (min-width:576px) and (max-width:1024px) {
+      .home__background {
+        right: 48px;
+        bottom: 0;
+        left: 72px
+      }
+    }
+
+    @media screen and (max-width:576px) {
+      .home__background {
+        right: 48px;
+        bottom: 0;
+        left: 72px;
+        left: -10vw;
+        right: 8px;
+        top: 0;
+        bottom: 6vh
+      }
+    }
+  </style>
+  <link rel="preload" href="/_nuxt/static/1650957341/state.js" as="script">
+  <link rel="preload" href="/_nuxt/static/1650957341/payload.js" as="script">
+  <link rel="preload" href="/_nuxt/static/1650957341/manifest.js" as="script">
+</head>
+
+<body>
+  <div data-server-rendered="true" id="__nuxt">
+    <!---->
+    <div id="__layout">
+      <div>
+        <div class="home__container">
+          <div class="home__info"><img src="/_nuxt/img/brand.70ac9b4.svg" alt="WEDESIGN" class="home__brand">
+            <div class="home-menu"><a href="/brand" class="home-menu__item">品牌</a><a href="/tool"
+                class="home-menu__item">资源</a></div>
+            <div class="home__footer">
+              <div>微信官方设计团队</div>
+              <a class="home__footer-icp" href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">备案号：粤B2-20090059</a>
+              <div class="home__footer-copyright">Copyright © 1998-2020 Tencent All Rights Reserved.</div>
+            </div>
+          </div>
+          <div class="home__background"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script defer src="/_nuxt/static/1650957341/state.js"></script>
+  <script src="/_nuxt/49c1559.js" defer></script>
+  <script src="/_nuxt/71ad52d.js" defer></script>
+  <script src="/_nuxt/c67a216.js" defer></script>
+  <script src="/_nuxt/d94f348.js" defer></script>
+  <script src="/_nuxt/36193aa.js" defer></script>
+  <script src="/_nuxt/4503a54.js" defer></script>
+</body>
+
+</html>

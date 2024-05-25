@@ -1,0 +1,76 @@
+#
+# robots.txt
+# Updated 2024-01-23. Removed a lot of old directives.
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+# For syntax checking, see:
+# http://www.frobee.com/robots-txt-check
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+Disallow: /group/
+#  exclusions
+Disallow: /technology/resources/
+Disallow: /service-details/resources/
+Disallow: /explore/resources/
+# exclude URLs with parameters
+Disallow: /*?page=
+Disallow: /*&page=
+# exclude taxonomy-generated pages
+Disallow: /taxonomy/
+Disallow: /tags/
+# exclude pages formerly in front end remove URLs 13july2017
+Disallow: /application-unavailable-planned
+Disallow: /application-unavailable-special
+Disallow: /application-unavailable-unplanned
+Disallow: /um-reports-service-unavailable
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: /community/resources-it-staff/enterprise-applications/financial-links/
+Disallow: /community/resources-it-staff/enterprise-applications/financial-links
+Disallow: /community/resources-it-staff/enterprise-applications/human-resources-links/
+Disallow: /community/resources-it-staff/enterprise-applications/human-resources-links
+Disallow: /community/resources-it-staff/enterprise-applications/student-links/
+Disallow: /community/resources-it-staff/enterprise-applications/student-links
+Disallow: /community/resources-it-staff/enterprise-applications/umanalytics-links/
+Disallow: /community/resources-it-staff/enterprise-applications/umanalytics-links
+Disallow: /community/resources-it-staff/enterprise-applications/other-links/
+Disallow: /community/resources-it-staff/enterprise-applications/other-links
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+#    #     #    #     #      #

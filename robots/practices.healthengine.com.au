@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /dentalinsights
+Disallow: /demo/*
+Disallow: /magic-appointment-card-confirmation/
+Disallow: /claim-practice-profile-old/
+Disallow: /claim-confirmed/
+Disallow: /playbook/read/
+Disallow: /list-your-practice/
+Disallow: /wp-content/themes/salient-child/

@@ -1,0 +1,24 @@
+User-agent: *
+
+Allow: /ArticleMedia/
+Allow: /articlemedia/
+Allow: /content/Images/
+Allow: /online/article/
+Allow: /Online/article/
+Allow: /online/default.asp
+Allow: /online/Default.asp
+Allow: /Online/default.asp
+Allow: /Online/Default.asp
+Allow: /default.asp
+Allow: /$
+Disallow: /content/Images/appleWallet/
+Disallow: /content/Images/appStoreBadges/
+Disallow: /content/Images/article-template-icons/
+Disallow: /content/Images/branding/templateImages/
+Disallow: /content/Images/features/
+Disallow: /content/Images/help-assets/
+Disallow: /content/Images/miscImages/
+Disallow: /content/Images/payment-logos/
+Disallow: /content/Images/seatMapImages/
+Disallow: /content/Images/secondary-logos/
+Disallow: /

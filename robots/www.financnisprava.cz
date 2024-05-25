@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /cs/vyhledavani
+Disallow: /cs/404
+Disallow: /en/search
+Disallow: /en/404
+Disallow: /*v=textova-verze
+Disallow: /*v=graficka-verze
+Disallow: /*mm=vyp
+Disallow: /*mm=zap
+Disallow: /*pv=text
+Disallow: /*pv=graphics
+Disallow: /*pv=desktop
+Disallow: /*pv=mobile
+Disallow: /assets/PAPR/
+Disallow: /assets/tiskopisy/
+Sitemap: http://www.financnisprava.cz/sitemap.xml

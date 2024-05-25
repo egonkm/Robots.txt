@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /recherche/entreprises?q*
+Disallow: /entreprises/s/*/*/*?page=
+
+Disallow: /generateur-cv
+
+Disallow: /offres-emploi/redirect/*
+
+Disallow: /cdn-cgi/
+Disallow: /*gbt=*
+Disallow: /metiers/recherche?*
+
+Disallow: /recherche/offres-emploi?q=*
+
+Disallow: /services/poi?location=*
+Disallow: /services/fca_tracker/jobViewTracking
+Disallow: /services/search/similar-companies?apeCode=*
+Disallow: /services/feature/datadriven
+Disallow: /services/search/jobs
+Disallow: /services/search/cities?size=*
+Disallow: /*utm=*
+Sitemap: https://emploi.lefigaro.fr/sitemap.xml
+Sitemap: https://emploi.lefigaro.fr/sitemap-offres-regions-secteurs.xml
+Sitemap: https://emploi.lefigaro.fr/sitemap/

@@ -1,0 +1,1 @@
+<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>txgb9b678d315cb45a185a8-00665236ab</RequestId><HostId>txgb9b678d315cb45a185a8-00665236ab</HostId><Resource>/images-www.scaleway.com/robots.txt</Resource></Error>

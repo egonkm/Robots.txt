@@ -1,0 +1,24 @@
+Sitemap: {{siteUrl}}/sitemap.xml
+
+
+User-Agent: *
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /data/
+Disallow: /install/
+Disallow: /masterpages/
+Disallow: /python/
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+Disallow: /usercontrols/
+Disallow: /xslt/
+Disallow: /app_plugins/
+Disallow: /usync/
+
+Disallow:/media/3aokremk/2024-ticketing-faqs-v-2.pdf
+Disallow:/media/y22d3wd0/2023-ticketing-faqs-v-2.pdf
+
+
+User-agent: NinjaBot
+Disallow: /

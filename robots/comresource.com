@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /clamp-test/
+Disallow: /employment-application/
+Disallow: /gravity-playground/
+Disallow: /members/
+Disallow: /new-hire-request-form/
+Disallow: /new-project/
+Disallow: /pwtony/
+Disallow: /register/
+Disallow: /supplier-application/
+Disallow: /techouteval/
+Disallow: /techout/
+Disallow: /tonytest/
+sitemap: https://comresource.com/sitemap_index.xml

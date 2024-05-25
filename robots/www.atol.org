@@ -1,0 +1,17 @@
+User-Agent: *
+Sitemap: https://www.atol.org/sitemap_index.xml
+Disallow: /wp-admin/
+Disallow: /wp-content/languages/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/upgrade/
+Disallow: /wp-includes/
+Disallow: /readme.html
+Disallow: /refer/
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.atol.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

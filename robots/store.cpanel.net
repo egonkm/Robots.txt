@@ -1,0 +1,460 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>404 - Page Not Found - cPanel Store</title>
+
+<link href="/assets/fonts/css/open-sans-family.css" rel="stylesheet" type="text/css" />
+<link href="/templates/twenty-one/css/all.min.css?v=72467b" rel="stylesheet">
+<link href="/templates/twenty-one/css/theme.min.css?v=72467b" rel="stylesheet">
+<link href="/assets/css/fontawesome-all.min.css" rel="stylesheet">
+<link href="/templates/cpstore/css/custom.css" rel="stylesheet">
+<script>
+    var csrfToken = '82d35631267a78b485ac71842cfbdad35fbceb27',
+        markdownGuide = 'Markdown Guide',
+        locale = 'en',
+        saved = 'saved',
+        saving = 'autosaving',
+        whmcsBaseUrl = "",
+        requiredText = 'Required',
+        recaptchaSiteKey = "";
+</script>
+<script src="/templates/twenty-one/js/scripts.min.js?v=72467b"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2HY05C3ZFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-2HY05C3ZFN');
+</script>
+</head>
+<body class="primary-bg-color" data-phone-cc-input="1">
+<header id="header" class="header">
+<div class="cpanel-header cpanel-bg">
+<div class="container">
+<div class="row">
+<div class="col-6">
+<a class="navbar-brand mr-3" href="/index.php">
+<img src="/templates/cpstore/img/logo.svg" alt="cPanel Store" class="logo-img">
+</a>
+</div>
+<div class="col-6 text-right">
+<a class="btn nav-link cart-btn" href="/cart.php?a=view">
+<i class="far fa-shopping-cart fa-fw"></i>
+<span id="cartItemCount" class="badge badge-info">0</span>
+<span class="sr-only">Shopping Cart</span>
+</a>
+<button class="btn nav-link d-inline d-xl-none" type="button" data-toggle="collapse" data-target="#mainNavbar">
+<span class="fas fa-bars fa-fw text-white"></span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar navbar-expand-xl">
+<div class="container">
+<div class="collapse navbar-collapse" id="mainNavbar">
+<ul id="nav" class="navbar-nav mr-auto">
+<li menuItemName="Home" class="d-block no-collapse" id="Primary_Navbar-Home">
+<a class="pr-4" href="/index.php">
+Home
+</a>
+</li>
+<li menuItemName="Store" class="d-block dropdown no-collapse" id="Primary_Navbar-Store">
+<a class="pr-4 dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
+Store
+</a>
+<ul class="dropdown-menu">
+<li menuItemName="Browse Products Services" class="dropdown-item" id="Primary_Navbar-Store-Browse_Products_Services">
+<a href="/store" class="dropdown-item px-2 py-0">
+Browse All
+</a>
+</li>
+<div class="dropdown-divider"></div>
+<li menuItemName="cPanel Licenses" class="dropdown-item" id="Primary_Navbar-Store-cPanel_Licenses">
+<a href="/store/cpanel-licenses" class="dropdown-item px-2 py-0">
+cPanel Licenses
+</a>
+</li>
+<li menuItemName="Extensions" class="dropdown-item" id="Primary_Navbar-Store-Extensions">
+<a href="/store/extensions" class="dropdown-item px-2 py-0">
+Extensions
+</a>
+</li>
+</ul>
+</li>
+<li menuItemName="menu-contact" class="d-block dropdown no-collapse" id="Primary_Navbar-menu-contact">
+<a class="pr-4 dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
+Contact cPanel
+</a>
+<ul class="dropdown-menu">
+<li menuItemName="menu-contact-sales" class="dropdown-item" id="Primary_Navbar-menu-contact-menu-contact-sales">
+<a href="/cdn-cgi/l/email-protection#80f3e1ece5f3c0e3f0e1eee5ecaeeee5f4" class="dropdown-item px-2 py-0">
+Contact sales
+</a>
+</li>
+<li menuItemName="menu-contact-cs" class="dropdown-item small" id="Primary_Navbar-menu-contact-menu-contact-cs">
+<a href="https://support.cpanel.net/hc/en-us/requests/new?ticket_form_id=360003985413" class="dropdown-item px-2 py-0">
+Contact Customer Service
+</a>
+</li>
+<li menuItemName="menu-contact-address" class="dropdown-item" id="Primary_Navbar-menu-contact-menu-contact-address">
+<a href="#" class="dropdown-item px-2 py-0">
+<strong>Mailing Address</strong><br>
+cPanel, L.L.C.<br>
+2550 N Loop W Suite 4006<br>
+Houston, TX 77092-8902<br>
+United States of America
+</a>
+</li>
+</ul>
+</li>
+<li class="d-none dropdown collapsable-dropdown">
+<a class="dropdown-toggle" href="#" id="navbarDropdownMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+More
+</a>
+<ul class="collapsable-dropdown-menu dropdown-menu" aria-labelledby="navbarDropdownMenu">
+</ul>
+</li>
+</ul>
+<ul class="navbar-nav ml-auto">
+<li menuItemName="Account" class="d-block no-collapse dropdown no-collapse" id="Secondary_Navbar-Account">
+<a class=" dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
+Account
+</a>
+<ul class="dropdown-menu dropdown-menu-right">
+<li menuItemName="Login" class="dropdown-item" id="Secondary_Navbar-Account-Login">
+<a href="/clientarea.php" class="dropdown-item px-2 py-0">
+Login
+</a>
+</li>
+<li menuItemName="Register" class="dropdown-item" id="Secondary_Navbar-Account-Register">
+<a href="/register.php" class="dropdown-item px-2 py-0">
+Register
+</a>
+</li>
+<div class="dropdown-divider"></div>
+<li menuItemName="Forgot Password?" class="dropdown-item" id="Secondary_Navbar-Account-Forgot_Password?">
+<a href="/password/reset" class="dropdown-item px-2 py-0">
+Forgot Password?
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+<nav class="master-breadcrumb" aria-label="breadcrumb">
+<div class="container">
+<ol class="breadcrumb">
+</ol>
+</div>
+</nav>
+<section id="main-body">
+<div class>
+<div class="row">
+<div class="col-12 primary-content">
+<div class="container">
+<div class="text-center p-5">
+<i class="fas fa-exclamation-circle display-1 font-weight-bold text-primary"></i>
+<h1 class="display-1 font-weight-bold text-primary line-height-reduced mb-5">
+Oops!
+</h1>
+<h3>We couldn't find that page</h3>
+<p>Please try navigating using the options below.</p>
+<div class="buttons">
+<a href="https://store.cpanel.net/" class="btn btn-primary px-4">
+Homepage
+</a>
+<a href="https://store.cpanel.net/contact.php" class="btn btn-info px-4">
+Contact Support
+</a>
+</div>
+</div>
+</div>
+<p style="text-align:center;">Powered by <a href="https://www.whmcs.com/" target="_blank">WHMCompleteSolution</a></p>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</section>
+<footer id="footer" class="footer cpanel-bg">
+<div class="container">
+<div class="row">
+<div class="col-xl-2">
+<img src="/templates/cpstore/img/footerlogo.svg" alt="cPanel Store" class="d-none d-xl-block">
+</div>
+<div class="col-xl-6 col-md-8 offset-md-2 offset-xl-0 text-center text-xl-left">
+cPanel, WebHost Manager and WHM are registered trademarks of cPanel, L.L.C. for providing its computer software that facilitates the management and configuration of Internet web servers.
+<br><br>
+</div>
+<div class="col-xl-4 text-center text-xl-left">
+<div class="mt-1 mt-xl-0">
+&copy; 2024 cPanel Store<br>
+<a href="https://cpanel.net/legal-notices/" target="_blank">Legal Notices</a> /
+<a href="https://cpanel.net/privacy-policy/" target="_blank">Privacy Policy</a> /
+<a href="https://cpanel.net/transparency-report/" target="_blank">Transparency Policy</a>
+</div>
+<ul class="list-inline mt-4 mb-0">
+<li class="list-inline-item">
+<button type="button" class="btn" data-toggle="modal" data-target="#modalChooseLanguage">
+<div class="d-inline-block align-middle">
+<div class="iti-flag us"></div>
+</div>
+English
+/
+$
+USD
+</button>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<div id="fullpage-overlay" class="w-hidden">
+<div class="outer-wrapper">
+<div class="inner-wrapper">
+<img src="/assets/img/overlay-spinner.svg" alt>
+<br>
+<span class="msg"></span>
+</div>
+</div>
+</div>
+<div class="modal system-modal fade" id="modalAjax" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title"></h5>
+<button type="button" class="close" data-dismiss="modal">
+<span aria-hidden="true">&times;</span>
+<span class="sr-only">Close</span>
+</button>
+</div>
+<div class="modal-body">
+Loading...
+</div>
+<div class="modal-footer">
+<div class="float-left loader">
+<i class="fas fa-circle-notch fa-spin"></i>
+Loading...
+</div>
+<button type="button" class="btn btn-default" data-dismiss="modal">
+Close
+</button>
+<button type="button" class="btn btn-primary modal-submit">
+Submit
+</button>
+</div>
+</div>
+</div>
+</div>
+<form method="get" action="/robots.txt?">
+<div class="modal modal-localisation" id="modalChooseLanguage" tabindex="-1" role="dialog">
+<div class="modal-dialog modal-lg" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+<h5 class="h5 pt-5 pb-3">Choose language</h5>
+<div class="row item-selector">
+<input type="hidden" name="language" data-current="english" value="english" />
+<div class="col-4">
+<a href="#" class="item" data-value="arabic">
+العربية
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="azerbaijani">
+Azerbaijani
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="catalan">
+Català
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="chinese">
+中文
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="croatian">
+Hrvatski
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="czech">
+Čeština
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="danish">
+Dansk
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="dutch">
+Nederlands
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item active" data-value="english">
+English
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="estonian">
+Estonian
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="farsi">
+Persian
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="french">
+Français
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="german">
+Deutsch
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="hebrew">
+עברית
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="hungarian">
+Magyar
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="italian">
+Italiano
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="macedonian">
+Macedonian
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="norwegian">
+Norwegian
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="portuguese-br">
+Português
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="portuguese-pt">
+Português
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="romanian">
+Română
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="russian">
+Русский
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="spanish">
+Español
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="swedish">
+Svenska
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="turkish">
+Türkçe
+</a>
+</div>
+<div class="col-4">
+<a href="#" class="item" data-value="ukranian">
+Українська
+</a>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button type="submit" class="btn btn-default">Apply</button>
+</div>
+</div>
+</div>
+</div>
+</form>
+<form action="#" id="frmGeneratePassword">
+<div class="modal fade" id="modalGeneratePassword">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header bg-primary text-white">
+<h4 class="modal-title">
+Generate Password
+</h4>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<div class="alert alert-danger w-hidden" id="generatePwLengthError">
+Please enter a number between 8 and 64 for the password length
+</div>
+<div class="form-group row">
+<label for="generatePwLength" class="col-sm-4 col-form-label">Password Length</label>
+<div class="col-sm-8">
+<input type="number" min="8" max="64" value="12" step="1" class="form-control input-inline input-inline-100" id="inputGeneratePasswordLength">
+</div>
+</div>
+<div class="form-group row">
+<label for="generatePwOutput" class="col-sm-4 col-form-label">Generated Password</label>
+<div class="col-sm-8">
+<input type="text" class="form-control" id="inputGeneratePasswordOutput">
+</div>
+</div>
+<div class="row">
+<div class="col-sm-8 offset-sm-4">
+<button type="submit" class="btn btn-default btn-sm">
+<i class="fas fa-plus fa-fw"></i>
+Generate new password
+</button>
+<button type="button" class="btn btn-default btn-sm copy-to-clipboard" data-clipboard-target="#inputGeneratePasswordOutput">
+<img src="/assets/img/clippy.svg" alt="Copy to clipboard" width="15">
+Copy
+</button>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">
+Close
+</button>
+<button type="button" class="btn btn-primary" id="btnGeneratePasswordInsert" data-clipboard-target="#inputGeneratePasswordOutput">
+Copy to clipboard and Insert
+</button>
+</div>
+</div>
+</div>
+</div>
+</form>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

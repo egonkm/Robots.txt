@@ -1,0 +1,7 @@
+
+User-agent: *
+Allow: /
+Disallow: */secur/forgotpassword.jsp?*
+Disallow: */NC__Product?* 
+Disallow: */nc__upcomingevents
+Disallow: */nc__store

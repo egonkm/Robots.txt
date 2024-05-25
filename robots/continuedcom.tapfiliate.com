@@ -1,0 +1,24 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+User-agent: *
+
+Disallow: /resetting/
+Disallow: /inactive-program/
+Disallow: /coming-soon/
+Disallow: /integrations/
+Disallow: /share/
+Disallow: /billing/
+Allow: /publisher/signup/occupationaltherapy-com-affiliate-program/
+Allow: /publisher/signup/physicaltherapy-com-affiliate-program/
+Allow: /publisher/signup/speechpathology-com-affiliate-program/
+Allow: /publisher/signup/occupationaltherapy-com-affiliate-silver-program/
+Allow: /publisher/signup/continued-early-childhood-education/
+Allow: /publisher/signup/speechpathology-com-affiliate-program-10/
+Allow: /publisher/signup/continued-com-social-work-affiliate-program/
+Allow: /publisher/signup/continued-affiliate-program-massage-therapy/
+Allow: /publisher/signup/continued-affiliate-program-psychology/
+Allow: /publisher/signup/continued-affiliate-program-1/
+Allow: /signup/
+Allow: /
+Allow: /publisher/signup/
+Allow: /publisher/signup/continued-respiratory-therapy-affiliate-program/

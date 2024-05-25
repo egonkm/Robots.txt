@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: https://www.mesdroitssociaux.gouv.fr/dd1pnds-ria/index.html/
+Disallow: https://www.mesdroitssociaux.gouv.fr/web/guest/accueil
+Disallow: https://www.mesdroitssociaux.gouv.fr/accueil/404
+Disallow: https://www.mesdroitssociaux.gouv.fr/accueil/500
+Disallow: https://www.mesdroitssociaux.gouv.fr/vos-evenements-de-vie/500
+Disallow: https://www.mesdroitssociaux.gouv.fr/fi/accueil
+Disallow: https://www.mesdroitssociaux.gouv.fr/zh/accueil
+Disallow: https://www.mesdroitssociaux.gouv.fr/dd1pnds-ria/app/resources/font/Raleway-Black.woff2
+Disallow: https://www.mesdroitssociaux.gouv.fr/dd1pnds-ria/app/resources/font/Raleway-Light.woff2
+Disallow: https://www.mesdroitssociaux.gouv.fr/api/core/oauth2/authorization/france-connect
+Disallow: https://www.mesdroitssociaux.gouv.fr/c/portal/login?openIdLogin=true

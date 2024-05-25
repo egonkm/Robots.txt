@@ -1,0 +1,188 @@
+<html>
+
+<head>
+<title>Fonds-Ecran.net: vos fonds d'écran personnalisés</title>
+<script type="text/javascript" id="cookiebanner" src="http://cookiebanner.eu/js/cookiebanner.min.js" data-position="bottom" data-fg="#ffffff" data-bg="#000" data-link="#e9e23b" data-moreinfo="/legal.php" data-message="En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies pour vous proposer des services et offres adapt&eacute;s &agrave; vos centres d'int&eacute;r&ecirc;t." data-linkmsg="En savoir plus"></script>
+</head>
+
+<body background="images/fondpage.jpg" link="#CBFD66" alink="#CBFD66" vlink="#CBFD66">
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="80%" bgcolor="#FFFFFF">
+  <tr>
+    <td width="103%" colspan="4"><blockquote>
+      <p><br>
+      <strong><font face="Tahoma" color="#008040"><big>Fonds-ecran.net</big><br>
+      </font><font face="Tahoma" color="#6FDD00"><big>Vos fonds d'écran personnalisés</big></font></strong></p>
+      <p><font face="Tahoma" color="#000000">Nous vous proposons ci-dessous des fonds d'écran
+      à personaliser avec votre prénom ou un message particulier. N'hésitez pas à faire des
+      fonds pour vous ou vos proches, <strong>c'est gratuit</strong>! (bientôt de nombreux
+      autres fonds à personaliser)</font></p>
+      <p><font face="Tahoma" color="#000000">&nbsp;</font><br>
+      <script type="text/javascript"><!--
+google_ad_client = "pub-9144144466788578";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "6FDD00";
+google_color_text = "000000";
+google_color_url = "000000";
+//-->
+</script> <script type="text/javascript"
+      src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" bgcolor="#E2FFC6"><font face="Tahoma"><strong>Cinema</strong></font></td>
+    <td width="25%" align="center" bgcolor="#E2FFC6"><font face="Tahoma"><strong>Humour</strong></font></td>
+    <td width="25%" align="center" bgcolor="#E2FFC6"><font face="Tahoma"><strong>Amour</strong></font></td>
+    <td width="25%" align="center" bgcolor="#E2FFC6"><font face="Tahoma"><strong>Divers</strong></font></td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" bgcolor="#FFFFEA"><font face="Tahoma"><strong><br>
+    </strong></font></td>
+    <td width="25%" align="center" bgcolor="#F8F8F8"></td>
+    <td width="25%" align="center" bgcolor="#FFECFF"></td>
+    <td width="25%" align="center" bgcolor="#EAF4FF"></td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="top" bgcolor="#FFFFEA">
+
+<img
+    src="images/chtis-ico.jpg" width="125" height="100"><form method="POST" target="_blank"
+    action="fichiers/chtis.php">
+      <p><input type="text" name="message1" size="11" maxlength="40" value="Moi !"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+
+
+<img
+    src="images/piratesdescaraibes-ico.jpg" width="125" height="100"><form method="POST" target="_blank"
+    action="fichiers/piratesdescaraibes.php">
+      <p><input type="text" name="message1" size="11" maxlength="40" value="Pirates des Caraibes"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+<img
+    src="images/matrix-ico.jpg" width="125" height="100"><form method="POST" target="_blank"
+    action="fichiers/matrix.php">
+      <p><input type="text" name="message1" size="11" maxlength="40" value="Matrix"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    <p><img src="images/bricedenice-ico.jpg" width="125" height="100"></p>
+    <form method="POST" target="_blank" action="fichiers/bricedenice.php">
+      <p><input type="text" name="message1" size="11" maxlength="40" value="Denis de Paris"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    <p><br>
+    <img src="images/jamesbond-ico.jpg" width="125" height="100"></p>
+    <form method="POST" target="_blank" action="fichiers/jamesbond.php">
+      <p><input type="text" name="message1" size="11" maxlength="40" value="James Blonde"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    <p><br>
+    <img src="images/superman-ico.jpg" width="125" height="100"></p>
+    <form method="POST" target="_blank" action="fichiers/superman.php">
+      <p><input type="text" name="message1" size="10" maxlength="30" value="PrenomMan"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    </td>
+    <td width="25%" align="center" valign="top" bgcolor="#F8F8F8"><img
+    src="images/postit-ico.jpg" width="125" height="100"><form method="POST" target="_blank"
+    action="fichiers/postit.php">
+      <p><input type="text" name="message1" size="12" maxlength="22" value="Penser à"
+      onFocus="this.value=''"><br>
+      <input type="text" name="message2" size="12" maxlength="22" value="mettre un"
+      onFocus="this.value=''"><br>
+      <input type="text" name="message3" size="7" maxlength="22" value="fond d'écran"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    <p><img src="images/chiens-ico.jpg" width="125" height="100"></p>
+    <form method="POST" target="_blank" action="fichiers/chiens.php">
+      <p><input type="text" name="message1" size="10" maxlength="30" value="Tu veux ma photo?"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    <p><img src="images/bigard-ico.jpg" width="125" height="100"></p>
+    <form method="POST" target="_blank" action="fichiers/bigard.php">
+      <p><input type="text" name="message1" size="10" maxlength="20" value="Bigard"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    </td>
+    <td width="25%" align="center" valign="top" bgcolor="#FFECFF"><img
+    src="images/saintvalentin-ico.jpg" width="125" height="100"><form method="POST"
+    target="_blank" action="fichiers/saintvalentin.php">
+      <p><input type="text" name="message1" size="10" maxlength="30" value="Je t'aime ..."
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    <p><img src="images/nuages-ico.jpg" width="125" height="100"><font face="Tahoma"><strong></p>
+    </strong></font><form method="POST" target="_blank" action="fichiers/nuages.php">
+      <p><input type="text" name="message1" size="10" maxlength="30" value="Mon message"
+      onFocus="this.value=''"><br>
+      <input type="text" name="message2" size="6" maxlength="30" value="nuages"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    </td>
+    <td width="25%" align="center" valign="top" bgcolor="#EAF4FF"><img
+    src="images/ferrari-ico.jpg" width="125" height="100"><font face="Tahoma"><strong><form
+    method="POST" target="_blank" action="fichiers/ferrari.php">
+      <p><input type="text" name="message1" size="10" maxlength="20" value="Mon Prenom"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    <p><img src="images/vista-ico.jpg" width="125" height="100"></p>
+    <form method="POST" target="_blank" action="fichiers/vista.php">
+      <p><input type="text" name="message1" size="10" maxlength="25" value="Windows Vista"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></p>
+    </form>
+    <p><img src="images/halloween-ico.jpg" width="125" height="100"></p>
+    <form method="POST" target="_blank" action="fichiers/halloween.php">
+      <p><input type="text" name="message1" size="10" maxlength="40" value="Happy Halloween !"
+      onFocus="this.value=''"> <input type="submit" value="OK" name="valid"></strong></font></p>
+    </form>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"></td>
+    <td width="25%" align="center"></td>
+    <td width="25%" align="center"></td>
+    <td width="25%" align="center"></td>
+  </tr>
+  <tr>
+    <td width="103%" colspan="4"></td>
+  </tr>
+  <tr>
+    <td width="103%" colspan="4"><blockquote>
+      <p><small><font face="Tahoma"><strong>A quoi ça sert?<br>
+      </strong>A faire plaisir! Par exemple laissez un message d'amour à votre chérie et
+      installez le fond d'écran, elle aura la plaisir de lire votre message quand elle allumera
+      son PC ;) Mais vous pouvez aussi vous faire plaisir bien sûr ;)</font></small></p>
+      <p><font face="Tahoma"><strong><small>Comment ça marche?</small></strong><br>
+      <small>- il vous suffit de taper votre message et de cliquer sur OK</small><br>
+      <small>- installez ensuite le fond d'écran sur votre ordinateur en faisant un clic droit
+      avec votre souris puis &quot;établir en tant qu'élément d'arrière plan&quot;</small></font></p>
+      <p>&nbsp;</p>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="103%" colspan="4" bgcolor="#008000"><blockquote>
+      <p><font face="Tahoma" color="#FFFFFF"><strong>Partenaires:<br>
+      <a href="http://www.fond-ecran.net" target="_blank">Fond d'écran gratuit</a> - <a
+      href="http://www.ecran-de-veille.com" target="_blank">Ecran de veille</a> - <a
+      href="http://www.humourr.com" target="_blank">Vidéos humour</a> - <a
+      href="http://www.cartes-virtuelles.com" target="_blank">Cartes Virtuelles</a></strong></font></p>
+    </blockquote>
+    </td>
+  </tr>
+</table>
+</center></div>
+
+<p align="center">&nbsp;</p>
+
+<p align="center">&nbsp;</p>
+</body>
+</html>

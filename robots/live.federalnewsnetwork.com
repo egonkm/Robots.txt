@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+User-agent: *
+Disallow: /listen/user/
+Disallow: /wp-content/plugins/hubbard-listen-live/api/
+User-agent: GPTBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /

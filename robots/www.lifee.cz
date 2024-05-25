@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*/diskuze
+Disallow: /*?*version=print
+Sitemap: https://www.lifee.cz/sitemap.xml
+Sitemap: https://www.lifee.cz/sitemap-google-news.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /

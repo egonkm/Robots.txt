@@ -1,0 +1,13 @@
+User-agent: * 
+Disallow: /dynamic/
+Disallow: /myProduct/
+Disallow: /create/
+Disallow: /admin/
+Disallow: /toutiao/
+Disallow: /feed/
+Disallow: /xiaozhi/
+Disallow: /main/
+Disallow: /*?type=preview*
+Disallow: /otherProduct/
+Disallow: /my/
+Disallow: /businessApply/

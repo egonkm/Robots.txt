@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /suche
+Disallow: /ajax/*
+Disallow: /cp/*
+Disallow: /*?*q=
+Disallow: /*?*mq=
+Disallow: /*?*filters[]=
+Disallow: /*?*sort=

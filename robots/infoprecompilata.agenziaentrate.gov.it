@@ -1,0 +1,91 @@
+<html lang="it-IT"><head>
+<title>Dichiarazione Precompilata info e assistenza</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="Cache-control" content="no-store, no-cache, must-revalidate, post-check=0, pre-check=0">
+<meta http-equiv="pragma" content="no-cache">
+<link rel="icon" type="image/png" href="favicon.ico">
+<link rel="shortcut icon" type="image/png" href="favicon.ico">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta name="rating" content="general">
+<meta name="robots" content="index,all">
+<meta name="revisit-after" content="30 days">
+<meta content="telephone=no" name="format-detection">
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+<link href="favicon.ico" rel="Shortcut Icon">
+<link class="lfr-css-file" href="/404/aui.css" rel="stylesheet" type="text/css">
+<link class="lfr-css-file" href="/404/maininfo.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class="container-fluid info-precompilata-theme" id="wrapper">
+	<header id="header" role="banner" aria-label="Funzioni di servizio">
+	
+		<div class="header-top-bar">
+			<div class="container-fluid">
+				<div class="row">
+
+					<div class="agency hidden-xs col-sm-6 ">
+						<span><a href="http://www.agenziaentrate.gov.it/" target="_blank">Agenzia delle Entrate</a></span>
+					</div>
+
+					
+				</div>
+			</div>
+		</div>
+
+		<div class="header-wrapper">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-11 col-sm-7 logo-wrapper ">
+						<img alt="" src="/404/agenzia2017.png" class="logo">
+							<strong>La tua dichiarazione precompilata</strong><span class="skip"> - </span><strong>Info e assistenza</strong> 
+							<h1 class="sr-only" key="go-to-x">Dichiarazione precompilata Info e assistenza</h1>
+
+					</div>
+
+					<div class="col-xs-1 hidden-xs mobile-menu-button-wrapper">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-top" aria-expanded="false">
+							<span class="sr-only">sogei.menu-service.open.main.menu</span>
+							<i class="icon-reorder"></i>
+							<i class="icon-remove"></i>
+						</button>
+					</div>
+
+					<div class="hidden-xs col-sm-5 text-right header-tools-wrapper">
+						<div class="header-tools">
+							
+							<div class="row">
+								<div class="col-md-12">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<nav role="navigation">
+		<div id="menu-principale">
+			<h1 class="skip">Menu principale</h1>
+			<div class="contenitore"></div>
+		</div>
+	</nav>
+	<div style="min-height:650px;" id="main">
+		<h1>Pagina non trovata, torna alla <a href="/portale">Home Page</a></h1>
+	</div>
+	<footer>
+		<div id="footer">
+		    <div id="contenitore">
+				<h1 class="skip">Piè&nbsp;di&nbsp; pagina</h1>
+				<p style="text-align:center" class="link"> <a href="http://www.agenziaentrate.gov.it/wps/portal/entrate/privacy">Privacy e Note legali</a> - <strong>Agenzia delle Entrate</strong> - Via Cristoforo Colombo n.426 C/D 00145 Roma - Codice fiscale e partita IVA: 06363391001</p>
+			</div>
+		</div>
+	</footer>
+
+ </div>
+</body>
+
+</html>

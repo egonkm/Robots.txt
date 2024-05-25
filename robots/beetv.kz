@@ -1,0 +1,16 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+
+Clean-param: from&auto_play
+
+Disallow: /auth/
+Disallow: /profiles/
+Disallow: /account/
+Disallow: /subscriptions
+Disallow: /privacy
+Disallow: /terms
+
+Host: beetv.kz
+Sitemap: https://beetv.kz/sitemap.xml

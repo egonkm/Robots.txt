@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /group/generator/CIN/
+Disallow: /CIN/
+Disallow: /pwreset
+Disallow: /changepw
+

@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+User-agent: Mediapartners-Google
+User-agent: msnbot
+User-agent: msnbot-media
+User-agent: Slurp
+User-agent: bingbot
+User-agent: archive.org_bot
+Crawl-delay: 1
+Sitemap: https://www.doag.org/fileadmin/docsitemap.xml
+
+
+User-agent: *
+Disallow: /inc/
+Disallow: /api/
+Disallow: /htmlfragmente/
+Disallow: /login/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /t3lib/
+Disallow: /typo3temp/
+Disallow: /piwik/
+Disallow: /scripts/
+Disallow: /upload/
+Disallow: /uploads/
+Disallow: /am/
+Disallow: /pdf/
+Disallow: /formes
+Disallow: /formes/jsp
+Disallow: /formes/pubfiles
+Disallow: /formes/jsp_login
+Disallow: /fileadmin/scripts/
+Disallow: /konferenz/konferenzplaner/inc/
+Disallow: /konferenz/kongressplaner/ 

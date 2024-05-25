@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+Disallow: *
+Sitemap: https://wb.anticorruzione.it/sitemap.xml

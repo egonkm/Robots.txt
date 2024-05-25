@@ -1,0 +1,1743 @@
+<!doctype html>
+<html lang="en-GB">
+<head><meta charset="utf-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.v="1.2.5.1",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],this.interceptedClickListeners=[],this._interceptClickListeners(this),window.addEventListener("pageshow",e=>{this.persisted=e.persisted,this.everythingLoaded&&this._triggerLastFunctions()}),document.addEventListener("DOMContentLoaded",()=>{this._preconnect3rdParties()}),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}_addUserInteractionListener(e){if(document.hidden){e._triggerListener();return}this.triggerEvents.forEach(t=>window.addEventListener(t,e.userEventHandler,{passive:!0})),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler)}_removeUserInteractionListener(){this.triggerEvents.forEach(e=>window.removeEventListener(e,this.userEventHandler,{passive:!0})),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!0),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"),this._pendingClickStarted())}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!1),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this._pendingClickFinished()}_onTouchEnd(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._disableOtherEventListeners(e.target,!1),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation(),this._pendingClickFinished()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach(e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))})}_interceptClickListeners(e){EventTarget.prototype.addEventListenerBase=EventTarget.prototype.addEventListener,EventTarget.prototype.addEventListener=function(t,i,r){"click"!==t||e.windowLoaded||i===e.clickHandler||e.interceptedClickListeners.push({target:this,func:i,options:r}),(this||window).addEventListenerBase(t,i,r)}}_disableOtherEventListeners(e,t){this.interceptedClickListeners.forEach(i=>{i.target===e&&(t?e.removeEventListener("click",i.func,i.options):e.addEventListener("click",i.func,i.options))}),e.parentNode!==document.documentElement&&this._disableOtherEventListeners(e.parentNode,t)}_waitForPendingClicks(){return new Promise(e=>{this._isClickPending?this._pendingClickFinished=e:e()})}_pendingClickStarted(){this._isClickPending=!0}_pendingClickFinished(){this._isClickPending=!1}_renameDOMAttribute(e,t,i){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(i,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach(t=>{let i=t.getAttribute("data-rocket-src");if(i&&0!==i.indexOf("data:")){0===i.indexOf("//")&&(i=location.protocol+i);try{let r=new URL(i).origin;r!==location.origin&&e.push({src:r,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}catch(n){}}}),e=[...new Map(e.map(e=>[JSON.stringify(e),e])).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(this),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._pendingWebpackRequests(this),await this._triggerWindowLoad()}catch(e){console.error(e)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this._waitForPendingClicks().then(()=>{this._replayClicks()}),this._emptyTrash()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach(e=>{e.hasAttribute("data-rocket-src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)})}async _transformScript(e){if(await this._littleBreath(),!0===e.noModule&&"noModule"in HTMLScriptElement.prototype){e.setAttribute("data-rocket-status","skipped");return}return new Promise(t=>{let i;function r(){(i||e).setAttribute("data-rocket-status","executed"),t()}try{if(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor)i=document.createElement("script"),[...e.attributes].forEach(e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),"data-rocket-src"===t&&(t="src"),i.setAttribute(t,e.nodeValue))}),e.text&&(i.text=e.text),i.hasAttribute("src")?(i.addEventListener("load",r),i.addEventListener("error",function(){i.setAttribute("data-rocket-status","failed"),t()}),setTimeout(()=>{i.isConnected||t()},1)):(i.text=e.text,r()),e.parentNode.replaceChild(i,e);else{let n=e.getAttribute("data-rocket-type"),s=e.getAttribute("data-rocket-src");n?(e.type=n,e.removeAttribute("data-rocket-type")):e.removeAttribute("type"),e.addEventListener("load",r),e.addEventListener("error",function(){e.setAttribute("data-rocket-status","failed"),t()}),s?(e.removeAttribute("data-rocket-src"),e.src=s):e.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(e.text)))}}catch(a){e.setAttribute("data-rocket-status","failed"),t()}})}async _loadScriptsFromList(e){let t=e.shift();return t&&t.isConnected?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var i=document.createDocumentFragment();e.forEach(e=>{let r=e.getAttribute&&e.getAttribute("data-rocket-src")||e.src;if(r){let n=document.createElement("link");n.href=r,n.rel=t,"preconnect"!==t&&(n.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),e.crossOrigin&&(n.crossOrigin=e.crossOrigin),e.integrity&&(n.integrity=e.integrity),i.appendChild(n),this.trash.push(n)}}),document.head.appendChild(i)}_delayEventListeners(e){let t={};function i(i,r){return t[r].eventsToRewrite.indexOf(i)>=0&&!e.everythingLoaded?"rocket-"+i:i}function r(e,r){var n;!t[n=e]&&(t[n]={originalFunctions:{add:n.addEventListener,remove:n.removeEventListener},eventsToRewrite:[]},n.addEventListener=function(){arguments[0]=i(arguments[0],n),t[n].originalFunctions.add.apply(n,arguments)},n.removeEventListener=function(){arguments[0]=i(arguments[0],n),t[n].originalFunctions.remove.apply(n,arguments)}),t[e].eventsToRewrite.push(r)}function n(t,i){let r=t[i];t[i]=null,Object.defineProperty(t,i,{get:()=>r||function(){},set(n){e.everythingLoaded?r=n:t["rocket"+i]=r=n}})}r(document,"DOMContentLoaded"),r(window,"DOMContentLoaded"),r(window,"load"),r(window,"pageshow"),r(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t;function i(t){return e.everythingLoaded?t:t.split(" ").map(e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e).join(" ")}function r(r){if(r&&r.fn&&!e.allJQueries.includes(r)){r.fn.ready=r.fn.init.prototype.ready=function(t){return e.domReadyFired?t.bind(document)(r):document.addEventListener("rocket-DOMContentLoaded",()=>t.bind(document)(r)),r([])};let n=r.fn.on;r.fn.on=r.fn.init.prototype.on=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(e=>{let t=arguments[0][e];delete arguments[0][e],arguments[0][i(e)]=t})),n.apply(this,arguments),this},e.allJQueries.push(r)}t=r}r(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>t,set(e){r(e)}})}async _pendingWebpackRequests(e){let t=document.querySelector("script[data-webpack]");async function i(){return new Promise(e=>{t.addEventListener("load",e),t.addEventListener("error",e)})}t&&(await i(),await e._requestAnimFrame(),await e._pendingWebpackRequests(e))}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}async _triggerWindowLoad(){await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach(e=>e(window).trigger("rocket-jquery-load")),await this._littleBreath();let e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted}),this.windowLoaded=!0}_triggerLastFunctions(){document.onreadystatechange&&document.onreadystatechange(),window.onload&&window.onload(),window.onpageshow&&window.onpageshow({persisted:this.persisted})}_handleDocumentWrite(){let e=new Map;document.write=document.writeln=function(t){let i=document.currentScript;i||console.error("WPRocket unable to document.write this: "+t);let r=document.createRange(),n=i.parentElement,s=e.get(i);void 0===s&&(s=i.nextSibling,e.set(i,s));let a=document.createDocumentFragment();r.setStart(a,0),a.appendChild(r.createContextualFragment(t)),n.insertBefore(a,s)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise(e=>setTimeout(e)):new Promise(e=>requestAnimationFrame(e))}_emptyTrash(){this.trash.forEach(e=>e.remove())}static run(){let e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="facebook-domain-verification" content="2u4tx7nq53ox6vuij84t24piay4rz7" />
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+<title>GamCare - The leading provider of support for anyone affected by problem gambling in Great Britain</title>
+<meta name="description" content="Free support for anyone affected by gambling harms across Great Britain. Speak to the National Gambling Helpline 24/7." />
+<link rel="canonical" href="https://www.gamcare.org.uk/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="GamCare - The leading provider of support for anyone affected by problem gambling in Great Britain" />
+<meta property="og:description" content="Free support for anyone affected by gambling harms across Great Britain. Speak to the National Gambling Helpline 24/7." />
+<meta property="og:url" content="https://www.gamcare.org.uk/" />
+<meta property="og:site_name" content="GamCare" />
+<meta property="article:modified_time" content="2024-02-01T12:49:56+00:00" />
+<meta property="og:image" content="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2023/01/iStock-1180375181-e1673263651717.jpg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="668" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2023/01/iStock-1180375181-e1673263651717.jpg" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.gamcare.org.uk/","url":"https://www.gamcare.org.uk/","name":"GamCare - The leading provider of support for anyone affected by problem gambling in Great Britain","isPartOf":{"@id":"https://www.gamcare.org.uk/#website"},"about":{"@id":"https://www.gamcare.org.uk/#organization"},"datePublished":"2019-02-19T09:00:19+00:00","dateModified":"2024-02-01T12:49:56+00:00","description":"Free support for anyone affected by gambling harms across Great Britain. Speak to the National Gambling Helpline 24/7.","breadcrumb":{"@id":"https://www.gamcare.org.uk/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.gamcare.org.uk/"]}]},{"@type":"BreadcrumbList","@id":"https://www.gamcare.org.uk/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.gamcare.org.uk/#website","url":"https://www.gamcare.org.uk/","name":"GamCare","description":"The leading provider of support for anyone affected by problem gambling in Great Britain","publisher":{"@id":"https://www.gamcare.org.uk/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.gamcare.org.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https://www.gamcare.org.uk/#organization","name":"GamCare","url":"https://www.gamcare.org.uk/","logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://www.gamcare.org.uk/#/schema/logo/image/","url":"https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2022/01/GamCare-logo.jpg","contentUrl":"https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2022/01/GamCare-logo.jpg","width":1081,"height":397,"caption":"GamCare"},"image":{"@id":"https://www.gamcare.org.uk/#/schema/logo/image/"}}]}</script>
+<meta name="google-site-verification" content="YKLPpQH9xBNAUPVhPBm6QwtaoeMq310tK4HKZTSLCvE" />
+<link rel="dns-prefetch" href="//static.addtoany.com" />
+<link rel="dns-prefetch" href="//www.gamcare.org.uk" />
+<link rel="dns-prefetch" href="//use.typekit.net" />
+<link rel="dns-prefetch" href="//d1ygf46rsya1tb.cloudfront.net" />
+<style id="safe-svg-svg-icon-style-inline-css" type="text/css">
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<link rel="stylesheet" id="embedpress_blocks-cgb-style-css-css" href="https://www.gamcare.org.uk/app/plugins/embedpress/Gutenberg/dist/blocks.style.build.css?ver=1703671194" type="text/css" media="all" />
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="embedpress-css" href="https://www.gamcare.org.uk/app/plugins/embedpress/assets/css/embedpress.css?ver=6.4.3" type="text/css" media="all" />
+<link rel="stylesheet" id="cookie-law-info-css" href="https://www.gamcare.org.uk/app/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-public.css?ver=2.5.6" type="text/css" media="all" />
+<link rel="stylesheet" id="cookie-law-info-gdpr-css" href="https://www.gamcare.org.uk/app/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-gdpr.css?ver=2.5.6" type="text/css" media="all" />
+<style id="cookie-law-info-gdpr-inline-css" type="text/css">
+.cli-modal-content, .cli-tab-content { background-color: #ffffff; }.cli-privacy-content-text, .cli-modal .cli-modal-dialog, .cli-tab-container p, a.cli-privacy-readmore { color: #000000; }.cli-tab-header { background-color: #f2f2f2; }.cli-tab-header, .cli-tab-header a.cli-nav-link,span.cli-necessary-caption,.cli-switch .cli-slider:after { color: #000000; }.cli-switch .cli-slider:before { background-color: #ffffff; }.cli-switch input:checked + .cli-slider:before { background-color: #ffffff; }.cli-switch .cli-slider { background-color: #e3e1e8; }.cli-switch input:checked + .cli-slider { background-color: #28a745; }.cli-modal-close svg { fill: #000000; }.cli-tab-footer .wt-cli-privacy-accept-all-btn { background-color: #00acad; color: #ffffff}.cli-tab-footer .wt-cli-privacy-accept-btn { background-color: #00acad; color: #ffffff}.cli-tab-header a:before{ border-right: 1px solid #000000; border-bottom: 1px solid #000000; }
+</style>
+<link rel="stylesheet" id="dashicons-css" href="https://www.gamcare.org.uk/wp/wp-includes/css/dashicons.min.css?ver=6.4.3" type="text/css" media="all" />
+<link rel="stylesheet" id="plyr-css" href="https://www.gamcare.org.uk/app/plugins/embedpress/assets/css/plyr.css?ver=6.4.3" type="text/css" media="all" />
+<link rel="stylesheet" id="addtoany-css" href="https://www.gamcare.org.uk/app/plugins/add-to-any/addtoany.min.css?ver=1.16" type="text/css" media="all" />
+<link rel="stylesheet" id="frank-new-css" href="https://use.typekit.net/vei1vsz.css?ver=6.4.3" type="text/css" media="all" />
+<link rel="stylesheet" id="sage/main.css-css" href="https://www.gamcare.org.uk/app/themes/gamcare/dist/styles/main_85a99291.css?ver=6.4.3" type="text/css" media="all" />
+<script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Share",
+	Save: "Save",
+	Subscribe: "Subscribe",
+	Email: "Email",
+	Bookmark: "Bookmark",
+	ShowAll: "Show all",
+	ShowLess: "Show less",
+	FindServices: "Find service(s)",
+	FindAnyServiceToAddTo: "Instantly find any service to add to",
+	PoweredBy: "Powered by",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Bookmark in your browser",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Add to your favorites",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" async data-rocket-src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" async src="https://www.gamcare.org.uk/app/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/plugins/embedpress/assets/js/plyr.polyfilled.js?ver=1" id="plyr.polyfilled-js"></script>
+<script type="text/javascript" id="cookie-law-info-js-extra">
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":["mc","IDE","_ga","_gid","_gat_UA-3398770-1","iutk","vuid","_scid","X-AB","CONSENT","yt-remote-device-id","yt-remote-connected-devices","_schn","PHPSESSID","_fbp","fr","flashtalkingad1","test_cookie","sc_at"],"non_necessary_cookies":{"necessary":["PHPSESSID","cookielawinfo-checkbox-advertisement"],"functional":["_scid"],"analytics":["_ga","_gid","_gat_UA-3398770-1","iutk","vuid"],"advertisement":["mc","IDE","_fbp","fr","flashtalkingad1","test_cookie","sc_at"],"others":["X-AB","CONSENT","yt-remote-device-id","yt-remote-connected-devices","_schn"]},"cookielist":{"necessary":{"id":137,"status":true,"priority":0,"title":"Necessary","strict":true,"default_state":false,"ccpa_optout":false,"loadonstart":false},"functional":{"id":138,"status":true,"priority":5,"title":"Functional","strict":false,"default_state":false,"ccpa_optout":false,"loadonstart":false},"performance":{"id":139,"status":true,"priority":4,"title":"Performance","strict":false,"default_state":false,"ccpa_optout":false,"loadonstart":false},"analytics":{"id":140,"status":true,"priority":3,"title":"Analytics","strict":false,"default_state":false,"ccpa_optout":false,"loadonstart":false},"advertisement":{"id":141,"status":true,"priority":2,"title":"Advertisement","strict":false,"default_state":false,"ccpa_optout":false,"loadonstart":false},"others":{"id":142,"status":true,"priority":1,"title":"Others","strict":false,"default_state":false,"ccpa_optout":false,"loadonstart":false}},"ajax_url":"https:\/\/www.gamcare.org.uk\/wp\/wp-admin\/admin-ajax.php","current_lang":"en","security":"9b0e30a726","eu_countries":["GB"],"geoIP":"disabled","use_custom_geolocation_api":"","custom_geolocation_api":"https:\/\/geoip.cookieyes.com\/geoip\/checker\/result.php","consentVersion":"2","strictlyEnabled":["necessary","obligatoire"],"cookieDomain":"","privacy_length":"250","ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","ccpaType":"gdpr","triggerDomRefresh":"","secure_cookies":""};
+var log_object = {"ajax_url":"https:\/\/www.gamcare.org.uk\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/plugins/webtoffee-gdpr-cookie-consent/public/js/cookie-law-info-public.js?ver=2.5.6" id="cookie-law-info-js"></script>
+<meta name="generator" content="Site Kit by Google 1.120.0" /><script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.gamcare.org.uk/?wordfence_lh=1&hid=6F8073EF4D7D494960C2DA0699979F12');
+</script><link rel="icon" href="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2019/07/Screenshot-13.png" sizes="32x32" />
+<link rel="icon" href="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2019/07/Screenshot-13.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2019/07/Screenshot-13.png" />
+<meta name="msapplication-TileImage" content="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2019/07/Screenshot-13.png" />
+<style type="text/css" id="wp-custom-css">
+			.simple-banner {
+	top: 140px;
+	z-index:0;
+}
+
+@media screen and (min-width: 575px) {
+  .simple-banner {
+		top: 152px;
+	}
+}
+
+@media screen and (min-width: 767px) {
+  .simple-banner {
+		top: 128px;
+	}
+}
+
+#sftExt-frontend-button.bottom {
+    bottom: 12px !important;
+    min-height: 44px;
+	transition: all ease 0.5s;
+}
+
+#sftExt-frontend-button.is-minimized .sftExt-inner > i {
+	margin-right:0;
+}
+
+#sftExt-frontend-button .sftExt-inner {
+	    font-size: 1rem;
+}
+
+#sftExt-frontend-button .sftExt-inner i {
+	    font-size: 1rem;
+}
+
+@media screen and (min-height: 700px){	
+#sftExt-frontend-button.bottom { bottom: 25px !important;
+	}
+}
+
+@media screen and (min-width: 359px){
+#sftExt-frontend-button.bottom  {
+	    bottom: 8px !important;
+      min-height: 50px;
+	}
+}
+
+@media screen and (max-width: 700px){
+.c-support__btn-cont {
+    padding-bottom: 114px;
+}
+	#sftExt-frontend-button.left {
+		right:8px;
+		left:unset;
+	}
+}
+
+#cookie-notice.cookie-notice-hidden {
+	display:none;
+}
+
+.gfield_checkbox li {
+	width:100%
+}
+
+.ginput_container_radio ul {
+	list-style:none;
+	padding-left:0;
+}
+
+.ginput_container_radio ul li {
+	display:inline-flex;
+	width:100%;
+	flex-direction:row;
+	align-items:center;
+}
+
+
+.ginput_container_radio ul li input[value="Other"],
+.ginput_container_radio ul li label{
+	display:inline-flex;
+	width:calc(100% - 30px);
+}
+
+.ginput_container_radio ul li input{
+	width:30px
+}
+
+
+body.page-chat-transfer-data .c-support.js-support {
+	display:none !important;
+}
+
+@media screen and (max-width: 768px) {
+	#chat-wrap {
+		margin: 0 -15px;
+	}
+}
+
+fieldset {
+	border: none;
+  padding: 0;
+}		</style>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+
+<script type="text/plain" data-cli-class="cli-blocker-script" data-cli-label="Facebook Pixel Code" data-cli-script-type="advertisement" data-cli-block="true" data-cli-block-if-ccpa-optout="false" data-cli-element-position="head">
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1019871541826994');
+    fbq('track', 'PageView');
+  </script>
+<noscript>
+    <img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=1019871541826994&ev=PageView&noscript=1"/>
+  </noscript>
+
+
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+    window._tfa = window._tfa || [];
+    window._tfa.push({notify: 'event', name: 'page_view', id: 1353600});
+    !function (t, f, a, x) {
+      if (!document.getElementById(x)) {
+        t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+      }
+    }(document.createElement('script'),
+      document.getElementsByTagName('script')[0],
+      '//cdn.taboola.com/libtrc/unip/1353600/tfa.js',
+      'tb_tfa_script');
+  </script>
+<noscript>
+    <img src='https://trc.taboola.com/1353600/log/3/unip?en=page_view'
+         width='0' height='0' style='display:none' />
+  </noscript>
+
+<script type="rocketlazyloadscript">
+    // <!-- Google Tag Manager -->
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []
+      w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      })
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''
+      j.async = true
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl
+      f.parentNode.insertBefore(j, f)
+    })(window, document, 'script', 'dataLayer', 'GTM-NVHZHZ5')
+    // <!-- End Google Tag Manager -->
+  </script>
+<script type="rocketlazyloadscript">
+!function (w, d, t) {
+  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+
+  ttq.load('CNBMD93C77U9K3NH3H00');
+  ttq.page();
+}(window, document, 'ttq');
+</script>
+
+<script type="text/plain" data-cli-class="cli-blocker-script" data-cli-label="Facebook Pixel Code" data-cli-script-type="advertisement" data-cli-block="true" data-cli-block-if-ccpa-optout="false" data-cli-element-position="head">
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '948901286953841');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=948901286953841&ev=PageView&noscript=1"
+/></noscript>
+
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+    window.__be = window.__be || {};
+    window.__be.id = "6602c75eb494c900075806de";
+    (function() {
+        var be = document.createElement('script'); be.type = 'text/javascript'; be.async = true;
+        be.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.chatbot.com/widget/plugin.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(be, s);
+    })();
+</script>
+<noscript>You need to <a href="https://www.chatbot.com/help/chat-widget/enable-javascript-in-your-browser/" rel="noopener nofollow">enable JavaScript</a> in order to use the AI chatbot tool powered by <a href="https://www.chatbot.com/" rel="noopener nofollow" target="_blank">ChatBot</a></noscript>
+</head>
+<body class="home page-template-default page page-id-414 app-data index-data singular-data page-data page-414-data page-home-data front-page-data">
+<header>
+<div class="c-navbar js-navbar">
+<div class="c-navbar__top">
+<div class="container">
+<div class="c-navbar__row">
+<div class="c-navbar__brand d-md-none">
+<a href="https://www.gamcare.org.uk" class="o-link-bare d-block" rel="home" aria-label="Home link">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="c-navbar__logo d-none" alt="GamCare logo" data-lazy-src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/logo-gamcare_3308c909.svg"><noscript><img src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/logo-gamcare_3308c909.svg" class="c-navbar__logo d-none" alt="GamCare logo"></noscript>
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="c-navbar__logo d-inline-block" alt="GamCare logo" data-lazy-src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/new-logo-gamcare_6fc148b2.svg"><noscript><img src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/new-logo-gamcare_6fc148b2.svg" class="c-navbar__logo d-inline-block" alt="GamCare logo"></noscript>
+<span class="sr-only">GamCare</span>
+</a>
+</div>
+<nav class="c-nav-top">
+<ul class="o-list-bare c-nav-top__list">
+<li class="d-none d-md-block">
+<button class="c-btn c-nav-top__link js-btn-dropdown" id="dropdown-search-btn" type="button" data-target="#dropdown-search" aria-haspopup="true" aria-expanded="false">
+<span>Search</span>
+<i class="far fa-search c-nav-top__icon" aria-hidden="true"></i>
+</button>
+</li>
+<a href="https://www.gamcare.org.uk/about-us/donations-and-funding/" class="c-btn c-navbar__link c-navbar__link--feat d-none d-md-block">Support us</a>
+<li class="d-none d-md-block">
+<a href="https://www.gamcare.org.uk/about-us/donations-and-funding/" class="c-btn c-navbar__link c-navbar__link--feat d-md-none">Support us</a>
+</li>
+<li>
+<button class="c-btn d-inline-flex align-items-center c-navbar__link c-navbar__link--menu d-md-none js-btn-mob-menu" title="Toggle Menu">
+<span class="mr-3">Menu</span>
+<i class="far fa-bars" aria-hidden="true"></i>
+</button>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="c-navbar__search js-dropdown" id="dropdown-search" aria-labelledby="dropdown-search-btn">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-11">
+<form role="search" method="get" class="c-search" action="https://www.gamcare.org.uk/">
+<label class="c-search__label">
+<span class="sr-only">Enter a search term</span>
+<input type="search" class="c-search__input  js-search__input" value name="s" title="Enter a search term" placeholder="Enter a search term" />
+<button type="submit" class="c-btn c-search__submit" value="Search">
+<span class="sr-only">Submit</span>
+<i class="fas fa-search" aria-hidden="true"></i>
+</button>
+<button class="c-btn c-search__submit c-search__clear" aria-label="clear button" style="right: 40px;">
+&times
+</button>
+</label>
+</form>
+</div>
+<div class="col-1">
+<button class="c-btn c-btn--close js-btn-search-close">
+<span class="sr-only">Close</span>
+<i class="fas fa-times fa-sm" aria-hidden="true"></i>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="c-navbar__main d-flex align-items-center">
+<div class="container">
+<div class="c-navbar__row">
+<div class="c-navbar__brand d-none d-md-block">
+<a href="https://www.gamcare.org.uk" class="o-link-bare d-block" rel="home" aria-label="Home link">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="c-navbar__logo d-none" alt="GamCare logo" data-lazy-src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/logo-gamcare_3308c909.svg"><noscript><img src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/logo-gamcare_3308c909.svg" class="c-navbar__logo d-none" alt="GamCare logo"></noscript>
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="c-navbar__logo d-inline-block" alt="GamCare logo" data-lazy-src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/new-logo-gamcare_6fc148b2.svg"><noscript><img src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/new-logo-gamcare_6fc148b2.svg" class="c-navbar__logo d-inline-block" alt="GamCare logo"></noscript>
+<span class="sr-only">GamCare</span>
+</a>
+</div>
+<div class="d-flex flex-fill flex-md-grow-0">
+<nav class="c-navbar__nav d-none d-md-flex">
+<ul class="o-list-bare c-navbar__list d-none d-md-none">
+<li>
+<a href="https://www.gamcare.org.uk/get-support/" class="c-navbar__link" title="Go to Looking for support?">Looking for support?</a>
+</li>
+<li>
+<a href="https://www.gamcare.org.uk/self-help/" class="c-navbar__link" title="Go to Recovery toolkit">Recovery toolkit</a>
+</li>
+<li>
+<a href="https://www.gamcare.org.uk/understanding-your-gambling/" class="c-navbar__link" title="Go to Understanding your gambling">Understanding your gambling</a>
+</li>
+</ul>
+<ul class="align-items-center o-list-bare c-navbar__list d-none d-md-flex">
+<li class>
+<button class="c-btn c-navbar__link js-btn-nav-primary" data-target="#nav-panel-1">Looking for support?</button>
+</li>
+<li class>
+<button class="c-btn c-navbar__link js-btn-nav-primary" data-target="#nav-panel-2">Recovery toolkit</button>
+</li>
+<li class>
+<button class="c-btn c-navbar__link js-btn-nav-primary" data-target="#nav-panel-3">Understanding your gambling</button>
+</li>
+</ul>
+<button class="c-btn c-navbar__link c-navbar__link--menu d-md-none js-btn-mob-menu" title="Toggle Menu">
+<i class="far fa-bars" aria-hidden="true"></i>
+<span class="c-btn__title">Menu</span>
+</button>
+<button class="c-btn c-navbar__link c-navbar__link--menu d-none d-md-block js-btn-nav-menu-toggle" aria-expanded="false" title="Toggle Menu">
+<i class="far fa-bars" aria-hidden="true"></i>
+<span class="c-btn__title">Menu</span>
+</button>
+</nav>
+
+
+<div class="mx-auto d-flex align-items-center font-weight-bold text-secondary call-tel">
+<span class="d-md-none">Call free</span>
+<i class="fas fa-phone fa-phone--phone fa-sm c-nav-top__icon d-block" aria-hidden="true" style="margin-right: 5px;"></i>
+<a href="tel:08088020133"> 0808 8020 133</a>
+<i class="fas fa-phone fa-sm c-nav-top__icon d-block d-md-none" aria-hidden="true"></i>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<nav class="c-nav-menu c-nav-menu js-nav-menu">
+<div class="c-nav-menu__container">
+<div class="desktop-menu-wrap">
+<ul class="o-list-bare c-navbar__list">
+<li>
+<button class="c-btn c-navbar__link js-btn-nav-primary" data-target="#nav-panel-1">Looking for support?</button>
+</li>
+<li>
+<button class="c-btn c-navbar__link js-btn-nav-primary" data-target="#nav-panel-2">Recovery toolkit</button>
+</li>
+<li>
+<button class="c-btn c-navbar__link js-btn-nav-primary" data-target="#nav-panel-3">Understanding your gambling</button>
+</li>
+</ul>
+</div>
+<ul class="c-nav-menu__list"><li class="c-nav-menu__item  c-nav-menu__item--parent"><a href="https://www.gamcare.org.uk/about-us/" class="c-nav-menu__link">About us</a>
+<ul class="c-nav-menu__sub-list">
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/what-support-do-we-provide/" class="c-nav-menu__link  c-nav-menu__link--sub-list">What support do we provide?</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/our-model-of-care/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Our Model of Care</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/meet-the-team/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Our Leadership Team</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/board-of-trustees/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Board of Trustees</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/jobs/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Work for GamCare</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/inclusion-diversity/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Inclusion &#038; Diversity</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/lived-experience-community/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Lived Experience Community</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/contact-us/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Contact us</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/data-and-insight/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Data and Insight</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/policy-and-research/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Policy and Research</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/donations-and-funding/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Donations and Funding</a></li>
+</ul>
+</li>
+<li class="c-nav-menu__item  c-nav-menu__item--parent"><a href="https://www.gamcare.org.uk/outreach-and-training/" class="c-nav-menu__link">Outreach and Training</a>
+<ul class="c-nav-menu__sub-list">
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/youth-outreach-programme/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Children and Young People</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/womens-programme/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Women’s Programme</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/working-with-the-criminal-justice-system/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Working with the Criminal Justice System</a></li>
+<li class="c-nav-menu__item--parent  c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/gambling-related-financial-harm/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Gambling Related Financial Harm</a>
+<ul class="c-nav-menu__sub-list">
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/gap/" class="c-nav-menu__link  c-nav-menu__link--sub-list">GAP: Gambling Awareness and Prevention Programme</a></li>
+</ul>
+</li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/for-gambling-businesses/" class="c-nav-menu__link  c-nav-menu__link--sub-list">For Gambling Businesses</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/rafbf/" class="c-nav-menu__link  c-nav-menu__link--sub-list">GamCare supports the RAF</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/support-leaflets/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Support leaflets</a></li>
+</ul>
+</li>
+<li class="c-nav-menu__item  c-nav-menu__item--parent"><a href="https://www.gamcare.org.uk/news-and-blog/" class="c-nav-menu__link">News and Blog</a>
+<ul class="c-nav-menu__sub-list">
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/news-and-blog/news/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Latest news</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/news-and-blog/blog/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Blog</a></li>
+</ul>
+</li>
+<li class="c-nav-menu__item  c-nav-menu__item--parent"><a href="https://www.gamcare.org.uk/privacy/" class="c-nav-menu__link">Privacy</a>
+<ul class="c-nav-menu__sub-list">
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/privacy-support-and-treatment-services/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Privacy – Support and Treatment Services</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/online-group-terms-and-conditions/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Online Group Terms and Conditions</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/terms-conditions/" class="c-nav-menu__link  c-nav-menu__link--sub-list">Terms &#038; Conditions</a></li>
+<li class="c-nav-menu__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/my-gamcare-account-rules/" class="c-nav-menu__link  c-nav-menu__link--sub-list">MyGamCare account rules</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+<nav class="c-nav-primary js-nav-primary"><div id="nav-panel-1" class="c-nav-primary__panel js-nav-primary-panel"><div class="c-nav-primary__panel-cols"><ul class="o-list-bare c-nav-primary__list"><a href="https://www.gamcare.org.uk/get-support/" class="c-nav-primary__link" title="Looking for support?">Looking for support?<i class="fa-external-link fas pl-5" aria-hidden="true"></i></a><li"><a href="https://www.gamcare.org.uk/get-support/talk-to-us-now/" class="c-nav-primary__link c-nav-primary__link--child" title="Talk to us now">Talk to us now</a></li><li"><a href="https://www.gamcare.org.uk/get-support/find-local-support/" class="c-nav-primary__link c-nav-primary__link--child" title="Find local support">Find local support</a></li></ul><ul class="o-list-bare c-nav-primary__list"><li"><a href="https://community.gamcare.org.uk/forum/" class="c-nav-primary__link c-nav-primary__link--child" title="Forum">Forum</a></li><li"><a href="https://community.gamcare.org.uk/chatrooms/" class="c-nav-primary__link c-nav-primary__link--child" title="Chatrooms">Chatrooms</a></li></ul><ul class="o-list-bare c-nav-primary__list"><li"><a href="https://www.gamcare.org.uk/talk/" class="c-nav-primary__link c-nav-primary__link--child" title="TalkBanStop">TalkBanStop</a></li><li"><a href="https://www.gamcare.org.uk/get-support/young-peoples-support-service/" class="c-nav-primary__link c-nav-primary__link--child" title="Young People’s Support Service">Young People’s Support Service</a></li></ul><div class="c-nav-primary__feat-col"><div class="c-nav-primary__feat-col-cont"><a href="https://community.gamcare.org.uk/" class="c-nav-primary__link">Online Community</a><p class="c-nav-primary__feat-col-text u-font-sm">Our Online Community is a space to connect with our digital tools: MyGamCare, Forum and Chatrooms.</p><a href="https://community.gamcare.org.uk/" class="u-font-sm">Learn More</a></div></div></div></div><div id="nav-panel-2" class="c-nav-primary__panel js-nav-primary-panel"><div class="c-nav-primary__panel-cols"><ul class="o-list-bare c-nav-primary__list"><a href="https://www.gamcare.org.uk/self-help/" class="c-nav-primary__link" title="Recovery toolkit">Recovery toolkit<i class="fa-external-link fas pl-5" aria-hidden="true"></i></a><li"><a href="https://www.gamcare.org.uk/self-help/empowerme/" class="c-nav-primary__link c-nav-primary__link--child" title="EmpowerMe">EmpowerMe</a></li><li"><a href="https://www.gamcare.org.uk/self-help/self-help-resources/" class="c-nav-primary__link c-nav-primary__link--child" title="Self-Guided Resources">Self-Guided Resources</a></li></ul><ul class="o-list-bare c-nav-primary__list"><li"><a href="https://www.gamcare.org.uk/self-help/self-exclusion/" class="c-nav-primary__link c-nav-primary__link--child" title="Self-exclusion">Self-exclusion</a></li><li"><a href="https://www.gamcare.org.uk/self-help/blocking-software/" class="c-nav-primary__link c-nav-primary__link--child" title="Blocking software">Blocking software</a></li></ul><ul class="o-list-bare c-nav-primary__list"><li"><a href="https://www.gamcare.org.uk/self-help/managing-your-money/" class="c-nav-primary__link c-nav-primary__link--child" title="Managing your money">Managing your money</a></li><li"><a href="https://www.gamcare.org.uk/self-help/links-to-other-support-agencies/" class="c-nav-primary__link c-nav-primary__link--child" title="Links to other support agencies">Links to other support agencies</a></li></ul><div class="c-nav-primary__feat-col"><div class="c-nav-primary__feat-col-cont"><a href="https://community.gamcare.org.uk/" class="c-nav-primary__link">Online Community</a><p class="c-nav-primary__feat-col-text u-font-sm">Our Online Community is a space to connect with our digital tools: MyGamCare, Forum and Chatrooms.</p><a href="https://community.gamcare.org.uk/" class="u-font-sm">Learn More</a></div></div></div></div><div id="nav-panel-3" class="c-nav-primary__panel js-nav-primary-panel"><div class="c-nav-primary__panel-cols"><ul class="o-list-bare c-nav-primary__list"><a href="https://www.gamcare.org.uk/understanding-your-gambling/" class="c-nav-primary__link" title="Understanding your gambling">Understanding your gambling<i class="fa-external-link fas pl-5" aria-hidden="true"></i></a><li"><a href="https://www.gamcare.org.uk/understanding-your-gambling/signs-of-gambling-harm/" class="c-nav-primary__link c-nav-primary__link--child" title="Signs of Gambling Harm">Signs of Gambling Harm</a></li><li"><a href="https://www.gamcare.org.uk/understanding-your-gambling/changing-your-behaviour/" class="c-nav-primary__link c-nav-primary__link--child" title="Changing your behaviour">Changing your behaviour</a></li></ul><ul class="o-list-bare c-nav-primary__list"><li"><a href="https://www.gamcare.org.uk/understanding-your-gambling/how-can-gambling-affect-your-life/" class="c-nav-primary__link c-nav-primary__link--child" title="How gambling affects your life">How gambling affects your life</a></li><li"><a href="https://www.gamcare.org.uk/understanding-your-gambling/self-assessment-tool/" class="c-nav-primary__link c-nav-primary__link--child" title="Self-assessment tool">Self-assessment tool</a></li></ul><ul class="o-list-bare c-nav-primary__list"><li"><a href="https://www.gamcare.org.uk/understanding-your-gambling/people-weve-helped/" class="c-nav-primary__link c-nav-primary__link--child" title="People we’ve helped">People we’ve helped</a></li></ul><div class="c-nav-primary__feat-col"><div class="c-nav-primary__feat-col-cont"><a href="https://community.gamcare.org.uk/" class="c-nav-primary__link">Online Community</a><p class="c-nav-primary__feat-col-text u-font-sm">Our Online Community is a space to connect with our digital tools: MyGamCare, Forum and Chatrooms.</p><a href="https://community.gamcare.org.uk/" class="u-font-sm">Learn More</a></div></div></div></div></nav>
+</div>
+<div class="c-mob-menu js-mob-menu">
+<div class="px-15 bg-white border-bottom border-gray-lighter">
+<div class="c-navbar__row">
+<div class="c-navbar__brand ">
+<a href="https://www.gamcare.org.uk" class="o-link-bare d-block" rel="home" aria-label="Home link">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="c-navbar__logo d-none" alt="GamCare logo" data-lazy-src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/logo-gamcare_3308c909.svg"><noscript><img src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/logo-gamcare_3308c909.svg" class="c-navbar__logo d-none" alt="GamCare logo"></noscript>
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="c-navbar__logo d-inline-block" alt="GamCare logo" data-lazy-src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/new-logo-gamcare_6fc148b2.svg"><noscript><img src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/new-logo-gamcare_6fc148b2.svg" class="c-navbar__logo d-inline-block" alt="GamCare logo"></noscript>
+<span class="sr-only">GamCare</span>
+</a>
+</div>
+<button class="c-btn c-btn--close js-btn-mob-menu">
+<span class="sr-only">Close</span>
+<i class="fas fa-times fa-sm" aria-hidden="true"></i>
+</button>
+</div>
+</div>
+<div class="bg-gray-lightest py-15">
+<div class="px-15">
+<form role="search" method="get" class="c-search" action="https://www.gamcare.org.uk/">
+<label class="c-search__label">
+<span class="sr-only">Enter a search term</span>
+<input type="search" class="c-search__input  js-search__input" value name="s" title="Enter a search term" placeholder="Enter a search term" />
+<button type="submit" class="c-btn c-search__submit" value="Search">
+<span class="sr-only">Submit</span>
+<i class="fas fa-search" aria-hidden="true"></i>
+</button>
+<button class="c-btn c-search__submit c-search__clear" aria-label="clear button" style="right: 40px;">
+&times
+</button>
+</label>
+</form>
+</div>
+</div>
+<nav class="c-nav-mob">
+<ul class="c-nav-mob__list"><li class="c-nav-mob__item  c-nav-mob__item--parent"><a href="https://www.gamcare.org.uk/get-support/" class="c-nav-mob__link">Looking for support?</a>
+<ul class="c-nav-mob__sub-list">
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/get-support/talk-to-us-now/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Talk to us now</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/get-support/find-local-support/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Find local support</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://community.gamcare.org.uk/forum/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Forum</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://community.gamcare.org.uk/chatrooms/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Chatrooms</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/talk/" class="c-nav-mob__link  c-nav-mob__link--sub-list">TalkBanStop</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/get-support/young-peoples-support-service/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Young People’s Support Service</a></li>
+</ul>
+</li>
+<li class="c-nav-mob__item  c-nav-mob__item--parent"><a href="https://www.gamcare.org.uk/self-help/" class="c-nav-mob__link">Recovery toolkit</a>
+<ul class="c-nav-mob__sub-list">
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/self-help/empowerme/" class="c-nav-mob__link  c-nav-mob__link--sub-list">EmpowerMe</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/self-help/self-help-resources/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Self-Guided Resources</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/self-help/self-exclusion/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Self-exclusion</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/self-help/blocking-software/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Blocking software</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/self-help/managing-your-money/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Managing your money</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/self-help/links-to-other-support-agencies/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Links to other support agencies</a></li>
+</ul>
+</li>
+<li class="c-nav-mob__item  c-nav-mob__item--parent"><a href="https://www.gamcare.org.uk/understanding-your-gambling/" class="c-nav-mob__link">Understanding your gambling</a>
+<ul class="c-nav-mob__sub-list">
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/understanding-your-gambling/signs-of-gambling-harm/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Signs of Gambling Harm</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/understanding-your-gambling/changing-your-behaviour/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Changing your behaviour</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/understanding-your-gambling/how-can-gambling-affect-your-life/" class="c-nav-mob__link  c-nav-mob__link--sub-list">How gambling affects your life</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/understanding-your-gambling/self-assessment-tool/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Self-assessment tool</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/understanding-your-gambling/people-weve-helped/" class="c-nav-mob__link  c-nav-mob__link--sub-list">People we’ve helped</a></li>
+</ul>
+</li>
+</ul>
+<ul class="c-nav-mob__list"><li class="c-nav-mob__item  c-nav-mob__item--parent"><a href="https://www.gamcare.org.uk/about-us/" class="c-nav-mob__link">About us</a>
+<ul class="c-nav-mob__sub-list">
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/what-support-do-we-provide/" class="c-nav-mob__link  c-nav-mob__link--sub-list">What support do we provide?</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/our-model-of-care/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Our Model of Care</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/meet-the-team/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Our Leadership Team</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/board-of-trustees/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Board of Trustees</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/jobs/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Work for GamCare</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/inclusion-diversity/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Inclusion &#038; Diversity</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/lived-experience-community/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Lived Experience Community</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/contact-us/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Contact us</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/data-and-insight/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Data and Insight</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/policy-and-research/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Policy and Research</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/donations-and-funding/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Donations and Funding</a></li>
+</ul>
+</li>
+<li class="c-nav-mob__item  c-nav-mob__item--parent"><a href="https://www.gamcare.org.uk/outreach-and-training/" class="c-nav-mob__link">Outreach and Training</a>
+<ul class="c-nav-mob__sub-list">
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/youth-outreach-programme/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Children and Young People</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/womens-programme/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Women’s Programme</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/working-with-the-criminal-justice-system/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Working with the Criminal Justice System</a></li>
+<li class="c-nav-mob__item--parent  c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/gambling-related-financial-harm/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Gambling Related Financial Harm</a>
+<ul class="c-nav-mob__sub-list">
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/gap/" class="c-nav-mob__link  c-nav-mob__link--sub-list">GAP: Gambling Awareness and Prevention Programme</a></li>
+</ul>
+</li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/for-gambling-businesses/" class="c-nav-mob__link  c-nav-mob__link--sub-list">For Gambling Businesses</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/rafbf/" class="c-nav-mob__link  c-nav-mob__link--sub-list">GamCare supports the RAF</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/support-leaflets/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Support leaflets</a></li>
+</ul>
+</li>
+<li class="c-nav-mob__item  c-nav-mob__item--parent"><a href="https://www.gamcare.org.uk/news-and-blog/" class="c-nav-mob__link">News and Blog</a>
+<ul class="c-nav-mob__sub-list">
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/news-and-blog/news/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Latest news</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/news-and-blog/blog/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Blog</a></li>
+</ul>
+</li>
+<li class="c-nav-mob__item  c-nav-mob__item--parent"><a href="https://www.gamcare.org.uk/privacy/" class="c-nav-mob__link">Privacy</a>
+<ul class="c-nav-mob__sub-list">
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/privacy-support-and-treatment-services/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Privacy – Support and Treatment Services</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/online-group-terms-and-conditions/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Online Group Terms and Conditions</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/terms-conditions/" class="c-nav-mob__link  c-nav-mob__link--sub-list">Terms &#038; Conditions</a></li>
+<li class="c-nav-mob__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/my-gamcare-account-rules/" class="c-nav-mob__link  c-nav-mob__link--sub-list">MyGamCare account rules</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+<script src="https://www.gamcare.org.uk/app/themes/gamcare/dist/scripts/fancybox_85a99291.js"></script>
+<link rel="stylesheet" href="https://www.gamcare.org.uk/app/themes/gamcare/dist/styles/fancybox_85a99291.css" />
+</header>
+<div class="o-content js-content" role="document">
+<section style="background-color: #170046" id="banner-cta" class="d-none">
+<div class="container" style="padding-top: 20px; padding-bottom: 20px; position: relative;">
+<div class="banner-cta__first-wrapper">
+<div class="banner-image">
+<img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-full size-full" alt decoding="async" fetchpriority="high" data-lazy-srcset="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2023/02/bullhorn-1-300x300-1.png 300w, https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2023/02/bullhorn-1-300x300-1-150x150.png 150w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2023/02/bullhorn-1-300x300-1.png" /><noscript><img width="300" height="300" src="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2023/02/bullhorn-1-300x300-1.png" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" srcset="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2023/02/bullhorn-1-300x300-1.png 300w, https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2023/02/bullhorn-1-300x300-1-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>
+</div>
+<div class="banner-cta__text" style="flex-grow: 1; color: #FFF;">
+<h3 style="font-size: 18px; font-weight: 400;">
+Visit our new Online Community
+</h3>
+<div style="font-size: 14px;">
+The Forum and Chatrooms in one integrated space.....
+</div>
+</div>
+</div>
+<div class="banner-cta__second-wrapper">
+<div class="banner-cta__first-btn" style="display: flex; align-items: center;">
+<a href="https://www.gamcare.org.uk/news-and-blog/news/online-community-a-space-to-connect/" class="c-btn c-btn--primary c-btn--white w-100" target>
+<span class="c-btn__row">
+<span class="c-btn__title">Learn more</span>
+</span>
+</a>
+</div>
+<div class="banner-cta__second-btn" style="display: flex; align-items: center;">
+<a href="https://community.gamcare.org.uk/" class="c-btn c-btn--primary c-btn--green w-100" target>
+<span class="c-btn__row">
+<span class="c-btn__title">Connect now</span>
+</span>
+</a>
+</div>
+<div class="banner-cta__close-btn" style="display: flex; align-items: center;">
+<button style id="close-banner" aria-label="close banner button"><i class="fa fa-times"></i></button>
+</div>
+</div>
+</div>
+</section>
+<section class="c-bg-img c-masthead js-bg-img">
+<img src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDhcL1dlYnNpdGUtSGVhZGVycy0xXzIwMDB4ODUzX2FjZl9jcm9wcGVkLnBuZyJ9" class="no-lazy" sizes="100vw" srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDhcL1dlYnNpdGUtSGVhZGVycy0xXzIwMDB4ODUzX2FjZl9jcm9wcGVkLnBuZyJ9 2000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDhcL1dlYnNpdGUtSGVhZGVycy0xXzIwMDB4ODUzX2FjZl9jcm9wcGVkLTMwMHgxMjgucG5nIn0= 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDhcL1dlYnNpdGUtSGVhZGVycy0xXzIwMDB4ODUzX2FjZl9jcm9wcGVkLTEwMjR4NDM3LnBuZyJ9 1024w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDhcL1dlYnNpdGUtSGVhZGVycy0xXzIwMDB4ODUzX2FjZl9jcm9wcGVkLTc2OHgzMjgucG5nIn0= 768w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDhcL1dlYnNpdGUtSGVhZGVycy0xXzIwMDB4ODUzX2FjZl9jcm9wcGVkLTE1MzZ4NjU1LnBuZyJ9 1536w" alt style="display: none" />
+<div class="container d-none d-lg-block">
+<div class="row">
+<div class="col-12 col-lg-7">
+<div class="c-masthead__block">
+<h1 class="c-masthead__title">Gambling Harm Support Starts Here</h1>
+<p class="c-masthead__subtitle">When you&#039;re ready to talk, we&#039;re ready to listen.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="d-lg-none">
+<div class="c-masthead__block">
+<div class="col-12 col-md-10 p-0">
+<h1 class="c-masthead__title">Gambling Harm Support Starts Here</h1>
+<p class="c-masthead__subtitle">When you&#039;re ready to talk, we&#039;re ready to listen.</p>
+</div>
+</div>
+</section>
+<section class="support-section c-section-services">
+<div class="container">
+<div class="text-center mb-30">
+<h2></h2>
+</div>
+<div class="row">
+<a class="col-12 col-md-6 col-lg-4 mb-30 service" title="Click to call" href="tel:08088020133">
+<div class="inner-wrap">
+<div class="support-img-ratio">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4tb24td2FsbC53ZWJwIn0= 1000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4tb24td2FsbC0zMDB4MTY5LndlYnAifQ== 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4tb24td2FsbC03Njh4NDMyLndlYnAifQ== 768w" alt="Call us now" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4tb24td2FsbC53ZWJwIn0="><noscript><img
+                src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4tb24td2FsbC53ZWJwIn0="
+                srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4tb24td2FsbC53ZWJwIn0= 1000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4tb24td2FsbC0zMDB4MTY5LndlYnAifQ== 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4tb24td2FsbC03Njh4NDMyLndlYnAifQ== 768w"
+                alt="Call us now"
+              ></noscript>
+</div>
+<div class="d-flex flex-column content-wrap">
+<div>
+<div class="title-wrap">
+<div class="c-icon d-md-flex">
+<i class="fas fa-phone" aria-hidden="true"></i>
+</div>
+<span class="c-pulse c-btn__pulse d-none js-pulse-helpline"></span>
+<h3 class="u-h4">Call us now</h3>
+</div>
+<p>Speak to a Helpline adviser on 0808 8020 133, 24 hours a day, seven days a week.</p>
+</div>
+</div>
+</div>
+</a>
+<a class="col-12 col-md-6 col-lg-4 mb-30 service" title="Visit Live Chat" href="https://www.gamcare.org.uk/get-support/talk-to-us-now/">
+<div class="inner-wrap">
+<div class="support-img-ratio">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3RocmVlLXdvbWVuLW9uLWJlbmNoLndlYnAifQ== 1000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3RocmVlLXdvbWVuLW9uLWJlbmNoLTMwMHgxNjgud2VicCJ9 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3RocmVlLXdvbWVuLW9uLWJlbmNoLTc2OHg0MzEud2VicCJ9 768w" alt="Live Chat" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3RocmVlLXdvbWVuLW9uLWJlbmNoLndlYnAifQ=="><noscript><img
+                src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3RocmVlLXdvbWVuLW9uLWJlbmNoLndlYnAifQ=="
+                srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3RocmVlLXdvbWVuLW9uLWJlbmNoLndlYnAifQ== 1000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3RocmVlLXdvbWVuLW9uLWJlbmNoLTMwMHgxNjgud2VicCJ9 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3RocmVlLXdvbWVuLW9uLWJlbmNoLTc2OHg0MzEud2VicCJ9 768w"
+                alt="Live Chat"
+              ></noscript>
+</div>
+<div class="d-flex flex-column content-wrap">
+<div>
+<div class="title-wrap">
+<div class="c-icon d-md-flex">
+<i class="fas fa-comment" aria-hidden="true"></i>
+</div>
+<span class="c-pulse c-btn__pulse d-none js-pulse-helpline"></span>
+<h3 class="u-h4">Live Chat</h3>
+</div>
+<p>Chat with a Helpline adviser.</p>
+</div>
+</div>
+</div>
+</a>
+<a class="col-12 col-md-6 col-lg-4 mb-30 service" title="Go to Whatsapp" href="https://wa.me/4402030318881">
+<div class="inner-wrap">
+<div class="support-img-ratio">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4td2Fsa2luZy1uZWFyLXRyZWUud2VicCJ9 1000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4td2Fsa2luZy1uZWFyLXRyZWUtMzAweDE2OS53ZWJwIn0= 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4td2Fsa2luZy1uZWFyLXRyZWUtNzY4eDQzMi53ZWJwIn0= 768w" alt="WhatsApp Chat" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4td2Fsa2luZy1uZWFyLXRyZWUud2VicCJ9"><noscript><img
+                src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4td2Fsa2luZy1uZWFyLXRyZWUud2VicCJ9"
+                srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4td2Fsa2luZy1uZWFyLXRyZWUud2VicCJ9 1000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4td2Fsa2luZy1uZWFyLXRyZWUtMzAweDE2OS53ZWJwIn0= 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3R3by1tZW4td2Fsa2luZy1uZWFyLXRyZWUtNzY4eDQzMi53ZWJwIn0= 768w"
+                alt="WhatsApp Chat"
+              ></noscript>
+</div>
+<div class="d-flex flex-column content-wrap">
+<div>
+<div class="title-wrap">
+<div class="c-icon d-md-flex">
+<i class="fab fa-whatsapp" aria-hidden="true"></i>
+</div>
+<span class="c-pulse c-btn__pulse d-none js-pulse-helpline"></span>
+<h3 class="u-h4">WhatsApp Chat</h3>
+</div>
+<p>WhatsApp with a Helpline adviser on 020 3031 8881.</p>
+</div>
+</div>
+</div>
+</a>
+<a class="col-12 col-md-6 col-lg-4 mb-30 service" title="Visit Forum" href="https://community.gamcare.org.uk/forum/">
+<div class="inner-wrap">
+<div class="support-img-ratio">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3Bob25lLWFuZC1oYW5kLWNsb3NlLXVwLndlYnAifQ== 1000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3Bob25lLWFuZC1oYW5kLWNsb3NlLXVwLTMwMHgyMDAud2VicCJ9 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3Bob25lLWFuZC1oYW5kLWNsb3NlLXVwLTc2OHg1MTIud2VicCJ9 768w" alt="Facebook Messenger" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3Bob25lLWFuZC1oYW5kLWNsb3NlLXVwLndlYnAifQ=="><noscript><img
+                src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3Bob25lLWFuZC1oYW5kLWNsb3NlLXVwLndlYnAifQ=="
+                srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3Bob25lLWFuZC1oYW5kLWNsb3NlLXVwLndlYnAifQ== 1000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3Bob25lLWFuZC1oYW5kLWNsb3NlLXVwLTMwMHgyMDAud2VicCJ9 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL3Bob25lLWFuZC1oYW5kLWNsb3NlLXVwLTc2OHg1MTIud2VicCJ9 768w"
+                alt="Facebook Messenger"
+              ></noscript>
+</div>
+<div class="d-flex flex-column content-wrap">
+<div>
+<div class="title-wrap">
+<div class="c-icon d-md-flex">
+<i class="fas fa-users" aria-hidden="true"></i>
+</div>
+<span class="c-pulse c-btn__pulse"></span>
+<h3 class="u-h4">Forum</h3>
+</div>
+<p>The GamCare Forum is an online message board available 24/7, providing a safe and secure space to explore your situation.</p>
+</div>
+</div>
+</div>
+</a>
+<a class="col-12 col-md-6 col-lg-4 mb-30 service" title="Visit Group Chat" href="https://community.gamcare.org.uk/chatrooms/">
+<div class="inner-wrap">
+<div class="support-img-ratio">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL2tuaXR0ZWQtanVtcGVyLXBob25lLndlYnAifQ== 1000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL2tuaXR0ZWQtanVtcGVyLXBob25lLTMwMHgyMDAud2VicCJ9 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL2tuaXR0ZWQtanVtcGVyLXBob25lLTc2OHg1MTIud2VicCJ9 768w" alt="Group Chat" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL2tuaXR0ZWQtanVtcGVyLXBob25lLndlYnAifQ=="><noscript><img
+                src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL2tuaXR0ZWQtanVtcGVyLXBob25lLndlYnAifQ=="
+                srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL2tuaXR0ZWQtanVtcGVyLXBob25lLndlYnAifQ== 1000w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL2tuaXR0ZWQtanVtcGVyLXBob25lLTMwMHgyMDAud2VicCJ9 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL2tuaXR0ZWQtanVtcGVyLXBob25lLTc2OHg1MTIud2VicCJ9 768w"
+                alt="Group Chat"
+              ></noscript>
+</div>
+<div class="d-flex flex-column content-wrap">
+<div>
+<div class="title-wrap">
+<div class="c-icon d-md-flex">
+<i class="fas fa-comments" aria-hidden="true"></i>
+</div>
+<span class="c-pulse c-btn__pulse d-none js-pulse-chat"></span>
+<h3 class="u-h4">Chatrooms</h3>
+</div>
+<p>Speak to others in similar situations about your experiences and find support.</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</section>
+<section class="c-big-cta" style="background: #170046; color: #FFF">
+<div class="container">
+<figure class="o-ratio">
+<div style="padding-bottom:100%"></div>
+<img class="o-ratio__content" data-lazy-srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL215Z2FtY2FyZS1jdGEtMTUweDE1MC53ZWJwIn0= 150w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL215Z2FtY2FyZS1jdGEtMzAweDMwMC53ZWJwIn0= 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL215Z2FtY2FyZS1jdGEud2VicCJ9 570w" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-sizes="auto" alt="MyGamCare" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL215Z2FtY2FyZS1jdGEtMTUweDE1MC53ZWJwIn0="><noscript><img class="o-ratio__content" srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL215Z2FtY2FyZS1jdGEtMTUweDE1MC53ZWJwIn0= 150w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL215Z2FtY2FyZS1jdGEtMzAweDMwMC53ZWJwIn0= 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL215Z2FtY2FyZS1jdGEud2VicCJ9 570w" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDJcL215Z2FtY2FyZS1jdGEtMTUweDE1MC53ZWJwIn0=" data-sizes="auto" alt="MyGamCare"></noscript>
+</figure>
+<h2 style="text-align: center;">MyGamCare (NEW!)</h2>
+<div style="max-width: 770px; margin: 0 auto; text-align: center; margin-bottom: 40px; line-height: 23px;">Make changes to your gambling behaviours and take those first steps today...</div>
+<div class="c-big-cta__cards-wrapper">
+<div class="c-big-cta__card" style="padding: 24px; border: 1px solid #FFFFFF33;">
+<div class="c-big-cta__icon">
+<span style="background: #7455B2; border-radius: 50%;width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; margin: 0 auto; margin-bottom: 16px">
+<i class="fas fa-chart-network" aria-hidden="true"></i>
+</span>
+</div>
+<div class="c-big-cta__card__text">
+<h3 class="c-big-cta__card__title">Set personalised goals</h3>
+<div class style></div>
+</div>
+</div>
+<div class="c-big-cta__card" style="padding: 24px; border: 1px solid #FFFFFF33;">
+<div class="c-big-cta__icon">
+<span style="background: #7455B2; border-radius: 50%;width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; margin: 0 auto; margin-bottom: 16px">
+<i class="far fa-mind-share" aria-hidden="true"></i>
+</span>
+</div>
+<div class="c-big-cta__card__text">
+<h3 class="c-big-cta__card__title">Track your mood &amp; urges</h3>
+<div class style></div>
+</div>
+</div>
+<div class="c-big-cta__card" style="padding: 24px; border: 1px solid #FFFFFF33;">
+<div class="c-big-cta__icon">
+<span style="background: #7455B2; border-radius: 50%;width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; margin: 0 auto; margin-bottom: 16px">
+<i class="fas fa-bookmark" aria-hidden="true"></i>
+</span>
+</div>
+<div class="c-big-cta__card__text">
+<h3 class="c-big-cta__card__title">Read &amp; bookmark resources</h3>
+<div class style></div>
+</div>
+</div>
+</div>
+<div style="display: flex; justify-content: center" class="c-big-cta__btns  multiple ">
+<a href="https://www.gamcare.org.uk/what-is-mygamcare/" class="c-btn c-btn--primary c-btn--white"><span class="c-btn__row">
+<span class="c-btn__title">Find out more</span>
+</span></a>
+<a href="http://my.gamcare.org.uk" class="c-btn c-btn--primary c-btn--green"><span class="c-btn__row">
+<span class="c-btn__title">Use MyGamCare</span>
+</span></a>
+</div>
+</div>
+</section>
+
+<section class="toolkit-section mb-60">
+<div class="container">
+<div class="text-center mb-50">
+<h3 class="mb-20">Your recovery toolkit</h3>
+<p>Information, tools and support you can do on your own</p>
+</div>
+<div class="row">
+<div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-50">
+<div class="c-icon mx-auto mb-30">
+<i class="fas fa-ban" aria-hidden="true"></i>
+</div>
+<h3 class="u-h4 toolkit-box-heading mb-5">Blocking software</h3>
+<p class="toolkit-box-description mb-30">How to block access to gambling sites, account and marketing messages.</p>
+<a href="https://www.gamcare.org.uk/self-help/blocking-software/" class="c-btn c-btn--primary text-center">Learn more</a>
+</div>
+<div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-50">
+<div class="c-icon mx-auto mb-30">
+<i class="fas fa-clipboard-check" aria-hidden="true"></i>
+</div>
+<h3 class="u-h4 toolkit-box-heading mb-5">Self-exclusion</h3>
+<p class="toolkit-box-description mb-30">Ask businesses to exclude you from gambling for a set amount of time.</p>
+<a href="https://www.gamcare.org.uk/self-help/self-exclusion/" class="c-btn c-btn--primary text-center">Learn more</a>
+</div>
+<div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-50">
+<div class="c-icon mx-auto mb-30">
+<i class="fas fa-pound-sign" aria-hidden="true"></i>
+</div>
+<h3 class="u-h4 toolkit-box-heading mb-5">Money management</h3>
+<p class="toolkit-box-description mb-30">Ways you can deal with debt and other financial difficulties related to gambling.</p>
+<a href="https://www.gamcare.org.uk/self-help/money-management/" class="c-btn c-btn--primary text-center">Learn more</a>
+</div>
+<div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-50">
+<div class="c-icon mx-auto mb-30">
+<i class="fas fa-user-friends" aria-hidden="true"></i>
+</div>
+<h3 class="u-h4 toolkit-box-heading mb-5">Workbooks and Self-Guided Resources</h3>
+<p class="toolkit-box-description mb-30">Exercise designed to help you change your relationship with gambling, at your own place.</p>
+<a href="https://www.gamcare.org.uk/self-help/self-help-resources/" class="c-btn c-btn--primary text-center">Learn more</a>
+</div>
+</div>
+<div class="text-center mt-20">
+<a href="https://www.gamcare.org.uk/self-help/" class="c-btn c-btn--primary text-center">View All</a>
+</div>
+</div>
+</section>
+<section class="c-section-testimonials">
+<div class="container">
+<h2 class="mb-10">Your Stories</h2>
+<div class="u-font-600"><p>Overcoming problems with gambling is possible. Read more stories from <a href="https://www.gamcare.org.uk/our-work/people-weve-helped/">people we have helped &gt;&gt;</a></p>
+</div>
+<div class="row justify-content-center">
+<div class="col-12 col-md-10 col-lg-9 col-xl-8">
+<div class="owl-carousel owl-theme c-carousel js-carousel-testimonials">
+<div class="c-testimonial ">
+<blockquote class="c-testimonial__quote">
+Contacting GamCare felt a huge step. I had no idea how to start the conversation and I mulled over this for days.
+Finally, I took the plunge and it was the most important step I could have taken. The Adviser talked to me like an equal and instantly put me at ease. They made me feel that I …
+</blockquote>
+<div class="c-testimonial__author">
+<div class="c-testimonial__author-title">
+<span class="d-block u-font-600">Anonymous</span>
+<span></span>
+</div>
+</div>
+</div>
+<div class="c-testimonial ">
+<blockquote class="c-testimonial__quote">
+Carly found help through GamCare on a long night in December last year.
+“I had been struggling with gambling for around three years. My ‘rock bottom’ was last year, when I lost my home, my job and the relationships that were the most important to me. I knew something had to change, otherwise …
+</blockquote>
+<div class="c-testimonial__author">
+<div class="c-testimonial__author-title">
+<span class="d-block u-font-600">Carly, 34 from London</span>
+<span></span>
+</div>
+</div>
+</div>
+<div class="c-testimonial ">
+<blockquote class="c-testimonial__quote">
+Just wanted to thank each one of you for all the help and advice during my journey dealing with problem gambling. You all honestly saved my life during early stages of my recovery and the support and time spend listening to me on the NetLine is much appreciated. Thank you for showing me the way …
+</blockquote>
+<div class="c-testimonial__author">
+<div class="c-testimonial__author-title">
+<span class="d-block u-font-600">Anonymous (caller)</span>
+<span></span>
+</div>
+</div>
+</div>
+<div class="c-testimonial ">
+<blockquote class="c-testimonial__quote">
+“The fact that I’ve used that service [GAMSTOP] with the blocking software and the counselling has given me three big pillars to stand on.”
+</blockquote>
+<div class="c-testimonial__author">
+<div class="c-testimonial__author-title">
+<span class="d-block u-font-600">Anon, TalkBanStop</span>
+<span></span>
+</div>
+</div>
+</div>
+<div class="c-testimonial ">
+<blockquote class="c-testimonial__quote">
+“I’ve been a gambler most of my adult life, and I was familiar with GamCare. When I actively decided to seek help I knew I could turn to them.
+My gambling behaviour became compulsive in my late twenties, and after ten years of suffering I decided to see what help was out there for …
+</blockquote>
+<div class="c-testimonial__author">
+<div class="c-testimonial__author-title">
+<span class="d-block u-font-600">Mike, 38, London</span>
+<span></span>
+</div>
+</div>
+</div>
+<div class="c-testimonial ">
+<blockquote class="c-testimonial__quote">
+Mark had a successful career in the financial markets before his gambling behaviour began to take a toll.
+He says: “I got to the point where I started chasing my losses with gambling, and that’s when I really felt everything went downhill. I began stealing from the company I worked for in …
+</blockquote>
+<div class="c-testimonial__author">
+<div class="c-testimonial__author-pic">
+<figure class="o-ratio">
+<div style="padding-bottom:100%"></div>
+<img class="o-ratio__content" data-lazy-srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAxOVwvMTBcL01hcmstMTUweDE1MC5qcGcifQ== 150w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAxOVwvMTBcL01hcmstMzAweDMwMC5qcGcifQ== 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAxOVwvMTBcL01hcmstNzY4eDc2OC5qcGcifQ== 768w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAxOVwvMTBcL01hcmsuanBnIn0= 960w" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-sizes="auto" alt data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAxOVwvMTBcL01hcmstMTUweDE1MC5qcGcifQ=="><noscript><img class="o-ratio__content" srcset="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAxOVwvMTBcL01hcmstMTUweDE1MC5qcGcifQ== 150w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAxOVwvMTBcL01hcmstMzAweDMwMC5qcGcifQ== 300w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAxOVwvMTBcL01hcmstNzY4eDc2OC5qcGcifQ== 768w, https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAxOVwvMTBcL01hcmsuanBnIn0= 960w" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAxOVwvMTBcL01hcmstMTUweDE1MC5qcGcifQ==" data-sizes="auto" alt=""></noscript>
+</figure>
+</div>
+<div class="c-testimonial__author-title">
+<span class="d-block u-font-600">Mark, 52 from Derbyshire</span>
+<span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="c-section-feat-posts">
+<div class="container">
+<div class="d-flex flex-wrap align-items-baseline mb-20 text-white">
+<h2 class="mb-5 mr-15">Latest News</h2>
+<a href="https://www.gamcare.org.uk/news-and-blog/" class="flex-shrink-0 text-reset u-link-hover">View all posts</a>
+</div>
+<div class="c-carousel c-carousel--posts owl-carousel js-carousel-posts">
+<a href="https://www.gamcare.org.uk/news-and-blog/blog/mental-health-awareness-week/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-10244 article type-article status-publish has-post-thumbnail hentry tag-mental-health tag-services article_category-blog">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:68.14%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="friends cycling in the woods" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDVcL0N5Y2xpbmctNTY1eDM4NS5wbmcifQ=="><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDVcL0N5Y2xpbmctNTY1eDM4NS5wbmcifQ==" alt="friends cycling in the woods"></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">Move for your Mental Health: Join our Mental Health Awareness Week Chatrooms</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2024-05-13T07:30:09+00:00">13th May 2024</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/news/ngsn-one-year-moment/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-10148 article type-article status-publish has-post-thumbnail hentry tag-governance tag-national-gambling-helpline tag-national-gambling-support-network article_category-news">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:68.14%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="National Gambling Support Network logo" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDRcL05HU04taGVhZGVyLTU2NXgzODUucG5nIn0="><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDRcL05HU04taGVhZGVyLTU2NXgzODUucG5nIn0=" alt="National Gambling Support Network logo"></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">Thousands supported and short waiting times highlighted on one year …</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2024-04-11T08:00:21+00:00">11th April 2024</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/blog/stress-awareness-month-2024/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-10129 article type-article status-publish has-post-thumbnail hentry tag-mental-health tag-services article_category-blog">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:68.14%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="person typing on laptop" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDRcL1N0cmVzcy1Bd2FyZW5lc3MtTW9udGgtNTY1eDM4NS5wbmcifQ=="><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDRcL1N0cmVzcy1Bd2FyZW5lc3MtTW9udGgtNTY1eDM4NS5wbmcifQ==" alt="person typing on laptop"></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">Stress Awareness Month 2024: Join our Themed Chatrooms</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2024-04-08T08:00:17+00:00">8th April 2024</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/blog/debt-awareness-week-2024-getting-debt-advice-will-not-impact-your-credit-rating/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-10077 article type-article status-publish has-post-thumbnail hentry tag-credit-score tag-debt tag-debt-awareness-week tag-money-guidance-service article_category-blog">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:68.14%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDNcL0RlYnQtQ3JlZGl0LUFkdmljZS1CbG9nLUltYWdlLTU2NXgzODUucG5nIn0="><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDNcL0RlYnQtQ3JlZGl0LUFkdmljZS1CbG9nLUltYWdlLTU2NXgzODUucG5nIn0=" alt=""></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">Debt Awareness Week 2024 – Getting debt advice will not impact your …</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2024-03-20T09:54:10+00:00">20th March 2024</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/blog/gambling-related-financial-harm-the-impact-report/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-10055 article type-article status-publish has-post-thumbnail hentry tag-gambling-related-financial-harm article_category-blog">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:68.14%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDNcL0dSRkgtQmxvZy1JbWFnZS01NjV4Mzg1LmpwZyJ9"><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDNcL0dSRkgtQmxvZy1JbWFnZS01NjV4Mzg1LmpwZyJ9" alt=""></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">Gambling Related Financial Harm: The Impact Report</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2024-03-08T12:29:47+00:00">8th March 2024</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/news/gamcare-appoints-new-deputy-chief-executive-officer/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-9973 article type-article status-publish hentry article_category-news">
+<header>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">GamCare Appoints New Deputy Chief Executive Officer</h3>
+<div class="text-primary">
+The gambling support charity GamCare is delighted to announce the appointment of its new Deputy CEO, Mark …
+</div>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2024-02-13T15:45:23+00:00">13th February 2024</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/news/an-update-on-gamcares-safer-gambling-standard/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-9963 article type-article status-publish has-post-thumbnail hentry tag-safer-gambling article_category-news">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:61.95%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDhcL1VudGl0bGVkLTEwMDAtXHUwMGQ3LTY2N3B4LTEwMDAtXHUwMGQ3LTUwMHB4LTgwMC1cdTAwZDctNTAwcHgtODAwLVx1MDBkNy0zNTBweC01NjV4MzUwLnBuZyJ9"><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMDhcL1VudGl0bGVkLTEwMDAtXHUwMGQ3LTY2N3B4LTEwMDAtXHUwMGQ3LTUwMHB4LTgwMC1cdTAwZDctNTAwcHgtODAwLVx1MDBkNy0zNTBweC01NjV4MzUwLnBuZyJ9" alt=""></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">An Update on GamCare’s Safer Gambling Standard</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2024-02-07T17:58:21+00:00">7th February 2024</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/blog/time-to-talk-2024/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-9949 article type-article status-publish has-post-thumbnail hentry tag-mental-health tag-national-gambling-helpline article_category-blog">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:68.14%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="four friends walking and talking along the beach during winter" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDJcL1RpbWUtdG8tVGFsay1EYXktNTY1eDM4NS5wbmcifQ=="><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDJcL1RpbWUtdG8tVGFsay1EYXktNTY1eDM4NS5wbmcifQ==" alt="four friends walking and talking along the beach during winter"></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">Time to Talk Day: Breaking the Silence on Gambling and Mental Health</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2024-02-01T12:16:08+00:00">1st February 2024</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/news/national-gambling-helpline-hits-record-breaking-year/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-9917 article type-article status-publish has-post-thumbnail hentry tag-campaigns tag-national-gambling-helpline article_category-news">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:68.14%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="woman typing on laptop" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDFcL0hlbHBsaW5lLWNhbXBhaWduLWhlYWRlci01NjV4Mzg1LnBuZyJ9"><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyNFwvMDFcL0hlbHBsaW5lLWNhbXBhaWduLWhlYWRlci01NjV4Mzg1LnBuZyJ9" alt="woman typing on laptop"></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">National Gambling Helpline hits record-breaking year</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2024-01-31T09:30:52+00:00">31st January 2024</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/blog/gambling-support-christmas/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-9897 article type-article status-publish has-post-thumbnail hentry article_category-blog">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:68.14%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="A man wearing a Christmas jumper scrolling through his phone and holding a cup of tea with a Christmas tree in the background" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMTJcL0NocmlzdG1hcy1ibG9nLWhlYWRlci01NjV4Mzg1LnBuZyJ9"><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMTJcL0NocmlzdG1hcy1ibG9nLWhlYWRlci01NjV4Mzg1LnBuZyJ9" alt="A man wearing a Christmas jumper scrolling through his phone and holding a cup of tea with a Christmas tree in the background"></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">Gambling support starts here this Christmas</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2023-12-22T09:15:31+00:00">22nd December 2023</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/news/christmas-campaign-yougov/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-9878 article type-article status-publish has-post-thumbnail hentry tag-campaigns tag-christmas tag-lived-experience article_category-news">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:68.14%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="A woman sat on the sofa on her phone with a Christmas tree in the background" data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMTJcL0NocmlzdG1hcy1DYW1wYWlnbi1oZWFkZXItNTY1eDM4NS5wbmcifQ=="><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMTJcL0NocmlzdG1hcy1DYW1wYWlnbi1oZWFkZXItNTY1eDM4NS5wbmcifQ==" alt="A woman sat on the sofa on her phone with a Christmas tree in the background"></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">‘I’m almost five years gamble-free – Christmas is still the hardest …</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2023-12-21T09:00:03+00:00">21st December 2023</time>
+</div>
+</article>
+</a>
+<a href="https://www.gamcare.org.uk/news-and-blog/blog/explainer-the-statutory-levy/" class="o-link-bare d-flex w-100">
+<article class="c-card c-card--post  post-9854 article type-article status-publish has-post-thumbnail hentry tag-gambling tag-governance article_category-blog">
+<header>
+<div>
+<figure class="o-ratio">
+<div style="padding-bottom:68.14%"></div>
+<img class="o-ratio__content" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Houses of Parliament (Westminster palace) and Big Ben tower in London." data-lazy-src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMTJcL1N0YXR1dG9yeS1MZXZ5LTU2NXgzODUucG5nIn0="><noscript><img class="o-ratio__content" src="https://d1xwj6lt3k7mbz.cloudfront.net/eyJidWNrZXQiOiJnYW1jYXJlLXdwIiwia2V5IjoicHJvZFwvdXBsb2Fkc1wvMjAyM1wvMTJcL1N0YXR1dG9yeS1MZXZ5LTU2NXgzODUucG5nIn0=" alt="Houses of Parliament (Westminster palace) and Big Ben tower in London."></noscript>
+</figure>
+</div>
+<div class="c-card__body-post">
+<h3 class="u-h5 mb-10">Explainer: The Statutory Levy</h3>
+</div>
+</header>
+<div class="c-card__footer-post">
+<time class="u-font-sm" datetime="2023-12-15T15:51:30+00:00">15th December 2023</time>
+</div>
+</article>
+</a>
+</div>
+</div>
+</section>
+
+<section class="video-comp-section">
+<div class="video-comp-wrap">
+<img class="video-comp-img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt data-lazy-src="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2023/03/Screenshot-2023-03-03-112652.png"><noscript><img class="video-comp-img" src="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2023/03/Screenshot-2023-03-03-112652.png" alt=""></noscript>
+<a class="video-play-icon" data-fancybox href="https://www.youtube.com/watch?v=A56vJfQQkTc"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt data-lazy-src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/play-white-icon_634ba09f.png"><noscript><img src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/play-white-icon_634ba09f.png" alt=""></noscript></a>
+</div>
+</section>
+<section class="c-section-share">
+<div class="container">
+<span>Share this page</span>
+<div class="a2a_kit a2a_kit_size_18 addtoany_list"><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Share" data-lazy-src="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2019/02/share-alt-square.png"><noscript><img src="https://d1ygf46rsya1tb.cloudfront.net/prod/uploads/2019/02/share-alt-square.png" alt="Share"></noscript></a></div> </div>
+</section>
+</div>
+<footer class="c-footer js-footer">
+<div class="c-footer__donations">
+<div class="container">
+<div class="row justify-content-center justify-content-lg-between align-items-center">
+<div class="col-12 col-sm-10 col-md-8">
+<div class="d-lg-flex align-items-center">
+<div class="c-icon c-icon--md mr-lg-20 mb-15 mb-lg-0 mx-auto">
+<i class="fas fa-hands-helping" aria-hidden="true"></i>
+</div>
+<p class="c-lead font-weight-bold text-primary mb-lg-0 text-center text-lg-left">Donations are vital in extending the reach and impact of our work to minimise gambling-related harm.</p>
+</div>
+</div>
+<div class="col-12 col-sm-6 col-md-5 col-lg-3">
+<a href="https://www.gamcare.org.uk/about-us/donations-and-funding/" class="c-btn c-btn--primary w-100"><span class="c-btn__row">
+<span class="c-btn__title">Make a Donation</span>
+</span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="c-footer__newsletter">
+<div class="container">
+<form action="https://gamcare.us6.list-manage.com/subscribe/post?u=623938242e2014c5df9fd3f45&amp;id=7c1a0ba062" method="post" name="mc-embedded-subscribe-form" class="row c-newsletter js-newsletter" target="_blank">
+<div class="col-md-6">
+<label for="mce-EMAIL" class="c-newsletter__label">
+<p class="u-h3 mb-0">GamCare Newsletter</p>
+<p class="c-lead mb-0">Keep up to date with our work</p>
+</label>
+</div>
+<div class="col-md-6">
+<div class="position-relative">
+<input class="c-newsletter__input" type="email" value name="EMAIL" id="mce-EMAIL" placeholder="Email address">
+<button class="c-btn c-btn--secondary c-newsletter__submit" type="submit" name="subscribe"><span class="c-btn__title">Sign up</span></button>
+</div>
+<p class="c-newsletter__success js-newsletter-success">
+<i class="fas fa-check-circle" aria-hidden="true"></i>
+<span>Thank you for signing up</span>
+</p>
+<div style="position: absolute; left: -5000px;" aria-hidden="true">
+<input type="text" name="b_f9254ae668d6c2be2c8a851dc_e7daf8574c" tabindex="-1" value>
+</div>
+</div>
+</form>
+</div>
+</div>
+<div class="container">
+<div class="c-footer__nav">
+<div class="row">
+<div class="col-12 col-lg-8">
+<nav class="c-nav-footer js-nav-footer">
+<ul class="c-nav-footer__list"><li class="c-nav-footer__item  c-nav-footer__item--parent"><a href="https://www.gamcare.org.uk/about-us/" class="c-nav-footer__link">About us</a>
+<ul class="c-nav-footer__sub-list">
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/what-support-do-we-provide/" class="c-nav-footer__link  c-nav-footer__link--sub-list">What support do we provide?</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/our-model-of-care/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Our Model of Care</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/meet-the-team/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Our Leadership Team</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/board-of-trustees/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Board of Trustees</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/jobs/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Work for GamCare</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/inclusion-diversity/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Inclusion &#038; Diversity</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/lived-experience-community/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Lived Experience Community</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/contact-us/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Contact us</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/data-and-insight/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Data and Insight</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/policy-and-research/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Policy and Research</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/about-us/donations-and-funding/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Donations and Funding</a></li>
+</ul>
+</li>
+<li class="c-nav-footer__item  c-nav-footer__item--parent"><a href="https://www.gamcare.org.uk/outreach-and-training/" class="c-nav-footer__link">Outreach and Training</a>
+<ul class="c-nav-footer__sub-list">
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/youth-outreach-programme/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Children and Young People</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/womens-programme/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Women’s Programme</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/working-with-the-criminal-justice-system/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Working with the Criminal Justice System</a></li>
+<li class="c-nav-footer__item--parent  c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/gambling-related-financial-harm/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Gambling Related Financial Harm</a>
+<ul class="c-nav-footer__sub-list">
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/gap/" class="c-nav-footer__link  c-nav-footer__link--sub-list">GAP: Gambling Awareness and Prevention Programme</a></li>
+</ul>
+</li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/for-gambling-businesses/" class="c-nav-footer__link  c-nav-footer__link--sub-list">For Gambling Businesses</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/rafbf/" class="c-nav-footer__link  c-nav-footer__link--sub-list">GamCare supports the RAF</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/outreach-and-training/support-leaflets/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Support leaflets</a></li>
+</ul>
+</li>
+<li class="c-nav-footer__item  c-nav-footer__item--parent"><a href="https://www.gamcare.org.uk/news-and-blog/" class="c-nav-footer__link">News and Blog</a>
+<ul class="c-nav-footer__sub-list">
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/news-and-blog/news/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Latest news</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/news-and-blog/blog/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Blog</a></li>
+</ul>
+</li>
+<li class="c-nav-footer__item  c-nav-footer__item--parent"><a href="https://www.gamcare.org.uk/privacy/" class="c-nav-footer__link">Privacy</a>
+<ul class="c-nav-footer__sub-list">
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/privacy-support-and-treatment-services/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Privacy – Support and Treatment Services</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/online-group-terms-and-conditions/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Online Group Terms and Conditions</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/terms-conditions/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Terms &#038; Conditions</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/privacy/my-gamcare-account-rules/" class="c-nav-footer__link  c-nav-footer__link--sub-list">MyGamCare account rules</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-12 col-lg-4">
+<nav class="c-nav-footer c-nav-footer--lang js-nav-footer js-nav-footer-lang">
+<ul class="c-nav-footer__list"><li class="c-nav-footer__item  c-nav-footer__item--parent"><a href="#" class="c-nav-footer__link">Languages</a>
+<ul class="c-nav-footer__sub-list">
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/chinese-mandarin/" class="c-nav-footer__link  c-nav-footer__link--sub-list">中文</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/arabic/" class="c-nav-footer__link  c-nav-footer__link--sub-list">العربية</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/turkish/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Türkçe</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/punjabi/" class="c-nav-footer__link  c-nav-footer__link--sub-list">ਪੰਜਾਬੀ / ﺏﺎﺠﻨﭘ</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/russian/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Русский язык</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/thai/" class="c-nav-footer__link  c-nav-footer__link--sub-list">ภาษาไทย</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/polish/" class="c-nav-footer__link  c-nav-footer__link--sub-list">polski</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/swedish/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Svenska</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/italian/" class="c-nav-footer__link  c-nav-footer__link--sub-list">italiano</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/french/" class="c-nav-footer__link  c-nav-footer__link--sub-list">français</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/german/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Deutsch</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/welsh/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Cymraeg</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/lithuanian/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Lietuvių</a></li>
+<li class="c-nav-footer__item--sub-list"><a href="https://www.gamcare.org.uk/romana/" class="c-nav-footer__link  c-nav-footer__link--sub-list">Română</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="c-footer__social">
+<span class="u-font-lg font-weight-bold">Follow us</span>
+<ul class="c-list-icons">
+<li>
+<a href="https://www.facebook.com/gamcare/" target="_blank" rel="noopener" class="c-list-icons__link">
+<i class="fab fa-facebook" aria-hidden="true"></i>
+<span class="sr-only">Facebook</span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC0Ue4DeoYh_3nYm24EX09kg" target="_blank" rel="noopener" class="c-list-icons__link">
+<i class="fab fa-youtube" aria-hidden="true"></i>
+<span class="sr-only">YouTube</span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/GamCare" target="_blank" rel="noopener" class="c-list-icons__link">
+<i class="fab fa-twitter" aria-hidden="true"></i>
+<span class="sr-only">Twitter</span>
+</a>
+</li>
+<li>
+<a href="https://instagram.com/GamCare" target="_blank" rel="noopener" class="c-list-icons__link">
+<i class="fab fa-instagram" aria-hidden="true"></i>
+<span class="sr-only">Instagram</span>
+</a>
+</li>
+<li>
+<a href="https://uk.linkedin.com/company/gamcare" target="_blank" rel="noopener" class="c-list-icons__link">
+<i class="fab fa-linkedin" aria-hidden="true"></i>
+<span class="sr-only">Linkedin</span>
+</a>
+</li>
+</ul>
+</div>
+<p class="mb-0">
+<a href="https://www.gamcare.org.uk/privacy/" class="c-footer__link mr-15" target>Website Privacy Policy</a>
+<a href="https://www.gamcare.org.uk/privacy/terms-conditions/" class="c-footer__link" target="https://www.gamcare.org.uk/privacy/terms-conditions/">Terms and conditions</a>
+</p>
+<p class="c-footer__meta">&copy; GamCare 2024 All rights reserved. A Charitable Company Registered in England No. 3297914 | A Charity Registered in England No. 1060005; Registered in Scotland No. SC050547 | 1st Floor, 91-94 Saffron Hill, London, EC1N 8QP | Supported by GambleAware | This content is not intended for an audience under 18 years of age</p>
+</div>
+</footer>
+<div class="clearfix five9-modal" data-uri="https://app.five9.eu/consoles/ChatConsole/index.html?title=Gamcare%20Chat&#038;tenant=GamCare-%20(thru%20babble)&#038;profiles=GamCare%20Chat&#038;showProfiles=true&#038;theme=default-theme.css&#038;surveyOptions=%7B%22showComment%22%3Atrue%2C%22requireComment%22%3Afalse%7D&#038;fields=%7B%22name%22%3A%7B%22value%22%3A%22%22%2C%22show%22%3Atrue%2C%22label%22%3A%22User%20Name%22%7D%2C%22email%22%3A%7B%22value%22%3A%22%22%2C%22show%22%3Atrue%2C%22label%22%3A%22Email%20(Optional)%22%7D%7D&#038;playSoundOnMessage=true&#038;allowCustomerToControlSoundPlay=false&#038;showEmailButton=false&#038;useBusinessHours=false&#038;showPrintButton=false&#038;allowUsabilityMenu=false">
+<div class="close"><i class="fas fa-times"></i></div>
+
+
+<iframe id="frame" src width="100%"></iframe>
+<img class="loader" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/loader_3f259006.gif" /><noscript><img class="loader" src="https://www.gamcare.org.uk/app/themes/gamcare/dist/images/loader_3f259006.gif"/></noscript>
+<div class="content clearfix"><p style="text-align: center;">We are available 24 hours a day, every day of the year. You can also contact us for free on 0808 80 20 133. If you would like to find out more about the service before you start, including information on confidentiality, please click below. Call recordings and chat transcripts are saved for 28 days for quality assurance.</p>
+</div> <div class="btn-wrap clearfix">
+<a class="c-btn--primary" href="https://www.gamcare.org.uk/talk-to-us-now/" target><span class="c-btn__row">Find out more</span></a> </div>
+<div class="close bottom">Close</div>
+</div>
+
+<style>
+        @media(max-width: 768px) {
+            body.admin-bar .five9-modal {
+                top: 46px !important;
+            }
+        }
+    </style>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+        (function ($) {
+            $(document).ready(function () {
+                $('.five9-btn').click(function () {
+                    $('.five9-modal iframe#frame').attr('src', $('.five9-modal').attr('data-uri'))
+                    $('.five9-modal').fadeIn(function () {
+                        $('.five9-modal').css({
+                            'display': 'flex',
+                            'flex-direction': 'column',
+                        })
+
+                        if($(window).width() < 768) {
+                            $('body').css('overflow', 'hidden');
+                            $('#sftExt-frontend-button').hide();
+                        }
+
+                        if ($('.five9-modal .callback-wrap').is(':visible')) {
+                            $('.five9-modal .callback-wrap').hide()
+                            $('.five9-modal iframe#frame, .five9-modal .content, .five9-modal .btn-wrap').show()
+                        }
+                    })
+                })
+
+                $('.five9-modal iframe#frame').load(function () {
+                    $('.five9-modal .loader').hide()
+                })
+
+                $('.five9-modal .f9-callback-chat').click(function () {
+                    $('.five9-modal iframe#frame, .five9-modal .content, .five9-modal .btn-wrap').fadeOut(function () {
+                        $('.five9-modal .callback-wrap').fadeIn()
+                    })
+                })
+
+                $('.five9-modal .close').click(function () {
+                    $('.five9-modal').hide()
+
+                    if($(window).width() < 768) {
+                        $('body').css('overflow', 'auto');
+                        $('#sftExt-frontend-button').show();
+                    }
+                })
+            })
+        })(jQuery)
+    </script>
+<div class="wt-cli-cookie-bar-container" data-nosnippet="true" data-banner-version="2.0"><!--googleoff: all--><div id="cookie-law-info-bar" role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="wt-cli-cookie-banner" data-cli-geo-loc="0" style="text-align:left; padding:15px 30px; border-color:rgb(51, 51, 51);" class="wt-cli-cookie-bar"><div class="cli-wrapper"><span id="wt-cli-cookie-banner"><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">In order for GamCare to analyse how many people are visiting our site, what pages they look at, and how long they stay on each page, this website uses cookies to help us continually improve and develop the service we offer you. This also helps us to know whether we are meeting key priorities.</div><div class="cli-bar-btn_container"><a id="wt-cli-settings-btn" tabindex="0" role="button" style="border-bottom:1px solid rgb(137, 136, 136); text-decoration:none; border-top-color:rgb(137, 136, 136); border-right-color:rgb(137, 136, 136); border-left-color:rgb(137, 136, 136);" class="wt-cli-element medium cli-plugin-button cli-plugin-main-button cli_settings_button">Cookie settings</a><a id="wt-cli-accept-btn" tabindex="0" role="button" style="margin:5px 5px 5px 30px; border-radius:0px; padding:8px 25px; border-color:rgb(255, 255, 255);" data-cli_action="accept" class="wt-cli-element medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button">ACCEPT</a></div></div></span></div></div><div tabindex="0" id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" id="cliSettingsPopup" role="dialog" aria-labelledby="wt-cli-privacy-title" tabindex="-1" aria-hidden="true">
+<div class="cli-modal-dialog" role="document">
+<div class="cli-modal-content cli-bar-popup">
+<button aria-label="Close" type="button" class="cli-modal-close" id="cliModalClose">
+<svg class viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+<span class="wt-cli-sr-only">Close</span>
+</button>
+<div class="cli-modal-body">
+<div class="wt-cli-element cli-container-fluid cli-tab-container">
+<div class="cli-row">
+<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+<div class="cli-privacy-overview">
+<h4 id="wt-cli-privacy-title">Privacy Overview</h4> <div class="cli-privacy-content">
+<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div>
+</div>
+<a id="wt-cli-privacy-readmore" tabindex="0" role="button" class="cli-privacy-readmore" data-readmore-text="Show more" data-readless-text="Show less"></a> </div>
+</div>
+<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container" role="tablist">
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a id="wt-cli-tab-link-necessary" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-necessary" aria-controls="wt-cli-tab-necessary" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+Necessary </a>
+<div class="wt-cli-necessary-checkbox">
+<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" aria-label="Necessary" data-id="checkbox-necessary" checked="checked" />
+<label class="form-check-label" for="wt-cli-checkbox-necessary"> Necessary </label>
+</div>
+<span class="cli-necessary-caption">
+Always Enabled </span>
+</div>
+<div class="cli-tab-content">
+<div id="wt-cli-tab-necessary" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-necessary" class="cli-tab-pane cli-fade" data-id="necessary">
+<div class="wt-cli-cookie-description">Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+<table class="wt-cli-element cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th scope="col" class="cookielawinfo-column-1">Cookie</th><th scope="col" class="cookielawinfo-column-3">Duration</th><th scope="col" class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-analytics</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-functional</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-others</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-advertisement</td><td class="cookielawinfo-column-3">1 year</td><td class="cookielawinfo-column-4">The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Advertisement".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-necessary</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-performance</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">PHPSESSID</td><td class="cookielawinfo-column-3">session</td><td class="cookielawinfo-column-4">This cookie is native to PHP applications. The cookie is used to store and identify a users' unique session ID for the purpose of managing user session on the website. The cookie is a session cookies and is deleted when all the browser windows are closed.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">viewed_cookie_policy</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">VISITOR_INFO1_LIVE</td><td class="cookielawinfo-column-3">5 months 27 days</td><td class="cookielawinfo-column-4">This cookie is set by Youtube. Used to track the information of the embedded YouTube videos on a website.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">YSC</td><td class="cookielawinfo-column-3">session</td><td class="cookielawinfo-column-4">This cookies is set by Youtube and is used to track the views of embedded videos.</td></tr></tbody></table></div>
+</div>
+</div>
+</div>
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a id="wt-cli-tab-link-functional" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-functional" aria-controls="wt-cli-tab-functional" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
+Functional </a>
+<div class="cli-switch">
+<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-functional" aria-label="functional" data-id="checkbox-functional" role="switch" aria-controls="wt-cli-tab-link-functional" aria-labelledby="wt-cli-tab-link-functional" />
+<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">functional</span></label>
+</div>
+</div>
+<div class="cli-tab-content">
+<div id="wt-cli-tab-functional" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-functional" class="cli-tab-pane cli-fade" data-id="functional">
+<div class="wt-cli-cookie-description">Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+<table class="wt-cli-element cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th scope="col" class="cookielawinfo-column-1">Cookie</th><th scope="col" class="cookielawinfo-column-3">Duration</th><th scope="col" class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_scid</td><td class="cookielawinfo-column-3">1 year 1 month</td><td class="cookielawinfo-column-4">This cookie is set by Snapchat. This cookie is used to serve and store Snapchat Pixel unique ID of the User.</td></tr></tbody></table></div>
+</div>
+</div>
+</div>
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a id="wt-cli-tab-link-performance" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-performance" aria-controls="wt-cli-tab-performance" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
+Performance </a>
+<div class="cli-switch">
+<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-performance" aria-label="performance" data-id="checkbox-performance" role="switch" aria-controls="wt-cli-tab-link-performance" aria-labelledby="wt-cli-tab-link-performance" />
+<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">performance</span></label>
+</div>
+</div>
+<div class="cli-tab-content">
+<div id="wt-cli-tab-performance" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-performance" class="cli-tab-pane cli-fade" data-id="performance">
+<div class="wt-cli-cookie-description">Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+</div>
+</div>
+</div>
+</div>
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a id="wt-cli-tab-link-analytics" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-analytics" aria-controls="wt-cli-tab-analytics" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
+Analytics </a>
+<div class="cli-switch">
+<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-analytics" aria-label="analytics" data-id="checkbox-analytics" role="switch" aria-controls="wt-cli-tab-link-analytics" aria-labelledby="wt-cli-tab-link-analytics" />
+<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">analytics</span></label>
+</div>
+</div>
+<div class="cli-tab-content">
+<div id="wt-cli-tab-analytics" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-analytics" class="cli-tab-pane cli-fade" data-id="analytics">
+<div class="wt-cli-cookie-description">Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+<table class="wt-cli-element cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th scope="col" class="cookielawinfo-column-1">Cookie</th><th scope="col" class="cookielawinfo-column-3">Duration</th><th scope="col" class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_ga</td><td class="cookielawinfo-column-3">2 years</td><td class="cookielawinfo-column-4">This cookie is installed by Google Analytics. The cookie is used to calculate visitor, session, campaign data and keep track of site usage for the site's analytics report. The cookies store information anonymously and assign a randomly generated number to identify unique visitors.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_gat_UA-3398770-1</td><td class="cookielawinfo-column-3">1 minute</td><td class="cookielawinfo-column-4">This is a pattern type cookie set by Google Analytics, where the pattern element on the name contains the unique identity number of the account or website it relates to. It appears to be a variation of the _gat cookie which is used to limit the amount of data recorded by Google on high traffic volume websites.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_gid</td><td class="cookielawinfo-column-3">1 day</td><td class="cookielawinfo-column-4">This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visted in an anonymous form.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">iutk</td><td class="cookielawinfo-column-3">5 months 27 days</td><td class="cookielawinfo-column-4">This cookie is used by Issuu analytic system. The cookies is used to gather information regarding visitor activity on Issuu products.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">vuid</td><td class="cookielawinfo-column-3">2 years</td><td class="cookielawinfo-column-4">This domain of this cookie is owned by Vimeo. This cookie is used by vimeo to collect tracking information. It sets a unique ID to embed videos to the website.</td></tr></tbody></table></div>
+</div>
+</div>
+</div>
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a id="wt-cli-tab-link-advertisement" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-advertisement" aria-controls="wt-cli-tab-advertisement" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
+Advertisement </a>
+<div class="cli-switch">
+<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-advertisement" aria-label="advertisement" data-id="checkbox-advertisement" role="switch" aria-controls="wt-cli-tab-link-advertisement" aria-labelledby="wt-cli-tab-link-advertisement" />
+<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">advertisement</span></label>
+</div>
+</div>
+<div class="cli-tab-content">
+<div id="wt-cli-tab-advertisement" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-advertisement" class="cli-tab-pane cli-fade" data-id="advertisement">
+<div class="wt-cli-cookie-description">Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+<table class="wt-cli-element cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th scope="col" class="cookielawinfo-column-1">Cookie</th><th scope="col" class="cookielawinfo-column-3">Duration</th><th scope="col" class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_fbp</td><td class="cookielawinfo-column-3">3 months</td><td class="cookielawinfo-column-4">This cookie is set by Facebook to deliver advertisement when they are on Facebook or a digital platform powered by Facebook advertising after visiting this website.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">flashtalkingad1</td><td class="cookielawinfo-column-3">2 years</td><td class="cookielawinfo-column-4">This cookie is set by the provider flashtalking.com. This cookie is used for storing what ads the user has seen. This cookie helps to improve the advertising on third party websites.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">fr</td><td class="cookielawinfo-column-3">3 months</td><td class="cookielawinfo-column-4">The cookie is set by Facebook to show relevant advertisments to the users and measure and improve the advertisements. The cookie also tracks the behavior of the user across the web on sites that have Facebook pixel or Facebook social plugin.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">IDE</td><td class="cookielawinfo-column-3">1 year 24 days</td><td class="cookielawinfo-column-4">Used by Google DoubleClick and stores information about how the user uses the website and any other advertisement before visiting the website. This is used to present users with ads that are relevant to them according to the user profile.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">mc</td><td class="cookielawinfo-column-3">1 year 1 month</td><td class="cookielawinfo-column-4">This cookie is associated with Quantserve to track anonymously how a user interact with the website.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">sc_at</td><td class="cookielawinfo-column-3">1 year 24 days</td><td class="cookielawinfo-column-4">The cookie is set by Snapchat. This cookie is used for advertising purpose. It shows relevant ads to the users by tracking user behaviour on Snapchat.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">test_cookie</td><td class="cookielawinfo-column-3">15 minutes</td><td class="cookielawinfo-column-4">This cookie is set by doubleclick.net. The purpose of the cookie is to determine if the user's browser supports cookies.</td></tr></tbody></table></div>
+</div>
+</div>
+</div>
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a id="wt-cli-tab-link-others" tabindex="0" role="tab" aria-expanded="false" aria-describedby="wt-cli-tab-others" aria-controls="wt-cli-tab-others" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
+Others </a>
+<div class="cli-switch">
+<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-others" aria-label="others" data-id="checkbox-others" role="switch" aria-controls="wt-cli-tab-link-others" aria-labelledby="wt-cli-tab-link-others" />
+<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">others</span></label>
+</div>
+</div>
+<div class="cli-tab-content">
+<div id="wt-cli-tab-others" tabindex="0" role="tabpanel" aria-labelledby="wt-cli-tab-link-others" class="cli-tab-pane cli-fade" data-id="others">
+<div class="wt-cli-cookie-description">Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+<table class="wt-cli-element cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th scope="col" class="cookielawinfo-column-1">Cookie</th><th scope="col" class="cookielawinfo-column-3">Duration</th><th scope="col" class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">_schn</td><td class="cookielawinfo-column-3">session</td><td class="cookielawinfo-column-4">No description available.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">CONSENT</td><td class="cookielawinfo-column-3">16 years 6 months 3 days 14 hours</td><td class="cookielawinfo-column-4">No description</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">X-AB</td><td class="cookielawinfo-column-3">1 day</td><td class="cookielawinfo-column-4">No description available.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">yt-remote-connected-devices</td><td class="cookielawinfo-column-3">never</td><td class="cookielawinfo-column-4">No description available.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">yt-remote-device-id</td><td class="cookielawinfo-column-3">never</td><td class="cookielawinfo-column-4">No description available.</td></tr></tbody></table></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cli-modal-footer">
+<div class="wt-cli-element cli-container-fluid cli-tab-container">
+<div class="cli-row">
+<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">Save & Accept</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--></div>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+		/* <![CDATA[ */
+			cli_cookiebar_settings='{"animate_speed_hide":"500","animate_speed_show":"500","background":"rgb(255, 255, 255)","border":"#b1a6a6c2","border_on":false,"button_1_button_colour":"rgb(20, 137, 50)","button_1_button_hover":"rgb(20, 137, 50)","button_1_link_colour":"rgb(255, 255, 255)","button_1_as_button":true,"button_1_new_win":false,"button_2_button_colour":"rgb(255, 255, 255)","button_2_button_hover":"rgb(255, 255, 255)","button_2_link_colour":"#898888","button_2_as_button":true,"button_2_hidebar":false,"button_2_nofollow":false,"button_3_button_colour":"#148932","button_3_button_hover":"#106e28","button_3_link_colour":"#fff","button_3_as_button":true,"button_3_new_win":false,"button_4_button_colour":"rgb(255, 255, 255)","button_4_button_hover":"rgb(255, 255, 255)","button_4_link_colour":"rgb(0, 0, 0)","button_4_as_button":true,"button_7_button_colour":"#148932","button_7_button_hover":"#106e28","button_7_link_colour":"#fff","button_7_as_button":true,"button_7_new_win":false,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"top","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":false,"reject_close_reload":false,"showagain_tab":false,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"rgb(51, 51, 51)","show_once_yn":false,"show_once":"10000","logging_on":false,"as_popup":false,"popup_overlay":true,"bar_heading_text":"","cookie_bar_as":"banner","cookie_setting_popup":true,"accept_all":true,"js_script_blocker":false,"popup_showagain_position":"bottom-right","widget_position":"left","button_1_style":{"0":["margin","5px 5px 5px 30px"],"1":["border-radius","0px"],"2":["padding","8px 25px"],"5":["border-color","rgb(255, 255, 255)"]},"button_2_style":[],"button_3_style":[["margin","5px 5px 5px 5px"],["border-radius","0"],["padding","8px 25px 8px 25px"]],"button_4_style":{"0":["border-bottom","1px solid rgb(137, 136, 136)"],"1":["text-decoration","none"],"4":["border-top-color","rgb(137, 136, 136)"],"5":["border-right-color","rgb(137, 136, 136)"],"6":["border-left-color","rgb(137, 136, 136)"]},"button_5_style":{"0":["float","right"],"1":["text-decoration","none"],"2":["color","#333"],"4":["background-color","rgba(0, 0, 0, 0)"]},"button_7_style":[["margin","5px 5px 5px 30px"],["border-radius","0"],["padding","8px 25px 8px 25px"]],"accept_close_page_navigation":false,"button_8_button_colour":"#DEDFE0","button_8_button_hover":"#b2b2b3","button_8_link_colour":"#000000","button_8_as_button":true,"button_8_new_win":false,"consent_mode":false}';
+		/* ]]> */
+		</script>
+<link rel="stylesheet" id="five9-chat-css" href="https://www.gamcare.org.uk/app/themes/gamcare/dist/styles/chat_85a99291.css?ver=6.4.3" type="text/css" media="all" />
+<link rel="stylesheet" id="cookie-law-info-table-css" href="https://www.gamcare.org.uk/app/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-table.css?ver=2.5.6" type="text/css" media="all" />
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/plugins/embedpress/assets/js/pdfobject.min.js?ver=3.9.9" id="embedpress-pdfobject-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/plugins/embedpress/assets/js/initplyr.js?ver=3.9.9" id="initplyr-js"></script>
+<script type="text/javascript" id="embedpress-front-js-extra">
+/* <![CDATA[ */
+var eplocalize = {"ajaxurl":"https:\/\/www.gamcare.org.uk\/wp\/wp-admin\/admin-ajax.php","is_pro_plugin_active":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/plugins/embedpress/assets/js/front.js?ver=3.9.9" id="embedpress-front-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/plugins/embedpress/assets/js/vimeo-player.js?ver=3.9.9" id="vimeo-player-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0" id="react-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/deprecated.min.js?ver=73ad3591e7bc95f4777a" id="wp-deprecated-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/dom.min.js?ver=49ff2869626fbeaacc23" id="wp-dom-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0" id="react-dom-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6" id="wp-escape-html-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/element.min.js?ver=ed1c7604880e8b574b40" id="wp-element-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee" id="wp-is-shallow-equal-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="wp-keycodes-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2019-03-08 03:57:57+0000","generator":"GlotPress\/2.4.0-alpha","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_GB"},"Backtick":["Backtick"],"Period":["Period"],"Comma":["Comma"]}}} );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/keycodes.min.js?ver=3460bd0fac9859d6886c" id="wp-keycodes-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/priority-queue.min.js?ver=422e19e9d48b269c5219" id="wp-priority-queue-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/compose.min.js?ver=3189b344ff39fef940b7" id="wp-compose-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/private-apis.min.js?ver=11cb2ebaa70a9f1f0ab5" id="wp-private-apis-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/redux-routine.min.js?ver=0be1b2a6a79703e28531" id="wp-redux-routine-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/wp/wp-includes/js/dist/data.min.js?ver=dc5f255634f3da29c8d5" id="wp-data-js"></script>
+<script type="text/javascript" id="wp-data-js-after">
+/* <![CDATA[ */
+( function() {
+	var userId = 0;
+	var storageKey = "WP_DATA_USER_" + userId;
+	wp.data
+		.use( wp.data.plugins.persistence, { storageKey: storageKey } );
+} )();
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/plugins/embedpress/assets/js/ads.js?ver=3.9.9" id="embedpress-ads-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/plugins/embedpress/assets/js/documents-viewer-script.js?ver=3.9.9" id="embedpress_documents_viewer_script-js"></script>
+<script type="text/javascript" id="sage/main.js-js-extra">
+/* <![CDATA[ */
+var sage_data = {"ajax_url":"https:\/\/www.gamcare.org.uk\/wp\/wp-admin\/admin-ajax.php","tracking_js":"https:\/\/www.gamcare.org.uk\/app\/themes\/gamcare\/dist\/scripts\/trackers_85a99291.js"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/themes/gamcare/dist/scripts/main_85a99291.js" id="sage/main.js-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/themes/gamcare/dist/scripts/respbgimg_85a99291.js" id="respbgimg.js-js"></script>
+<script type="text/javascript" src="https://www.gamcare.org.uk/app/themes/gamcare/dist/scripts/owlcarousel_85a99291.js" id="owl-carousel.js-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+        var checkJQueryReady = setInterval(function() {
+            if (window.jQuery) {
+                // Now that we're sure jQuery is loaded, run your code
+                (function($) {
+                    var $firstError = $('.gfield_error').first();
+                    if ($firstError.length > 0) {
+                        console.log('should scroll');
+                        $firstError.find('input, select, textarea').first().focus();
+                        document.body.scrollTop = $firstError.offset().top;
+                    }
+                })(jQuery);
+
+                // Once jQuery is detected, we can clear the interval
+                clearInterval(checkJQueryReady);
+            }
+        }, 500);
+    </script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.gamcare.org.uk/app/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+
+
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+  var ft_onetag_11767 = {
+    ft_vars: {
+      'ftXRef': '[%INSERT_TRANSACTION_ID_HERE%]',
+      'ftXValue': '[%INSERT_TRANSACTION_VALUE_HERE%]',
+      'ftXType': '[%INSERT_TRANSACTION_TYPE_HERE%]',
+      'ftXName': '[%INSERT_TRANSACTION_NAME_HERE%]',
+      'ftXNumItems': '[%INSERT_TRANSACTION_QUANTITY_HERE%]',
+      'ftXCurrency': '[%INSERT_TRANSACTION_CURRENCY_HERE%]',
+      'U1': '[%INSERT_U1_HERE%]',
+      'U2': '[%INSERT_U2_HERE%]',
+      'U3': '[%INSERT_U3_HERE%]',
+      'U4': '[%INSERT_U4_HERE%]',
+      'U5': '[%INSERT_U5_HERE%]',
+      'U6': '[%INSERT_U6_HERE%]',
+      'U7': '[%INSERT_U7_HERE%]',
+      'U8': '[%INSERT_U8_HERE%]',
+      'U9': '[%INSERT_U9_HERE%]',
+      'U10': '[%INSERT_U10_HERE%]',
+      'U11': '[%INSERT_U11_HERE%]',
+      'U12': '[%INSERT_U12_HERE%]',
+      'U13': '[%INSERT_U13_HERE%]',
+      'U14': '[%INSERT_U14_HERE%]',
+      'U15': '[%INSERT_U15_HERE%]',
+      'U16': '[%INSERT_U16_HERE%]',
+      'U17': '[%INSERT_U17_HERE%]',
+      'U18': '[%INSERT_U18_HERE%]',
+      'U19': '[%INSERT_U19_HERE%]',
+      'U20': '[%INSERT_U20_HERE%]'
+    },
+    ot_dom: 'https://servedby.flashtalking.com',
+    ot_path: '/container/13543;113153;11767;iframe/?',
+    ot_href: 'ft_referrer=' + escape(document.location.href),
+    ot_rand: Math.random() * 1000000,
+    ot_ref: document.referrer,
+    ot_init: function () {
+      var o = this, qs = '', count = 0, ns = ''
+      for (var key in o.ft_vars) {
+        qs += (o.ft_vars[key] == '' ? '' : key + '=' + o.ft_vars[key] + '&')
+      }
+      count = o.ot_path.length + qs.length + o.ot_href + escape(o.ot_ref).length
+      ns = o.ot_ns(count - 2000)
+      document.write('<iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="' + o.ot_dom + o.ot_path + qs + o.ot_href + '&ns=' + ns + '&cb=' + o.ot_rand + '"></iframe>')
+    },
+    ot_ns: function (diff) {
+      if (diff > 0) {
+        var o = this, qo = {},
+          sp = /(?:^|&)([^&=]*)=?([^&]*)/g,
+          fp = /^(http[s]?):\/\/?([^:\/\s]+)\/([\w\.]+[^#?\s]+)(.*)?/.exec(o.ot_ref),
+          ro = {h: fp[2], p: fp[3], qs: fp[4].replace(sp, function (p1, p2, p3) {if (p2) qo[p2] = [p3]})}
+        return escape(ro.h + ro.p.substring(0, 10) + (qo.q ? '?q=' + unescape(qo.q) : '?p=' + unescape(qo.p)))
+      } else {
+        var o = this
+        return escape(unescape(o.ot_ref))
+      }
+    }
+  }
+  ft_onetag_11767.ot_init()
+</script>
+</body>
+</html>

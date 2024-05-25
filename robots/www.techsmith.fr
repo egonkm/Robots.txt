@@ -1,0 +1,11 @@
+ï»¿
+# Robots.txt for www.techsmith.fr
+#02 July 2018
+
+User-agent: *
+Disallow: /assistance-cleperdue.html
+Disallow: /preferencesemail/
+Disallow: /application/salescontact
+Disallow: /download/snagit/
+
+Sitemap: https://www.techsmith.fr/sitemap.xml

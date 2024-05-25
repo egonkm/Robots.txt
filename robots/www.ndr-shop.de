@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /compare
+Disallow: /checkout
+Disallow: /register
+Disallow: /account
+Disallow: /widgets
+Disallow: /listing
+Disallow: /suche?
+Disallow: /shopware.php/sViewport,search
+Disallow: /search?s*sSearch
+Disallow: /search?sSearch
+Disallow: /search/index/sSearch/
+Disallow: /SwpFindologic/
+Disallow: /FinSearchAPI/
+Disallow: /shoplink/
+Disallow: /RhinosShopLink/
+
+Sitemap: https://www.bognermusik.de/sitemap.xml

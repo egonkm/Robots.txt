@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /en/users
+Disallow: /de/users
+Allow: /
+Sitemap: https://www.betterplace.org/sitemaps/sitemap.xml.gz

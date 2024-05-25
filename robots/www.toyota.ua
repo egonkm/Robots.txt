@@ -1,0 +1,12 @@
+User-agent: *
+Sitemap: https://www.toyota.ua/sitemap.xml
+Disallow: /content/forms/af/
+Disallow: */_jcr_content/*
+Disallow: /header-and-footer/
+Disallow: /search-results*
+Disallow: *?focusImage*
+Disallow: /bin/cocadap*
+Disallow: /sys*
+Disallow: /content/toyota/ukraine/uk/
+Disallow: /libs/cq/i18n/
+Disallow: /var/dxp/forms/datasources/

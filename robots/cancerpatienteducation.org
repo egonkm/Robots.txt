@@ -1,0 +1,275 @@
+User-Agent: Googlebot
+Disallow:/docs/
+Disallow:/docs/CPEN/
+Disallow:/docs/CPEN/Board/
+Disallow:/docs/CPEN/Dashboard/
+Disallow:/docs/CPEN/Docs/
+Disallow:/docs/CPEN/Educator Resources/
+Disallow:/docs/CPEN/Evidence Based Resources/
+Disallow:/docs/CPEN/HealthLiteracy/
+Disallow:/docs/CPEN/Learning Resource Centers/
+Disallow:/docs/CPEN/Member Calls/
+Disallow:/docs/CPEN/Resources/
+Disallow:/docs/CPEN/Staff Dev/
+Disallow:/images/
+Disallow:/CPEN/Dashboard/
+Disallow:/CPEN/Membership/Resources/
+Disallow:/CPEN/Membership/Bylaws_Tabs/
+Disallow:/CPEN/Membership/Employment_Opportuniites.aspx
+Disallow:/CPEN/Membership/Calendar.aspx
+Disallow:/CPEN/Membership/Listserv.aspx
+Disallow:/CPEN/Membership/Listserv_Policy.aspx
+Disallow:/CPEN/Membership/Member_Calls.aspx
+Disallow:/CPEN/Membership/Member_Directory.aspx
+Disallow:/CPEN/Membership/Member_Resources.aspx
+Disallow:/CPEN/Membership/Newsletter.aspx
+Disallow:/CPEN//Committees/Committee_Roster.aspx
+
+User-Agent: Googlebot-Mobile
+Disallow:/docs/
+Disallow:/docs/CPEN/
+Disallow:/docs/CPEN/Board/
+Disallow:/docs/CPEN/Dashboard/
+Disallow:/docs/CPEN/Docs/
+Disallow:/docs/CPEN/Educator Resources/
+Disallow:/docs/CPEN/Evidence Based Resources/
+Disallow:/docs/CPEN/HealthLiteracy/
+Disallow:/docs/CPEN/Learning Resource Centers/
+Disallow:/docs/CPEN/Member Calls/
+Disallow:/docs/CPEN/Resources/
+Disallow:/docs/CPEN/Staff Dev/
+Disallow:/images/
+Disallow:/CPEN/Dashboard/
+Disallow:/CPEN/Membership/Resources/
+Disallow:/CPEN/Membership/Bylaws_Tabs/
+Disallow:/CPEN/Membership/Employment_Opportuniites.aspx
+Disallow:/CPEN/Membership/Calendar.aspx
+Disallow:/CPEN/Membership/Listserv.aspx
+Disallow:/CPEN/Membership/Listserv_Policy.aspx
+Disallow:/CPEN/Membership/Member_Calls.aspx
+Disallow:/CPEN/Membership/Member_Directory.aspx
+Disallow:/CPEN/Membership/Member_Resources.aspx
+Disallow:/CPEN/Membership/Newsletter.aspx
+Disallow:/CPEN//Committees/Committee_Roster.aspx
+
+User-Agent: msnbot
+Disallow:/docs/
+Disallow:/docs/CPEN/
+Disallow:/docs/CPEN/Board/
+Disallow:/docs/CPEN/Dashboard/
+Disallow:/docs/CPEN/Docs/
+Disallow:/docs/CPEN/Educator Resources/
+Disallow:/docs/CPEN/Evidence Based Resources/
+Disallow:/docs/CPEN/HealthLiteracy/
+Disallow:/docs/CPEN/Learning Resource Centers/
+Disallow:/docs/CPEN/Member Calls/
+Disallow:/docs/CPEN/Resources/
+Disallow:/docs/CPEN/Staff Dev/
+Disallow:/images/
+Disallow:/CPEN/Dashboard/
+Disallow:/CPEN/Membership/Resources/
+Disallow:/CPEN/Membership/Bylaws_Tabs/
+Disallow:/CPEN/Membership/Employment_Opportuniites.aspx
+Disallow:/CPEN/Membership/Calendar.aspx
+Disallow:/CPEN/Membership/Listserv.aspx
+Disallow:/CPEN/Membership/Listserv_Policy.aspx
+Disallow:/CPEN/Membership/Member_Calls.aspx
+Disallow:/CPEN/Membership/Member_Directory.aspx
+Disallow:/CPEN/Membership/Member_Resources.aspx
+Disallow:/CPEN/Membership/Newsletter.aspx
+Disallow:/CPEN//Committees/Committee_Roster.aspx
+
+User-Agent: bingbot
+Disallow:/docs/
+Disallow:/docs/CPEN/
+Disallow:/docs/CPEN/Board/
+Disallow:/docs/CPEN/Dashboard/
+Disallow:/docs/CPEN/Docs/
+Disallow:/docs/CPEN/Educator Resources/
+Disallow:/docs/CPEN/Evidence Based Resources/
+Disallow:/docs/CPEN/HealthLiteracy/
+Disallow:/docs/CPEN/Learning Resource Centers/
+Disallow:/docs/CPEN/Member Calls/
+Disallow:/docs/CPEN/Resources/
+Disallow:/docs/CPEN/Staff Dev/
+Disallow:/images/
+Disallow:/CPEN/Dashboard/
+Disallow:/CPEN/Membership/Resources/
+Disallow:/CPEN/Membership/Bylaws_Tabs/
+Disallow:/CPEN/Membership/Employment_Opportuniites.aspx
+Disallow:/CPEN/Membership/Calendar.aspx
+Disallow:/CPEN/Membership/Listserv.aspx
+Disallow:/CPEN/Membership/Listserv_Policy.aspx
+Disallow:/CPEN/Membership/Member_Calls.aspx
+Disallow:/CPEN/Membership/Member_Directory.aspx
+Disallow:/CPEN/Membership/Member_Resources.aspx
+Disallow:/CPEN/Membership/Newsletter.aspx
+Disallow:/CPEN//Committees/Committee_Roster.aspx
+
+# Adsense
+User-Agent: Mediapartners-Google
+Disallow:/docs/
+Disallow:/docs/CPEN/
+Disallow:/docs/CPEN/Board/
+Disallow:/docs/CPEN/Dashboard/
+Disallow:/docs/CPEN/Docs/
+Disallow:/docs/CPEN/Educator Resources/
+Disallow:/docs/CPEN/Evidence Based Resources/
+Disallow:/docs/CPEN/HealthLiteracy/
+Disallow:/docs/CPEN/Learning Resource Centers/
+Disallow:/docs/CPEN/Member Calls/
+Disallow:/docs/CPEN/Resources/
+Disallow:/docs/CPEN/Staff Dev/
+Disallow:/images/
+Disallow:/CPEN/Dashboard/
+Disallow:/CPEN/Membership/Resources/
+Disallow:/CPEN/Membership/Bylaws_Tabs/
+Disallow:/CPEN/Membership/Employment_Opportuniites.aspx
+Disallow:/CPEN/Membership/Calendar.aspx
+Disallow:/CPEN/Membership/Listserv.aspx
+Disallow:/CPEN/Membership/Listserv_Policy.aspx
+Disallow:/CPEN/Membership/Member_Calls.aspx
+Disallow:/CPEN/Membership/Member_Directory.aspx
+Disallow:/CPEN/Membership/Member_Resources.aspx
+Disallow:/CPEN/Membership/Newsletter.aspx
+Disallow:/CPEN//Committees/Committee_Roster.aspx
+
+# Blekko
+User-Agent: ScoutJet
+Disallow:/docs/
+Disallow:/docs/CPEN/
+Disallow:/docs/CPEN/Board/
+Disallow:/docs/CPEN/Dashboard/
+Disallow:/docs/CPEN/Docs/
+Disallow:/docs/CPEN/Educator Resources/
+Disallow:/docs/CPEN/Evidence Based Resources/
+Disallow:/docs/CPEN/HealthLiteracy/
+Disallow:/docs/CPEN/Learning Resource Centers/
+Disallow:/docs/CPEN/Member Calls/
+Disallow:/docs/CPEN/Resources/
+Disallow:/docs/CPEN/Staff Dev/
+Disallow:/images/
+Disallow:/CPEN/Dashboard/
+Disallow:/CPEN/Membership/Resources/
+Disallow:/CPEN/Membership/Bylaws_Tabs/
+Disallow:/CPEN/Membership/Employment_Opportuniites.aspx
+Disallow:/CPEN/Membership/Calendar.aspx
+Disallow:/CPEN/Membership/Listserv.aspx
+Disallow:/CPEN/Membership/Listserv_Policy.aspx
+Disallow:/CPEN/Membership/Member_Calls.aspx
+Disallow:/CPEN/Membership/Member_Directory.aspx
+Disallow:/CPEN/Membership/Member_Resources.aspx
+Disallow:/CPEN/Membership/Newsletter.aspx
+Disallow:/CPEN//Committees/Committee_Roster.aspx
+
+User-Agent: Yandex
+Disallow:/docs/
+Disallow:/docs/CPEN/
+Disallow:/docs/CPEN/Board/
+Disallow:/docs/CPEN/Dashboard/
+Disallow:/docs/CPEN/Docs/
+Disallow:/docs/CPEN/Educator Resources/
+Disallow:/docs/CPEN/Evidence Based Resources/
+Disallow:/docs/CPEN/HealthLiteracy/
+Disallow:/docs/CPEN/Learning Resource Centers/
+Disallow:/docs/CPEN/Member Calls/
+Disallow:/docs/CPEN/Resources/
+Disallow:/docs/CPEN/Staff Dev/
+Disallow:/images/
+Disallow:/CPEN/Dashboard/
+Disallow:/CPEN/Membership/Resources/
+Disallow:/CPEN/Membership/Bylaws_Tabs/
+Disallow:/CPEN/Membership/Employment_Opportuniites.aspx
+Disallow:/CPEN/Membership/Calendar.aspx
+Disallow:/CPEN/Membership/Listserv.aspx
+Disallow:/CPEN/Membership/Listserv_Policy.aspx
+Disallow:/CPEN/Membership/Member_Calls.aspx
+Disallow:/CPEN/Membership/Member_Directory.aspx
+Disallow:/CPEN/Membership/Member_Resources.aspx
+Disallow:/CPEN/Membership/Newsletter.aspx
+Disallow:/CPEN//Committees/Committee_Roster.aspx
+
+User-agent: baiduspider
+Disallow:/docs/
+Disallow:/docs/CPEN/
+Disallow:/docs/CPEN/Board/
+Disallow:/docs/CPEN/Dashboard/
+Disallow:/docs/CPEN/Docs/
+Disallow:/docs/CPEN/Educator Resources/
+Disallow:/docs/CPEN/Evidence Based Resources/
+Disallow:/docs/CPEN/HealthLiteracy/
+Disallow:/docs/CPEN/Learning Resource Centers/
+Disallow:/docs/CPEN/Member Calls/
+Disallow:/docs/CPEN/Resources/
+Disallow:/docs/CPEN/Staff Dev/
+Disallow:/images/
+Disallow:/CPEN/Dashboard/
+Disallow:/CPEN/Membership/Resources/
+Disallow:/CPEN/Membership/Bylaws_Tabs/
+Disallow:/CPEN/Membership/Employment_Opportuniites.aspx
+Disallow:/CPEN/Membership/Calendar.aspx
+Disallow:/CPEN/Membership/Listserv.aspx
+Disallow:/CPEN/Membership/Listserv_Policy.aspx
+Disallow:/CPEN/Membership/Member_Calls.aspx
+Disallow:/CPEN/Membership/Member_Directory.aspx
+Disallow:/CPEN/Membership/Member_Resources.aspx
+Disallow:/CPEN/Membership/Newsletter.aspx
+Disallow:/CPEN//Committees/Committee_Roster.aspx
+
+User-agent: DuckDuckBot
+Disallow:/docs/
+Disallow:/docs/CPEN/
+Disallow:/docs/CPEN/Board/
+Disallow:/docs/CPEN/Dashboard/
+Disallow:/docs/CPEN/Docs/
+Disallow:/docs/CPEN/Educator Resources/
+Disallow:/docs/CPEN/Evidence Based Resources/
+Disallow:/docs/CPEN/HealthLiteracy/
+Disallow:/docs/CPEN/Learning Resource Centers/
+Disallow:/docs/CPEN/Member Calls/
+Disallow:/docs/CPEN/Resources/
+Disallow:/docs/CPEN/Staff Dev/
+Disallow:/images/
+Disallow:/CPEN/Dashboard/
+Disallow:/CPEN/Membership/Resources/
+Disallow:/CPEN/Membership/Bylaws_Tabs/
+Disallow:/CPEN/Membership/Employment_Opportuniites.aspx
+Disallow:/CPEN/Membership/Calendar.aspx
+Disallow:/CPEN/Membership/Listserv.aspx
+Disallow:/CPEN/Membership/Listserv_Policy.aspx
+Disallow:/CPEN/Membership/Member_Calls.aspx
+Disallow:/CPEN/Membership/Member_Directory.aspx
+Disallow:/CPEN/Membership/Member_Resources.aspx
+Disallow:/CPEN/Membership/Newsletter.aspx
+Disallow:/CPEN//Committees/Committee_Roster.aspx
+
+# CommonCrawl
+User-agent: ccbot
+Disallow:/docs/
+Disallow:/docs/CPEN/
+Disallow:/docs/CPEN/Board/
+Disallow:/docs/CPEN/Dashboard/
+Disallow:/docs/CPEN/Docs/
+Disallow:/docs/CPEN/Educator Resources/
+Disallow:/docs/CPEN/Evidence Based Resources/
+Disallow:/docs/CPEN/HealthLiteracy/
+Disallow:/docs/CPEN/Learning Resource Centers/
+Disallow:/docs/CPEN/Member Calls/
+Disallow:/docs/CPEN/Resources/
+Disallow:/docs/CPEN/Staff Dev/
+Disallow:/images/
+Disallow:/CPEN/Dashboard/
+Disallow:/CPEN/Membership/Resources/
+Disallow:/CPEN/Membership/Bylaws_Tabs/
+Disallow:/CPEN/Membership/Employment_Opportuniites.aspx
+Disallow:/CPEN/Membership/Calendar.aspx
+Disallow:/CPEN/Membership/Listserv.aspx
+Disallow:/CPEN/Membership/Listserv_Policy.aspx
+Disallow:/CPEN/Membership/Member_Calls.aspx
+Disallow:/CPEN/Membership/Member_Directory.aspx
+Disallow:/CPEN/Membership/Member_Resources.aspx
+Disallow:/CPEN/Membership/Newsletter.aspx
+Disallow:/CPEN//Committees/Committee_Roster.aspx
+
+User-Agent: *
+Disallow:/

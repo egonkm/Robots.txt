@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /praerror
+Disallow: /search
+Disallow: /test-folder
+
+Sitemap: https://www.prarulebook.co.uk/_api/sitemap/getsitemap

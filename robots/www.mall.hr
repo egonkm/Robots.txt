@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: /user/
+Disallow: /uporabnik/
+Disallow: /kosarica/
+Disallow: /preview/
+Disallow: /id/
+Disallow: /api/
+Disallow: /pracenje-narudzbe
+Disallow: /misljenja
+Disallow: /confirmation
+Disallow: kontakt?ref=runId*
+
+Sitemap: https://www.mall.hr/sitemap

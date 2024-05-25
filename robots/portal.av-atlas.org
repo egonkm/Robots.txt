@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Sitemap: https://portal.av-atlas.org/sitemap.xml
+Sitemap: https://portal.av-atlas.org/sitemap.en.xml
+Sitemap: https://portal.av-atlas.org/sitemap.de.xml

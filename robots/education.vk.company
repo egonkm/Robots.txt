@@ -1,0 +1,1390 @@
+
+<html>
+<head>
+  <meta charSet="utf-8"/>
+  <meta name="viewport" content="width=device-width"/>
+  <title>Ошибка</title>
+  <meta name="description"
+        content="Мы помогаем определяться с направлением деятельности, осваивать современные профессии, приобретать новые и оттачивать имеющиеся навыки в сфере IT и digital, предоставляем карьерные возможности перспективным специалистам и устраиваем тематические чемпионаты."/>
+  <meta property="og:title" content="VK Education"/>
+  <meta property="og:image" content="https://education.vk.company/next_static/share-favicon.ico"/>
+  <meta property="og:image:width" content="300"/>
+  <meta property="og:image:height" content="300"/>
+  <meta property="og:description"
+        content="Мы помогаем определяться с направлением деятельности, осваивать современные профессии, приобретать новые и оттачивать имеющиеся навыки в сфере IT и digital, предоставляем карьерные возможности перспективным специалистам и устраиваем тематические чемпионаты."/>
+  <meta property="og:type" content="website"/>
+  <link rel="icon" href="https://education.vk.company/next_static/favicon.ico"/>
+  <link rel="preload" href="/static/errors/images/education.jpg" as="image"/>
+  <meta name="next-head-count" content="12"/>
+  <link rel="stylesheet" href="/static/errors/css/education.css">
+  <noscript data-n-css=""></noscript>
+  <style data-styled="" data-styled-version="5.3.3">
+      @font-face {
+            font-family: vk-sans-display;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/static/errors/fonts/VK-Sans-Display-Light.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: vk-sans-display;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/static/errors/fonts/VK-Sans-Display-Regular.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: vk-sans-display;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/static/errors/fonts/VK-Sans-Display-Medium.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: vk-sans-display;
+            font-style: normal;
+            font-weight: 600;
+            src: url(/static/errors/fonts/VK-Sans-Display-DemiBold.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: vk-sans-display;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/static/errors/fonts/VK-Sans-Display-Bold.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: vk-sans-text;
+            font-style: normal;
+            font-weight: 300;
+            src: url(/static/errors/fonts/VK-Sans-Display-Light.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: vk-sans-text;
+            font-style: normal;
+            font-weight: 400;
+            src: url(/static/errors/fonts/VK-Sans-Text-Regular.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: vk-sans-text;
+            font-style: normal;
+            font-weight: 500;
+            src: url(/static/errors/fonts/VK-Sans-Text-Medium.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: vk-sans-text;
+            font-style: normal;
+            font-weight: 600;
+            src: url(/static/errors/fonts/VK-Sans-Text-DemiBold.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: vk-sans-text;
+            font-style: normal;
+            font-weight: 700;
+            src: url(/static/errors/fonts/VK-Sans-Text-Bold.ttf) format("truetype")
+        }
+
+      .gNgEZI {
+          box-sizing: content-box;
+          max-width: 1200px;
+          margin: 0 auto;
+          padding-left: 24px;
+          padding-right: 24px;
+          max-width: 100%;
+          max-height: 74px;
+          padding-top: 20px;
+          padding-bottom: 20px;
+      }
+
+      /*!sc*/
+      .BAMPG {
+          box-sizing: content-box;
+          max-width: 1200px;
+          margin: 0 auto;
+          padding-left: 24px;
+          padding-right: 24px;
+          position: relative;
+          z-index: 10;
+          height: 100%;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1440px) {
+          .BAMPG {
+              max-width: 100%;
+              padding-left: 120px;
+              padding-right: 120px;
+          }
+      }
+
+      /*!sc*/
+      .ihAjYd {
+          box-sizing: content-box;
+          max-width: 1200px;
+          margin: 0 auto;
+          padding-left: 24px;
+          padding-right: 24px;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1440px) {
+          .ihAjYd {
+              max-width: 100%;
+              padding-left: 120px;
+              padding-right: 120px;
+          }
+      }
+
+      /*!sc*/
+      .hLimUw {
+          box-sizing: content-box;
+          max-width: 1200px;
+          margin: 0 auto;
+          padding-left: 24px;
+          padding-right: 24px;
+          padding-top: 16px;
+          padding-bottom: 16px;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1440px) {
+          .hLimUw {
+              max-width: 100%;
+              padding-left: 120px;
+              padding-right: 120px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .hLimUw {
+              padding-top: 16px;
+              padding-bottom: 16px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 768px) {
+          .hLimUw {
+              padding-top: 16px;
+              padding-bottom: 16px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .hLimUw {
+              padding-top: 16px;
+              padding-bottom: 16px;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g1[id="Container__SContainer-sc-d8ftui-0"] {
+          content: "gNgEZI,BAMPG,ihAjYd,hLimUw,"
+      }
+
+      /*!sc*/
+      .iJKtMA {
+          color: #3A3A3A;
+          font-weight: 300;
+          font-size: 16px;
+          line-height: 24px;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .iJKtMA {
+              font-size: 24px;
+              line-height: 36px;
+          }
+      }
+
+      /*!sc*/
+      .iJKtMA {
+          padding-bottom: 20px;
+          max-width: 680px;
+          color: white;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .iJKtMA {
+              padding-bottom: 20px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 768px) {
+          .iJKtMA {
+              padding-bottom: 20px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .iJKtMA {
+              padding-bottom: 32px;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g9[id="Text__STextMain-sc-1rv5n77-0"] {
+          content: "iJKtMA,"
+      }
+
+      /*!sc*/
+      .bpxasH {
+          font-weight: 300;
+          font-size: 14px;
+          line-height: 24px;
+          color: rgba(255, 255, 255, 0.48);
+      }
+
+      /*!sc*/
+      .bpxasH {
+          padding-bottom: 12px;
+      }
+
+      /*!sc*/
+      .jTVTtT {
+          font-weight: 300;
+          font-size: 14px;
+          line-height: 24px;
+          color: rgba(255, 255, 255, 0.48);
+      }
+
+      /*!sc*/
+      .jTVTtT {
+          min-width: 264px;
+          font-size: 12px;
+      }
+
+      /*!sc*/
+      data-styled.g13[id="Text__SText0-sc-1rv5n77-4"] {
+          content: "bpxasH,jTVTtT,"
+      }
+
+      /*!sc*/
+      .jWBGtU {
+          font-weight: 300;
+          font-size: 16px;
+          line-height: 24px;
+      }
+
+      /*!sc*/
+      .jWBGtU {
+          color: white;
+          font-family: vk-sans-display;
+      }
+
+      /*!sc*/
+      data-styled.g14[id="Text__SText1-sc-1rv5n77-5"] {
+          content: "jWBGtU,"
+      }
+
+      /*!sc*/
+      .SUUVB {
+          width: auto;
+          height: 24px;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .SUUVB {
+              height: 32px;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g31[id="IconLogoEng__SIconLogo-sc-f0bo1p-0"] {
+          content: "SUUVB,"
+      }
+
+      /*!sc*/
+      .lmLwgO {
+          display: block;
+      }
+
+      /*!sc*/
+      data-styled.g32[id="Logo__SLink-sc-1db6oo6-0"] {
+          content: "lmLwgO,"
+      }
+
+      /*!sc*/
+      .isSUqV {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          gap: 0;
+          z-index: 40;
+          position: relative;
+          -webkit-align-items: center;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+          -webkit-box-pack: justify;
+          -webkit-justify-content: space-between;
+          -ms-flex-pack: justify;
+          justify-content: space-between;
+          grid-gap: 16px;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .isSUqV {
+              grid-gap: 48px;
+          }
+      }
+
+      /*!sc*/
+      .dbbVeI {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          gap: 0;
+          -webkit-align-items: center;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+          grid-gap: 16px;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .dbbVeI {
+              grid-gap: 32px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 768px) {
+          .dbbVeI {
+              grid-gap: 48px;
+          }
+      }
+
+      /*!sc*/
+      .iJAuTV {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          gap: 0;
+          height: 100%;
+          -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+          flex-direction: column;
+          -webkit-box-pack: end;
+          -webkit-justify-content: flex-end;
+          -ms-flex-pack: end;
+          justify-content: flex-end;
+          -webkit-align-items: flex-start;
+       align-items: flex-start;
+          padding-bottom: 30px;
+      }
+
+      /*!sc*/
+      .gMItLY {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          gap: 0;
+          grid-gap: 16px;
+      }
+
+      /*!sc*/
+      .jkblat {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          gap: 0;
+          -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+          flex-direction: column;
+      }
+
+      /*!sc*/
+      .dpiLvp {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          gap: 0;
+          -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+          grid-gap: 20px;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .dpiLvp {
+              grid-gap: 20px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 768px) {
+          .dpiLvp {
+              grid-gap: 20px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .dpiLvp {
+              grid-gap: 40px;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g33[id="Flex__SFlex-sc-126tqfx-0"] {
+          content: "isSUqV,dbbVeI,iJAuTV,gMItLY,jkblat,dpiLvp,"
+      }
+
+      /*!sc*/
+      .VGYLS {
+          padding-bottom: 48px;
+          padding-top: 0;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .VGYLS {
+              padding-bottom: 48px;
+              padding-top: 48px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 768px) {
+          .VGYLS {
+              padding-bottom: 48px;
+              padding-top: 48px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .VGYLS {
+              padding-bottom: 64px;
+              padding-top: 56px;
+          }
+      }
+
+      /*!sc*/
+      .esrslx {
+          min-width: 35%;
+      }
+
+      /*!sc*/
+      data-styled.g37[id="Space__SSpace-sc-pulphy-0"] {
+          content: "VGYLS,esrslx,"
+      }
+
+      /*!sc*/
+      .ldIutf {
+          color: #3A3A3A;
+          width: 24px;
+      }
+
+      /*!sc*/
+      .ldIutf:hover path {
+          fill: #0077FF;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .ldIutf {
+              width: 28px;
+              width: 24px;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g38[id="IconClose__SIconClose-sc-hswxa8-0"] {
+          content: "ldIutf,"
+      }
+
+      /*!sc*/
+      .kMQYWV {
+          font-weight: 500;
+          font-size: 38px;
+          line-height: 42px;
+          padding-bottom: 32px;
+          max-width: 905px;
+          color: white;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .kMQYWV {
+              font-size: 48px;
+              line-height: 56px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .kMQYWV {
+              font-size: 72px;
+              line-height: 87px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .kMQYWV {
+              padding-bottom: 32px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 768px) {
+          .kMQYWV {
+              padding-bottom: 32px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .kMQYWV {
+              padding-bottom: 50px;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g42[id="Heading__SHeading1-sc-o8of9h-2"] {
+          content: "kMQYWV,"
+      }
+
+      /*!sc*/
+      .fWZJXp {
+          max-height: calc(100vh - 72px);
+          top: 52px;
+          margin-left: -24px;
+          z-index: 20;
+          position: absolute;
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+          flex-direction: column;
+          -webkit-box-pack: justify;
+          -webkit-justify-content: space-between;
+          -ms-flex-pack: justify;
+          justify-content: space-between;
+          overflow: auto;
+      }
+
+      /*!sc*/
+      data-styled.g72[id="MenuColumns__SMenuColumns-sc-15dleqt-1"] {
+          content: "fWZJXp,"
+      }
+
+      /*!sc*/
+      .kAHIfj {
+          font-weight: 400;
+          font-size: 18px;
+          line-height: 24px;
+          cursor: pointer;
+      }
+
+      /*!sc*/
+      .kAHIfj li:focus-within {
+          outline: none;
+      }
+
+      /*!sc*/
+      data-styled.g74[id="Navigation__SDropButton-sc-1kpv2og-1"] {
+          content: "kAHIfj,"
+      }
+
+      /*!sc*/
+      .SmUwB {
+          font-weight: 400;
+          font-size: 18px;
+          line-height: 24px;
+          cursor: pointer;
+      }
+
+      /*!sc*/
+      .SmUwB:hover {
+          border-color: #0077FF;
+          color: #0077FF;
+      }
+
+      /*!sc*/
+      data-styled.g75[id="Navigation__SLink-sc-1kpv2og-2"] {
+          content: "SmUwB,"
+      }
+
+      /*!sc*/
+      .djIqLI {
+          gap: 40px;
+          -webkit-align-items: center;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+          display: none;
+          list-style: none;
+          margin: 0;
+          padding-left: 0;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .djIqLI {
+              display: -webkit-box;
+              display: -webkit-flex;
+              display: -ms-flexbox;
+              display: flex;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g76[id="Navigation__SFlex-sc-1kpv2og-3"] {
+          content: "djIqLI,"
+      }
+
+      /*!sc*/
+      .bwoOgA {
+          width: 24px;
+      }
+
+      /*!sc*/
+      .bwoOgA:hover path {
+          fill: #0077FF;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .bwoOgA {
+              width: 28px;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g77[id="IconMenu__SIconMenu-sc-oxyztz-0"] {
+          content: "bwoOgA,"
+      }
+
+      /*!sc*/
+      .dDwXoL {
+          position: relative;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .dDwXoL {
+              display: none;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g78[id="Header__SButton-sc-7ulcrx-0"] {
+          content: "dDwXoL,"
+      }
+
+      /*!sc*/
+      .fFdptE {
+          position: fixed;
+          left: 0;
+          right: 0;
+          top: 0;
+          background-color: white;
+          z-index: 1000;
+          box-shadow: 0px 2px 6px -2px rgba(34, 60, 80, 0.15);
+      }
+
+      /*!sc*/
+      data-styled.g79[id="Header__SHeader-sc-7ulcrx-1"] {
+          content: "fFdptE,"
+      }
+
+      /*!sc*/
+      .dNQzFd {
+          background-color: rgba(4, 11, 21, 0.56);
+          position: absolute;
+          top: 100%;
+          left: 0;
+          width: 100%;
+          height: calc(100vh - 72px);
+          display: none;
+      }
+
+      /*!sc*/
+      data-styled.g80[id="Header__SPageBlackout-sc-7ulcrx-2"] {
+          content: "dNQzFd,"
+      }
+
+      /*!sc*/
+      .dlKfYM {
+          position: absolute;
+          top: 0;
+          opacity: 0;
+          pointer-events: none;
+      }
+
+      /*!sc*/
+      data-styled.g82[id="Header__SIconClose-sc-7ulcrx-4"] {
+          content: "dlKfYM,"
+      }
+
+      /*!sc*/
+      .gDwxrE {
+          padding-left: 24px;
+          padding-right: 24px;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1440px) {
+          .gDwxrE {
+              padding-left: 120px;
+              padding-right: 120px;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g83[id="Header__SContainer-sc-7ulcrx-5"] {
+          content: "gDwxrE,"
+      }
+
+      /*!sc*/
+      .genXoI {
+          font-family: "vk-sans-display", sans-serif;
+          -webkit-text-decoration-color: rgba(255, 255, 255, 0.48);
+          text-decoration-color: rgba(255, 255, 255, 0.48);
+      }
+
+      /*!sc*/
+      .genXoI:hover {
+          -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+      }
+
+      /*!sc*/
+      data-styled.g84[id="LinkMini__SLinkMini-sc-8npboo-0"] {
+          content: "genXoI,"
+      }
+
+      /*!sc*/
+      .jkHNXL {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          gap: 32px;
+          -webkit-box-pack: start;
+          -webkit-justify-content: flex-start;
+          -ms-flex-pack: start;
+          justify-content: flex-start;
+          padding-top: 32px;
+          -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+          flex-direction: column;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .jkHNXL {
+              -webkit-flex-direction: row;
+              -ms-flex-direction: row;
+              flex-direction: row;
+              padding-top: 48px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .jkHNXL {
+              padding-top: 0;
+              -webkit-box-pack: justify;
+              -webkit-justify-content: space-between;
+              -ms-flex-pack: justify;
+              justify-content: space-between;
+          }
+      }
+
+      /*!sc*/
+      .erHxJJ {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          gap: 32px;
+          -webkit-box-pack: start;
+          -webkit-justify-content: flex-start;
+          -ms-flex-pack: start;
+          justify-content: flex-start;
+          padding-top: 32px;
+          -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+          flex-direction: column;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .erHxJJ {
+              -webkit-flex-direction: row;
+              -ms-flex-direction: row;
+              flex-direction: row;
+              padding-top: 48px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .erHxJJ {
+              padding-top: 0;
+              -webkit-box-pack: justify;
+              -webkit-justify-content: space-between;
+              -ms-flex-pack: justify;
+              justify-content: space-between;
+          }
+      }
+
+      /*!sc*/
+      .erHxJJ {
+          padding-top: 0;
+      }
+
+      /*!sc*/
+      data-styled.g85[id="FooterTwoColumnLinks__SFooterLinkRow-sc-2d5046-0"] {
+          content: "jkHNXL,erHxJJ,"
+      }
+
+      /*!sc*/
+      .QzzyA {
+          border-top: 1px solid rgba(255, 255, 255, 0.2);
+      }
+
+      /*!sc*/
+      data-styled.g86[id="FooterBottomBlock__SFooterBottom-sc-z528tv-0"] {
+          content: "QzzyA,"
+      }
+
+      /*!sc*/
+      .kffLhY {
+          font-weight: 300;
+          font-size: 12px;
+          line-height: 24px;
+          color: rgba(255, 255, 255, 0.48);
+      }
+
+      /*!sc*/
+      data-styled.g87[id="FooterBottomBlock__SSpan-sc-z528tv-1"] {
+          content: "kffLhY,"
+      }
+
+      /*!sc*/
+      .ckCmRU {
+          padding: 10px 33px 12px;
+          border: 1px solid;
+          border-radius: 25px;
+          -webkit-transition: 0.2s;
+          transition: 0.2s;
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 20px;
+          color: white;
+          background: #0077FF;
+          border-color: #0077FF;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .ckCmRU {
+              padding: 10px 33px 12px;
+              font-size: 18px;
+              line-height: 24px;
+          }
+      }
+
+      /*!sc*/
+      .ckCmRU:hover {
+          background: white;
+          border-color: #0077FF;
+          color: #0077FF;
+      }
+
+      /*!sc*/
+      .kbynNN {
+          padding: 10px 33px 12px;
+          border: 1px solid;
+          border-radius: 25px;
+          -webkit-transition: 0.2s;
+          transition: 0.2s;
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 20px;
+          color: white;
+          border-color: white;
+          background: none;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .kbynNN {
+              padding: 10px 33px 12px;
+              font-size: 18px;
+              line-height: 24px;
+          }
+      }
+
+      /*!sc*/
+      .kbynNN:hover {
+          color: #0077FF;
+          background: white;
+          border-color: white;
+      }
+
+      /*!sc*/
+      data-styled.g88[id="Button__SButton-sc-74bmbt-0"] {
+          content: "ckCmRU,kbynNN,"
+      }
+
+      /*!sc*/
+      .juQwoq {
+          font-family: "vk-sans-display", sans-serif;
+          -webkit-text-decoration-color: white;
+          text-decoration-color: white;
+          border-bottom: 1px solid transparent;
+      }
+
+      /*!sc*/
+      .juQwoq:hover {
+          border-bottom: 1px solid white;
+      }
+
+      /*!sc*/
+      data-styled.g91[id="FooterLinks__SFooterLink-sc-1wcutnl-0"] {
+          content: "juQwoq,"
+      }
+
+      /*!sc*/
+      .eCLPjR {
+          min-width: 35%;
+      }
+
+      /*!sc*/
+      data-styled.g92[id="FooterLinks__SWrapper-sc-1wcutnl-1"] {
+          content: "eCLPjR,"
+      }
+
+      /*!sc*/
+      .gmZosU {
+          background-color: #0077FF;
+          overflow: hidden;
+      }
+
+      /*!sc*/
+      data-styled.g93[id="Footer__SFooter-sc-1uzz4ri-0"] {
+          content: "gmZosU,"
+      }
+
+      /*!sc*/
+      .brCxjc {
+          background-repeat: no-repeat;
+          background-position: right -20px bottom;
+          background-size: 178px;
+          padding-top: 40px;
+          padding-bottom: 32px;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .brCxjc {
+              background-position: right 40px top;
+              background-size: auto;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g94[id="Footer__SFooterTop-sc-1uzz4ri-1"] {
+          content: "brCxjc,"
+      }
+
+      /*!sc*/
+      .hSIAMw {
+          min-width: 35%;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .hSIAMw {
+              -webkit-align-self: flex-end;
+              -ms-flex-item-align: end;
+              align-self: flex-end;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g95[id="Footer__STutorCTABlock-sc-1uzz4ri-2"] {
+          content: "hSIAMw,"
+      }
+
+      /*!sc*/
+      .isltQo {
+          overflow: hidden;
+          background-color: white;
+      }
+
+      /*!sc*/
+      .isltQo {
+          margin-top: 72px;
+          margin-bottom: 72px;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 480px) {
+          .isltQo {
+              margin-top: 72px;
+              margin-bottom: 72px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 768px) {
+          .isltQo {
+              margin-top: 72px;
+              margin-bottom: 72px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .isltQo {
+              margin-top: 144px;
+              margin-bottom: 144px;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g158[id="Section__SSection-sc-1nhvas9-0"] {
+          content: "isltQo,"
+      }
+
+      /*!sc*/
+      .djybVu {
+          min-height: 500px;
+          position: relative;
+          z-index: 10;
+          margin-bottom: 0;
+          background-color: #000;
+          margin-top: 64px;
+          height: calc(100vh - 64px);
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .djybVu {
+              margin-top: 72px;
+              height: calc(100vh - 72px);
+          }
+      }
+
+      /*!sc*/
+      data-styled.g227[id="SectionTopCommon__SSection-sc-jl8fhx-0"] {
+          content: "djybVu,"
+      }
+
+      /*!sc*/
+      .eKaeFa {
+          position: absolute;
+          top: 0;
+          left: 0;
+          z-index: 0;
+          height: 100%;
+          width: 100%;
+          background-image: none;
+          background-repeat: no-repeat;
+          background-position: right 10px top;
+          background-size: 109px auto;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1440px) {
+          .eKaeFa {
+              background-position: right 64px top;
+              background-size: 190px;
+          }
+      }
+
+      /*!sc*/
+      data-styled.g228[id="SectionTopCommon__SBackgroundPattern-sc-jl8fhx-1"] {
+          content: "eKaeFa,"
+      }
+
+      /*!sc*/
+      .kwOXYc {
+          width: 100%;
+          height: 100%;
+          -webkit-transition: 0.7s;
+          transition: 0.7s;
+          position: absolute;
+      }
+
+      /*!sc*/
+      .kwOXYc img {
+          width: auto;
+          height: 100%;
+          position: absolute;
+          top: 0;
+          object-fit: cover;
+          -webkit-transition: filter .5s ease-in-out;
+          transition: filter .5s ease-in-out;
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 0) {
+          .kwOXYc img {
+              width: 100%;
+              right: 0;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (max-height: 895px) {
+          .kwOXYc img {
+              width: auto;
+              right: -200px;
+          }
+      }
+
+      /*!sc*/
+      @media screen and (min-width: 1024px) {
+          .kwOXYc img {
+              min-width: 100%;
+              min-height: 100%;
+              right: 0;
+          }
+      }
+
+      /*!sc*/
+      .kwOXYc .blur {
+          -webkit-filter: blur(5px);
+          filter: blur(5px);
+      }
+
+      /*!sc*/
+      data-styled.g229[id="SectionTopCommon__SImageContainer-sc-jl8fhx-2"] {
+          content: "kwOXYc,"
+      }
+
+      /*!sc*/
+
+  </style>
+</head>
+<body>
+<div id="__next">
+  <div>
+    <header class="Header__SHeader-sc-7ulcrx-1 fFdptE">
+      <div role="button" class="Header__SPageBlackout-sc-7ulcrx-2 dNQzFd"></div>
+      <div class="Container__SContainer-sc-d8ftui-0 gNgEZI Header__SContainer-sc-7ulcrx-5 gDwxrE">
+        <div class="Flex__SFlex-sc-126tqfx-0 isSUqV">
+          <a href="/" tabindex="1" class="Logo__SLink-sc-1db6oo6-0 lmLwgO">
+            <svg aria-label="Логотип VK education" width="193" height="40" viewBox="0 0 193 40"
+                 class="IconLogoEng__SIconLogo-sc-f0bo1p-0 SUUVB">
+              <path d="M68.8915 22.2201C68.8915 22.502 68.8719 22.8497 68.8327 23.2631H56.5315C56.6884 24.4094 57.1789 25.3302 58.0029 26.0255C58.8269 26.702 59.8765 27.0403 61.1518 27.0403C62.015 27.0403 62.79 26.8805 63.4766 26.5611C64.1829 26.2416 64.7225 25.8094 65.0952 25.2644L68.2735 25.7718C67.7242 27.1248 66.7727 28.1678 65.4189 28.9007C64.0848 29.6336 62.5938 30 60.9458 30C59.4155 30 58.0421 29.6805 56.8257 29.0416C55.629 28.3839 54.6873 27.4819 54.0006 26.3356C53.3335 25.1705 53 23.855 53 22.3893C53 20.9235 53.3335 19.6174 54.0006 18.4711C54.6873 17.306 55.629 16.404 56.8257 15.7651C58.0421 15.1074 59.4155 14.7785 60.9458 14.7785C62.4761 14.7785 63.8396 15.1074 65.0364 15.7651C66.2528 16.404 67.1945 17.2966 67.8615 18.443C68.5482 19.5705 68.8915 20.8295 68.8915 22.2201ZM60.9458 17.5973C59.9256 17.5973 59.0329 17.8792 58.2678 18.443C57.5222 19.0067 57.0121 19.7678 56.7375 20.7262H65.2129C64.9187 19.7866 64.3889 19.0349 63.6238 18.4711C62.8783 17.8886 61.9856 17.5973 60.9458 17.5973Z"
+                    fill="black"></path>
+              <path d="M78.1207 30C76.6885 30 75.4034 29.6805 74.2655 29.0416C73.1276 28.3839 72.2349 27.4819 71.5875 26.3356C70.9597 25.1705 70.6458 23.855 70.6458 22.3893C70.6458 20.9235 70.9597 19.6174 71.5875 18.4711C72.2349 17.306 73.1276 16.404 74.2655 15.7651C75.4034 15.1074 76.6885 14.7785 78.1207 14.7785C79.3567 14.7785 80.4554 15.0228 81.4167 15.5114C82.378 15.9812 83.1628 16.5732 83.771 17.2872V9.84564H87.1553V29.7181H84.6244L83.9182 27.3503C83.2903 28.0832 82.4859 28.7128 81.505 29.2389C80.524 29.7463 79.3959 30 78.1207 30ZM78.9447 27.0966C80.3769 27.0966 81.5344 26.6644 82.4173 25.8C83.3198 24.9168 83.771 23.7799 83.771 22.3893C83.771 20.9987 83.3198 19.8711 82.4173 19.0067C81.5344 18.1235 80.3769 17.6819 78.9447 17.6819C77.5321 17.6819 76.3844 18.1235 75.5015 19.0067C74.6187 19.8711 74.1772 20.9987 74.1772 22.3893C74.1772 23.7799 74.6187 24.9168 75.5015 25.8C76.3844 26.6644 77.5321 27.0966 78.9447 27.0966Z"
+                    fill="black"></path>
+              <path d="M96.7201 30C95.6411 30 94.6601 29.7369 93.7772 29.2107C92.914 28.6846 92.2273 27.9611 91.7172 27.0403C91.2268 26.1195 90.9815 25.0765 90.9815 23.9114V15.0604H94.3658V23.545C94.3658 24.5973 94.6699 25.4523 95.2781 26.1101C95.9059 26.7678 96.7005 27.0966 97.6618 27.0966C98.6428 27.0966 99.457 26.7678 100.104 26.1101C100.752 25.4336 101.076 24.5785 101.076 23.545V15.0604H104.46V29.7181H101.929L101.252 27.5195C100.762 28.2899 100.114 28.9007 99.3099 29.3517C98.5055 29.7839 97.6422 30 96.7201 30Z"
+                    fill="black"></path>
+              <path d="M115.378 30C113.848 30 112.475 29.6805 111.258 29.0416C110.042 28.3839 109.09 27.4819 108.404 26.3356C107.737 25.1705 107.403 23.855 107.403 22.3893C107.403 20.9235 107.737 19.6174 108.404 18.4711C109.09 17.306 110.042 16.404 111.258 15.7651C112.475 15.1074 113.848 14.7785 115.378 14.7785C117.065 14.7785 118.557 15.1825 119.851 15.9906C121.166 16.7799 122.098 17.9074 122.647 19.3732L119.469 19.8805C119.135 19.2416 118.615 18.7248 117.909 18.3302C117.222 17.9356 116.447 17.7383 115.584 17.7383C114.211 17.7383 113.093 18.1705 112.229 19.0349C111.366 19.8993 110.934 21.0174 110.934 22.3893C110.934 23.7611 111.366 24.8792 112.229 25.7436C113.093 26.6081 114.211 27.0403 115.584 27.0403C116.487 27.0403 117.291 26.843 117.997 26.4483C118.704 26.0349 119.233 25.4993 119.587 24.8416L122.765 25.349C122.215 26.8336 121.264 27.9799 119.91 28.7879C118.557 29.596 117.046 30 115.378 30Z"
+                    fill="black"></path>
+              <path d="M131.366 14.7785C133.328 14.7785 134.868 15.3705 135.986 16.5544C137.124 17.7195 137.693 19.3638 137.693 21.4872V29.7181H135.192L134.485 27.4067C134.054 28.102 133.416 28.7128 132.572 29.2389C131.729 29.7463 130.728 30 129.571 30C128.55 30 127.628 29.8027 126.804 29.4081C126 29.0134 125.372 28.4591 124.921 27.745C124.47 27.0309 124.244 26.2228 124.244 25.3208C124.244 23.9302 124.813 22.8215 125.951 21.9946C127.108 21.149 128.786 20.7262 130.983 20.7262H134.279C134.201 19.749 133.887 18.9785 133.338 18.4148C132.808 17.8322 132.092 17.5409 131.189 17.5409C130.463 17.5409 129.836 17.7101 129.306 18.0483C128.776 18.3866 128.384 18.8 128.129 19.2886L125.009 18.7812C125.382 17.5409 126.147 16.5638 127.305 15.8497C128.482 15.1356 129.836 14.7785 131.366 14.7785ZM130.365 27.2658C131.542 27.2658 132.494 26.8993 133.22 26.1664C133.946 25.4336 134.309 24.4658 134.309 23.2631H131.101C128.806 23.2631 127.658 23.902 127.658 25.1799C127.658 25.8188 127.903 26.3262 128.394 26.702C128.884 27.0779 129.541 27.2658 130.365 27.2658Z"
+                    fill="black"></path>
+              <path d="M150.487 26.8993L150.193 29.7181H147.339C145.671 29.7181 144.405 29.3423 143.542 28.5906C142.679 27.8201 142.247 26.7114 142.247 25.2644V17.8792H139.746V15.0604H142.247L143.101 10.8322H145.632V15.0604H150.193V17.8792H145.632V25.2644C145.632 26.3544 146.201 26.8993 147.339 26.8993H150.487Z"
+                    fill="black"></path>
+              <path d="M156.679 29.7181H153.295V15.0604H156.679V29.7181ZM155.002 12.9745C154.374 12.9745 153.864 12.796 153.471 12.4389C153.079 12.0631 152.883 11.5839 152.883 11.0013C152.883 10.4188 153.079 9.9396 153.471 9.56376C153.883 9.18792 154.393 9 155.002 9C155.61 9 156.11 9.18792 156.502 9.56376C156.895 9.9396 157.091 10.4188 157.091 11.0013C157.091 11.5839 156.895 12.0631 156.502 12.4389C156.11 12.796 155.61 12.9745 155.002 12.9745Z"
+                    fill="black"></path>
+              <path d="M167.947 30C166.377 30 164.965 29.6805 163.709 29.0416C162.473 28.3839 161.502 27.4819 160.796 26.3356C160.109 25.1705 159.766 23.855 159.766 22.3893C159.766 20.9235 160.109 19.6174 160.796 18.4711C161.502 17.306 162.473 16.404 163.709 15.7651C164.965 15.1074 166.377 14.7785 167.947 14.7785C169.516 14.7785 170.919 15.1074 172.155 15.7651C173.411 16.404 174.382 17.306 175.069 18.4711C175.775 19.6174 176.128 20.9235 176.128 22.3893C176.128 23.855 175.775 25.1705 175.069 26.3356C174.382 27.4819 173.411 28.3839 172.155 29.0416C170.919 29.6805 169.516 30 167.947 30ZM167.947 27.0403C169.32 27.0403 170.438 26.6174 171.302 25.7718C172.165 24.9074 172.596 23.7799 172.596 22.3893C172.596 20.9987 172.165 19.8805 171.302 19.0349C170.438 18.1705 169.32 17.7383 167.947 17.7383C166.573 17.7383 165.455 18.1705 164.592 19.0349C163.729 19.8805 163.297 20.9987 163.297 22.3893C163.297 23.7799 163.729 24.9074 164.592 25.7718C165.455 26.6174 166.573 27.0403 167.947 27.0403Z"
+                    fill="black"></path>
+              <path d="M179.07 29.7181V15.0604H181.601L182.278 17.2591C182.768 16.4886 183.416 15.8872 184.22 15.455C185.044 15.004 185.927 14.7785 186.869 14.7785C187.967 14.7785 188.958 15.0416 189.841 15.5678C190.724 16.094 191.42 16.8174 191.931 17.7383C192.441 18.6591 192.696 19.702 192.696 20.8671V29.7181H189.311V21.2336C189.311 20.1812 188.997 19.3262 188.37 18.6685C187.742 18.0107 186.937 17.6819 185.956 17.6819C184.936 17.6819 184.093 18.0201 183.426 18.6966C182.778 19.3544 182.454 20.2 182.454 21.2336V29.7181H179.07Z"
+                    fill="black"></path>
+              <path d="M19.168 40C10.16 40 5.632 40 2.832 37.216C0 34.416 0 29.888 0 20.848V19.184C0 10.144 0 5.616 2.832 2.816C5.632 0 10.16 0 19.168 0H20.832C29.872 0 34.368 0 37.2 2.816C40 5.632 40 10.144 40 19.184V20.848C40 29.888 40 34.416 37.2 37.216C34.368 40 29.872 40 20.832 40H19.168Z"
+                    fill="#0077FF"></path>
+              <path d="M21.968 28.8478V22.8958C25.248 23.2318 27.696 25.6798 28.704 28.8478H33.44C32.16 24.1118 28.832 21.4878 26.752 20.4958C28.816 19.2638 31.744 16.2558 32.432 12.1918H28.128C27.232 15.5038 24.544 18.4958 21.968 18.7838V12.1758H17.6V23.7118C14.944 23.0398 11.472 19.8078 11.312 12.1758H6.75195C6.95995 22.5758 12.432 28.8318 21.456 28.8318L21.968 28.8478Z"
+                    fill="white"></path>
+            </svg>
+          </a>
+          <ul role="navigation" aria-label="Главное меню" class="Navigation__SFlex-sc-1kpv2og-3 djIqLI">
+            <a tabindex="30" href="/children" class="Navigation__SLink-sc-1kpv2og-2 SmUwB">Школьникам</a>
+            <a tabindex="30" href="/students" class="Navigation__SLink-sc-1kpv2og-2 SmUwB">Студентам</a>
+            <a tabindex="30" href="/professionals" class="Navigation__SLink-sc-1kpv2og-2 SmUwB">Специалистам</a>
+            <a tabindex="40" href="/news" class="Navigation__SLink-sc-1kpv2og-2 SmUwB">Новости</a>
+            <a tabindex="50" href="/contacts" class="Navigation__SLink-sc-1kpv2og-2 SmUwB">Контакты</a>
+          </ul>
+          <a class="Flex__SFlex-sc-126tqfx-0 dbbVeI" href="/">
+            <button tabindex="0" class="Header__SButton-sc-7ulcrx-0 dDwXoL">
+              <svg class="IconMenu__SIconMenu-sc-oxyztz-0 bwoOgA Header__SIconMenu-sc-7ulcrx-3" viewBox="0 0 28 28">
+                <path d="M22.5 20C23.0523 20 23.5 20.4477 23.5 21C23.5 21.5523 23.0523 22 22.5 22H5.5C4.94772 22 4.5 21.5523 4.5 21C4.5 20.4477 4.94772 20 5.5 20H22.5ZM22.5 13C23.0523 13 23.5 13.4477 23.5 14C23.5 14.5523 23.0523 15 22.5 15H5.5C4.94772 15 4.5 14.5523 4.5 14C4.5 13.4477 4.94772 13 5.5 13H22.5ZM22.5 6C23.0523 6 23.5 6.44772 23.5 7C23.5 7.55228 23.0523 8 22.5 8H5.5C4.94772 8 4.5 7.55228 4.5 7C4.5 6.44772 4.94772 6 5.5 6H22.5Z"
+                      fill="#3A3A3A"></path>
+              </svg>
+              <svg class="IconClose__SIconClose-sc-hswxa8-0 ldIutf Header__SIconClose-sc-7ulcrx-4 dlKfYM" width="24px"
+                   viewBox="0 0 28 28">
+                <path d="M6.29289 6.29289C6.68342 5.90237 7.31658 5.90237 7.70711 6.29289L14 12.585L20.2929 6.29289C20.6534 5.93241 21.2206 5.90468 21.6129 6.2097L21.7071 6.29289C22.0976 6.68342 22.0976 7.31658 21.7071 7.70711L15.415 14L21.7071 20.2929C22.0676 20.6534 22.0953 21.2206 21.7903 21.6129L21.7071 21.7071C21.3166 22.0976 20.6834 22.0976 20.2929 21.7071L14 15.415L7.70711 21.7071C7.34662 22.0676 6.77939 22.0953 6.3871 21.7903L6.29289 21.7071C5.90237 21.3166 5.90237 20.6834 6.29289 20.2929L12.585 14L6.29289 7.70711C5.93241 7.34662 5.90468 6.77939 6.2097 6.3871L6.29289 6.29289Z"
+                      fill="#3A3A3A"></path>
+              </svg>
+            </button>
+          </a>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section class="Section__SSection-sc-1nhvas9-0 isltQo SectionTopCommon__SSection-sc-jl8fhx-0 djybVu">
+        <div class="SectionTopCommon__SImageContainer-sc-jl8fhx-2 kwOXYc">
+          <img src="/static/errors/images/education.jpg" alt="Страница не&nbsp;найдена"/>
+        </div>
+        <div class="SectionTopCommon__SBackgroundPattern-sc-jl8fhx-1 eKaeFa"></div>
+        <div height="100%" class="Container__SContainer-sc-d8ftui-0 BAMPG">
+          <div height="100%" class="Flex__SFlex-sc-126tqfx-0 iJAuTV">
+            <h1 class="Heading__SHeading1-sc-o8of9h-2 kMQYWV" color="white">Страница не&nbsp;найдена</h1>
+            <div color="white" class="Text__STextMain-sc-1rv5n77-0 iJKtMA">
+              По&nbsp;какой-то причине эта страница отсутствует на&nbsp;сервере.<br/>Если тебе нужна помощь, напиши, пожалуйста, нам.
+            </div>
+            <div class="Flex__SFlex-sc-126tqfx-0 gMItLY">
+              <a tabindex="-1" href="/">
+                <button class="Button__SButton-sc-74bmbt-0 ckCmRU">на главную</button>
+              </a>
+              <a tabindex="-1" href="/contacts?from=techProblem">
+                <button class="Button__SButton-sc-74bmbt-0 kbynNN">связаться с нами</button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+
+    <footer class="Footer__SFooter-sc-1uzz4ri-0 gmZosU">
+      <div class="Footer__SFooterTop-sc-1uzz4ri-1 brCxjc">
+        <div class="Container__SContainer-sc-d8ftui-0 ihAjYd">
+          <div class="Flex__SFlex-sc-126tqfx-0 jkblat">
+            <div class="FooterLinks__SWrapper-sc-1wcutnl-1 eCLPjR">
+              <nav class="Flex__SFlex-sc-126tqfx-0 dpiLvp">
+                <a href="/" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">Главная</p>
+                </a>
+                <a href="/children" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">Школьникам</p>
+                </a>
+                <a href="/students" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">Студентам</p>
+                </a>
+                <a href="/professionals" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">
+                    Специалистам</p>
+                </a>
+                <a href="/news" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">Новости и
+                    события</p>
+                </a>
+                <a href="/contacts" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">Контакты</p>
+                </a>
+                <a href="/about" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">О VK
+                    Education</p>
+                </a>
+              </nav>
+            </div>
+            <div class="FooterTwoColumnLinks__SFooterLinkRow-sc-2d5046-0 jkHNXL">
+              <div class="Footer__STutorCTABlock-sc-1uzz4ri-2 hSIAMw">
+                <div class="Space__SSpace-sc-pulphy-0 VGYLS">
+                  <div class="FooterLinks__SWrapper-sc-1wcutnl-1 eCLPjR">
+                    <p class="Text__SText0-sc-1rv5n77-4 bpxasH">хотите преподавать в образовательных проектах VK</p>
+                    <nav class="Flex__SFlex-sc-126tqfx-0 dpiLvp">
+                      <a href="/contacts?tab=tutors" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                        <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">Стать
+                          преподавателем</p>
+                      </a>
+                    </nav>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="FooterTwoColumnLinks__SFooterLinkRow-sc-2d5046-0 jkHNXL">
+            <div class="FooterLinks__SWrapper-sc-1wcutnl-1 eCLPjR">
+              <p class="Text__SText0-sc-1rv5n77-4 bpxasH">связанные проекты</p>
+              <nav class="Flex__SFlex-sc-126tqfx-0 dpiLvp">
+                <a href="https://internship.vk.company/ambassadors" target="_blank"
+                   class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">VK
+                    Амбассадоры</p>
+                </a>
+                <a href="https://internship.vk.company" target="_blank"
+                   class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">Стажировки и
+                    вакансии</p>
+                </a>
+                <a href="https://team.vk.company/" target="_blank" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">VK Team</p>
+                </a>
+                <a href="https://cups.online/" target="_blank" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">All Cups</p>
+                </a>
+              </nav>
+            </div>
+            <div class="FooterLinks__SWrapper-sc-1wcutnl-1 eCLPjR">
+              <p class="Text__SText0-sc-1rv5n77-4 bpxasH">мы ВКонтакте</p>
+              <nav class="Flex__SFlex-sc-126tqfx-0 dpiLvp">
+                <a href="https://vk.com/vkjunior" target="_blank" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">VK
+                    Education</p>
+                </a>
+                <a href="https://vk.com/vkedu" target="_blank" class="FooterLinks__SFooterLink-sc-1wcutnl-0 juQwoq">
+                  <p font-family="vk-sans-display" color="white" class="Text__SText1-sc-1rv5n77-5 jWBGtU">VK для
+                    педагогов</p>
+                </a>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="FooterBottomBlock__SFooterBottom-sc-z528tv-0 QzzyA">
+        <div class="Container__SContainer-sc-d8ftui-0 hLimUw">
+          <div class="FooterTwoColumnLinks__SFooterLinkRow-sc-2d5046-0 erHxJJ">
+            <div class="Space__SSpace-sc-pulphy-0 esrslx">
+              <a href="https://vk.company" target="_blank" class="LinkMini__SLinkMini-sc-8npboo-0 genXoI">
+                <p font-size="12px" class="Text__SText0-sc-1rv5n77-4 jTVTtT">VK © 2006-2024</p>
+              </a>
+              <span class="FooterBottomBlock__SSpan-sc-z528tv-1 kffLhY">Версия портала
+                <!-- -->
+                                    1.4.5</span>
+            </div>
+            <div class="Space__SSpace-sc-pulphy-0 esrslx">
+              <a href="https://education.vk.company/static/documents/agreement_reg.pdf" target="_blank"
+                 class="LinkMini__SLinkMini-sc-8npboo-0 genXoI">
+                <p font-size="12px" class="Text__SText0-sc-1rv5n77-4 jTVTtT">Политика конфиденциальности</p>
+              </a>
+              <a href="https://education.vk.company/static/documents/agreement_reg_extra.pdf" target="_blank"
+                 class="LinkMini__SLinkMini-sc-8npboo-0 genXoI">
+                <p font-size="12px" class="Text__SText0-sc-1rv5n77-4 jTVTtT">Пользовательское соглашение</p>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+  <link rel="stylesheet" href="https://education.vk.company/next_static/lib/nprogress.css"/>
+</div>
+</body>
+</html>

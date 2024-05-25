@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*/diskuze
+Sitemap: https://www.extralife.cz/sitemap.xml
+Sitemap: https://www.extralife.cz/sitemap-google-news.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /

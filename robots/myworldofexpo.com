@@ -1,0 +1,36 @@
+User-agent: *
+User-agent: ia_archiver
+Disallow: /ATC2011
+Disallow: /moe08
+Disallow: /pureDisallow: /glee11
+Disallow: /TJSS
+Disallow: /maxpowerlive
+Disallow: /spring11
+Disallow: /html/deepashish/
+Disallow: /emapeducation/
+Disallow: /autumn10
+Disallow: /bettawardsnew/
+Disallow: /productionshow/
+Disallow: /clients/ite/
+Disallow: /ATMInsightNews_PastIssue.aspx
+Disallow: /ifatsea.aspx
+Disallow: /bettshow2005
+Disallow: /ife08
+Disallow: /ibec
+Disallow: /website/ContactExhibitor.aspx?ExhId=exhiReg198
+Disallow: /ourshows.htm
+Disallow: /watm18/
+Disallow: /watm19/
+Disallow: /Wetex19/
+Disallow: /VICTAMAsia18/
+Disallow: /Nope19/
+Disallow: /atca19/
+Disallow: /atca18/
+Disallow: /itw19/
+Disallow: /design/
+Disallow: /Floorplan/
+Disallow: /HostedPaymentForm/
+Disallow: /MeedEvents/
+Disallow: /Mobilemarketing/
+
+Sitemap: https://www.myworldofexpo.com/sitemap.xml

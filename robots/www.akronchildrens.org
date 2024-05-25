@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow: /pwa/
+Disallow: /images-pwa/
+Disallow: /menus/
+Disallow: /sitedown/
+Disallow: /timeline-photo-gallery/
+Disallow: /timeline-photos/
+Disallow: /timeline-url/
+Disallow: /timeline-videos/
+Disallow: /timeline_demo/
+Disallow: /whats_next/
+Disallow: /wireless/
+Disallow: /conditions/
+Disallow: /mykidsnet/
+
+Sitemap: https://www.akronchildrens.org/sitemap.xml.gz

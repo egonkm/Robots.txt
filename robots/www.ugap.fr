@@ -1,0 +1,109 @@
+#Version 04-12-2023
+
+# MOTEURS DE RECHERCHE BANNIS
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: YandexMedia
+User-agent: YandexImages
+User-agent: YandexCatalog
+User-agent: YandexDirect
+User-agent: YandexBlogs
+User-agent: YandexNews
+User-agent: YandexPagechecker
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: moget
+User-agent: ichiro
+User-agent: YoudaoBot
+User-agent: sogou spider
+User-agent: NaverBot
+User-agent: Yeti
+Disallow: /
+
+# MOTEURS DE RECHERCHE AUTORISES
+# Optimisations pour Google
+
+User-agent: *
+Disallow: /espace-client.html
+Disallow: /centrale-d-achat-public/commander-consulter-les-offres.html
+Disallow: /FactureHome.action
+Disallow: /ProfilClient.action
+Disallow: /PanierShow.action
+Disallow: /*Produits.action
+Disallow: /presse/
+Disallow: /*.pdf$
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+Disallow: /*.ppt$
+Disallow: /*.pptx$
+Disallow: /*ajax
+Disallow: /*?attFilter
+Disallow: /*?idCategorie
+Disallow: /*?nbProduits
+Disallow: /*?noRedirect=false 
+Disallow: /*?tagFilter
+Disallow: /CartographieProduits.action
+Disallow: /ImprimerTousProduits.action
+Disallow: /offres-actualites-services/*.html
+Disallow: /offres-produits-services/*.html
+Disallow: /presse/
+Disallow: /CommandeRecherche.action*
+Disallow: /*searchTxt=				
+Disallow: /*attFilter
+Disallow: /*tagFilter
+Disallow: /*nbProduits=
+Disallow: /*affichage=
+Disallow: /*critereTriRecherche=
+Disallow: /RechercheQuery.action
+Disallow: /AccueilUtilisateur.action
+Disallow: /DemandeClientGeneralRecherche.action
+Disallow: /RechercheDocumentDevisCanal4.action
+Disallow: /RechercheDocumentCommande.action
+Disallow: /RechercheEtenduQuery.action
+Disallow: /AfficheActualite.action
+Disallow: /Rayon.action
+Disallow: /CatalogueCategorie.action
+Disallow: /search
+Disallow: /fiche-sav
+Disallow: /*pageSizeIndex=			
+Disallow: /*productsLayout=
+Disallow: /*sort=
+Disallow: /*Z_CARACT
+Disallow: /*rangePrice=
+Disallow: /tag
+Disallow: /type
+Disallow: /*?type
+Disallow: /store
+Disallow: /cms
+Disallow: /espaceclient/
+Disallow: /l/
+Disallow: /PanierRecapitulatifShow.action
+Disallow: /RechercheDocumentCommandeModifiable.action
+Disallow: /CommandesAValider.action
+Disallow: /CreerDemandeClient.action
+Disallow: /RechercheDocumentPanierType.action
+Disallow: /DemandeClientGeneralRecherche.action
+Disallow: /AddressUser.action
+Disallow: /AccueilUtilisateur.action
+Disallow: /AddressAdmin.action
+Disallow: /workflow/
+Disallow: /Budget.action
+Disallow: /AccueilEtats.action
+
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: ChatGPT-User
+Disallow: /
+
+# Sitemap
+
+Sitemap: https://www.ugap.fr/sitemap_index.xml
+
+

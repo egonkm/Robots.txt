@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+Disallow:*/content/overlays/*
+Disallow:*/content/applications-labels/*
+Disallow:*/content/error-pages/*
+Disallow:*/content/roadblock/*
+Disallow:*/content/forms/*
+Disallow:*/content/disclosure-library/*
+Disallow:*/content/wizards/*
+Disallow:*/content/offers-library/*
+Disallow:*/content/additional-offers/*
+Disallow:*/content/snippets/*
+Disallow:*/servis/moje-vozidlo/objednat-servis/*
+Disallow:*/servis/moje-vozidlo/book-a-service/*
+Disallow:*/s/*
+Disallow:*/dashboard/*
+Disallow:*/forms*
+Disallow:*/offer-*
+
+Sitemap:https://www.ford.cz/sitemap.xml

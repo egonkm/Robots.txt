@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /public/
+Disallow: /nogooglebot/
+Allow: /public/theme/version3/js/subscribe-validate.js
+Allow: /public/theme/version3/images/loader_sblue.gif
+Allow: /public/theme/version4/assets/js/src/subscribe-validate.js
+Allow: /public/theme/version4/assets/images/loader_sblue.gif

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /Giris/gir?oauthClientId=*
+Disallow: /Giris/Mobil/*
+Disallow: /Giris/Mobil/V2/*

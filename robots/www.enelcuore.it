@@ -1,0 +1,6 @@
+Sitemap: https://www.enelcuore.it/it/sitemap.xml
+Sitemap: https://www.enelcuore.it/en/sitemap.xml
+Sitemap: https://www.enelcuore.it/sitemap_index.xml
+
+User-agent: *
+Allow: /

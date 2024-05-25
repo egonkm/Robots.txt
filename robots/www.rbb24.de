@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /test/
+Disallow: /content/rbb/
+# Disallow: /content/rbb/rbb/unternehmen/presse/audio-video/
+# Disallow: /content/rbb/rbb/unternehmen/presse/pressetermine/
+# Disallow: /content/rbb/rbb/av/unternehmen/presse/
+
+# keine AV-Objekte direkt
+Disallow: /av/
+ 
+User-agent: Googlebot
+Disallow: /*.zip$
+Disallow: /*.ics$
+Disallow: /test/
+Disallow: /content/rbb/
+Disallow: /av/
+ 
+# Bilder jetzt zeigen
+User-Agent: Googlebot-Image
+Disallow: /content/dam/temp/
+Disallow: /content/dam/rbb/rbb/fernsehen/programm/
+Disallow: /content/dam/rbb/test/
+ 
+# Alexa
+User-Agent: ia_archiver
+Disallow: /
+ 
+# Auch Sauger wollen wir sperren
+User-agent: Teleport* 
+Disallow: / 
+User-agent: Webwhacker* 
+Disallow: / 
+User-agent: Webzip* 
+Disallow: / 
+User-agent: Net Attache* 
+Disallow: / 
+User-agent: SiteSnagger* 
+Disallow: / 
+User-agent: HTTrack* 
+Disallow: / 
+User-agent: WebCapture* 
+Disallow: / 
+User-agent: WebSauger* 
+Disallow: /

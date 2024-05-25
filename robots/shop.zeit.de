@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /compare
+Disallow: /checkout
+Disallow: /register
+Disallow: /account
+Disallow: /address
+Disallow: /note
+Disallow: /widgets
+Disallow: /listing
+Disallow: /ticket
+Disallow: /search
+Allow: /widgets/emotion
+
+
+    
+Sitemap: https://shop.zeit.de/sitemap.xml
+
+
+
+Sitemap: https://shop.zeit.de/imagesitemap.xml
+
+
+
+

@@ -1,0 +1,32 @@
+# robots.txt
+# @url: https://dons.monde-diplomatique.fr
+# @generator: SPIP 3.2.1 SVN [24148]
+# @template: plugins/diplo/exo/robots.txt.html
+
+User-agent: *
+Allow:    /local/cache-css/
+Allow:    /local/cache-js/
+Disallow: /local/
+Disallow: /ecrire/
+Disallow: /plugins-dist/
+Disallow: /lib/
+Disallow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Disallow: /squelettes/
+Crawl-delay: 1
+
+User-agent: Twitterbot
+Disallow:    /local/cache-css/
+Disallow:    /local/cache-js/
+Disallow: /local/
+Disallow: /ecrire/
+Disallow: /plugins-dist/
+Disallow: /lib/
+Allow: /plugins/
+Disallow: /prive/
+Disallow: /squelettes-dist/
+Allow: /squelettes/
+Crawl-delay: 1
+
+Sitemap: https://dons.monde-diplomatique.fr/sitemap.xml

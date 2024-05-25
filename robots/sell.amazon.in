@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /404$
+Disallow: /fees-and-pricing/fee-schedule$
+Disallow: /grow-your-business/amazon-global-selling/sem/americas$
+Disallow: /feedback
+Disallow: /autocomplete
+Disallow: /search
+Sitemap: https://sell.amazon.in/sitemap.xml

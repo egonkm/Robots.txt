@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /send-to-friend.php
+Disallow: /send-to-friend/
+Disallow: /vote/
+Disallow: /comment/add/
+Disallow: /catalog/search/
+Disallow: /catalog/bag/
+Disallow: /catalog/log-in/
+Disallow: /catalog/check-out/
+Disallow: /facebook/canvas/
+Disallow: /board/posting.php
+Disallow: /auth/
+Disallow: /dating/ajax/
+Disallow: /newsletter/confirm/
+Disallow: /feeds/image-rotator/
+Disallow: /~tracker/
+Disallow: /heading/
+Disallow: /~status/
+Disallow: /sex/
+Disallow: /lovehoney/
+Disallow: /sex-tips/
+Disallow: /sexual-advice/
+Disallow: /oral-sex/
+Disallow: /anal /
+Disallow: /anal-sex/
+Disallow: /sex-life/
+Disallow: /porn/
+Disallow: /daddy-porn/
+Disallow: /penis/
+Disallow: /penis-size/
+Disallow: /sex-toys/
+Disallow: /fam-cms/
+Disallow: /auth/sign-in
+Disallow: /auth/done
+
+#weird ad issue
+Disallow: /8350602/
+
+Sitemap: https://www.femalefirst.co.uk/sitemap.xml

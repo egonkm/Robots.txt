@@ -1,0 +1,16 @@
+# *
+User-agent: *
+Disallow: *?fbclid=*
+Disallow: *?at_medium=*
+Disallow: *?at_campaign=*
+Disallow: *?2003=*
+Disallow: *?codRome=*
+Disallow: /export/
+Disallow: /statistiques/
+Disallow: /maintenance/
+
+# Host
+Host: https://mes-aides.francetravail.fr
+
+# Sitemaps
+Sitemap: https://mes-aides.francetravail.fr/sitemap.xml

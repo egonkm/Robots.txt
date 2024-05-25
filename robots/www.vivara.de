@@ -1,0 +1,186 @@
+User-agent: *
+
+# Directories
+Disallow: /customer/
+Disallow: /wishlist/
+Disallow: /checkout/
+Disallow: /catalog/
+Disallow: /catalogsearch/
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /onestepcheckout/
+Disallow: /phpserver/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /var/
+
+# Parameters
+Allow: /*?p=
+Disallow: /*?*
+
+# Files
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /CONTRIBUTING.md
+Disallow: /CONTRIBUTOR_LICENSE_AGREEMENT.html
+Disallow: /COPYING.txt
+Disallow: /Gruntfile.js
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /package.json
+Disallow: /RELEASE_NOTES.txt
+Disallow: /*.sample
+Disallow: /*.git
+Disallow: /*.cvs
+Disallow: /*.zip$
+Disallow: /*.svn$
+Disallow: /*.idea$
+Disallow: /*.sql$
+Disallow: /*.tgz$
+
+# Specific Crawlers
+User-agent: HTTrack
+Disallow: /
+
+User-agent: PathDefender
+Disallow: /
+
+User-agent: aipbot
+Disallow: /
+
+User-agent: QihooBot
+Disallow: /
+
+User-agent: ShopWiki
+Disallow: /
+
+User-agent: cityreview
+Disallow: /
+
+User-agent: suggybot
+Disallow: /
+
+User-agent: sitebot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: iisbot
+Disallow: /
+
+User-agent: Screaming Frog
+Disallow: /
+
+User-agent: BacklinkCrawler
+Disallow: /
+
+User-agent: Custo
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: SEOkicks
+Disallow: /
+
+User-agent: SearchmetricsBot
+Disallow: /
+
+User-agent: NewspointBot
+Disallow: /
+
+User-agent: XoviBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SiteExplorer
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: CrystalSemanticsBot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: SEOdiver
+Disallow: /
+
+User-agent: Xenu Link Sleuth
+Disallow: /
+
+User-agent: GrapeshotCrawler
+Disallow: /
+
+User-agent: Abonti
+Disallow: /
+
+User-agent: BuiBui-Bot
+Disallow: /
+
+User-agent: ZumBot
+Disallow: /
+
+User-agent: LinkpadBot
+Disallow: /
+
+User-agent: LinkWalker
+Disallow: /
+
+User-agent: zyklop
+Disallow: /
+
+User-agent: BUbiNG
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: jsoup
+Disallow: /
+
+User-agent: daumoa
+Disallow: /
+
+User-agent: VegeBot
+Disallow: /
+
+User-agent: Spiderbot
+Disallow: /
+
+User-agent: Domain Re-Animator
+Disallow: /
+
+User-agent: ADmantX
+Disallow: /
+
+User-agent: QCrawl
+Disallow: /
+
+User-agent: bhcBot
+Disallow: /
+
+User-agent: GetintentCrawler
+Disallow: /
+
+User-agent: OnPageBot
+Disallow: /
+
+User-agent: HybridBot
+Disallow: /
+
+User-agent: Vegi bot
+Disallow: /
+
+User-agent: SentiBot
+Disallow: /

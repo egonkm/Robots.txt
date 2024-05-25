@@ -1,0 +1,22 @@
+<html>
+<head>
+  <title>Resource not found</title>
+  <link rel='stylesheet' type='text/css' href='/blueprint/css/errorpage.css'/>
+</head>
+<body>
+<table class="header">
+  <tr>
+    <td class="CMTitle CMHFill"><span class="large">Resource not found</span></td>
+  </tr>
+</table>
+<div class="body">
+  <p style="font-weight:bold;">unknown root channel [PLACEHOLDER]</p>
+</div>
+<table class="footer">
+  <tr>
+    <td class="CMHFill">&nbsp;</td>
+  </tr>
+</table>
+
+</body>
+</html>

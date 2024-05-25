@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /i/
+
+User-agent: *
+Disallow: /*/profile/
+
+User-agent: MauiBot
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /i/
+
+User-agent: bingbot
+Disallow: /i/
+#Crawl-delay: 1
+
+User-agent: SeznamThumbnailBot
+Disallow:
+
+User-agent: SeznamBot
+Disallow: /i/
+#Request-rate: 10/10s
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Twitterbot
+Disallow:
+
+Sitemap: https://goout.net/sitemaps/sitemapindex.xml

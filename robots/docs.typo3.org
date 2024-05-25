@@ -1,0 +1,15 @@
+User-agent: *
+# @TODO: still required?
+Disallow: /getthedocs/files/
+
+# Don't index the services folder
+Disallow: /services/
+
+# Don't index the search folder
+Disallow: /search/*
+
+# Don't index drafts
+Disallow: */draft/*
+
+# Don't index singlehtml versions of docs to avoid duplicate content
+Disallow: */singlehtml/*

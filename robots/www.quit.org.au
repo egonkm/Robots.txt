@@ -1,0 +1,8 @@
+# robots.txt for https://www.quit.org.au/
+
+sitemap: https://www.quit.org.au/sitemaps-1-sitemap.xml
+
+User-agent: *
+Disallow: /cpresources/
+Disallow: /cache/
+

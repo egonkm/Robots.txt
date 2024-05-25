@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /api
+Disallow: /api/*
+Disallow: /pages/footer
+Disallow: /pages/topbar
+Disallow: /link/*
+Disallow: /signin/*
+Disallow: /cdn-cgi/
+Disallow: /affiliate-program-terms
+Disallow: /affiliate-registration
+Disallow: /course/course-launch-challenge
+Disallow: /subscription/marketing-courses
+Disallow: /subscription/silver-plan
+Disallow: /subscription/gold-plan
+Sitemap: https://www.course-masters.com/sitemap.xml

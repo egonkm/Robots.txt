@@ -1,0 +1,27 @@
+Sitemap: https://favi.bg/sitemap/sitemap-index.xml
+
+User-agent: *
+Disallow: /produkti/kam-magazina/
+Disallow: /produkti*bezplatnaDostavka=
+Disallow: /produkti*cenaOd=
+Disallow: /produkti*cenaDo=
+Disallow: /produkti*razmeri[*]=
+Disallow: /produkti*filtri=
+Disallow: /produkti*color=
+Disallow: /produkti*feature1=
+Disallow: /produkti*feature2=
+Disallow: /produkti*feature3=
+Disallow: /produkti*feature4=
+Disallow: /produkti*feature5=
+Disallow: /produkti*feature6=
+Disallow: /produkti*feature7=
+Disallow: /produkti*feature8=
+Disallow: /produkti*feature9=
+Disallow: /produkti*feature10=
+Disallow: /produkti*luxury=
+Disallow: /produkti*priceFrom=
+Disallow: /produkti*priceTo=
+Disallow: /produkti*sort=
+Disallow: /produkti*style=
+Disallow: /dobavi-otziv/*
+Disallow: /potrebitelski-profili/

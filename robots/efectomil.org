@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /gestion/
+
+Sitemap: https://www.efectomil.org/sitemap.xml
+

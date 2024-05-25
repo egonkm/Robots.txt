@@ -1,0 +1,19 @@
+ï»¿User-agent: *   # directed to all robots
+Disallow: /App_Code
+Disallow: /App_Data
+Disallow: /App_WebReferences
+Disallow: /aspnet_client
+Disallow: /Bin
+Disallow: /BlogAdmin
+Disallow: /CacheManager
+Disallow: /images
+Disallow: /AdmapEdition
+Disallow: /MarketLeaderEdition
+Disallow: /Offers
+Disallow: /Player
+Disallow: /Services
+Disallow: /Test
+Disallow: /Security
+Disallow: /FullText
+Disallow: /Search?q=
+SITEMAP: https://www.warc.com/sitemap/sitemap.xml

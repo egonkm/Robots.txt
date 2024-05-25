@@ -1,0 +1,13 @@
+
+
+	<noscript>
+		<a href="https://schedulebuilder.umn.edu/redirect/UMNRO/">Click here to continue.</a> However, you will eventually need to turn JavaScript on.
+	</noscript>
+
+	<script type="text/javascript">
+
+		var redirect_path = "https://schedulebuilder.umn.edu/redirect/UMNRO/" + window.location.hash.substring(1);
+
+		window.location = redirect_path;
+
+	</script>

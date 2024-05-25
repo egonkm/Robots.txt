@@ -1,0 +1,58 @@
+# Crawlers Setup
+User-agent: *
+
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /stores/store/switch
+Disallow: /catalogsearch/
+Disallow: /productlist/
+Disallow: /newsletter/
+Disallow: /sendfriend/
+Disallow: /customize/
+Disallow: /checkout/
+Disallow: /wishlist/
+Disallow: /contacts/
+Disallow: /customer/
+Disallow: /review/
+Disallow: /ajax/
+Disallow: /poll/
+Disallow: /tag/
+
+Disallow: /*/catalog/product_compare/
+Disallow: /*/catalog/category/view/
+Disallow: /*/catalog/product/view/
+Disallow: /*/stores/store/switch
+Disallow: /*/catalogsearch/
+Disallow: /*/productlist/
+Disallow: /*/newsletter/
+Disallow: /*/sendfriend/
+Disallow: /*/customize/
+Disallow: /*/checkout/
+Disallow: /*/wishlist/
+Disallow: /*/contacts/
+Disallow: /*/customer/
+Disallow: /*/review/
+Disallow: /*/ajax/
+Disallow: /*/poll/
+Disallow: /*/tag/
+
+Disallow: /*.php*
+Disallow: /*.sh*
+
+Disallow: /*cat=*
+Disallow: /*color=*
+Disallow: /*price=*
+Disallow: /*?SID=*
+
+Allow: /*?p=
+
+Allow: /static/
+Allow: /*.js
+Allow: /*.css
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.gif
+
+Sitemap: https://giving.unimelb.edu.au/media/sitemap/advancement_sitemap.xml

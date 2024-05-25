@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /boletineshacienda/boletines/2017/56661.pdf
+Disallow: /boletineshacienda/boletines/2015/47262.pdf
+Disallow: /boletineshacienda/boletines/2012/29904.pdf
+Disallow: /rrhh/oposiciones/funcionarios/cuerpo%20tecnico%20de%20auditoria%20y%20contabilidad/convocatoria%202020/excluidosl.pdf
+Disallow: /RRHH/Oposiciones/Funcionarios/Cuerpo%20Tecnico%20de%20Auditoria%20y%20Contabilidad/CONVOCATORIA%202020/ExcluidosL.pdf
+Disallow: /boletineshacienda/Boletines/2021/72661.pdf
+Disallow: /Documentacion/Boletines/2012/29904.pdf
+Disallow: /BoletinesHacienda/Boletines//2012/29904.pdf
+Disallow: /boletineshacienda/Boletines/2012/32050.pdf
+Disallow: /RRHH/

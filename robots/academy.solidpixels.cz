@@ -1,0 +1,1 @@
+Sitemap: https://academy.solidpixels.com/sitemap.xml.gz

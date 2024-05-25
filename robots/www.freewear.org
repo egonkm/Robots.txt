@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /weapons_of_mass_destruction
+Sitemap: https://freewear.org/sitemapindex.php

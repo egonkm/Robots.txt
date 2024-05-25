@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /report-content
+
+Sitemap: https://refresher.hu/sitemap/news
+Sitemap: https://refresher.hu/sitemap/index

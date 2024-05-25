@@ -1,0 +1,67 @@
+User-Agent: *
+Allow: /
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-includes/
+Disallow: /wp-admin/
+Disallow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: /xmlrpc.php
+Disallow: /tags/
+Disallow: /2019/
+Disallow: /2018/
+Disallow: /2017/
+Disallow: /2016/
+
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: aiHitBot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: oBot
+Disallow: /
+
+User-agent: DeuSu
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: MetaURI
+Disallow: /
+
+User-agent: FlipboardProxy
+Disallow: /
+
+Sitemap: https://www.akronchildrens.org/inside/sitemap_index.xml

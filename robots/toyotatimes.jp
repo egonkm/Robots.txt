@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /chief_editor/
+Disallow: /en/chief_editor/
+Disallow: /spotlights/chief_editor/
+Disallow: /en/spotlights/chief_editor/

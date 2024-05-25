@@ -1,0 +1,5 @@
+# Exclude detail page from MEDLINE records 
+# ex. http://pesquisa.bvsalud.org/portal/resource/pt/mdl-23755303
+
+User-agent: *
+Disallow: /*mdl-*

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /users/sign_up
+Disallow: /users/password/new
+Disallow: /sign_in
+Disallow: /dashboard
+
+Sitemap: https://writeonline.co.nz/sitemap.xml

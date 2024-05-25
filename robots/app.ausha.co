@@ -1,0 +1,37 @@
+<!doctype html><html lang="en" class="notranslate"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta http-equiv="X-UA-Compatible" content="ie=edge"/><meta name="google" value="notranslate"/><link rel="icon" href="/favicon.png" type="image/png"/><link rel="apple-touch-icon" href="/apple-touch-icon.png"/><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet"><script async src="https://www.googletagmanager.com/gtag/js?id=AW-984867384"></script><script>window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'AW-984867384');</script><script>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(
+                window,
+                document,
+                'script',
+                'dataLayer',
+                'GTM-W65JF2ZV',
+            );</script><script>(function () {
+                var t = document.createElement('script');
+                (t.type = 'text/javascript'),
+                    (t.async = !0),
+                    (t.src = 'https://cdn.firstpromoter.com/fprom.js'),
+                    (t.onload = t.onreadystatechange =
+                        function () {
+                            var t = this.readyState;
+                            if (!t || 'complete' == t || 'loaded' == t)
+                                try {
+                                    $FPROM.init('fxgom915', '.ausha.co');
+                                } catch (t) {}
+                        });
+                var e = document.getElementsByTagName('script')[0];
+                e.parentNode.insertBefore(t, e);
+            })();</script><title>Ausha</title><script defer="defer" src="/app.js"></script></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id='GTM-W65JF2ZV'" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript><div id="root"></div><div id="modal-root"></div>
+<script async id="netlify-rum-container" src="/.netlify/scripts/rum" data-netlify-rum-site-id="3b08d153-c3e7-46a6-ad6c-839e491d0c2e" data-netlify-deploy-branch="" data-netlify-deploy-context="production" data-netlify-cwv-token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaXRlX2lkIjoiM2IwOGQxNTMtYzNlNy00NmE2LWFkNmMtODM5ZTQ5MWQwYzJlIiwiYWNjb3VudF9pZCI6IjViMGJjNGE1MTFiNzNiMTVjMTFmOGY4OSIsImRlcGxveV9pZCI6IjY2NTA2MWYyYWIxNjk4MGEwOGQ2YjAxZCIsImlzc3VlciI6Im5mc2VydmVyIn0.zbsKi9JOtyA4ZjbkZm5F9_deaTg70Ku10S3gqP9Xyt0"></script></body></html>

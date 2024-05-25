@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /include/
+Disallow: /mobile/
+Disallow: /newsletter/
+Disallow: /barcode/
+Disallow: /caisse/
+Disallow: /carto/
+Disallow: /editeur/
+Disallow: /Scripts/
+Disallow: /signature/
+Disallow: /synchro/
+Disallow: /tiny_mce/
+Disallow: /tmp/
+Disallow: /upload/pdf/
+Allow: /themes/html/css/*.css
+Allow: /themes/html/js/*.js
+Allow: /themes/html/img/
+Allow: /themes/html/font/a
+Allow: /themes/html/fonts/
+Allow: /themes/mobile/css/*.css
+Allow: /themes/mobile/js/*.js
+Allow: /themes/mobile/img/
+Allow: /themes/mobile/fonts/
+Sitemap: https://www.studiosport.fr/sitemap-index.xml
+
+# Amazon Aranhabot
+User-agent: aranhabot
+Crawl-delay: 10
+Disallow: /upload/image/

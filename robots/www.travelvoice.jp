@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /download/pdf/
+Disallow: /podcasts/ja

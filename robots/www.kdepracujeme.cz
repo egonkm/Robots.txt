@@ -1,0 +1,11 @@
+User-agent: *
+Disallow:
+
+User-agent: ia_archiver
+Disallow: /
+Allow: */index.htm
+
+SITEMAP: https://www.kdepracujeme.cz/sitemap.xml
+SITEMAP: https://www.kdepracujeme.cz/sitemap1.xml
+SITEMAP: https://www.kdepracujeme.cz/sitemap2.xml
+SITEMAP: https://www.kdepracujeme.cz/sitemap3.xml

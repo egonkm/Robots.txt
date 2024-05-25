@@ -1,0 +1,4 @@
+Disallow: /
+Allow: /SiteGlobals/BMWK/
+Allow: /Navigation/
+Allow: /Redaktion/

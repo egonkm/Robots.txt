@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /*?id=*
+Disallow: /*&id=*
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+Disallow: /*cHash
+Disallow: /*tx_powermail_pi1
+Disallow: /*tx_form_formframework
+Disallow: /typo3conf/
+Disallow: /*/Private/*
+Disallow: /*/Configuration/*
+Disallow: /typo3temp/var/*
+Disallow: /typo3/
+Disallow: *.sql
+Disallow: *.sql.gz
+Disallow: /rezepte/drinks*?*
+Disallow: /rezepte/sektfruehstueck*?*
+Disallow: /rezepte/dinner/vorspeise*?*
+Disallow: /rezepte/dinner/hauptspeise*?*
+Disallow: /rezepte/dinner/dessert*?*
+

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /dev/
+Disallow: /about/ueber-uns/
+Disallow: /search
+
+
+

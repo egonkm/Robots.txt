@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*.axd
+Disallow: /api/
+Disallow: /novi-api/
+Disallow: /admin/
+Disallow: /login
+Disallow: /client-login
+Disallow: /*.php
+Sitemap: https://www.informusa.org/sitemap.xml

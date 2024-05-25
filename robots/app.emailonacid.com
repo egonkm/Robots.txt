@@ -1,0 +1,1 @@
+<script language="javascript">window.top.location.href = "https://app.emailonacid.com/app/login?redirect="+encodeURI(window.top.location.pathname);</script>

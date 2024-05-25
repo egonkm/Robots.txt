@@ -1,0 +1,8 @@
+User-agent: *
+ 
+Disallow: /kereses-talalat?type=professional&keyword
+Disallow: /404
+Disallow: /1000
+ 
+Sitemap: https://www.rsm.hu/sitemap-hu.xml
+Sitemap: https://www.rsm.hu/sitemap-en.xml

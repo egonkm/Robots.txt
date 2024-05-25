@@ -1,0 +1,9 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Allow:
+
+# Sitemap:
+Sitemap: https://www.stanfordchildrens.org/sitemap.xml
+Sitemap: https://www.stanfordchildrens.org/sitemap2.xml

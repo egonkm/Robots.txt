@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /
+ 
+User-agent: facebookexternalhit
+Allow: /job/
+Allow: /v/
+Allow: /system/modules/
+Allow: /export/system/modules/
+Allow: /callback/auth/static/js/auth.min.js
+Allow: /export/sites/
+Allow: /jobresources/
+Allow: /jobsearch/embed/
+ 
+User-agent: AdsBot-Google
+Allow: /job/
+Allow: /v/
+Allow: /system/modules/
+Allow: /export/system/modules/
+Allow: /callback/auth/static/js/auth.min.js
+Allow: /export/sites/
+Allow: /jobresources/
+Allow: /jobsearch/embed/

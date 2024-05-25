@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /refer/
+Disallow: /(popup:*
+Disallow: /account*
+Disallow: /opi/
+Sitemap: https://yougov.de/sitemap.xml

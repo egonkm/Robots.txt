@@ -1,0 +1,6 @@
+
+User-agent: *
+Disallow: /_contao/
+Disallow: /a/
+Disallow: /reg/
+Disallow: /revover/

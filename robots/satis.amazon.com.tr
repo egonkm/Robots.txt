@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /sandbox$
+Disallow: /404$
+Disallow: /feedback
+Disallow: /autocomplete
+Disallow: /search
+Sitemap: https://satis.amazon.com.tr/sitemap.xml

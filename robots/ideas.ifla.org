@@ -1,0 +1,11 @@
+User-agent: Twitterbot
+Disallow:
+Allow: *
+User-agent: Pinterest
+Disallow: *.svg
+Disallow: *.png
+Disallow: *.gif
+Disallow: star.svg
+User-agent: LinkedInBot
+Disallow:
+Allow: *

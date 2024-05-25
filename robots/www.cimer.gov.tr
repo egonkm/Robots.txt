@@ -1,0 +1,9 @@
+# www.cimer.gov.tr/
+
+# Allow crawling of all content
+User-agent: *
+Disallow: /*?site=*
+Disallow: /*?bim=*
+Disallow: /hata/
+Disallow: /hata/404
+Sitemap: https://cimer.gov.tr/sitemap

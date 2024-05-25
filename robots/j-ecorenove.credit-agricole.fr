@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: */resultats
+Disallow: /simulation-financement-pret/resultats
+Disallow: /simulation-aide-prime/resultats
+Disallow: /annuaire-artisan-rge/recherche
+Disallow: /page-data/*
+Disallow: /recherche*
+Disallow: /contact/succes
+Disallow: /faq/recherche*
+Sitemap: https://j-ecorenove.credit-agricole.fr/sitemap-index.xml
+Host: https://j-ecorenove.credit-agricole.fr

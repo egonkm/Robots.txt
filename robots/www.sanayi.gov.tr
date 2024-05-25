@@ -1,0 +1,19 @@
+ï»¿User-agent: Googlebot
+Disallow: 
+User-agent: Bingbot
+Disallow: 
+User-agent: Slurp
+Disallow: 
+User-agent: DuckDuckBot
+Disallow: 
+User-agent: Baiduspider
+Disallow:
+User-agent: YandexBot
+Disallow:
+User-agent: facebot
+Disallow:
+User-agent: ia_archiver
+Disallow:
+User-agent: Twitterbot
+Disallow:
+Sitemap: https://www.sanayi.gov.tr/sitemap.xml

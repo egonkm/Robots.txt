@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="ja" dir="ltr"><head>
+  <meta charset="UTF-8">
+  <title>LINE NEWS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+
+  <meta name="format-detection" content="telephone=no">
+  <link rel="apple-touch-icon-precomposed" href="/img/icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+  <link rel="stylesheet" href="https://static.line-scdn.net/line_news_v3/18bd5f2054d/web-notations/style.css">
+
+  <script src="https://static.line-scdn.net/liff/edge/versions/2.22.4/sdk.js" crossorigin=""></script>
+  <script src="/js/lc.line.news.js"></script>
+  <script>
+    lc.line.news.error();
+  </script>
+
+  <script>
+    (function(){
+      if (document.domain.indexOf('ch-news') === -1) {
+        return;
+      }
+      // bind onDeviceReady
+      window.onload = function() {
+        document.addEventListener('deviceready', onDeviceReady, false);
+      }
+      // write CLSLoader script to document
+      document.write('\x3Cscript src="https://scdn.line-apps.com/channel/sdk/js/LCSLoader_20150326.js">\x3C/script>');
+      // apply Channel view design
+      document.addEventListener("DOMContentLoaded", function(event){
+        var body = document.getElementsByTagName('body')[0];
+        body.classList.add('LyChannel');
+        Array.prototype.forEach.call(document.getElementsByClassName('LyHead'), function(header){
+          header.style.display = 'none';
+        });
+      });
+      var onDeviceReady = function(e){
+        var resVersion = '8';
+        var url = location.href;
+        var props = {
+          entryPage: true,
+          titleBarType: ['lineNewsWhite'],
+          resVersion: resVersion,
+          pageKey: url,
+          pageURL: url,
+          preventStackPop: true,
+          titleBar: {
+            left: {
+              iconId: 'icon_back',
+              visible: false,
+              enable: false
+            },
+            center: {
+              imgId: 'title',
+              text: 'LINE NEWS',
+              enable: true,
+              clickable: true
+            },
+            right: {
+              iconId: 'icon_close',
+              visible: true,
+              enable: true
+            }
+          }
+        };
+        window.LCS.Interface.updateTitleBar(props);
+        window.LCS.Interface.registerTitleBarCallback(function(event){
+          switch (event.target) {
+            case 'BACK':
+              window.LCS.Interface.closeWebView();
+              break;
+            case 'RBUTTON':
+              window.LCS.Interface.closeWebView();
+              break;
+          }
+        });
+      }
+    })();
+  </script>
+
+  <script type="text/javascript">
+    _trm('send', 'pageview');
+  </script>
+
+
+</head>
+<body class="LyIssue">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TP5GFQ"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+  {'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP5GFQ');</script>
+<!-- End Google Tag Manager -->
+<script type="module" src="https://static.line-scdn.net/line_news_v3/18bd5f2054d/web-notations/common_ui_components.js"></script>
+
+<header class="LyHead ExSP" role="banner">
+  <div class="MdGHD03Issue">
+    <div class="mdGHD03Btn">
+      <div class="mdGHD03Home"><a href="/">戻る</a></div>
+    </div>
+    <!--/MdGHD02Issue--></div>
+  <!--/LyHead--></header>
+
+<header class="LyHead ExPC" role="banner">
+  <div class="MdGHD01Main">
+    <h1 class="mdGHD01Logo"><a href="/about/">LINE NEWS</a></h1>
+    <!--/MdGHD01Main--></div>
+  <!--/LyHead--></header>
+
+<div class="LyContents" role="main">
+
+  <section class="MdError">
+    <div class="mdErrorWrap01"><div class="mdErrorWrap02">
+      <div class="mdError" style="height:400px"><div class="mdErrorInner">
+        <h1>ページが表示できませんでした。</h1>
+        <p>ページが存在しないか、一時的にアクセス<br class="mdErrorSP">できません。<br class="mdErrorPC">URLを確認いただくか、<br class="mdErrorSP">しばらくしてからもう一度お試しください。</p>
+      </div></div>
+    </div></div>
+  </section>
+
+</div>
+
+<div class="MdWebFooter FnVueMountEntry">
+  <web-basic-footer></web-basic-footer>
+</div>
+
+</div></body>
+</html>

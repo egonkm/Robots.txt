@@ -1,0 +1,63 @@
+User-agent: Yandex
+Disallow: /_inc
+Disallow: /_img
+Disallow: /old
+Disallow: /test
+Disallow: /city.php
+Disallow: /config.php
+Disallow: /footer.php
+Disallow: /header.php
+Disallow: /subscribe.php
+Host: zanimai.info
+
+User-agent: Googlebot
+Disallow: /_inc
+Disallow: /_img
+Disallow: /old
+Disallow: /test
+Disallow: /city.php
+Disallow: /config.php
+Disallow: /footer.php
+Disallow: /header.php
+Disallow: /subscribe.php
+Host: zanimai.info
+
+User-agent: Mail.Ru
+Disallow: /_inc
+Disallow: /_img
+Disallow: /old
+Disallow: /test
+Disallow: /city.php
+Disallow: /config.php
+Disallow: /footer.php
+Disallow: /header.php
+Disallow: /subscribe.php
+Host: zanimai.info
+
+User-agent: *
+Disallow: /_inc
+Disallow: /_img
+Disallow: /old
+Disallow: /test
+Disallow: /city.php
+Disallow: /config.php
+Disallow: /footer.php
+Disallow: /header.php
+Disallow: /subscribe.php
+Host: zanimai.info
+
+User-agent: Googlebot-Image
+Disallow: /_img
+
+User-agent: YandexImages
+Disallow: /_img
+
+User-agent: Mediapartners-Google
+Disallow: /_img
+
+
+User-Agent: YaDirectBot
+Disallow: /_img
+
+
+Sitemap: https://zanimai.info/sitemap.xml

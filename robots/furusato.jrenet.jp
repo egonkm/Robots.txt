@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /*.csv$
+Sitemap: https://furusato.jreast.co.jp/sitemap.xml

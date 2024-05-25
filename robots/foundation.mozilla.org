@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /*/artifacts/thimble
+Disallow: /artifacts/thimble
+crawl-delay: 10

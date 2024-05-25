@@ -1,0 +1,33 @@
+########################################################
+#   Club Wyndham Airlie Beach Robots File
+#   
+########################################################
+
+User-agent: 008
+Disallow: /
+
+user-agent: AhrefsBot
+disallow: / 
+
+User-agent: spbot
+Disallow: /
+
+User-agent: ezooms
+Disallow: / 
+
+User-agent: NaverBot
+Disallow: /
+
+User-agent: NaverBot-1.0
+Disallow: /
+
+User-agent: Mizzu Labs 2.2
+Disallow: /
+
+User-agent: OmniExplorer_Bot
+Disallow: /
+
+User-agent: *
+
+Sitemap: https://clubwyndhamairliebeach.com.au/sitemap.xml
+

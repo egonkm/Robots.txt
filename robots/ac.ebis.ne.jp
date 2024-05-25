@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /tr_set.php
+Disallow: /ad_set.php
+Disallow: /log.php
+Noindex: /tr_set.php
+Noindex: /ad_set.php
+Noindex: /log.php

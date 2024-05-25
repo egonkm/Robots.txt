@@ -1,0 +1,6 @@
+User-agent: *
+Crawl-delay: 10
+
+User-agent: Googlebot
+Disallow: /arli/site/TRR
+Disallow: /arli/site/CRConsAPI

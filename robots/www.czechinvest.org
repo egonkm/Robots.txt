@@ -1,0 +1,11 @@
+user-agent:*
+Disallow: /Special/
+Disallow: /Bluesoft/
+Disallow: /atc/1.5/
+Disallow: /CMSPages/GetResource.ashx
+Disallow: /CzechInvest/media/
+Disallow: /ScriptResource.axd
+Disallow: /WebResource.axd
+Disallow: /getattachment/
+Allow: /resources/src/css/
+Sitemap: https://www.czechinvest.org/sitemap.xml

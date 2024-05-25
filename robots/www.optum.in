@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /content/dam/optum3/optum/en/resources/gated/
+
+User-agent: *
+Disallow: /content/dam/internal-resources/
+
+User-agent: *
+Allow: /

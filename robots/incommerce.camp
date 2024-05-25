@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /1*.htm
+Disallow: /2*.htm
+Disallow: /3*.htm
+Disallow: /4*.htm
+Disallow: /5*.htm
+Disallow: /6*.htm
+Disallow: /7*.htm
+Disallow: /8*.htm
+Disallow: /9*.htm
+Disallow: /speaker/
+Disallow: */index.php?*.htm

@@ -1,0 +1,12 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Crawl-delay: 10
+
+disallow: /actualites/actualites/category/
+disallow: /actualites/tag/
+disallow: /actualites/actualites/author/
+
+Sitemap: https://rosseladvertising.fr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

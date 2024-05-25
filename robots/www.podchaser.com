@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /tags/
+Disallow: /creators/edit/
+Sitemap: https://www.podchaser.com/sitemap-nav.xml
+Sitemap: https://www.podchaser.com/sitemap-userlists.xml
+Sitemap: https://www.podchaser.com/sitemap-podcasts.xml
+Sitemap: https://www.podchaser.com/sitemap-episodes.xml
+Sitemap: https://www.podchaser.com/sitemap-reviews.xml
+Sitemap: https://www.podchaser.com/sitemap-tags.xml
+Sitemap: https://www.podchaser.com/sitemap-creators.xml

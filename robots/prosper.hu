@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /stats/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /zzz-uj-oldal/
+Disallow: /readme.html
+Disallow: /olvasdel.html
+Disallow: /licenc.txt
+Disallow: /license.txt
+Disallow: /letoltes/
+Allow: /public/images/
+
+Sitemap: https://www.prosper.hu/sitemap_index.xml

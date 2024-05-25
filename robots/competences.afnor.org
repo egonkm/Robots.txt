@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /espace-client
+Disallow: /panier
+Disallow: /mon-compte/panier?isStep=False
+Disallow: /mon-compte/panier?_=
+Disallow: /mon-compte/sanction
+Disallow: /devis-inter?id=
+Disallow: /devis-intra?id=
+Disallow: /PluginRecherche
+Disallow: /PluginActualite
+Disallow: /formationGarantie
+Disallow: /PluginProduit
+
+Sitemap: https://competences.afnor.org/sitemap.xml

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /application
+Disallow: /darksites
+Disallow: /api/
+Allow: /sitemap.xml
+Sitemap: https://www.leipziger-messe.de/sitemap.xml

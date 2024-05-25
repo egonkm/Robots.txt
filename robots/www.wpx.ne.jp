@@ -1,0 +1,4 @@
+User-Agent:*
+Disallow:/downloads/
+Disallow:/*.pdf$
+Sitemap:https://www.wpx.ne.jp/sitemap.xml

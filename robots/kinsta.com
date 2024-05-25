@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://kinsta.com/sitemap_index.xml
+Sitemap: https://kinsta.com/de/sitemap_index.xml
+Sitemap: https://kinsta.com/dk/sitemap_index.xml
+Sitemap: https://kinsta.com/es/sitemap_index.xml
+Sitemap: https://kinsta.com/fr/sitemap_index.xml
+Sitemap: https://kinsta.com/it/sitemap_index.xml
+Sitemap: https://kinsta.com/jp/sitemap_index.xml
+Sitemap: https://kinsta.com/nl/sitemap_index.xml
+Sitemap: https://kinsta.com/pt/sitemap_index.xml
+Sitemap: https://kinsta.com/se/sitemap_index.xml

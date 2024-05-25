@@ -1,0 +1,450 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<title>关于我们-搜狐焦点网</title>
+
+<!-- export css -->
+
+    <link rel="stylesheet" href="//t1-res.focus-img.cn/about-front/fe-res/build/global.min.css?1501208549821" />
+    <link rel="stylesheet" href="//t1-res.focus-img.cn/about-front/fe-res/build/about.min.css?15012085498212" />
+
+
+
+
+</head>
+<body data-page-name="about">
+
+<!-- layout -->
+
+
+
+
+
+
+
+<div id="doc">
+    <div id="globalHead">
+        <!-- global head modules -->
+        
+
+    
+
+
+<!-- 公共头开始 -->
+<head><link href="https://t1-res.focus-img.cn/seo-sv/header-footer/assets/header/header.754a4cd172abe65a1da3.css" rel="stylesheet"></head><div>
+    <div node-type="module" class="module-header module-header-common"
+    data-city_id="0"
+    data-app_id=""
+    data-caijing=""
+    >
+       <style type="text/css">
+        .module-header .header-wrap {
+             font-family: "PingFang SC", Arial, "Microsoft YaHei", "微软雅黑", "宋体", simsun, sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+        </style>
+        <!--header-->
+        <div class="header-wrap clearfix">
+
+            <div class="header-left">
+                <ul class="channel-nav-list clearfix">
+                    <li class="channel-nav-item">
+                        <a class="channel-link" href="https://house.focus.cn/" target="_blank">
+                            <span class="icon-index">&#xe843;</span>搜狐焦点</a>
+                    </li>
+                                           <li class="channel-nav-item">
+                        <a class="channel-link" href="https://house.focus.cn/loupan/" target="_blank">新房</a>
+                    </li>
+                                          <li class="channel-nav-item">
+                        <a class="channel-link" href="https://house.focus.cn/zixun/" target="_blank">资讯</a>
+                    </li>
+                                          <li class="channel-nav-item">
+                        <a class="channel-link" href="https://zhibo.focus.cn/bj/" target="_blank">直播</a>
+                    </li>
+                                          <li class="channel-nav-item">
+                        <a class="channel-link" href="https://home.focus.cn/" target="_blank">家居</a>
+                    </li>
+                                          <li class="channel-nav-item">
+                        <a class="channel-link" href="https://wl.focus.cn" target="_blank">文旅</a>
+                    </li>
+                                          <li class="channel-nav-item">
+                        <a class="channel-link" href="https://caijing.focus.cn/" target="_blank">财经</a>
+                    </li>
+                                          <li class="channel-nav-item">
+                        <a class="channel-link" href="http://baike.focus.cn/" target="_blank">百科</a>
+                    </li>
+                                          <li class="channel-nav-item">
+                        <a class="channel-link" href="https://house.focus.cn/author/157860400/newslist" target="_blank">研究院</a>
+                    </li>
+                                          <li class="channel-nav-item">
+                        <a class="channel-link" href="https://oversea.focus.cn/" target="_blank">海外</a>
+                    </li>
+                                          <li class="channel-nav-item">
+                        <a class="channel-link" href="https://www.bodiantech.com/" target="_blank">智慧案场</a>
+                    </li>
+                                          <li class="channel-nav-item">
+                        <a class="channel-link" href="https://siyuan.focus.cn/#/" target="_blank">公益基金</a>
+                    </li>
+                                     </ul>
+            </div>
+            <div class="header-right">
+                            <a href="http://about.focus.cn/item/538_0.html" class="btn btn-open-wx" target="_blank" >
+                    <span class="icon2018">&#xe91d;</span>
+                    <span class="txt">小程序</span>
+                </a>
+                            <a href="https://zhibo.focus.cn/live-download" class="btn btn-open-platform" target="_blank" style="">
+                    <span class="icon">&#xe869;</span>
+                    <span class="txt">客户端</span>
+                </a>
+                <!--<a href="https://mp.focus.cn/front/index.html#/index" class="btn btn-open-platform" target="_blank">
+                    <span class="icon">&#xe98c;</span>
+                    <span class="txt">开放平台</span>
+                </a>-->
+                <span class="unlog-wrap"  style="display:inline-block" >
+                    <a href="javascript:;" class="btn btn-open-login">
+                        <span class="icon">&#xe829;</span>
+                        <span class="txt">登录</span>
+                    </a>
+                    <span class="divide-line">|</span>
+                    <a href="javascript:void(0)" target="_blank" class="btn btn-open-signup">
+                        <span class="icon"></span>
+                        <span class="txt">注册</span>
+                    </a>
+                </span>
+                <span class="loged-wrap"  style="display:none" >
+                    <a href="https://u.focus.cn/" target="_blank" class="btn btn-info">
+                        <span class="icon">&#xe829;</span>
+                        <span class="txt"></span>
+                    </a>
+                    <span class="divide-line">|</span>
+                    <a href="javascript:void(0)" class="btn btn-logout">
+                        <span class="icon"></span>
+                        <span class="txt">退出</span>
+                    </a>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div node-type="module" class="common-module-login ">
+    </div>
+</div>
+<script type="text/javascript" src="https://t1-res.focus-img.cn/seo-sv/header-footer/assets/header/header.754a4cd172abe65a1da3.js" defer></script>
+<!-- 公共头结束 -->
+
+
+
+    
+
+<div node-type="module" class="module-login">
+</div>
+
+    
+
+<div node-type="module" class="module-about-header">
+    <div class="city-header-wrap global-clearfix">
+        <a href="//www.focus.cn" class="logo"></a>
+        <span class="interLine"></span>
+        <a href="/" class="baike-index"><span class="baikeText">关于我们</span></a>
+    </div>
+</div>
+
+        <!-- global head modules end -->
+    </div>
+    <div id="hd">
+        <!-- head modules -->
+        
+
+    
+
+<div node-type="module" class="module-baike-about">
+    <ul class="global-clearfix">
+        
+        
+        <li class="about-content">
+            <div class="about-label gongsigaikuang">
+                <div class="label-logo"><img src="//t1-res.focus-img.cn/about-front/fe-res/module/baike-about/img/about-logo-1.png?1501208549821" alt=""></div>
+                <a href="/gongsigaikuang"><h2 class="label-font">公司概况</h2></a>
+            </div>
+            <div class="about-detail">
+                <ul>
+                    <li><a href="/item/284_0.html">焦点简介</a></li>
+                    <li><a href="/item/288_0.html">发展历史</a></li>
+                    <li><a href="/item/290_0.html">获奖荣誉</a></li>
+                    <li><a href="/item/291_0.html">证书资质</a></li>
+                    <li><a href="/item/292_0.html">联系我们</a></li>
+                    <li><a href="/item/408_0.html">投诉流程</a></li>
+                    
+                </ul>
+            </div>
+        </li>
+        
+        
+        <li class="about-content">
+            <div class="about-label chanpinfuwu">
+                <div class="label-logo"><img src="//t1-res.focus-img.cn/about-front/fe-res/module/baike-about/img/about-logo-2.png?1501208549821" alt=""></div>
+                <a href="/chanpinfuwu"><h2 class="label-font">产品服务</h2></a>
+            </div>
+            <div class="about-detail">
+                <ul>
+                    <li><a href="/item/293_0.html">新房业务</a></li>
+                    <li><a href="/item/295_0.html">家居装修业务</a></li>
+                    <li><a href="/item/297_0.html">焦点好房</a></li>
+                    <li><a href="/item/538_0.html">拼房帝</a></li>
+                    <li><a href="/item/774_0.html">公益基金</a></li>
+                    <li><a href="/item/777_0.html">焦点财经</a></li>
+                    
+                </ul>
+            </div>
+        </li>
+        
+        
+        <li class="about-content">
+            <div class="about-label jiamengdaili">
+                <div class="label-logo"><img src="//t1-res.focus-img.cn/about-front/fe-res/module/baike-about/img/about-logo-3.png?1501208549821" alt=""></div>
+                <a href="/jiamengdaili"><h2 class="label-font">加盟合作</h2></a>
+            </div>
+            <div class="about-detail">
+                <ul>
+                    <li><a href="/item/336_0.html">新房加盟</a></li>
+                    <li><a href="/item/363_0.html">商务合作</a></li>
+                    <li><a href="/item/364_0.html">市场渠道合作</a></li>
+                    <li><a href="/item/369_0.html">友情链接合作</a></li>
+                    <li><a href="/item/370_0.html">SEO及联盟广告合作</a></li>
+                    <li><a href="/item/794_0.html">产品加盟</a></li>
+                    
+                </ul>
+            </div>
+        </li>
+        
+        
+        <li class="about-content">
+            <div class="about-label rencaizhaopin">
+                <div class="label-logo"><img src="//t1-res.focus-img.cn/about-front/fe-res/module/baike-about/img/about-logo-4.png?1501208549821" alt=""></div>
+                <a href="/rencaizhaopin"><h2 class="label-font">人才招聘</h2></a>
+            </div>
+            <div class="about-detail">
+                <ul>
+                    <li><a href="/item/300_0.html">产品技术类</a></li>
+                    <li><a href="/item/301_0.html">市场销售类</a></li>
+                    <li><a href="/item/302_0.html">编辑运营类</a></li>
+                    <li><a href="/item/303_0.html">校园招聘</a></li>
+                    <li><a href="/item/304_0.html">实习生</a></li>
+                    <li><a href="/item/780_0.html">职能类</a></li>
+                    
+                </ul>
+            </div>
+        </li>
+        
+        
+    </ul>
+    
+</div>
+
+        <!-- head modules end -->
+    </div>
+    <div id="bd" class="global-clearfix">
+        <div id="bd-left">
+            <!-- left modules -->
+            
+
+            <!-- left modules end -->
+        </div>
+        <div id="bd-right">
+            <!-- right modules -->
+            
+
+            <!-- right modules end -->
+        </div>
+    </div>
+    <!-- <div id="hfloat"> -->
+        <!-- float modules -->
+        <!-- 
+
+ -->
+        <!-- float modules end -->
+    <!-- </div> -->
+
+    <div id="cfloat">
+        <!-- float modules -->
+        
+
+        <!-- float modules end -->
+    </div>
+    <div id="ft">
+        <!-- foot modules -->
+        
+
+    
+
+
+<!-- 公共尾部开始 -->
+<head><link href="https://t1-res.focus-img.cn/seo-sv/header-footer/assets/footer/footer.ce2ad4622dc18cffca32.css" rel="stylesheet"></head>
+<div node-type="module" class="module-footer "  data-cityid=""
+         data-opca="" data-pname=""
+         data-source="" data-infoid="" data-mp="">
+
+            <div class="static-area">
+                                        
+            <div class="static-area-left ">
+                                    <div class="left-unit">
+                        <div class="left-unit-title title-1"><em class="left-unit-title-icon"></em><span>站点介绍</span></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://about.focus.cn/item/284_0.html"
+                                                           target="_blank">焦点简介</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://about.focus.cn/item/290_0.html"
+                                                           target="_blank">获奖荣誉</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://about.focus.cn/item/408_0.html"
+                                                           target="_blank">投诉流程</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://about.focus.cn/rencaizhaopin"
+                                                           target="_blank">人才招聘</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://house.focus.cn/seo/loupan/"
+                                                           target="_blank">站点地图</a></div>
+                                            </div>
+                                                    <div class="left-unit">
+                        <div class="left-unit-title title-2"><em class="left-unit-title-icon">&#xe98a;</em><span>产品服务</span></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="http://about.focus.cn/item/293_0.html"
+                                                           target="_blank">新房业务</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="http://about.focus.cn/item/295_0.html"
+                                                           target="_blank">家居业务</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://caijing.focus.cn/"
+                                                           target="_blank">焦点财经</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://wl.focus.cn/"
+                                                           target="_blank">狐椒文旅</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="http://about.focus.cn/item/774_0.html"
+                                                           target="_blank">公益基金</a></div>
+                                            </div>
+                
+                                    <div class="left-unit">
+                        <div class="left-unit-title title-4"><em class="left-unit-title-icon">&#xe990;</em><span>加盟合作</span></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://house.focus.cn/biz/index"
+                                                           target="_blank">新房加盟</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://saas.focus.cn/"
+                                                           target="_blank">产品加盟</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://about.focus.cn/item/363_0.html"
+                                                           target="_blank">商务合作</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://about.focus.cn/item/364_0.html"
+                                                           target="_blank">市场渠道合作</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://about.focus.cn/item/369_0.html"
+                                                           target="_blank">友情链接合作</a></div>
+                                            </div>
+                                                    <div class="left-unit">
+                        <div class="left-unit-title title-5"><em class="icon icon2018" style="margin-right: 10px;font-size: 18px;">&#xe8c9;</em><span>房产直播</span></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://zhibo.focus.cn/live-download"
+                                                           target="_blank">焦点好房</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://help.focus.cn/item/350_0.html"
+                                                           target="_blank">应用下载</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://help.focus.cn/item/358_0.html"
+                                                           target="_blank">注册登录</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://help.focus.cn/item/361_0.html"
+                                                           target="_blank">我是主播</a></div>
+                                                    <div class="left-unit-text"><a rel="nofollow" href="https://help.focus.cn/item/377_0.html"
+                                                           target="_blank">我是观众</a></div>
+                                            </div>
+                            </div>
+
+                                        
+            <div class="static-area-right ">
+                <div class="right-line-1">
+                    <a rel="nofollow" href=" //about.focus.cn/item/292_0.html "
+                       target="_blank"><span class="contact-icon">&#xe954;</span><span>联系我们</span></a>
+                </div>
+                <div class="right-line-2">
+                    <div class="weixin">
+                        <span class="weixin-icon">&#xe92e;</span>微信公众号
+                        <div class="weixin-qrcode">
+                            <div class="qrcode-img"><img src="https://t1.focus-img.cn/xf/xc/APdndEjkGBeimFQbp5CSpXaw26D2GFtX.jpg"></div>
+                            <div class="qrcode-text">
+                                <div>扫码关注<em>“搜狐焦点”</em></div>
+                                <div>公众号 获取最新楼盘资讯</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="weibo"><a rel="nofollow" href="http://weibo.com/jdfc"
+                                          target="_blank"><span class="weibo-icon">&#xe930;</span><span>官方微博</span></a></div>
+                </div>
+                <div class="right-line-3">
+                                            <p>电子邮箱：focuskf@vip.sohu.com</p>
+                        <p>爱家热线：400-156-0359    每日9:00至18:00点</p>
+                                    </div>
+            </div>
+
+        </div>
+    
+    <div class="h-area">
+                                        
+        
+        <div class="sohu-icons">
+                <div class="sohu-icons-text">Copyright <span class="fontArial">©</span> 2023 Sohu.com Inc. All Rights Reserved.
+                        搜狐公司 <span class="unline"><a href="https://about.focus.cn/item/801_0.html"
+                                        target="_blank">版权所有</a></span></div>
+                <div class="sohu-icons-text">
+                        <span class="ghs"><i></i><a rel="nofollow"
+                                        href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802025475"
+                                        target="_blank">京公网安备 11010802025475号</a></span>
+                        <em>|</em>
+                        <span><a rel="nofollow " href="http://h5.sohu.com/about/valueAddLicence.html"
+                                        target="_blank">增值电信业务经营许可证B2-20090148</a></span>
+                        <em>|</em>
+                        <span><a rel="nofollow" href="https://beian.miit.gov.cn/"
+                                        target="_blank">京ICP证030367号-5</a></span>
+                        <em>|</em>
+                        <span><a rel="nofollow" href="https://seo.focus.cn/static/license"
+                                        target="_blank">互联网新闻信息服务许可证</a></span>
+                        <em>|</em>
+                        <span><a target="_blank" href="https://www.sohu.com/upload/uiue20201225/network_license.pdf"
+                                        rel="nofollow">网络文化经营许可证</a></span>
+                        <em>|</em>
+                        <span><a target="_blank" href="http://login.focus.cn/convention/policy" rel="nofollow">焦点平台公约</a></span>
+
+                </div>
+                <div class="sohu-icons-detail">
+                        <a rel="nofollow" href="https://h5.sohu.com/about/beian.html" target="_blank"><span
+                                        class="icon-1">工商备案公示信息</span></a>
+                        <a rel="nofollow" href="http://www.12377.cn/" target="_blank"><span class="icon-2">中国互联网举报中心</span></a>
+                        <a rel="nofollow" href="http://www.cyberpolice.cn/wfjb/" target="_blank"><span
+                                        class="icon-3">网络110报警服务</span></a>
+                        <a rel="nofollow" href="http://www.bjjubao.org.cn/index.html " target="_blank"><span
+                                        class="icon-4">北京互联网举报中心</span></a>
+                        <a rel="nofollow" href="http://www.itrust.org.cn/" target="_blank"><span
+                                        class="icon-5">中国互联网协会</span></a>
+                        <a rel="nofollow" href="http://www.beijing.gov.cn/hudong/yonghu/static/whzf/xinxiang/"
+                                target="_blank"><span class="icon-6">北京文化市场举报热线</span></a>
+                </div>
+        </div>
+
+    </div>
+</div>
+<script type="text/javascript" src="https://t1-res.focus-img.cn/seo-sv/header-footer/assets/footer/footer.ce2ad4622dc18cffca32.js" defer></script>
+<!-- 公共尾部结束 -->
+
+        <!-- foot modules end -->
+    </div>
+</div>
+<!-- out of page modules -->
+
+
+<!-- out of page modules end -->
+
+
+<!-- export js -->
+
+
+
+
+
+    <script type="text/javascript" src="//t1-res.focus-img.cn/about-front/fe-res/build/global.min.js?1501208549821"></script>
+    <script type="text/javascript" src="//t1-res.focus-img.cn/about-front/fe-res/build/about.min.js?1501208549821"></script>
+
+
+<!-- pv 统计 -->
+<script type="text/javascript">var _focus_pv_id = "focus.shengtai.all";</script>
+<script type="text/javascript" src="//t-res.focus-img.cn/front-end/stat.js"></script>
+<script>
+    window.res_domain = "t1-res.focus-img.cn"
+</script>
+</body>
+</html>

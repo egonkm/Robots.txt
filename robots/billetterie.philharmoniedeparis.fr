@@ -1,0 +1,9 @@
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: *
+Disallow: /account/*
+Disallow: /checkout/*
+Disallow: /.well-known/assetlinks.json
+Disallow: /.well-known/traffic-advice
+Disallow: /hidden/restricted

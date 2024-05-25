@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /tmp
+Disallow: /modules
+Disallow: /lib/
+Disallow: /conf/
+Allow: /
+

@@ -1,0 +1,62 @@
+
+
+<html>
+<head>
+<title>Page not found</title>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<META NAME="ROBOTS" CONTENT="NONE">
+<LINK REL="STYLESHEET" TYPE="text/css" HREF="/shared/Winnipegca/css/05082004.css">
+</head>
+
+<body bgcolor="f0f0f0">
+
+<table width="65%" border="1" align="center" cellpadding="10" cellspacing="0" bordercolor="#000000" bgcolor="#FFFFFF">
+  <tr>
+    <td><p align="center"><img border="0" src="/shared/images/logo_dropshadow.jpg"><br>
+          <br>
+          <span class="bg100B">The City of Winnipeg</span></p>
+      <p class="k80">Sorry! The page you have requested does not exist on the <a href="http://winnipeg.ca"> City of Winnipeg Web
+        site</a>.&nbsp; Please visit our <a href="/interhom/">homepage</a> to find a link to the content you are
+          looking for.</p>
+      <p class="k80">Once you find the page you want, please update any old
+        bookmarks or favorites. If you continue to have difficulties locating the information you are interested
+        in, please contact our <a href="/shared/winnipegca/htmlsnippets/MailForm.asp?Recipient=webmanager" target="_blank">Webmaster</a>.</p>
+      <p align="center" class="bg100B">Ville de Winnipeg</p>
+      <p class="k80">Pardon! La page que vous avez demandée nexiste pas sur <a href="/francais/"> le site Web de la ville de
+        Winnipeg</a>. Veuillez essayer lune des mesures indiquées ci-après :</p>
+      <ul type="square">
+        <li class="k80">Consultez notre page daccueil à <a href="/francais/">Winnipeg.Ca</a> afin de trouver un lien 
+          pour ce que vous cherchez. </li>
+      </ul>
+      <p class="k80">Dès que vous aurez trouvé ce que vous cherchiez, veuillez mettre à jour vos 
+        anciens signets Internet ou vos pages favorites. Si vous continuez à avoir des problèmes à trouver les renseignements que vous 
+    cherchez, communiquez avec notre <a href="/shared/winnipegca/htmlsnippets/MailForm_fr.asp?Recipient=ISD-Translation" target="_blank">webmestre</a>.</p></td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<!-- 5/25/2024 1:09:29 PM -->
+
+<!--
+   - Unfortunately, Microsoft has added a clever new
+   - "feature" to Internet Explorer. If the text of
+   - an error's message is "too small", specifically
+   - less than 512 bytes, Internet Explorer returns
+   - its own error message. You can turn that off,
+   - but it's pretty tricky to find switch called
+   - "smart error messages". That means, of course,
+   - that short error messages are censored by default.
+   - IIS always returns error messages that are long
+   - enough to make Internet Explorer happy. The
+   - workaround is pretty simple: pad the error
+   - message with a big comment like this to push it
+   - over the five hundred and twelve bytes minimum.
+   - Of course, that's exactly what you're reading
+   - right now.
+   -->
+</body>
+<head>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+</head>
+</html><b> Redirection action: </b><br>

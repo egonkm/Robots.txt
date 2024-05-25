@@ -1,0 +1,10 @@
+User-agent: *
+SITEMAP: https://assets.globalgiving.org/sitemap/sitemap.xml.gz
+Disallow: /dy/v2/checkout/
+Disallow: /dy/cart/
+Disallow: /projects/*/pelinks*
+Disallow: /funds/*/pelinks*
+Disallow: /microprojects/projects/*/pelinks*
+Disallow: /dy/v2/pe/*
+Disallow: /si/
+Disallow: *-test

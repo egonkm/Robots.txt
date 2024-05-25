@@ -1,0 +1,17 @@
+# robots.txt
+
+User-agent: *
+Disallow: /page/
+Disallow: /catalog/products
+Disallow: /ProdStage
+Disallow: *?
+Disallow: */?
+Disallow: */*/?
+Disallow: */*/*/?
+Disallow: */search?
+Disallow: */search
+Disallow: */client/
+Disallow: */ecoclient
+Disallow: */shoppingcart
+
+Sitemap: https://www.ikea.co.id/sitemap.xml

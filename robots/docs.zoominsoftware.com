@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /bundle/*/pdf/*
+Disallow: /bundle$
+Disallow: /exports/pdf/status/*
+Disallow: /search?=*
+Disallow: /search?page=*
+Disallow: /admin/*
+Disallow: /api/*
+Sitemap: https://docs.zoominsoftware.com/sitemap.xml

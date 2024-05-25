@@ -1,0 +1,9 @@
+
+User-agent: *
+Disallow: /bin/
+Disallow: /config/
+Disallow: /install/
+Disallow: /umbraco/
+Disallow: /views/
+
+Sitemap: https://trial.uskinned.net/sitemap-xml/

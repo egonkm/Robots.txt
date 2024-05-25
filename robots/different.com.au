@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /maintenance/
+Disallow: /fable/
+Disallow: /thank-you/
+Disallow: /preview/
+Disallow: /*?*
+Sitemap: https://different.com.au/sitemap-index.xml
+Host: https://different.com.au

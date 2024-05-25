@@ -1,0 +1,19 @@
+<br />
+<b>Fatal error</b>:  Uncaught Predis\Connection\ConnectionException: Connection refused [tcp://127.0.0.1:6379] in /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/AbstractConnection.php:155
+Stack trace:
+#0 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/StreamConnection.php(128): Predis\Connection\AbstractConnection-&gt;onConnectionError('Connection refu...', 111)
+#1 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/StreamConnection.php(178): Predis\Connection\StreamConnection-&gt;createStreamSocket(Object(Predis\Connection\Parameters), 'tcp://127.0.0.1...', 4)
+#2 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/StreamConnection.php(100): Predis\Connection\StreamConnection-&gt;tcpStreamInitializer(Object(Predis\Connection\Parameters))
+#3 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/AbstractConnection.php(81): Predis\Connection\StreamConnection-&gt;createResource()
+#4 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/StreamConnection.php(258): Predis\Connection\AbstractConnection-&gt;connect()
+#5 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/AbstractConnection.php(180): Predis\Connection\StreamConnection-&gt;connect()
+#6 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/StreamConnection.php(288): Predis\Connection\AbstractConnection-&gt;getResource()
+#7 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/StreamConnection.php(394): Predis\Connection\StreamConnection-&gt;write('*2\r\n$6\r\nEXISTS\r...')
+#8 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/AbstractConnection.php(110): Predis\Connection\StreamConnection-&gt;writeRequest(Object(Predis\Command\KeyExists))
+#9 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Client.php(331): Predis\Connection\AbstractConnection-&gt;executeCommand(Object(Predis\Command\KeyExists))
+#10 /home/ilan365/public_html/te/cache/vendor/predis/predis/src/Client.php(314): Predis\Client-&gt;executeCommand(Object(Predis\Command\KeyExists))
+#11 /home/ilan365/public_html/te/cache/vendor/naroga/redis-cache/Redis.php(173): Predis\Client-&gt;__call('exists', Array)
+#12 /home/ilan365/public_html/public/cache.php(49): Naroga\RedisCache\Redis-&gt;has('web-5bce173a193...')
+#13 /home/ilan365/public_html/public/index.php(27): require('/home/ilan365/p...')
+#14 {main}
+  thrown in <b>/home/ilan365/public_html/te/cache/vendor/predis/predis/src/Connection/AbstractConnection.php</b> on line <b>155</b><br />

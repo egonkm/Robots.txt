@@ -1,0 +1,45 @@
+# Rules for all user-agents to disallow certain files and folders
+User-agent: *
+Disallow: /404*
+Disallow: /500*
+Disallow: /*?ReturnUrl=
+Disallow: /*?redirectBackTo=
+Disallow: /*?sitedirectory=
+Disallow: /*?hawktoppager=
+Disallow: /*?hawktracking=
+Disallow: /*&hawktracking=
+Disallow: /App_Data/
+Disallow: /App_Code/
+Disallow: /App_Readme/
+Disallow: /App_Start/
+Disallow: /bin/
+Disallow: /binary/
+Disallow: /Build/
+Disallow: /ClientBin/
+Disallow: /Custom/
+Disallow: /ftp/
+Disallow: /Frontend-Assembly/
+Disallow: /HawkSearch/
+Disallow: /Lib/
+Disallow: /Mvc/
+Disallow: /obj/
+Disallow: /packages/
+Disallow: /Properties/
+Disallow: /RedirectUploads/
+Disallow: /Resources/
+Disallow: /ResourcePackages/
+Disallow: /search/
+Disallow: /searchproxy/
+Disallow: /Sitefinity/
+Disallow: /Views/
+Disallow: /WidgetDesigners/
+
+# Rules for all user agents to allow certain files and folders
+User-agent: *
+Allow: /App_Data/Sitefinity/WebsiteTemplates/
+Allow: /ResourcePackages/Talon/assets/dist/css/
+Allow: /Frontend-Assembly/Telerik.Sitefinity.Frontend/assets/dist/css/
+
+# The sitemap file(s) for the site
+# Update the path to the file(s) and remove this comment when the site goes live
+Sitemap: http://sitefinity-startup.idevdesign.net/sitemap-index.xml

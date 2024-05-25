@@ -1,0 +1,7 @@
+user-agent: *
+
+Disallow: /dam/
+Disallow: /*obrigado*
+Disallow: /*?*
+
+Sitemap: https://www.prosegur.pt/sitemap.xml

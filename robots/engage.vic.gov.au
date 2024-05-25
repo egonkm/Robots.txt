@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /dash
+Disallow: /download
+Disallow: /request-info.json
+
+# https://megaindex.com/crawler
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: megaindex.com
+Disallow: /
+
+# https://amirkr.wixsite.com/experibot
+User-agent: Experibot
+Disallow: /
+
+# https://yandex.com
+User-agent: Yandex
+Disallow: /
+User-agent: YandexBot
+Disallow: /

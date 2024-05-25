@@ -1,0 +1,13 @@
+User-Agent: *
+
+Allow: /
+Allow: /resources
+
+Disallow: /all_your_base
+Disallow: /api/
+Disallow: /app/
+Disallow: /m/
+Disallow: /tags/
+Disallow: /style-guide
+
+Sitemap: https://breezy.hr/sitemap.xml

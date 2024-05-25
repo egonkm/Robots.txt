@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /files/
+
+Sitemap: https://www.jtbank.cz/sitemap.xml
+Sitemap: https://www.jtbank.cz/sitemap_root.xml
+Sitemap: https://www.jtbank.cz/sitemap_articles.xml
+Sitemap: https://www.jtbank.cz/sitemap_products.xml
+Sitemap: https://www.jtbank.cz/sitemap_products_funds.xml
+Sitemap: https://www.jtbank.cz/sitemap_products_bonds.xml

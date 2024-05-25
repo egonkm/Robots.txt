@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+ 
+Sitemap: https://apc.org/post-sitemap.xml
+Sitemap: https://apic.org/page-sitemap.xml

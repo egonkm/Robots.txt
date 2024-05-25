@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /password-reset
+Disallow: /settings
+Disallow: /feedback
+

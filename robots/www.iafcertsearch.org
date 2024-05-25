@@ -1,0 +1,8 @@
+User-agent: *
+#Disallow: /search/
+#Disallow: /accreditation-body/
+#Disallow: /certification-body/
+Disallow: /certified-entity/
+Disallow: /certification/
+
+Sitemap: https://www.iafcertsearch.org/sitemap.xml

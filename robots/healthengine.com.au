@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /practice-profile/claim/
+Disallow: /practice-profile/claim-with-sms/
+Disallow: /errors/         # Custom error messages
+Disallow: /custom/         # Custom Listing Creation
+Disallow: /templates/      # Sample templates for the sales team
+Disallow: /outbound-links/ # Outbound links
+Disallow: /new/map.php
+Disallow: /appointment/downloads/
+
+# booking urls
+Disallow: /book/
+
+# widget urls
+Disallow: /public/practice/appointments.php
+Disallow: /public/practitioner/appointments.php
+Disallow: /appointment/widget_index.php
+Disallow: /appointment/webplugin/
+
+# archives
+Disallow: /press/archive/
+
+# api
+Disallow: /api/
+Disallow: /json/
+
+# Text search URLs
+Disallow: /find/text/
+Disallow: /search/text/
+Disallow: /search/find/
+Disallow: /search/appointments/
+Disallow: /search/telehealth/
+Allow: /search/find/bulk-billing-gp/NSW/North-Sydney-2060/
+
+# video meeting URLs
+Disallow: /video/
+
+# broken auth
+Disallow: /api/auth/_log
+Disallow: /alpha/
+Disallow: /graphql/

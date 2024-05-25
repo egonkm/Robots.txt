@@ -1,0 +1,31 @@
+Sitemap: https://www1.wdr.de/nachrichten/uebersicht-nachrichten-100.news
+User-agent:  ICCrawler - iCjobs
+Disallow: /
+User-agent: *
+Disallow: /*-versenden.html$
+Disallow: /*-empfehlen.html$
+Disallow: /*.woff?
+Disallow: /*.svg?
+Disallow: /*.eot?
+Allow: /dossiers/*.html?
+Disallow: /*.html?
+Disallow: /*.jsp?
+Disallow: /*_redirectedFromOffline-true
+Disallow: /*~popup_index-POPUPvPATHvINDEXvPLACEHOLDER.html$
+Disallow: /app/newsapp/share/
+Disallow: /.well-known/assetlinks.json
+Disallow: /global/alexa-assets/
+Disallow: /global/sprachassistenten/
+Disallow: /dossiers/kandidatencheck/2020/video/nicht-teilgenommen/
+Disallow: /kandidatencheck/2021/wdr-bundestagswahl/video/nicht-teilgenommen/
+Disallow: /kandidatencheck/2021/ndr-bundestagswahl/video/nicht-teilgenommen/
+Disallow: /kandidatencheck/2021/ndr-landtagswahl/video/nicht-teilgenommen/
+Disallow: /kandidatencheck/2022/landtagswahl/video/nicht-teilgenommen/
+Disallow: /app/1live/
+Disallow: /app/wdr2/
+Disallow: /app/wdr3/
+Disallow: /app/wdr4/
+Disallow: /app/wdr5/
+Disallow: /app/cosmo/
+Disallow: /mediathek/audio/wdr/ard-radiofeature/ard-audiothek/
+

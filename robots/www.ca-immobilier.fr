@@ -1,0 +1,45 @@
+User-agent: *
+Allow: /wp-content/uploads/
+Allow: /wp-admin/admin-ajax.php
+# Fichiers & Scripts
+Allow: /*.css$
+Allow: /*.css?
+Allow: /*.js$
+Allow: /*.js?
+Allow: /*.gif
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.svg
+Allow: /*.webp
+Allow: /*.mp4
+# Dossiers Sensibles
+Disallow:/*recherche?
+Disallow: */trackback
+Disallow: /*/feed
+Disallow: /*/comments
+Disallow: /cgi-bin
+Disallow: /*.php$
+Disallow: /*.inc$
+Disallow: /*.gz
+Disallow: /*.cgi
+Disallow: /*?
+Disallow: /search/
+Disallow: /author/
+Disallow: /wp-json/wp/
+Disallow: /wp-json/oembed/
+Disallow: /assets/media-infos/*
+Allow: /assets/media-infos/*/original
+Disallow:/assets/media-infos/40440/original
+Disallow:/assets/media-infos/40440/original
+Disallow:/assets/media-infos/47958/original
+Disallow:/assets/media-infos/47958/original
+Disallow: /*pdf/*
+Disallow: *?displayMode=map
+Disallow: /*recherche?*
+Disallow: /flash-message/success*
+Disallow: /load-auth-box*
+Disallow: /favoris/charger*
+
+# Sitemap
+Sitemap : http://www.ca-immobilier.fr/sitemap.xml

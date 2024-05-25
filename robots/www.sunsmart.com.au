@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /AcoraCMS/
+Disallow: /App_Assets/
+Disallow: /App_Resources/
+Disallow: /images/
+Disallow: /search/
+Disallow: /*.jpg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.js$
+Disallow: /*.css$
+
+Sitemap: https://www.sunsmart.com.au/sitemap.xml

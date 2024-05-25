@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /feed/
+Sitemap: https://news.harvard.edu/gazette/sitemap.xml
+Sitemap: https://news.harvard.edu/gazette/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /*
+Allow: Sitemap: https://www.webonet.co.uk/sitemap.xml

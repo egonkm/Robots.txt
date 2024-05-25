@@ -1,0 +1,8 @@
+# Tutti gli spider aderenti al Robots Exclusion Standard 
+User-agent: *
+Disallow: /application/xmanager/projects/camera/file/Bollettini_Organi_Collegiali/
+Disallow: /FondazioneSerono/browse/1?active_slide*
+Disallow: /1?active_slide*
+# Login serono
+Disallow: /FondazioneSerono/browse/192
+

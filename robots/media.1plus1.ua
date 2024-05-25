@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.css
+Allow: /*.png
+Allow: /*.js
+Allow: /*.webp
+Allow: /image/cache/
+Disallow: *.php
+Disallow: /search
+Disallow: /api

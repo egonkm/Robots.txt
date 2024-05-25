@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /ElibMain/home.do
+Disallow: /ElibMain/

@@ -1,0 +1,12 @@
+    # AMA DataSet Limited - Strata CMS - Live
+    # www.ama.uk.com
+    #
+    User-agent: *
+    Disallow: /pdf/MRS_RESEARCH%20LIVE%20REPORT_2018_FINAL_PDF.pdf    
+    Disallow: /resources/intelligence-capital-2020
+    Disallow: /IC2020
+    Disallow: /resources/shared-resources
+    Disallow: /standards/inclusionpledge-signup
+    Disallow: /standards/netzeropledge-signup
+    Disallow: /resources/edi-questionnaire
+		Disallow: /resources/edi-questionnaire-thank-you

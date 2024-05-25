@@ -1,0 +1,7 @@
+# This file was created by puppet but local changes will be preserved
+User-agent: *
+Allow: /w/api.php?action=mobileview&
+Allow: /w/load.php?
+Disallow: /w/
+Disallow: /api/
+Disallow: /wiki/Special:

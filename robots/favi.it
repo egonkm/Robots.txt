@@ -1,0 +1,27 @@
+Sitemap: https://favi.it/sitemap/sitemap-index.xml
+
+User-agent: *
+Disallow: /prodotti/al-negozio/
+Disallow: /prodotti*consegnaGratuita=
+Disallow: /prodotti*prezzoDa=
+Disallow: /prodotti*prezzoA=
+Disallow: /prodotti*dimensioni[*]=
+Disallow: /prodotti*filtri=
+Disallow: /prodotti*color=
+Disallow: /prodotti*feature1=
+Disallow: /prodotti*feature2=
+Disallow: /prodotti*feature3=
+Disallow: /prodotti*feature4=
+Disallow: /prodotti*feature5=
+Disallow: /prodotti*feature6=
+Disallow: /prodotti*feature7=
+Disallow: /prodotti*feature8=
+Disallow: /prodotti*feature9=
+Disallow: /prodotti*feature10=
+Disallow: /prodotti*luxury=
+Disallow: /prodotti*priceFrom=
+Disallow: /prodotti*priceTo=
+Disallow: /prodotti*sort=
+Disallow: /prodotti*style=
+Disallow: /aggiungi-recensione/*
+Disallow: /profili-utente/

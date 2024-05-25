@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /dijital-tabela.html
+Disallow: /feed.html
+Disallow: /feed-2.html

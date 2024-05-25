@@ -1,0 +1,4 @@
+# Tell bots that git repos are not for them.
+
+User-agent: *
+Disallow: /

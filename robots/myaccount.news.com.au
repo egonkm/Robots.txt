@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /sites/dailytelegraph/subscribe.html
+Allow: /sites/heraldsun/subscribe.html
+Allow: /sites/adelaidenow/subscribe.html
+Allow: /sites/couriermail/subscribe.html
+Allow: /sites/theaustralian/subscribe.html
+Allow: /sites/cairnspost/subscribe.html
+Allow: /sites/townsvillebulletin/subscribe.html
+Allow: /sites/ntnews/subscribe.html
+Allow: /sites/geelongadvertiser/subscribe.html
+Allow: /sites/themercury/subscribe.html
+Allow: /sites/goldcoastbulletin/subscribe.html
+Allow: /sites/weeklytimesnow/subscribe.html
+Disallow: /

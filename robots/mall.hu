@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: /user/
+Disallow: /ugyfel/
+Disallow: /kosar/
+Disallow: /preview/
+Disallow: /id/
+Disallow: /api/
+Disallow: /rendeleskovetes
+Disallow: /ertekelesek
+Disallow: /confirmation
+Disallow: /kapcsolat?ref=runId*
+
+Sitemap: https://www.mall.hu/sitemap

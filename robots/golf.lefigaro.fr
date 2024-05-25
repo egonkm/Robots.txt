@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /async/
+Disallow: /*?noheader*
+Disallow: /*?*&noheader*
+Disallow: /*?sfdebug*
+Disallow: /*?*&sfdebug*
+
+Sitemap: https://sitemaps.lefigaro.fr/golf.lefigaro.fr/articles.xml
+Sitemap: https://sitemaps.lefigaro.fr/golf.lefigaro.fr/sections.xml
+Sitemap: https://sitemaps.lefigaro.fr/golf.lefigaro.fr/topics.xml
+Sitemap: https://golf.lefigaro.fr/sitemap_news.xml
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /

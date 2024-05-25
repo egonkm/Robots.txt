@@ -1,0 +1,10 @@
+ï»¿User-agent: *
+Disallow: /*.ashx
+Disallow: /*.asmx
+Disallow: /*.swf
+Disallow: /*.xml
+Disallow: /*.js
+Disallow: /*.axd
+
+User-agent: Googlebot-Image
+Disallow: /

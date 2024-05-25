@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: https://cd-adecco-ca.uat.cms.adecco.com/
+Disallow: https://cd-adecco-ca.uat.cms.adecco.com*
+Disallow: https://cd-adecco-ca.uat.cms.adecco.com/*
+Disallow: /sitecore/
+Disallow: /sitecore_files/
+Disallow: /sitecore modules/
+Disallow: /App_Browsers/
+Disallow: /App_config/
+Disallow: /App_Data/
+Disallow: /temp/
+Disallow: /upload/
+Disallow: /xsl/
+Disallow: (.*)undefined
+Disallow: /*undefined$
+Disallow: /*.aspx$
+Disallow: (.*)/*.aspx(.*)
+Disallow: /go/jobref/*
+
+Noindex: (.*)undefined
+Noindex: /*undefined$
+Noindex: (.*)/*.aspx(.*)
+Noindex: /*.aspx$
+Noindex: */go/jobref/*
+
+Sitemap: https://www.adecco.ca/~/media/adeccogroup/brands/adecco-global-2016/canada/media/sitemap-index.xml

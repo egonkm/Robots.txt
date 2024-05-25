@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /search/
+
+Sitemap: http://arts.unimelb.edu.au/sitemap.xml

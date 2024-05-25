@@ -1,0 +1,10 @@
+Sitemap: https://ncbiinsights.ncbi.nlm.nih.gov/sitemap.xml
+Sitemap: https://ncbiinsights.ncbi.nlm.nih.gov/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://ncbiinsights.ncbi.nlm.nih.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

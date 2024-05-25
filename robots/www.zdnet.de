@@ -1,0 +1,15 @@
+# page
+User-agent: *
+Disallow: /?s=
+Disallow: /*comments/
+Disallow: /?pid=
+Disallow: /?print=
+Disallow: /?PageSpeed=
+Disallow: /?utm=
+Disallow: /author/
+
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+Sitemap: https://www.zdnet.de/sitemapindex.xml

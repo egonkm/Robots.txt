@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://thepartneringinitiative.org/video-sitemap.xml
+Sitemap: https://thepartneringinitiative.org/sitemap.xml
+Sitemap: https://thepartneringinitiative.org/sitemap.rss

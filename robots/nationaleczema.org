@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://nationaleczema.org/sitemap_index.xml
+Disallow: /wp-content/uploads/2021/10/understanding-eczema-patient-caregiver-sdm.pdf

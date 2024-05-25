@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /en/5.2-docstest/ # Hidden version
+
+Disallow: /en/5.0.4-docstest/ # Hidden version
+
+Sitemap: https://bugzilla.readthedocs.io/sitemap.xml

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /languages/
+Disallow: /libraries/
+Disallow: /cache/
+Disallow: /renderer/
+Disallow: /tmp/
+Disallow: /logs/
+Disallow: /offline/
+Disallow: /_offline/

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: */account
+Disallow: *lang=*
+Disallow: */search/*
+Disallow: */search?q=*
+Disallow: */live-tv/*/details/*
+Allow: */account/sign-in 
+Allow: */account/sign-up
+Allow: */account/forgot-password

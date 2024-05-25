@@ -1,0 +1,79 @@
+# This virtual robots.txt file was created by the Virtual Robots.txt WordPress plugin: https://www.wordpress.org/plugins/pc-robotstxt/
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-includes/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+Disallow: /trackback/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+
+User-Agent: *
+Disallow: /en/*/	
+Disallow: /*?utm_source
+Disallow: /?d=
+Disallow: /page/*/
+Disallow: /softwaregroup/plugins/
+Disallow: /*.html #Adoid Filetyp
+Disallow: /*? #Adoid Filetyp
+Disallow: /wp-admin/ #block access to admin section
+Disallow: /wp-login.php #block access to admin section
+Disallow: *?p=* #block access to pages for which permalinks fails
+Disallow: *&p=* #block access to pages for which permalinks fails
+Disallow: /404-error/ #block access to 404 page
+Allow: /wp-admin/admin-ajax.php
+Allow: /softwaregroup/uploads/
+Allow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /cgi-bin
+Disallow: /wp-
+Disallow: /?s=
+Disallow: */&s=      
+Disallow: /feed     
+Disallow: /search         
+Disallow: /author/        
+Disallow: *?attachment_id=
+Disallow: */rss
+Disallow: /private/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /softwaregroup/themes/
+Disallow: */embed
+Disallow: */?term=
+Disallow: */?PageSpeed=noscript
+Disallow: */?post_type=podcast
+Disallow: */?page_id=
+Allow: /softwaregroup/plugins/my-plugin/js/
+Disallow: */?p=
+Disallow: */?ref=
+Disallow: */?fpr=
+Disallow: */?utm_source=
+Disallow: *//admin-ajax.php
+Disallow: /*ref=
+Disallow: /*term=
+Disallow: /*?utm_
+Disallow: /*fpr=
+Disallow: /*/page
+Disallow: /*PageSpeed=
+Disallow: /*ver=
+Disallow: /*trk=
+Disallow: /*utm_
+Disallow: *blog/feed/
+Disallow: *comments/feed
+Allow: /*/*.js           
+Allow: /*/*.css           
+Allow: /wp-*.png          
+Allow: /wp-*.jpg          
+Allow: /wp-*.jpeg        
+Allow: /wp-*.gif           
+Allow: /wp-*.svg          
+Allow: /wp-*.pdf
+
+User-agent: AhrefsSiteAudit
+allow: /
+
+User-agent: XoviBot
+Allow: /

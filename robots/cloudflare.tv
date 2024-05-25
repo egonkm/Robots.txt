@@ -1,0 +1,5 @@
+User-Agent: *
+Sitemap: https://cloudflare.tv/sitemap.xml
+Disallow: /cdn-cgi
+Disallow: /cdn-fpw
+Disallow: /hls

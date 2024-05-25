@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /calendar-stub/action~posterboard/
+Disallow: /calendar-stub/action~agenda/
+Disallow: /calendar-stub/action~oneday/
+Disallow: /calendar-stub/action~month/
+Disallow: /calendar-stub/action~week/
+Disallow: /calendar-stub/action~stream/
+Disallow: /calendar-stub/action~undefined/
+Disallow: /calendar-stub/action~http:/
+Disallow: /calendar-stub/action~default/
+Disallow: /calendar-stub/action~poster/
+Disallow: /calendar-stub/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# parameters
+Disallow: /*?id=*
+Disallow: /*cHash
+Disallow: /*tx_form_formframework
+
+# sitemap
+Sitemap: https://www.welthungerhilfe.de/sitemap.xml
+Sitemap: https://www.welthungerhilfe.de/news.xml

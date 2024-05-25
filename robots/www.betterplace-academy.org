@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /api
+Disallow: /api/*
+Disallow: /pages/footer
+Disallow: /pages/topbar
+Disallow: /link/*
+Disallow: /signin/*
+Disallow: /cdn-cgi/
+Disallow: /payment
+Disallow: /courses
+Disallow: /thankyou
+Disallow: /newsletter-bestaetigung
+Sitemap: https://www.betterplace-academy.org/sitemap.xml

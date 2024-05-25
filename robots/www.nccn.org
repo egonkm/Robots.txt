@@ -1,0 +1,60 @@
+Sitemap: http://www.nccn.org/sitemap/sitemap-index.xml
+
+User-agent: *
+Disallow: /drug_compendium_admin/
+Disallow: /guidelines/guidelines-process/transparency-process-and-recommendations
+Disallow: /guidelines/guidelines-process/transparency-process-and-recommendations/GetFileFromFileManagerGuid
+Disallow: /guidelines/submissions-request-to-the-guidelines-panels/submission-request-history/GetFileFromFileManagerGuid
+Disallow: /guidelines/submissions-request-to-the-guidelines-panels/submission-request-history/getfilefromfilemanagerguid
+Disallow: /professionals/biomarkers/content/
+Allow: /professionals/drug_compendium/content/
+Disallow: /professionals/drug_compendium/
+Disallow: /professionals/drug_compendium/content/attendance.asp
+Disallow: /professionals/drug_compendium/content/pdf/
+Disallow: /professionals/drug_compendium/MatrixGenerator/HTML/
+Disallow: /professionals/drug_compendium/PrintReport.aspx
+Disallow: /professionals/drug_compendium/PrintReport_Bottom.aspx
+Disallow: /professionals/drug_compendium/PrintReport_Middle.aspx
+Disallow: /professionals/drug_compendium/PrintReport_Top.aspx
+Disallow: /professionals/drug_compendium/PrintReportNonIndicator.aspx
+Disallow: /professionals/drug_compendium/PrintReportNonIndicator_bottom.aspx
+Disallow: /professionals/drug_compendium/PrintReportNonIndicator_middle.aspx
+Disallow: /professionals/drug_compendium/PrintReportNonIndicator_Top.aspx
+Disallow: /professionals/drug_compendium/content/tables/
+Disallow: /professionals/meetings/hematological/1stannual/images/
+Disallow: /professionals/physician_gls/bin/
+Disallow: /professionals/physician_gls/pdf/
+Disallow: /members/nccn_business_update.pdf
+Disallow: /morganlewis/
+Disallow: /pdfhandler/
+Disallow: /Registration/
+Disallow: /subscriptions/
+Disallow: /TemplateManagement/
+Disallow: /TemplateManagement/Views/Published/GetTemplateHTML.aspx
+
+User-agent: SearchmetricsBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: AhrefsBot/5.0
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: EasouSpider
+Disallow: /
+
+User-agent: semantic-visions.com
+Disallow: /

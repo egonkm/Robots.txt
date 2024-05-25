@@ -1,0 +1,50 @@
+
+
+# For all robots
+User-agent: *
+
+# Block access to specific groups of pages
+Disallow: /rest/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /my-account/
+
+# Block indexing of specific product pages
+Noindex: /de/tickets-and-passes
+Noindex: /en/tickets-and-passes
+Noindex: /de/visitor-voucher
+Noindex: /en/visitor-voucher
+Noindex: /de/service-ticket
+Noindex: /en/service-ticket
+Noindex: /de/BT5100
+Noindex: /en/BT5100
+Noindex: /de/BT5101
+Noindex: /en/BT5101
+Noindex: /de/BT5102
+Noindex: /en/BT5102
+Noindex: /de/BT5103
+Noindex: /en/BT5103
+Noindex: /de/BT5105
+Noindex: /en/BT5105
+Noindex: /de/BT5111
+Noindex: /en/BT5111
+Noindex: /de/BT5112
+Noindex: /en/BT5112
+Noindex: /de/BT5113
+Noindex: /en/BT5113
+Noindex: /de/BT5114
+Noindex: /en/BT5114
+Noindex: /de/BT5115
+Noindex: /en/BT5115
+Noindex: /de/BT5116
+Noindex: /en/BT5116
+Noindex: /de/BT5119
+Noindex: /en/BT5119
+Noindex: /de/BT5514
+Noindex: /en/BT5514
+
+Request-rate: 1/10              
+Crawl-delay: 10           
+Visit-time: 0400-0845
+
+Sitemap: https://oos.euroshop.de/de/sitemap.xml

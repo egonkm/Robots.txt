@@ -1,0 +1,32 @@
+#Allow access to All Bots
+User-agent: *
+
+#Disallow access to these specific pages
+Disallow: /aalaus/aalaus.nsf/*
+Disallow: /preview/*
+Disallow: /s/AFG_Free_Offer
+Disallow: /s/allianz-nswctp-itc
+Disallow: /s/car-insurance-conditions
+Disallow: /s/life-insurance-conditions
+Disallow: /s/onlineclaims
+Disallow: /allianz-finance/*
+Disallow: /s/home-ab-test
+Disallow: /fuel/*
+Disallow: /s/terms-conditions-travel-*
+
+#Disallow other sites
+Disallow: /internet/clubmarine.nsf/*
+Disallow: /internet/clubnz.nsf/*
+Disallow: /internet/onlineclaims.nsf/*
+Disallow: /internet/onlineclaims.nsf/*
+Disallow: /wc/cn.nsf/*
+
+#Disallow access to ClickTale helper page
+Disallow: /ctFrame.htm
+
+#Disallow system pages
+Disallow: /system/*
+
+#Sitemap
+Sitemap: https://www.allianz.com.au/sitemap.xml
+Sitemap: https://www.allianz.com.au/cdn/aalaus.nsf/sitemap.xml

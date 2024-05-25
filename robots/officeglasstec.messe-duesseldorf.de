@@ -1,0 +1,62 @@
+# static robots.txt...
+User-agent: *
+Disallow:  /kati-cgi/kati/
+
+
+
+# Sitemaps for https://www.glasstec.de (lang=1, https=1)
+
+# oid=101, Exhibitors
+Sitemap: https://www.glasstec.de/it_sitemap_101_02_01.xml
+
+# oid=11328, [hidden]
+Sitemap: https://www.glasstec.de/it_sitemap_11328_01_01.xml
+
+# oid=11350, Media & News
+Sitemap: https://www.glasstec.de/it_sitemap_11350_02_01.xml
+
+# oid=12530, [hidden]
+Sitemap: https://www.glasstec.de/it_sitemap_12530_01_01.xml
+
+# oid=12634, [hidden]
+Sitemap: https://www.glasstec.de/it_sitemap_12634_02_01.xml
+
+# oid=17006, Contact & Arrival
+Sitemap: https://www.glasstec.de/it_sitemap_17006_01_01.xml
+
+# oid=21098, [hidden]
+Sitemap: https://www.glasstec.de/it_sitemap_21098_01_01.xml
+
+# oid=23515, Review
+Sitemap: https://www.glasstec.de/it_sitemap_23515_02_01.xml
+
+# oid=24647, [hidden]
+Sitemap: https://www.glasstec.de/it_sitemap_24647_02_01.xml
+
+# oid=28597, Program
+Sitemap: https://www.glasstec.de/it_sitemap_28597_01_01.xml
+
+# oid=4914, Home
+Sitemap: https://www.glasstec.de/it_sitemap_4914_01_01.xml
+
+# oid=4948, [hidden]
+Sitemap: https://www.glasstec.de/it_sitemap_4948_01_01.xml
+
+# oid=6183, Visitors
+Sitemap: https://www.glasstec.de/it_sitemap_6183_02_01.xml
+
+# oid=6203, Exhibitors & Products
+Sitemap: https://www.glasstec.de/it_sitemap_6203_01_01.xml
+
+
+
+
+# Sitemaps for https://www.glasstec.de (lang=1, https=1)
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+
+User-agent: *
+Disallow: /vis/v1/de/search/
+
+Sitemap: https://www.glasstec.de/vis_sitemap_https_www.glasstec.de_de.xml

@@ -1,0 +1,38 @@
+User-agent: *
+
+Disallow: /basket/
+Disallow: /checkout/
+Disallow: /customer/
+Disallow: */dynaTraceMonitor
+Disallow: *jsessionid
+Disallow: *tab=reviews
+Disallow: *_DARGS
+Disallow: *_requestid
+Disallow: *bvstate
+Disallow: *skuId
+Disallow: /basket
+Disallow: */reviews
+Disallow: /menu/
+Disallow: /clearance/*_/N-
+Disallow: /search?*
+Disallow: /assets/js/healthcheck.js 
+Disallow: /rb_bf70766xfx 
+Disallow: /*/_/N-*
+Disallow: /verified-sellers/
+Allow: /painting-decorating/*?*Brand=*
+Allow: /painting-decorating/*?*Colour+group=*
+Allow: /painting-decorating/*?*Finish=*
+Allow: /painting-decorating/*?*Navigation+type=*
+Allow: /painting-decorating/*?*Location=*
+
+User-agent: AdsBot-Google-Mobile
+
+Allow: /*?utm_*
+Allow: /*&utm_*
+
+User-agent: AdsBot-Google
+
+Allow: /*?utm_*
+Allow: /*&utm_*
+
+Sitemap: https://www.diy.ie/static/sitemap.xml

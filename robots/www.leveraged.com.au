@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /edit/CMS/
+Disallow: /Util/
+Disallow: /search
+Disallow: /Recycle-Bin/
+Disallow: /recycle-bin/
+Disallow: /fix-and-prepay-new
+
+Sitemap: https://www.leveraged.com.au/sitemap.xml

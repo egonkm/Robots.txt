@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: http://eprints.uanl.mx/sitemap.xml
+Disallow: /cgi/
+Disallow: /cgi/users/home/
+Disallow: /cgi/users/

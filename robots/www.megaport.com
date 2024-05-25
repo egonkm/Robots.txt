@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /anim/
+Disallow: /css/
+Disallow: /download-confirmed/
+Disallow: /elements/
+Disallow: /images/
+Disallow: /legal/
+Disallow: /netlify-form/
+Disallow: /sections/
+Disallow: /thank-you/
+Sitemap: https://www.megaport.com/sitemap.xml

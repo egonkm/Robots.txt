@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /faq
+Allow: /signup
+Allow: /login
+Disallow: /forgot
+Disallow: /dashboard/*
+Disallow: /_nuxt/*
+Disallow: /account-settings
+Disallow: /auth/callback

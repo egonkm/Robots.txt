@@ -1,0 +1,13 @@
+User-agent: Googlebot
+Disallow: /jirei-navi/
+Disallow: /indexprint
+Disallow: /detailprint
+Disallow: /preview
+
+User-agent: *
+Disallow: /jirei-navi/
+Disallow: /indexprint
+Disallow: /detailprint
+Disallow: /preview
+
+Sitemap: https://public-service.registries.go.jp/sitemap.xml

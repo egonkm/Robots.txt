@@ -1,0 +1,4 @@
+# Allow all robots access to see meta tags.
+# Disallowing a URL via robots.txt will not prevent it from being seen by searchers in search results pages.
+User-agent: *
+Disallow:

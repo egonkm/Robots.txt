@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /pdf.php
+Disallow: /*.pdf$
+Disallow: /fund/printComparePdf
+Disallow: /fund/compareWidget
+Disallow: /fonds/sparplan-rechner/fuer
+Sitemap: https://www.private-banking-magazin.de/sitemap.xml

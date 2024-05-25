@@ -1,0 +1,7 @@
+user-agent: *
+allow: *
+
+sitemap: https://www.podcasty.seznam.cz/sitemaps/sitemap-main.xml
+sitemap: https://www.podcasty.seznam.cz/sitemaps/sitemap-channels.xml
+sitemap: https://www.podcasty.seznam.cz/sitemaps/sitemap-categories.xml
+sitemap: https://www.podcasty.seznam.cz/sitemaps/sitemap-episodes.xml

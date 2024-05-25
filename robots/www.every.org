@@ -1,0 +1,33 @@
+Sitemap: https://www.every.org/sitemaps/sitemap-index.xml
+
+User-agent: *
+Allow: /
+
+Allow: /search?*
+
+Disallow: /*?
+Disallow: /*/admin
+Disallow: /*/configure-button
+Disallow: /*/edit
+Disallow: /*/button
+Disallow: /*/followers
+Disallow: /*/following
+Disallow: /signup
+Disallow: /login
+
+Disallow: /join/
+Disallow: /reset-password
+Disallow: /my-giving
+Disallow: /new-nonprofit
+Disallow: /invite
+Disallow: /stripe
+Disallow: /api/
+Disallow: /auth/
+Disallow: /emailPreviews/
+Disallow: /emailpreviews/
+Disallow: /webhooks/
+Disallow: /internalIo/
+Disallow: /internalio/
+
+User-agent: Twitterbot
+Allow: /

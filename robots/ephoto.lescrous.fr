@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /.well-known/
+Allow: /link/
+Allow: /publication/
+Allow: /images/publication/
+Allow: /pubbook/
+Allow: /pubpreview/
+Allow: /pubscreenshot/
+Allow: /pubmovie/
+Allow: /pubvideo/
+Allow: /pubpano/
+Disallow: /

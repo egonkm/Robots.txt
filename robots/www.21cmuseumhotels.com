@@ -1,0 +1,26 @@
+User-Agent: *
+Disallow: /wp-content/uploads/
+Disallow: /wp-admin/
+Disallow: /readme.html
+
+Sitemap: http://www.21cmuseumhotels.com/sitemap_index.xml
+Sitemap: https://www.21cmuseumhotels.com/sitemap_index.xml
+Sitemap: https://www.21cmuseumhotels.com/louisville/sitemap_index.xml
+Sitemap: https://www.21cmuseumhotels.com/cincinnati/sitemap_index.xml
+Sitemap: https://www.21cmuseumhotels.com/bentonville/sitemap_index.xml
+Sitemap: https://proofonmain.com/sitemap_index.xml
+Sitemap: https://metropoleonwalnut.com/sitemap_index.xml
+Sitemap: https://thehivebentonville.com/sitemap_index.xml
+Sitemap: https://www.21cmuseumhotels.com/durham/sitemap_index.xml
+Sitemap: https://www.21cmuseumhotels.com/lexington/sitemap_index.xml
+Sitemap: https://countinghousenc.com/sitemap_index.xml
+Sitemap: https://garageonmarket.com/sitemap_index.xml
+Sitemap: https://lockboxlex.com/sitemap_index.xml
+Sitemap: https://www.21cmuseumhotels.com/kansascity/sitemap_index.xml
+Sitemap: https://vaultat21c.com/sitemap_index.xml
+Sitemap: https://thesavoykc.com/sitemap_index.xml
+Sitemap: https://www.21cmuseumhotels.com/chicago/sitemap_index.xml
+Sitemap: https://www.21cmuseumhotels.com/stlouis/sitemap_index.xml
+Sitemap: https://goodpresscafe.com/sitemap_index.xml
+Sitemap: https://idolwolfstl.com/sitemap_index.xml
+Sitemap: https://locuststreetathletic.com/sitemap_index.xml

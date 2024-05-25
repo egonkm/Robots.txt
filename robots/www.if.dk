@@ -1,0 +1,7 @@
+User-agent: *
+User-agent: AdsBot-Google
+Sitemap: https://www.if.dk/sitemaps/dk-sitemap.xml
+
+Disallow: /autocompleteproxy/autocompleteproxy.aspx
+Disallow: /ScriptResource.axd  
+Disallow: /WebResource.axd

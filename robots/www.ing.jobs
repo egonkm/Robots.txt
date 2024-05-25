@@ -1,0 +1,72 @@
+User-agent: *
+
+Disallow: /
+
+Allow: /index.html
+Allow: /upload_mm
+Allow: /upload
+Allow: /static/design
+Allow: /static/ingdotcombaseformpresentation
+Allow: /static/ingdotcombasepresentation/
+
+
+Allow: /Belgie
+Allow: /belgie
+Allow: /Belgique
+Allow: /belgique
+Allow: /Belgium
+Allow: /belgium
+
+Allow: /Nederland
+Allow: /nederland
+Allow: /Netherlands
+Allow: /netherlands
+
+Allow: /Luxembourg
+Allow: /luxembourg
+Allow: /Luxembourg-en
+Allow: /luxembourg-en
+
+Allow: /Romania
+allow: /romania
+Allow: /Romania-EN
+Allow: /romania-EN
+
+Allow: /Global
+Allow: /global
+
+Allow: /France
+Allow: /france
+
+Allow: /Italy
+Allow: /italy
+
+Allow: /Slovakia
+Allow: /slovakia
+
+Allow: /Deutschland
+Allow: /deutschland
+Allow: /Germany
+Allow: /germany
+
+Allow: /Turkiye
+Allow: /turkiye
+Allow: /Turkey
+Allow: /turkey
+
+Allow: /Polska
+Allow: /polska
+
+Allow: /Australia
+Allow: /australia
+
+Allow: /Philippines
+Allow: /philippines
+
+Allow: /Espana
+Allow: /espana
+
+Allow: /Hubspoland-en
+Allow: /hubspoland-en
+Allow: /Hubspoland-pl
+Allow: /hubspoland-pl

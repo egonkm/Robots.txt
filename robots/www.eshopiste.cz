@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.eshopiste.cz/wp-sitemap.xml
+
+Disallow: /?p=
+Disallow: /wp-includes/
+Disallow: /wp-login.php
+Disallow: /wp-register.php

@@ -1,0 +1,4 @@
+User-Agent: *
+Sitemap: http://web.questant.jp/sitemap.xml
+
+Disallow: /error.html

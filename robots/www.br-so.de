@@ -1,0 +1,14 @@
+Disallow: /wp-content/uploads/sites/2/wpforms/
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.brso.de/sitemap_index.xml
+Sitemap: https://www.br-kk.de/sitemap_index.xml
+Sitemap: https://stage.rundfunkorchester.de/sitemap_index.xml
+Sitemap: https://www.br-chor.de/sitemap_index.xml
+Sitemap: https://www.br-musica-viva.de/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

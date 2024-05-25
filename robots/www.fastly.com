@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /ja/*
+Disallow: /labs/*
+Disallow: /production-2019/*
+Disallow: /cassets/*
+Disallow: /resources?*
+Disallow: /altitude/2020
+Disallow: /learning/fastly-research-methodology-glossary
+Sitemap: https://www.fastly.com/sitemap/sitemap-index.xml
+Host: https://www.fastly.com

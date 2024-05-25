@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /_error/
+Disallow: /error/
+Disallow: /de/error/
+Disallow: /search/
+Disallow: /de/search/
+Disallow: /size/
+Disallow: /de/size/
+Disallow: /recommend/
+Disallow: /de/recommend/

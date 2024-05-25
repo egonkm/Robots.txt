@@ -1,0 +1,7 @@
+# allows all user agents to access the entire site
+# this is default behavior without a robots.txt file
+User-agent: * 
+Disallow:
+
+# provides agents with the location of the sitemap.xml file
+Sitemap: https://treasurer.mo.gov/sitemap.xml

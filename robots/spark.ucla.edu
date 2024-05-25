@@ -1,0 +1,7 @@
+
+User-agent: *
+Disallow: /admin
+Disallow: /account
+
+# Throttle the crawl speed of the Google Search Appliance and other bots
+Crawl-delay: 30

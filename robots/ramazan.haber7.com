@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /?ref=
+Disallow: /*?ref=
+Disallow: /advertorial/
+Disallow: /print/
+Disallow: /*arama?q=*
+Disallow: /yorum/oku/*
+Disallow: /*print.php?id=

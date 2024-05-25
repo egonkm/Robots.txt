@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.baisis.org.uk/wp-sitemap.xml
+Disallow: /wp-content/uploads/_pda/*

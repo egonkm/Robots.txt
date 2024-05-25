@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /upload/
+Disallow: /processos/
+
+User-agent: Twitterbot
+Allow: /upload/imagens/
+
+User-agent: facebookexternalhit
+Allow: /upload/imagens/
+
+User-agent: Googlebot
+Allow: /upload/imagens/
+
+User-agent: Googlebot-Image
+Allow: /upload/imagens/

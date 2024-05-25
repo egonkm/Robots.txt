@@ -1,0 +1,19 @@
+Sitemap: https://aibni.co.uk/sitemap.xml
+
+User-agent: *
+
+Allow: /
+
+Disallow: /etc/clientlibs/
+
+Disallow: /etc/designs/
+
+Disallow: /content/dam/aibni/personal/images/
+
+Disallow: /servlet/
+
+Disallow: /*_jcr_content/
+
+Disallow: /*jcr:content/
+
+Disallow: /etc.clientlibs/

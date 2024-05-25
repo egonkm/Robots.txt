@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /webviews/*
+
+Sitemap: https://flatmates.com.au/sitemap.xml

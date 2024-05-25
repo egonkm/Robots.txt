@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Not available</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=yes"
+    />
+    <link
+      href="https://static.line-scdn.net/laicon/edge/11.1/laicon.min.css"
+      rel="stylesheet"
+    />
+    <meta name="description" content="Not available" />
+    <meta property="og:title" content="Not available" />
+    <meta property="og:type" content="website" />
+    <meta property="og:author" content="LY Corporation" />
+    <meta property="og:description" content="Not available" />
+    <meta
+      property="og:url"
+      content="https://techblog.lycorp.co.jp/area.html"
+      data-react-helmet="true"
+    />
+    <link rel="stylesheet" type="text/css" href="/area.css" as="style" />
+  </head>
+  <body>
+    <div id="___gatsby">
+      <div tabindex="-1" id="gatsby-focus-wrapper" style="outline: none">
+        <div class="area_wrap">
+          <header id="msthd">
+            <div>
+              <div class="logo">
+                <img
+                  src="/img/lylogo.png"
+                  alt="ãã©ã¤ãã·ã¼ã»ã³ã¿ã¼"
+                  width="170"
+                />
+              </div>
+            </div>
+          </header>
+          <main>
+            <div class="guide_box">
+              <div class="text_group">
+                <p>LINEã¤ãã¼Tech Blogã¯ãæ¬§å·çµæ¸é åï¼EEAï¼ããã³ã¤ã®ãªã¹ãããå©ç¨ããã ã¾ããã<a href="https://privacy.yahoo.co.jp/areacheck/error.html" target="_blank" rel="noreferrer">ãã¡ã</a>ã®æå ±ããè¦§ãã ããã</p>
+                <p>LY Tech Blog is no longer available in the EEA and the United Kingdom. For more information, please click <a href="https://privacy.yahoo.co.jp/areacheck/error.html" target="_blank" rel="noreferrer">here</a>.</p>
+              </div>
+            </div>
+          </main>
+          <footer class="riff-Footer footer">
+            <div class="footer__inner">
+              <div class="riff-Footer__subLink">
+                <ul class="riff-ListInline">
+                  <li class="riff-ListInline__item">
+                    <a
+                      href="https://www.lycorp.co.jp/ja/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      LINEã¤ãã¼
+                    </a>
+                  </li>
+                  <li class="riff-ListInline__item">
+                    <a
+                      href="https://www.lycorp.co.jp/ja/company/privacypolicy/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      ãã©ã¤ãã·ã¼ããªã·ã¼
+                    </a>
+                  </li>
+                </ul>
+                <ul class="riff-ListInline">
+                  <li class="riff-ListInline__item">
+                    <a
+                      href="https://www.lycorp.co.jp/ja/company/terms/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      å©ç¨è¦ç´
+                    </a>
+                  </li>
+                  <li class="riff-ListInline__item">
+                    <a
+                      href="https://support.yahoo-net.jp/PccPrivacypolicy/s/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      ãã«ã
+                    </a>
+                  </li>
+                  <li class="riff-ListInline__item">
+                    <a
+                      href="https://privacy.lycorp.co.jp/ja/inquiry/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      ãåãåãã
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <p class="riff-Footer__copy">
+                <small>Â© LY Corporation</small>
+              </p>
+            </div>
+          </footer>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

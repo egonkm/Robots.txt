@@ -1,0 +1,5 @@
+#
+# robots.txt for ÖÐ¹ú½ÌÓýÐÅÏ¢»¯Íø
+#
+User-agent: * 
+Disallow: /css

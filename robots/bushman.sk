@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bushman.sk/content/sitemaps/domain_2_sitemap.xml
+Image Sitemap: https://bushman.sk/content/sitemaps/domain_2_sitemap_image.xml

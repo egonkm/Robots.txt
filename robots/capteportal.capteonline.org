@@ -1,0 +1,5 @@
+ï»¿User-agent: *
+Disallow: /Administration/
+Disallow: /ClearCache.aspx
+Disallow: /CobaltTest/
+Disallow: /FileDownloads/

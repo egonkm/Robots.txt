@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: */sandbox
+
+Sitemap: https://www.ticketing.brussels/en/sitemap.xml
+Sitemap: https://www.ticketing.brussels/fr/sitemap.xml
+Sitemap: https://www.ticketing.brussels/nl/sitemap.xml

@@ -1,0 +1,47 @@
+User-agent: *
+Sitemap: https://bcorporation.fr/sitemap.xml
+Disallow: /cgi-bin
+Disallow: /wp/wp-login.php
+Disallow: /wp/wp-admin/
+Disallow: /wp/wp-includes
+Disallow: /wp/wp-content
+Disallow: /wp/wp-content/uploads/
+Disallow: /wp/wp-content/plugins
+Disallow: /wp/wp-content/cache
+Disallow: /wp/wp-content/themes
+Disallow: /?s=*
+Disallow: /*?s$
+Disallow: /*?s=*
+Disallow: /*?*&s=*
+Disallow: /*?*&s$
+Disallow: /?fwp_*
+Disallow: */feed/$
+Disallow: */comments/$
+Disallow: */trackback/$
+Disallow: /tag*
+Disallow: /category*
+Disallow: /project-type*
+Disallow: /author*
+Disallow: /*.pdf$
+Disallow: /*.swf$
+Disallow: /*.wmv$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+Disallow: /*.php$
+Disallow: /*.inc$
+Disallow: /*.gz
+Disallow: /*.cgi
+Allow: /*.css$
+Allow: /*.js$
+Allow: /wp/wp-admin/admin-ajax.php
+Allow: /wp/wp-content/plugins/
+Allow: /wp/wp-content/themes/
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://bcorporation.fr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

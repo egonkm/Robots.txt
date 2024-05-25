@@ -1,0 +1,11 @@
+# robots.txt for https://www.simple.com.au/
+
+sitemap: https://www.simple.com.au/sitemaps-1-sitemap.xml
+
+# live - don't allow web crawlers to index cpresources/ or vendor/
+
+User-agent: *
+Disallow: /cpresources/
+Disallow: /vendor/
+Disallow: /.env
+

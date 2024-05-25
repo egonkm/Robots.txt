@@ -1,0 +1,17 @@
+User-agent: *
+Sitemap: https://monentreprise.gouv.mc/sitemap.xml
+Sitemap: https://monentreprise.gouv.mc/en/sitemap.xml
+Disallow: /cookies
+Disallow: /mentions-legales
+Disallow: /cgu-teleservices
+Disallow: /enquetes
+Disallow: /cookies-teleservices
+Disallow: /search/
+Disallow: /instantsearch
+Disallow: /en/cookies-policy
+Disallow: /en/legal-terms
+Disallow: /en/cgu-teleservices
+Disallow: /en/enquetes
+Disallow: /en/cookies-online-services
+Disallow: /en/search/
+Disallow: /en/instantsearch

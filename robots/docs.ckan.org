@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /en/rtd-config-file/ # Hidden version
+
+Disallow: /en/8092-readthedocs-build/ # Hidden version
+
+Disallow: /en/6118-table-designer/ # Hidden version
+
+Sitemap: https://docs.ckan.org/sitemap.xml

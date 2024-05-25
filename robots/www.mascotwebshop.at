@@ -1,0 +1,16 @@
+ï»¿User-agent: MJ12BOT
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: Vagabondo
+Disallow: /
+User-agent: BaiDuSpider
+Disallow: /
+User-agent: Exabot
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: BSpider
+Disallow: /
+User-agent: MegaIndex
+Disallow: /

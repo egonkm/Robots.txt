@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /demo
+
+# Host
+Host: https://www.moderna.com.br
+
+# Sitemaps
+Sitemap: https://www.moderna.com.br/sitemap.xml
+Sitemap: https://www.moderna.com.br/server-sitemap.xml

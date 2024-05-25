@@ -1,0 +1,6 @@
+User-agent: *
+Sitemap: https://www.gov-online.go.jp/sitemap.xml
+Sitemap: https://www.gov-online.go.jp/sitemap_gov-online_go_jp.xml
+Disallow: /api/
+Disallow: /404.html
+Disallow: /503.html

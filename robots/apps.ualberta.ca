@@ -1,0 +1,16 @@
+#AppsAt Robots File
+User-agent: *
+Disallow: /catalogue/archive
+Disallow: /catalogue/syllabus
+Disallow: /ezsend
+Disallow: /saml2
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+

@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /__lib
+Disallow: /search
+Disallow: /__data/assets/word_doc/0016/1311262/Submission-075-NUW-individual-workers.docx
+Disallow: /how-to-login-to-the-new-dedjtr-intranet
+Disallow: /rtwsafety

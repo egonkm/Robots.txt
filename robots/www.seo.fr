@@ -1,0 +1,17 @@
+User-agent: *
+#Disallow: /*?
+Disallow: /wp-login.php
+Disallow: /wp-admin/
+Allow: /wp-content/uploads
+Allow: /wp-content/themes/generatepress/assets/css/components/comments.min.css*
+Disallow: /feed/
+Disallow: */feed/
+Disallow: */trackback
+#Disallow: /*/feed
+Disallow: /*/comments$
+Disallow: /cgi-bin
+Disallow: /*.inc$
+Disallow: /*.gz
+Disallow: /*.cgi
+
+Sitemap: https://www.seo.fr/sitemap_index.xml

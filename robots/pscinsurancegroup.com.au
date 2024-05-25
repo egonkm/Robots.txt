@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: zoominfobot
+Disallow: /
+
+User-agent: SEOkicks-Robot
+Disallow: /
+
+User-agent: zoominfobot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: ConetixHTTPMonitor
+Disallow: /
+
+User-agent: bingbot
+Crawl-delay: 5
+
+User-agent: *
+Crawl-delay: 5

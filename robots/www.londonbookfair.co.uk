@@ -1,0 +1,17 @@
+# Robots.txt file from https://www.londonbookfair.co.uk/en-gb.html
+
+Sitemap: https://www.londonbookfair.co.uk/en-gb.single-sitemap.xml
+Sitemap: https://www.londonbookfair.co.uk/en-gb/sitemap.html
+
+
+User-agent: *
+Disallow: /*error-pages
+Disallow: /en-gb/Test/
+Disallow: /Test/
+Disallow: /landing-pages/
+Disallow: /en-gb/ARCHIVE/
+Disallow: /ARCHIVE/
+Disallow: /en-gb/exhibitor-hub/
+Disallow: /thank-you.html
+Disallow: /en-gb/lp/
+Disallow: /*?locale=en-GB&query=

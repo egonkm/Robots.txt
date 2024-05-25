@@ -1,0 +1,5 @@
+Sitemap: https://magyarnarancs.hu/sitemap.xml
+User-agent: *
+Disallow: /admin/
+Disallow: /kereses
+Crawl-delay: 1

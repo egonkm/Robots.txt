@@ -1,0 +1,42 @@
+Sitemap: https://www.gq.com.au/sitemap.xml
+Sitemap: https://www.gq.com.au/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Disallow: *?pos=
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: CCBot
+
+Disallow: / 
+
+User-agent: GPTBot
+
+Disallow: /
+
+User-agent: ChatGPT-User 
+
+Disallow: /
+
+User-agent: anthropic-ai 
+
+Disallow: /
+
+User-agent: cohere-ai
+
+Disallow: / 
+
+User-agent: ia_archiver 
+
+Disallow: / 
+
+User-agent: MJ12bot 
+
+Disallow: / 
+
+User-agent: PiplBot
+
+Disallow: / 
+
+User-agent: Google-Extended
+
+Disallow: /

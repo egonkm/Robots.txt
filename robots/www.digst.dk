@@ -1,0 +1,3 @@
+user-agent: *
+disallow: /error/
+sitemap: http://www.digst.dk/handlers/Sitemap.ashx

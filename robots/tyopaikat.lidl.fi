@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cps/
+
+Sitemap: https://tyopaikat.lidl.fi/sitemap.xml

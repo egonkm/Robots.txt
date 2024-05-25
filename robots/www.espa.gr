@@ -1,0 +1,18 @@
+User-Agent: *
+Disallow: /Search/
+Disallow: /_layouts/
+Disallow: /_Layouts/
+Disallow: /search/ 
+Disallow: /blog/_layouts/
+Disallow: /Blog/_layouts/
+Disallow: /ReusableContent/
+Disallow: /Reports%20List/
+Disallow: /WorkflowTasks/
+Disallow: /SiteCollectionDocuments/
+Disallow: /SiteCollectionImages/
+Disallow: /Documents/Forms/
+Disallow: /Pages/Forms/ 
+Disallow: /Lists/
+
+User-agent: PowerMapper
+Allow: /

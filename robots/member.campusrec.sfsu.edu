@@ -1,0 +1,11 @@
+ï»¿User-agent: Googlebot
+Allow: /Membership
+Allow: /Program
+Allow: /DivisionRegistration
+Allow: /FusionIM
+Allow: /TeamRankings
+Allow: /GameDay
+Allow: /Home
+
+User-agent: *
+Disallow: /

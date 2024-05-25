@@ -1,0 +1,14 @@
+User-Agent: *
+Crawl-delay: 120
+Sitemap: https://www.dgs.pt/sitemap.xml
+Disallow: /upload/
+Disallow: /processos/
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /

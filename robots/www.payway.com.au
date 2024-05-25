@@ -1,0 +1,12 @@
+User-agent: *
+Sitemap: https://www.payway.com.au/sitemap.xml
+Disallow: /net/NetTransactionEditView
+Disallow: /MakePayment
+Disallow: /RequestToken
+Disallow: /OnlinePaymentServlet2
+Disallow: /Captcha.jpg
+Disallow: /core/Captcha.jpg
+Disallow: /Captcha.wav
+Disallow: /core/Captcha.wav
+Disallow: /SignUp
+Disallow: /RegularSignUp

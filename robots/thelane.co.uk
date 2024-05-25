@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+
+Disallow: /api
+
+Sitemap: https://thelane.co.uk/sitemap.xml

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /_resources/
+Allow: /_resources/images/
+Allow: /_resources/video/
+Disallow: /files/
+Disallow: /jobs/
+Disallow: /ou-alerts/

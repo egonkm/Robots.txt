@@ -1,0 +1,32 @@
+#	/robots.txt file for Live
+
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /include/
+Disallow: /lib/
+
+Disallow: /account.php
+Disallow: /availability.check.php
+Disallow: /bookshelf.download.php
+Disallow: /bookshelf.php
+Disallow: /review_form.php
+Disallow: /foxypage.php
+Disallow: /macro.php
+Disallow: /phpinfo.php
+Disallow: /site-minifier.php
+Disallow: /snip.php
+Disallow: /violationReportForCSP.php
+Disallow: /web.config.php
+Disallow: /*export-product=*
+Disallow: */results/
+Disallow: */pdf-ai-sheet/
+Crawl-delay: 10
+
+#Sitemap: https://www.bookbrunch.co.uk/sitemap_001.xml
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: AspiegelBot
+Disallow: /

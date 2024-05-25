@@ -1,0 +1,52 @@
+User-agent: *
+Disallow: /hostings/go/
+Disallow: /go/ 
+Disallow: /backend/
+Disallow: /parser-domains/
+Disallow: /contacts		
+Disallow: /auth/				
+Disallow: /search/
+Disallow: /search?
+Disallow: /domains/search?
+Disallow: /product/search?
+Disallow: /pages/view/kak-stat-ekspertom							
+Disallow: /auth/register							
+Disallow: /auth/login													
+Disallow: /questions/add
+Disallow: /hostings/compared/
+Disallow: /informers/
+Disallow: /cron/
+Disallow: /language/
+Disallow: /filters/
+Disallow: /hostings/test/
+Disallow: /hostings/ajax_review_hosting/
+
+User-agent: Yandex
+Disallow: /hostings/go/
+Disallow: /go/ 
+Disallow: /backend/
+Disallow: /parser-domains/
+Disallow: /contacts		
+Disallow: /auth/				
+Disallow: /search/
+Disallow: /search?
+Disallow: /domains/search?
+Disallow: /product/search?
+Disallow: /pages/view/kak-stat-ekspertom							
+Disallow: /auth/register							
+Disallow: /auth/login													
+Disallow: /questions/add
+Disallow: /hostings/compared/
+Disallow: /informers/
+Disallow: /cron/
+Disallow: /language/
+Disallow: /filters/
+Disallow: /hostings/test/
+Disallow: /hostings/ajax_review_hosting/
+Clean-param: __cf_chl_captcha_tk__ /* 
+Clean-param: order_by /* 
+Clean-param: _ym_debug /* 
+Clean-param: review /*
+
+Host: https://ru.hostings.info/
+Sitemap: https://ru.hostings.info/sitemap.xml

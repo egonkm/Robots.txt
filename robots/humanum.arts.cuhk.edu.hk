@@ -1,0 +1,6 @@
+User-agent: *   # directed to all spiders, not just Scooter
+Disallow: /cgi-bin
+Disallow: /Img
+Disallow: /netguide
+Disallow: /Movies
+Disallow: /Philosophy/Kant/cpr1

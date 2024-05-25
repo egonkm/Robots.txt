@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /$
+Allow: /js
+Allow: /news
+Allow: /organisation
+Allow: /profile
+Allow: /project
+Allow: /scholarlywork
+Allow: /searchresults
+Disallow: /healthcheck
+Disallow: /about
+Disallow: /display
+Disallow: /individual
+Sitemap: https://findanexpert.unimelb.edu.au/sitemap.xml

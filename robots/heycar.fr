@@ -1,0 +1,12 @@
+# User-agent: *
+# Disallow: /*?
+# Disallow: /vehicle
+
+# Social media sharing
+User-agent: Twitterbot
+User-agent: facebookexternalhit
+User-agent: Facebot
+User-agent: facebookexternalhit/1.1
+
+# Sitemaps:
+Sitemap: https://heycar.fr/sitemap.xml

@@ -1,0 +1,11 @@
+User-agent: *
+Sitemap: https://www.ayrtonsennashop.com/sitemap_de.xml
+Sitemap: https://www.ayrtonsennashop.com/sitemap_en.xml
+Sitemap: https://www.ayrtonsennashop.com/sitemap_es.xml
+
+Disallow: /includes/
+Disallow: /sites/
+Disallow: /js/
+
+User-agent: *
+Crawl-delay: 10

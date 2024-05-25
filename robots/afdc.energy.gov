@@ -1,0 +1,8 @@
+User-agent: *
+
+# Disallow popup windows that don't have the full-blow AFDC navigation and no
+# real way back to where they came from.
+Disallow: /data_download/alt_fuel_stations_format
+Disallow: /data_download/laws_and_incentives_format
+Disallow: /data_download/truck_stop_electrification_format
+Disallow: /data_download/vehicles_format

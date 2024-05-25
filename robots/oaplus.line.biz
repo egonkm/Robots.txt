@@ -1,0 +1,114 @@
+
+
+<!doctype html>
+<html>
+<head>
+  <title>LINE Business ID</title>
+  <link rel="shortcut icon" href="https://static.line-scdn.net/biz-cms-idp/edge/img/favicon.ico" type="image/vnd.microsoft.icon">
+  <meta charset="utf-8">
+  <meta content="ie=edge" http-equiv="x-ua-compatible">
+  <meta http-equiv="Content-Type" charset="text/html; charset=UTF-8" />
+  <meta name="x-csrf" content="558e5dd0-0207-43c8-9638-a260ba7e9f16" />
+  <meta name="x-csrf-header" content="X-XSRF-TOKEN" />
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover" name="viewport">
+  <meta name="format-detection" content="telephone=no">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,600" rel="stylesheet">
+  <link href="https://static.line-scdn.net/koromo/edge/2.0-rc3/koromo.css" rel="stylesheet">
+  <link href="https://static.line-scdn.net/koromo/edge/libs/font-awesome/5.1.0/pro.css" rel="stylesheet">
+  <style>
+    .adjustContainerPadding {
+      padding-top: constant(safe-area-inset-top) !important;
+      padding-top: env(safe-area-inset-top) !important;
+      padding-bottom: constant(safe-area-inset-bottom) !important;
+      padding-bottom: env(safe-area-inset-bottom) !important;
+    }
+  </style>
+  <script>
+  (function(g,d){
+  var v='release/stable';
+  g._trmq=[];g._trm=function(){g._trmq.push(arguments)};
+  g.onerror=function(m,f,l,c){g._trm('send','exception',m,f,l,c)};
+  var h=location.protocol==='https:'?'https://d.line-scdn.net':'http://d.line-cdn.net';
+  var s=d.createElement('script');s.async=1;
+  s.src=h+'/n/_4/torimochi.js/public/v1/'+v+'/min/torimochi.js?20210921';
+  var t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);
+  })(window, document);
+  _trm('enable', {
+  productKey: 'line-businessid-real'
+  });
+  _trm('send', 'pageview');
+  </script>
+  <script onerror="_trm('send', 'exception', 'babel_polyfill_load_error', this.src)" src="https://static.line-scdn.net/koromo/edge/libs/babel-polyfill/6.26.0/polyfill.js?20210921"></script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=vueRecaptchaApiLoaded&render=explicit&hl=en" async defer></script>
+
+</head>
+<body>
+
+<script type="text/javascript">
+  var OPTIONS = {
+    pageType: "login",
+    layout: "default",
+    notice: "",
+    noticeType: "",
+    language: "en",
+    termsBaseUri: "https://terms2.line.me",
+    helpBaseUri: "https://help2.line.me/business_id/web",
+    privacyPolicyUri: "https://line.me/terms/policy",
+    yahooLoginFeatureEnabled: false,
+    accessFromCountry: "ES",
+    sitekey: "6LcbOagUAAAAAP67IvKc99KvZ-8c3qt2l3oC43oB",
+
+    messages: {
+      agreement: "By logging in to LINE Business ID, you agree to the {0}.",
+      agreementTh: "By logging in to LINE Business ID, you agree to the {common.link.terms} and acknowledge the {common.link.privacyPolicy}.",
+      loginWithLine: "Log in with LINE account",
+      or: "or",
+      loginWithMail: "Log in with business account",
+      signUpLink: "Create an account",
+      email: "Email address",
+      password: "Password",
+      terms: "Terms of Use",
+      stayLoggedIn: "Remember me",
+      inputCapcha: "CAPTCHA",
+      login: "Log in",
+      passwordResetLink: "Reset password",
+      invalidCredentialError: "Incorrect email address and/or password.",
+      captchaRequiredError: "Enter the characters shown in the CAPTCHA.",
+      networkException: "An error occurred.",
+      backToService: "Go back",
+      invalidCredentialsInfo: "Enter the email and password for your LINE Business ID account in the fields above to log in. To log in with the email and password registered to your LINE account instead, click \"Other login options\" followed by \"Log in with LINE account.\"",
+      invalidCredentialsInfoLayoutApp: "Log in with the email and password tied to your LINE Business ID account. To log in using the email and password of your LINE account instead, tap \"Go back.\"",
+      invalidCredentialsInfoLayoutAppWithLink: "Log in with the email and password tied to your LINE Business ID account. To log in using the email and password of your LINE account instead, select \"{common.link.backToService}.\"",
+      about: "About LINE Business ID",
+      help: "Help",
+      allLoginMethods: "Other login options",
+      privacypolicy: "Privacy Policy",
+      otherLoginMethod: "Other ways to log in",
+      yahooLogin: "Log in with Yahoo! JAPAN ID",
+      captchaCheckRequired: "Check the box to continue.",
+    }
+  }
+</script>
+
+  <div id="errorMessage" style="display:none; padding:30px;">
+    <h3>ファイルの読み込みに失敗しました。ブラウザの再読み込みをお願いします。<br>解決しない場合は、以下のヘルプをご覧ください。<br><a target="_blank" href="https://help2.line.me/business_id/web?contentId=20021619&lang=ja">https://help2.line.me/business_id/web?contentId=20021619&lang=ja</a></h3>
+    <h3>Failed to read the file. Please reload your browser. <br>If the problem persists, please see the help page below.<br><a target="_blank" href="https://help2.line.me/business_id/web?contentId=20021619&lang=en">https://help2.line.me/business_id/web?contentId=20021619&lang=en</a></h3>
+  </div>
+  <div id="app"></div>
+  <script>
+    window.addEventListener("load", function() {
+      setTimeout(function() {
+        if (document.getElementById("app") && window.idpJSBundleLoaded) {
+          _trm("send", "exception", "js_execution_error");
+        }
+      }, 1000);
+    });
+  </script>
+  <script onload="window.idpJSBundleLoaded=true" onerror="_trm('send', 'exception', 'js_load_error', this.src)" src="https://static.line-scdn.net/biz-cms-idp/18ad4eedb00/js/bundle.min.js"></script>
+  <script>
+    if (!window.idpJSBundleLoaded) {
+      document.getElementById("errorMessage").style.display = "block";
+    }
+  </script>
+</body>
+</html>

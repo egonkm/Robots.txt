@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /recherche/
+Disallow: /staffs/
+Disallow: /bookings/
+Disallow: /annuaire/
+Disallow: /praticien/
+Sitemap: https://patient.monacosante.mc/sitemap_ls_index.xml
+Sitemap: https://patient.monacosante.mc/sitemap_s_index.xml
+Sitemap: https://patient.monacosante.mc/sitemap_specialty_index.xml
+Sitemap: https://patient.monacosante.mc/sitemap_saa_index.xml
+Sitemap: https://patient.monacosante.mc/sitemap_v_index.xml

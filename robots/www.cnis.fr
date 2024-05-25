@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp/*
+Disallow: /wp-json/*
+Disallow: /wp-content/
+Allow: /wp-content/uploads/*
+Allow: /wp-content/themes/*
+
+Sitemap: https://www.cnis.fr/sitemap_index.xml

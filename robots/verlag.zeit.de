@@ -1,0 +1,10 @@
+Disallow: /content/themes/cortex/
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://verlag.zeit.de/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,0 +1,31 @@
+
+    User-agent: *    # applies to all robots
+    Allow: /      # allow all
+    Disallow: */secur/forgotpassword.jsp?*
+    Disallow: /case/*
+    Disallow: /createrecord/*
+    Disallow: /dashboard/*
+    Disallow: /feed/*
+    Disallow: /contentdocument/*
+    Disallow: /flow/*
+    Disallow: /detail/*
+    Disallow: /recordlist/*
+    Disallow: /relatedlist/*
+    Disallow: /group/*
+    Disallow: /how-to-videos/*
+    Disallow: /CheckPasswordResetEmail/*
+    Disallow: /error/*
+    Disallow: /SelfRegister/*
+    Disallow: /comm-my-account/*
+    Disallow: /news/*
+    Disallow: /produkte/*
+    Disallow: /question/*
+    Disallow: /report/*
+    Disallow: /streams/*
+    Disallow: /toparticles/*
+    Disallow: /topiccatalog/*
+    Disallow: /profile/*
+    Disallow: /settings/*
+    Disallow: /login/*
+    
+    Sitemap: https://faq.bmw.de/Sitemap

@@ -1,0 +1,6 @@
+Sitemap: https://northsrugby.com.au/sitemap.xml
+
+
+User-agent: *
+Disallow: /cpresources/
+

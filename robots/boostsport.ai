@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://boostsport.ai/sitemap-index.xml
+Host: https://boostsport.ai

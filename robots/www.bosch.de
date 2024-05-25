@@ -1,0 +1,15 @@
+
+User-agent: *
+Disallow: /en/
+Disallow: /static/
+
+User-agent: Mindbreeze-P
+Allow: /en/
+
+User-agent: facebookexternalhit
+Allow: /en/
+Allow: /media/
+
+User-agent: Twitterbot
+Allow: /en/
+Allow: /media/

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /articles/knowledge/*
+Disallow: /blogList/list/01700000000001C0001
+Disallow: /bloglist/list/01700000000001C0001
+Disallow: /user/login
+Disallow: /User/Login
+Disallow: /user/Login
+Disallow: /aspx/ReadyToSignup
+Disallow: /aspx/readytosignup
+Disallow: /wikis/devguide/*
+Disallow: /wikis/help/*

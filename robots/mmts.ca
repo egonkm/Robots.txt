@@ -1,0 +1,4 @@
+Sitemap: https://mmts.ca/Sitemap.xml
+User-agent: *
+Disallow: /episerver/
+Disallow: /utils/

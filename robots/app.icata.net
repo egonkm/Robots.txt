@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /icata/notification/
+Disallow: /icata/mailmaga/
+Disallow: /icata/maintenance/
+Disallow: /maintenance/
+Disallow: /TDMC2017/
+Disallow: /icata/tools/
+
+Sitemap: https://app.icata.net/sitemap/sitemap_index.xml

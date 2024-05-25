@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /*jirei_part_detail.html*
+Disallow: /cms*
+Disallow: /webapp-by-homepro*
+Disallow: /info/*
+Disallow: /smp/others/
+Disallow: /lp/*
+Disallow: /smp/lp/*
+Disallow: /smp/order_*
+Disallow: /hmp/order_*
+Disallow: /order.html*
+Disallow: /common/oauth_*
+Disallow: /akamai/
+Disallow: /topAB/*
+Disallow: /smp/topAB/*
+Allow: /lp/amp/*
+Allow: /smp/lp/amp/*
+Allow: /info/
+
+sitemap: https://www.homepro.jp/sitemap_index.xml
+sitemap: https://www.homepro.jp/sitemap.xml

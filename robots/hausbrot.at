@@ -1,0 +1,41 @@
+User-agent: *
+
+Disallow: /content/ad
+Disallow: /content/email
+Disallow: /content/newsletter
+Disallow: /account/logon
+Disallow: /content/product-list/
+
+Disallow: /myaccount
+Disallow: /checkout
+Disallow: /shoppingcart
+Disallow: /shoppingcart/AddDetails
+Disallow: /shoppingcart/_indexshoppingcart
+Disallow: /home/shoppingbasket
+Disallow: /content/img/team/
+Disallow: /vorshau-1
+Disallow: /vorshau-2
+Disallow: /vorshau-3
+
+Disallow: /joseph/brot
+Disallow: /joseph/gebaeck
+Disallow: /joseph/suesses
+Disallow: /produkte/joseph-brot/gebaeck
+Disallow: /fruehstueckslieferservice
+Disallow: /info/news
+
+Disallow: /bloomerei
+Disallow: /presse
+
+Disallow: /shneor
+Disallow: /produkte/shneors/0/32/0
+Disallow: /sonnentor
+Disallow: /alphacoffee
+Disallow: /kinderkistl
+Disallow: /oeamtc
+
+Disallow: /office
+
+Disallow: /danke
+Disallow: /gutschein
+Disallow: /genussfruehstueck

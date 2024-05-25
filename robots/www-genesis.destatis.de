@@ -1,0 +1,13 @@
+# robots.txt zu https://www-genesis.destatis.de/genesis
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Allow: /online/menu
+
+User-agent: 008
+Disallow: /
+
+User-agent: 008
+Allow: /online/menu

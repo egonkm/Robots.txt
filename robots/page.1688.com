@@ -1,0 +1,90 @@
+ï»¿## -----------------------------------------------------------------------------
+## author wenjun.zhouwj
+## fileEncoding = UTF-8
+##
+## ç¦æ­¢ç¬è«ç¬åæ æURLï¼æåç½ç«æ ¸å¿éæèµæºæååç´¢å¼æçã
+## æ æURLåå«:å·²ä¸çº¿äº§åçº¿çURLï¼å¨å¨æURLï¼éæééªè¯çURLï¼å­å¨é®é¢çæ§éæURL
+## ç­åç§æ éè¢«SEæ¶å½çURLã
+## -----------------------------------------------------------------------------
+User-agent: *
+Allow: /chanpin/index.html?
+Allow: /chanpin/--*.html
+Allow: /topic/index.html?
+Allow: /member/profile.htm?memberId=
+Disallow: /chanpin/*?
+Disallow: /gongsi/*?
+Disallow: /qiye/*?
+Disallow: /chanpin/-*-0*.html
+Disallow: /chanpin/-*-100*.html
+Disallow: /chanpin/-*-101*.html
+Disallow: /chanpin/-*-102*.html
+Disallow: /chanpin/-*-103*.html
+Disallow: /chanpin/-*-104*.html
+Disallow: /chanpin/-*-105*.html
+Disallow: /chanpin/-*-106*.html
+Disallow: /chanpin/-*-107*.html
+Disallow: /chanpin/-*-108*.html
+Disallow: /chanpin/-*-109*.html
+Disallow: /chanpin/-*-11*.html
+Disallow: /chanpin/-*-12*.html
+Disallow: /chanpin/-*-13*.html
+Disallow: /chanpin/-*-14*.html
+Disallow: /chanpin/-*-15*.html
+Disallow: /chanpin/-*-16*.html
+Disallow: /chanpin/-*-17*.html
+Disallow: /chanpin/-*-18*.html
+Disallow: /chanpin/-*-19*.html
+Disallow: /chanpin/-*-2*.html
+Disallow: /chanpin/-*-3*.html
+Disallow: /chanpin/-*-4*.html
+Disallow: /chanpin/-*-5*.html
+Disallow: /chanpin/-*-6*.html
+Disallow: /chanpin/-*-7*.html
+Disallow: /chanpin/-*-8*.html
+Disallow: /chanpin/-*-9*.html
+Disallow: /gongsi/-*-0*.html
+Disallow: /gongsi/-*-1*.html
+Disallow: /gongsi/-*-2*.html
+Disallow: /gongsi/-*-3*.html
+Disallow: /gongsi/-*-4*.html
+Disallow: /gongsi/-*-5*.html
+Disallow: /gongsi/-*-6*.html
+Disallow: /gongsi/-*-7*.html
+Disallow: /gongsi/-*-8*.html
+Disallow: /gongsi/-*-9*.html
+Disallow: /?
+Disallow: /*?tracelog=
+Disallow: /offerdetail/view_large_pics_*.html
+Disallow: /company/offerlist/
+Disallow: /company/*?
+Disallow: /company/turbine/
+Disallow: /company/post_company.htm
+Disallow: /company/my_company.htm
+Disallow: /company/company_contact.htm
+Disallow: /company/company_intro_detail.htm
+Disallow: /company/buyer/
+Disallow: /buyer/turbine/
+Disallow: /member/
+Disallow: /member/ajax/
+Disallow: /seller/
+Disallow: /offer/
+Disallow: /catalog/
+Disallow: /athena/
+Disallow: /alitalk/
+Disallow: /album/
+Disallow: /ali/news/
+Disallow: /bin/
+Disallow: /myalibaba/
+Disallow: /work/
+Disallow: /loan/
+Disallow: /product/
+Disallow: /ims/
+Disallow: /community/
+Disallow: /message/
+Disallow: /others/
+Disallow: /bizexpress/
+Disallow: /domain/
+Disallow: /misc/
+Disallow: /flash/
+Disallow: /index1.html
+Disallow: /message

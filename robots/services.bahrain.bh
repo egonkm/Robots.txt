@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /wps/portal/tawasul
+
+User-agent: Googlebot
+User-agent: AdsBot-Google
+Disallow: /wps/portal/tawasul
+
+User-agent: *
+Disallow: /wps/portal/tawasul

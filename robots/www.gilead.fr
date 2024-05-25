@@ -1,0 +1,3 @@
+User-Agent: *
+Sitemap: https://www.gilead.fr/sitemap.xml
+Disallow: /envz/live

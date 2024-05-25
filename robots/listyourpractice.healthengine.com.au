@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+Disallow: /*
+Disallow: /*?
+
+Sitemap: https://listyourpractice.healthengine.com.au/sitemap.xml

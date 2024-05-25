@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Sitemap: https://www.rakuten-life.co.jp/sitemap.xml
+Disallow: /pdf/mutualsid/insurance_claim.pdf
+Disallow: /pdf/mutualsid/outpatient_certificate.pdf
+Disallow: /pdf/mutualsid/form_covid19.pdf
+Disallow: /pdf/mutualsid/insurance_claim_covid19.pdf

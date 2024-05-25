@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+
+SITEMAP: https://www.zesumme-vereinfachen.lu/sitemap.xml

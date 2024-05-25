@@ -1,0 +1,533 @@
+# robots.txt file for Mozilla Add-ons, addons.mozilla.org
+User-agent: *
+Allow: /
+
+Disallow: /*/addon/*/contribute/
+
+Disallow: /firefox/downloads/
+Disallow: /thunderbird/downloads/
+Disallow: /android/downloads/
+Disallow: /seamonkey/downloads/
+
+Disallow: /af/firefox/search/
+Disallow: /af/firefox/collections/
+Disallow: /af/thunderbird/search/
+Disallow: /af/thunderbird/collections/
+Disallow: /af/android/search/
+Disallow: /af/android/collections/
+Disallow: /af/seamonkey/search/
+Disallow: /af/seamonkey/collections/
+
+Disallow: /ar/firefox/search/
+Disallow: /ar/firefox/collections/
+Disallow: /ar/thunderbird/search/
+Disallow: /ar/thunderbird/collections/
+Disallow: /ar/android/search/
+Disallow: /ar/android/collections/
+Disallow: /ar/seamonkey/search/
+Disallow: /ar/seamonkey/collections/
+
+Disallow: /ast/firefox/search/
+Disallow: /ast/firefox/collections/
+Disallow: /ast/thunderbird/search/
+Disallow: /ast/thunderbird/collections/
+Disallow: /ast/android/search/
+Disallow: /ast/android/collections/
+Disallow: /ast/seamonkey/search/
+Disallow: /ast/seamonkey/collections/
+
+Disallow: /az/firefox/search/
+Disallow: /az/firefox/collections/
+Disallow: /az/thunderbird/search/
+Disallow: /az/thunderbird/collections/
+Disallow: /az/android/search/
+Disallow: /az/android/collections/
+Disallow: /az/seamonkey/search/
+Disallow: /az/seamonkey/collections/
+
+Disallow: /bg/firefox/search/
+Disallow: /bg/firefox/collections/
+Disallow: /bg/thunderbird/search/
+Disallow: /bg/thunderbird/collections/
+Disallow: /bg/android/search/
+Disallow: /bg/android/collections/
+Disallow: /bg/seamonkey/search/
+Disallow: /bg/seamonkey/collections/
+
+Disallow: /bn-BD/firefox/search/
+Disallow: /bn-BD/firefox/collections/
+Disallow: /bn-BD/thunderbird/search/
+Disallow: /bn-BD/thunderbird/collections/
+Disallow: /bn-BD/android/search/
+Disallow: /bn-BD/android/collections/
+Disallow: /bn-BD/seamonkey/search/
+Disallow: /bn-BD/seamonkey/collections/
+
+Disallow: /bs/firefox/search/
+Disallow: /bs/firefox/collections/
+Disallow: /bs/thunderbird/search/
+Disallow: /bs/thunderbird/collections/
+Disallow: /bs/android/search/
+Disallow: /bs/android/collections/
+Disallow: /bs/seamonkey/search/
+Disallow: /bs/seamonkey/collections/
+
+Disallow: /ca/firefox/search/
+Disallow: /ca/firefox/collections/
+Disallow: /ca/thunderbird/search/
+Disallow: /ca/thunderbird/collections/
+Disallow: /ca/android/search/
+Disallow: /ca/android/collections/
+Disallow: /ca/seamonkey/search/
+Disallow: /ca/seamonkey/collections/
+
+Disallow: /cak/firefox/search/
+Disallow: /cak/firefox/collections/
+Disallow: /cak/thunderbird/search/
+Disallow: /cak/thunderbird/collections/
+Disallow: /cak/android/search/
+Disallow: /cak/android/collections/
+Disallow: /cak/seamonkey/search/
+Disallow: /cak/seamonkey/collections/
+
+Disallow: /cs/firefox/search/
+Disallow: /cs/firefox/collections/
+Disallow: /cs/thunderbird/search/
+Disallow: /cs/thunderbird/collections/
+Disallow: /cs/android/search/
+Disallow: /cs/android/collections/
+Disallow: /cs/seamonkey/search/
+Disallow: /cs/seamonkey/collections/
+
+Disallow: /da/firefox/search/
+Disallow: /da/firefox/collections/
+Disallow: /da/thunderbird/search/
+Disallow: /da/thunderbird/collections/
+Disallow: /da/android/search/
+Disallow: /da/android/collections/
+Disallow: /da/seamonkey/search/
+Disallow: /da/seamonkey/collections/
+
+Disallow: /de/firefox/search/
+Disallow: /de/firefox/collections/
+Disallow: /de/thunderbird/search/
+Disallow: /de/thunderbird/collections/
+Disallow: /de/android/search/
+Disallow: /de/android/collections/
+Disallow: /de/seamonkey/search/
+Disallow: /de/seamonkey/collections/
+
+Disallow: /dsb/firefox/search/
+Disallow: /dsb/firefox/collections/
+Disallow: /dsb/thunderbird/search/
+Disallow: /dsb/thunderbird/collections/
+Disallow: /dsb/android/search/
+Disallow: /dsb/android/collections/
+Disallow: /dsb/seamonkey/search/
+Disallow: /dsb/seamonkey/collections/
+
+Disallow: /el/firefox/search/
+Disallow: /el/firefox/collections/
+Disallow: /el/thunderbird/search/
+Disallow: /el/thunderbird/collections/
+Disallow: /el/android/search/
+Disallow: /el/android/collections/
+Disallow: /el/seamonkey/search/
+Disallow: /el/seamonkey/collections/
+
+Disallow: /en-CA/firefox/search/
+Disallow: /en-CA/firefox/collections/
+Disallow: /en-CA/thunderbird/search/
+Disallow: /en-CA/thunderbird/collections/
+Disallow: /en-CA/android/search/
+Disallow: /en-CA/android/collections/
+Disallow: /en-CA/seamonkey/search/
+Disallow: /en-CA/seamonkey/collections/
+
+Disallow: /en-GB/firefox/search/
+Disallow: /en-GB/firefox/collections/
+Disallow: /en-GB/thunderbird/search/
+Disallow: /en-GB/thunderbird/collections/
+Disallow: /en-GB/android/search/
+Disallow: /en-GB/android/collections/
+Disallow: /en-GB/seamonkey/search/
+Disallow: /en-GB/seamonkey/collections/
+
+Disallow: /en-US/firefox/search/
+Disallow: /en-US/firefox/collections/
+Disallow: /en-US/thunderbird/search/
+Disallow: /en-US/thunderbird/collections/
+Disallow: /en-US/android/search/
+Disallow: /en-US/android/collections/
+Disallow: /en-US/seamonkey/search/
+Disallow: /en-US/seamonkey/collections/
+
+Disallow: /es/firefox/search/
+Disallow: /es/firefox/collections/
+Disallow: /es/thunderbird/search/
+Disallow: /es/thunderbird/collections/
+Disallow: /es/android/search/
+Disallow: /es/android/collections/
+Disallow: /es/seamonkey/search/
+Disallow: /es/seamonkey/collections/
+
+Disallow: /eu/firefox/search/
+Disallow: /eu/firefox/collections/
+Disallow: /eu/thunderbird/search/
+Disallow: /eu/thunderbird/collections/
+Disallow: /eu/android/search/
+Disallow: /eu/android/collections/
+Disallow: /eu/seamonkey/search/
+Disallow: /eu/seamonkey/collections/
+
+Disallow: /fa/firefox/search/
+Disallow: /fa/firefox/collections/
+Disallow: /fa/thunderbird/search/
+Disallow: /fa/thunderbird/collections/
+Disallow: /fa/android/search/
+Disallow: /fa/android/collections/
+Disallow: /fa/seamonkey/search/
+Disallow: /fa/seamonkey/collections/
+
+Disallow: /fi/firefox/search/
+Disallow: /fi/firefox/collections/
+Disallow: /fi/thunderbird/search/
+Disallow: /fi/thunderbird/collections/
+Disallow: /fi/android/search/
+Disallow: /fi/android/collections/
+Disallow: /fi/seamonkey/search/
+Disallow: /fi/seamonkey/collections/
+
+Disallow: /fr/firefox/search/
+Disallow: /fr/firefox/collections/
+Disallow: /fr/thunderbird/search/
+Disallow: /fr/thunderbird/collections/
+Disallow: /fr/android/search/
+Disallow: /fr/android/collections/
+Disallow: /fr/seamonkey/search/
+Disallow: /fr/seamonkey/collections/
+
+Disallow: /fy-NL/firefox/search/
+Disallow: /fy-NL/firefox/collections/
+Disallow: /fy-NL/thunderbird/search/
+Disallow: /fy-NL/thunderbird/collections/
+Disallow: /fy-NL/android/search/
+Disallow: /fy-NL/android/collections/
+Disallow: /fy-NL/seamonkey/search/
+Disallow: /fy-NL/seamonkey/collections/
+
+Disallow: /ga-IE/firefox/search/
+Disallow: /ga-IE/firefox/collections/
+Disallow: /ga-IE/thunderbird/search/
+Disallow: /ga-IE/thunderbird/collections/
+Disallow: /ga-IE/android/search/
+Disallow: /ga-IE/android/collections/
+Disallow: /ga-IE/seamonkey/search/
+Disallow: /ga-IE/seamonkey/collections/
+
+Disallow: /gu/firefox/search/
+Disallow: /gu/firefox/collections/
+Disallow: /gu/thunderbird/search/
+Disallow: /gu/thunderbird/collections/
+Disallow: /gu/android/search/
+Disallow: /gu/android/collections/
+Disallow: /gu/seamonkey/search/
+Disallow: /gu/seamonkey/collections/
+
+Disallow: /he/firefox/search/
+Disallow: /he/firefox/collections/
+Disallow: /he/thunderbird/search/
+Disallow: /he/thunderbird/collections/
+Disallow: /he/android/search/
+Disallow: /he/android/collections/
+Disallow: /he/seamonkey/search/
+Disallow: /he/seamonkey/collections/
+
+Disallow: /hsb/firefox/search/
+Disallow: /hsb/firefox/collections/
+Disallow: /hsb/thunderbird/search/
+Disallow: /hsb/thunderbird/collections/
+Disallow: /hsb/android/search/
+Disallow: /hsb/android/collections/
+Disallow: /hsb/seamonkey/search/
+Disallow: /hsb/seamonkey/collections/
+
+Disallow: /hu/firefox/search/
+Disallow: /hu/firefox/collections/
+Disallow: /hu/thunderbird/search/
+Disallow: /hu/thunderbird/collections/
+Disallow: /hu/android/search/
+Disallow: /hu/android/collections/
+Disallow: /hu/seamonkey/search/
+Disallow: /hu/seamonkey/collections/
+
+Disallow: /id/firefox/search/
+Disallow: /id/firefox/collections/
+Disallow: /id/thunderbird/search/
+Disallow: /id/thunderbird/collections/
+Disallow: /id/android/search/
+Disallow: /id/android/collections/
+Disallow: /id/seamonkey/search/
+Disallow: /id/seamonkey/collections/
+
+Disallow: /it/firefox/search/
+Disallow: /it/firefox/collections/
+Disallow: /it/thunderbird/search/
+Disallow: /it/thunderbird/collections/
+Disallow: /it/android/search/
+Disallow: /it/android/collections/
+Disallow: /it/seamonkey/search/
+Disallow: /it/seamonkey/collections/
+
+Disallow: /ja/firefox/search/
+Disallow: /ja/firefox/collections/
+Disallow: /ja/thunderbird/search/
+Disallow: /ja/thunderbird/collections/
+Disallow: /ja/android/search/
+Disallow: /ja/android/collections/
+Disallow: /ja/seamonkey/search/
+Disallow: /ja/seamonkey/collections/
+
+Disallow: /ka/firefox/search/
+Disallow: /ka/firefox/collections/
+Disallow: /ka/thunderbird/search/
+Disallow: /ka/thunderbird/collections/
+Disallow: /ka/android/search/
+Disallow: /ka/android/collections/
+Disallow: /ka/seamonkey/search/
+Disallow: /ka/seamonkey/collections/
+
+Disallow: /kab/firefox/search/
+Disallow: /kab/firefox/collections/
+Disallow: /kab/thunderbird/search/
+Disallow: /kab/thunderbird/collections/
+Disallow: /kab/android/search/
+Disallow: /kab/android/collections/
+Disallow: /kab/seamonkey/search/
+Disallow: /kab/seamonkey/collections/
+
+Disallow: /ko/firefox/search/
+Disallow: /ko/firefox/collections/
+Disallow: /ko/thunderbird/search/
+Disallow: /ko/thunderbird/collections/
+Disallow: /ko/android/search/
+Disallow: /ko/android/collections/
+Disallow: /ko/seamonkey/search/
+Disallow: /ko/seamonkey/collections/
+
+Disallow: /mk/firefox/search/
+Disallow: /mk/firefox/collections/
+Disallow: /mk/thunderbird/search/
+Disallow: /mk/thunderbird/collections/
+Disallow: /mk/android/search/
+Disallow: /mk/android/collections/
+Disallow: /mk/seamonkey/search/
+Disallow: /mk/seamonkey/collections/
+
+Disallow: /mn/firefox/search/
+Disallow: /mn/firefox/collections/
+Disallow: /mn/thunderbird/search/
+Disallow: /mn/thunderbird/collections/
+Disallow: /mn/android/search/
+Disallow: /mn/android/collections/
+Disallow: /mn/seamonkey/search/
+Disallow: /mn/seamonkey/collections/
+
+Disallow: /ms/firefox/search/
+Disallow: /ms/firefox/collections/
+Disallow: /ms/thunderbird/search/
+Disallow: /ms/thunderbird/collections/
+Disallow: /ms/android/search/
+Disallow: /ms/android/collections/
+Disallow: /ms/seamonkey/search/
+Disallow: /ms/seamonkey/collections/
+
+Disallow: /nb-NO/firefox/search/
+Disallow: /nb-NO/firefox/collections/
+Disallow: /nb-NO/thunderbird/search/
+Disallow: /nb-NO/thunderbird/collections/
+Disallow: /nb-NO/android/search/
+Disallow: /nb-NO/android/collections/
+Disallow: /nb-NO/seamonkey/search/
+Disallow: /nb-NO/seamonkey/collections/
+
+Disallow: /nl/firefox/search/
+Disallow: /nl/firefox/collections/
+Disallow: /nl/thunderbird/search/
+Disallow: /nl/thunderbird/collections/
+Disallow: /nl/android/search/
+Disallow: /nl/android/collections/
+Disallow: /nl/seamonkey/search/
+Disallow: /nl/seamonkey/collections/
+
+Disallow: /nn-NO/firefox/search/
+Disallow: /nn-NO/firefox/collections/
+Disallow: /nn-NO/thunderbird/search/
+Disallow: /nn-NO/thunderbird/collections/
+Disallow: /nn-NO/android/search/
+Disallow: /nn-NO/android/collections/
+Disallow: /nn-NO/seamonkey/search/
+Disallow: /nn-NO/seamonkey/collections/
+
+Disallow: /pa-IN/firefox/search/
+Disallow: /pa-IN/firefox/collections/
+Disallow: /pa-IN/thunderbird/search/
+Disallow: /pa-IN/thunderbird/collections/
+Disallow: /pa-IN/android/search/
+Disallow: /pa-IN/android/collections/
+Disallow: /pa-IN/seamonkey/search/
+Disallow: /pa-IN/seamonkey/collections/
+
+Disallow: /pl/firefox/search/
+Disallow: /pl/firefox/collections/
+Disallow: /pl/thunderbird/search/
+Disallow: /pl/thunderbird/collections/
+Disallow: /pl/android/search/
+Disallow: /pl/android/collections/
+Disallow: /pl/seamonkey/search/
+Disallow: /pl/seamonkey/collections/
+
+Disallow: /pt-BR/firefox/search/
+Disallow: /pt-BR/firefox/collections/
+Disallow: /pt-BR/thunderbird/search/
+Disallow: /pt-BR/thunderbird/collections/
+Disallow: /pt-BR/android/search/
+Disallow: /pt-BR/android/collections/
+Disallow: /pt-BR/seamonkey/search/
+Disallow: /pt-BR/seamonkey/collections/
+
+Disallow: /pt-PT/firefox/search/
+Disallow: /pt-PT/firefox/collections/
+Disallow: /pt-PT/thunderbird/search/
+Disallow: /pt-PT/thunderbird/collections/
+Disallow: /pt-PT/android/search/
+Disallow: /pt-PT/android/collections/
+Disallow: /pt-PT/seamonkey/search/
+Disallow: /pt-PT/seamonkey/collections/
+
+Disallow: /ro/firefox/search/
+Disallow: /ro/firefox/collections/
+Disallow: /ro/thunderbird/search/
+Disallow: /ro/thunderbird/collections/
+Disallow: /ro/android/search/
+Disallow: /ro/android/collections/
+Disallow: /ro/seamonkey/search/
+Disallow: /ro/seamonkey/collections/
+
+Disallow: /ru/firefox/search/
+Disallow: /ru/firefox/collections/
+Disallow: /ru/thunderbird/search/
+Disallow: /ru/thunderbird/collections/
+Disallow: /ru/android/search/
+Disallow: /ru/android/collections/
+Disallow: /ru/seamonkey/search/
+Disallow: /ru/seamonkey/collections/
+
+Disallow: /sk/firefox/search/
+Disallow: /sk/firefox/collections/
+Disallow: /sk/thunderbird/search/
+Disallow: /sk/thunderbird/collections/
+Disallow: /sk/android/search/
+Disallow: /sk/android/collections/
+Disallow: /sk/seamonkey/search/
+Disallow: /sk/seamonkey/collections/
+
+Disallow: /sl/firefox/search/
+Disallow: /sl/firefox/collections/
+Disallow: /sl/thunderbird/search/
+Disallow: /sl/thunderbird/collections/
+Disallow: /sl/android/search/
+Disallow: /sl/android/collections/
+Disallow: /sl/seamonkey/search/
+Disallow: /sl/seamonkey/collections/
+
+Disallow: /sq/firefox/search/
+Disallow: /sq/firefox/collections/
+Disallow: /sq/thunderbird/search/
+Disallow: /sq/thunderbird/collections/
+Disallow: /sq/android/search/
+Disallow: /sq/android/collections/
+Disallow: /sq/seamonkey/search/
+Disallow: /sq/seamonkey/collections/
+
+Disallow: /sv-SE/firefox/search/
+Disallow: /sv-SE/firefox/collections/
+Disallow: /sv-SE/thunderbird/search/
+Disallow: /sv-SE/thunderbird/collections/
+Disallow: /sv-SE/android/search/
+Disallow: /sv-SE/android/collections/
+Disallow: /sv-SE/seamonkey/search/
+Disallow: /sv-SE/seamonkey/collections/
+
+Disallow: /te/firefox/search/
+Disallow: /te/firefox/collections/
+Disallow: /te/thunderbird/search/
+Disallow: /te/thunderbird/collections/
+Disallow: /te/android/search/
+Disallow: /te/android/collections/
+Disallow: /te/seamonkey/search/
+Disallow: /te/seamonkey/collections/
+
+Disallow: /th/firefox/search/
+Disallow: /th/firefox/collections/
+Disallow: /th/thunderbird/search/
+Disallow: /th/thunderbird/collections/
+Disallow: /th/android/search/
+Disallow: /th/android/collections/
+Disallow: /th/seamonkey/search/
+Disallow: /th/seamonkey/collections/
+
+Disallow: /tr/firefox/search/
+Disallow: /tr/firefox/collections/
+Disallow: /tr/thunderbird/search/
+Disallow: /tr/thunderbird/collections/
+Disallow: /tr/android/search/
+Disallow: /tr/android/collections/
+Disallow: /tr/seamonkey/search/
+Disallow: /tr/seamonkey/collections/
+
+Disallow: /uk/firefox/search/
+Disallow: /uk/firefox/collections/
+Disallow: /uk/thunderbird/search/
+Disallow: /uk/thunderbird/collections/
+Disallow: /uk/android/search/
+Disallow: /uk/android/collections/
+Disallow: /uk/seamonkey/search/
+Disallow: /uk/seamonkey/collections/
+
+Disallow: /ur/firefox/search/
+Disallow: /ur/firefox/collections/
+Disallow: /ur/thunderbird/search/
+Disallow: /ur/thunderbird/collections/
+Disallow: /ur/android/search/
+Disallow: /ur/android/collections/
+Disallow: /ur/seamonkey/search/
+Disallow: /ur/seamonkey/collections/
+
+Disallow: /vi/firefox/search/
+Disallow: /vi/firefox/collections/
+Disallow: /vi/thunderbird/search/
+Disallow: /vi/thunderbird/collections/
+Disallow: /vi/android/search/
+Disallow: /vi/android/collections/
+Disallow: /vi/seamonkey/search/
+Disallow: /vi/seamonkey/collections/
+
+Disallow: /zh-CN/firefox/search/
+Disallow: /zh-CN/firefox/collections/
+Disallow: /zh-CN/thunderbird/search/
+Disallow: /zh-CN/thunderbird/collections/
+Disallow: /zh-CN/android/search/
+Disallow: /zh-CN/android/collections/
+Disallow: /zh-CN/seamonkey/search/
+Disallow: /zh-CN/seamonkey/collections/
+
+Disallow: /zh-TW/firefox/search/
+Disallow: /zh-TW/firefox/collections/
+Disallow: /zh-TW/thunderbird/search/
+Disallow: /zh-TW/thunderbird/collections/
+Disallow: /zh-TW/android/search/
+Disallow: /zh-TW/android/collections/
+Disallow: /zh-TW/seamonkey/search/
+Disallow: /zh-TW/seamonkey/collections/
+

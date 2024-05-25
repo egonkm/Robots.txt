@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /.search/
+Disallow: /Portal.Node/
+Disallow: /testordner/
+Disallow: /en/testordner/
+Disallow: /it/testordner/
+Disallow: /.syndication/
+Sitemap: https://www.bmk.gv.at/sitemap.xml

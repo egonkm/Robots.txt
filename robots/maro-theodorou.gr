@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /newsite/wp-admin/
+Allow: /newsite/wp-admin/admin-ajax.php
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://maro-theodorou.gr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

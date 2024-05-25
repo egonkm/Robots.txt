@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ns.php?*
+Disallow: /godaddy_api.php?*
+Disallow: /whoiser.php?*
+Disallow: /updater.php?*
+Disallow: /cname.php?*
+Disallow: */link/*
+Disallow: /visit.php
+Disallow: /visit.php?*

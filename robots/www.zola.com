@@ -1,0 +1,32 @@
+# Sitemaps
+Sitemap: https://www.zola.com/sitemap.xml
+Sitemap: https://www.zola.com/sitemap-brands.xml
+Sitemap: https://www.zola.com/sitemap-product-looks.xml
+Sitemap: https://www.zola.com/sitemap-zola.xml
+# Disallows
+User-agent: *
+Disallow: /addr/
+Disallow: /address/
+Disallow: /cart/
+Disallow: /expert-advice/checklist/[page]
+Disallow: /faq/search
+Disallow: /fides/
+Disallow: /inspiration/photo/
+Disallow: /registry/cart/
+Disallow: /registry/collection-item/
+Disallow: /search/
+Disallow: /shop/registries-we-love/
+Disallow: /ssg
+Disallow: /vendor/terms
+Disallow: /wedding-maps
+Disallow: /wedding-planning/admin/
+Disallow: /wedding-planning/digital-save-the-date/*
+Disallow: /wedding-registry/love
+Disallow: /wedding-registry/promotion/
+Disallow: /wedding/*/virtual/
+Disallow: /wedding/promotion/
+Disallow: /wedding-planning/website/designs
+Disallow: /wedding-planning/website/design/
+# Allow Overrides
+# Grant access for Find a Couple
+Allow: /search/wedding-registry

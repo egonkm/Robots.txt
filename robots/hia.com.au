@@ -1,0 +1,15 @@
+Sitemap: https://hia.com.au/sitemap.xml
+User-agent: *
+Allow: /sitemap.xml
+Disallow: /myhia/
+Disallow: /myhia/personal-details/
+Disallow: /myhia/digital-downloads/
+Disallow: /myhia/invoices/
+Disallow: /business-support/hia-tradepass/hia-tradepass-for-builders/builders-thank-you-page/
+Disallow: /business-support/hia-tradepass/hia-tradepass-for-contractors/contractors-thank-you-page/
+Disallow: /products_old/
+Disallow: /sitecore/content/home/
+Disallow: /404/
+Disallow: /signup/activate/
+
+

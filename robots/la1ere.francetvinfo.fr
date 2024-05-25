@@ -1,0 +1,33 @@
+User-agent: *
+
+# Paths (clean URLs)
+Disallow: /playlist-histoires-14-18/
+Disallow: */diffusion/*
+
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+Disallow: /?q=static/
+
+#Spider-trap
+Disallow: /*related-data/
+Disallow: /*same-topic-data/
+Disallow: /*rss-data/
+Disallow: /*grands-dossiers-data/
+Disallow: /*ecouter-outremer-data/
+
+Disallow: *html?marketing=
+Disallow: *html?fbclid=
+Disallow: *html?gclid=
+Disallow: *html?hash=
+Disallow: *html?affId=
+Disallow: *html?trk=
+
+Disallow: /bandeau-api/*
+Disallow: /api/menu/franceinfo

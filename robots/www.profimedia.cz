@@ -1,0 +1,19 @@
+# see http://www.robotstxt.org/orig.html for documentation
+User-agent: *
+
+Allow: /$
+Allow: /contact
+Allow: /about-us
+
+Allow: /img/*
+Allow: /static/*
+
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.png$
+
+Allow: /*.js$
+Allow: /*.css$
+
+Disallow: /

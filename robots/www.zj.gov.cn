@@ -1,0 +1,13 @@
+User-agent: * 
+Disallow:/module/
+Disallow: /?*
+User-agent: EtaoSpider
+Disallow: /
+User-agent: HuihuiSpider
+Disallow: /
+User-agent: GwdangSpider
+Disallow: /
+User-agent: WochachaSpider
+Disallow: /
+User-agent:Bytespider
+Disallow: / 

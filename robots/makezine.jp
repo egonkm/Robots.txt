@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /event/wp-content/themes/makerfairetokyo/mft2016/pdf/

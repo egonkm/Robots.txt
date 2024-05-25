@@ -1,0 +1,4 @@
+# Bloque l'indéxation de toutes les pages pour les robots sauf l'accueil et le SiteMap
+User-agent: *
+Disallow: *
+Allow: /index.jsp

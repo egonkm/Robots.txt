@@ -1,0 +1,2 @@
+-en User-agent: *
+Disallow: /

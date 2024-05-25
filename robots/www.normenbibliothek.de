@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /$
+Allow: /sso/headless/authenticate/login
+Allow: /vde-xaveropp/normenbibliothek/start.xav
+Allow: /vde-xaveropp/normenbibliothek/XAMSSO.xav
+Allow: /vde-xaveropp/normenbibliothek/static/failedlogin
+Allow: /vde-xaveropp/normenbibliothek/extern/
+Allow: /vde-xaveropp-statics/
+Disallow: /

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /readme.html
+Disallow: /go/
+Disallow: /player/
+Disallow: /match/
+Disallow: /team/
+Disallow: /ranglijst/
+Disallow: /pools/
+Disallow: /voorspellen/
+Disallow: /table/
+Disallow: /tag/
+Disallow: /joomsport_matchday/
+Disallow: /venue/
+Disallow: *wp-login*
+Disallow: /wp-admin/admin-ajax.php?action=*
+ 
+Sitemap: https://intikkertje.nl/sitemap_index.xml

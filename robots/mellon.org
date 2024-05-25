@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /search
+Disallow: /grant-story/great-wall-of-la
+
+User-Agent: GPTBot
+User-Agent: ChatGPT-User
+User-Agent: Google-Extended
+Disallow: /
+
+Sitemap: https://mellon.org/sitemap-index.xml

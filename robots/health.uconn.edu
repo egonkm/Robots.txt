@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /find-a-provider-2/
+Disallow: /find-a-provider/physician/Clement-Jessica
+Disallow: /*?s=
+Disallow: /*?*&s=
+
+Sitemap: https://health.uconn.edu/sitemap.xml

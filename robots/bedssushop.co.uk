@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /omnis/v3/product-feed/
+Disallow: /omnis/v3/events/logEvent/
+Disallow: /omnis/v3/blog/log/viewed/
+Allow: /
+Sitemap: https://bedssushop.co.uk/sitemap.xml

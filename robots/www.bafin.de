@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /SiteGlobals/
+Disallow: /SharedDocs/Bilder/DE/Artikel/Fintech_DAOS
+Disallow: /SharedDocs/Kontaktdaten/
+Disallow: /DE/Service/
+Disallow: /EN/Service/
+Disallow: /DE/_pgb/
+Disallow: /Login/
+Disallow: /LoginDefault/
+Disallow: /NoIndex/
+Allow: /SiteGlobals/Modules/
+Allow: /SiteGlobals/StyleBundles/
+Allow: /SiteGlobals/Frontend/
+Crawl-delay: 30

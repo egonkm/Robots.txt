@@ -1,0 +1,20 @@
+Sitemap: https://shop.oebb.at/de/sitemap/oebb_de_sitemap.xml
+Sitemap: https://shop.oebb.at/de/sitemap/oebb_en_sitemap.xml
+
+User-agent: *
+Disallow: /index.php/
+Disallow: /*?
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /errors/
+Disallow: /*SID=
+                

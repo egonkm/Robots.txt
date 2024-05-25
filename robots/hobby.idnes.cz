@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /diskuse.asp*reakce=
+Disallow: /diskuse.asp*vlakno=
+Disallow: /diskuse.asp*strana=
+Disallow: /diskuse.asp*razeni=
+Disallow: /tiskni.asp
+Disallow: /Tiskni.asp
+Disallow: /*/ankety.asp
+Disallow: /*/Ankety.asp
+Disallow: /ankety.asp*hlasuj
+Disallow: /clanek.aspx?c=*
+Disallow: /Clanek.aspx?c=*
+Disallow: /*/clanek.aspx?c=*
+Disallow: /*/Clanek.aspx?c=*
+Disallow: /export/
+Disallow: /data.aspx
+Disallow: /*/undefined
+
+User-agent: MachineLearning
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://hobby.idnes.cz/sitemap.aspx?type=sitemap

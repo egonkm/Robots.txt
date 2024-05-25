@@ -1,0 +1,5 @@
+User-agent: *
+Allow:
+Disallow: /error.html
+
+Sitemap: https://www.hurricanemedia.net/sitemap.xml

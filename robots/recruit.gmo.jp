@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /rookies/archive/
+Noindex: /rookies/archive/
+Sitemap: https://recruit.gmo.jp/sitemap.xml

@@ -1,0 +1,4 @@
+Sitemap: https://events.uconn.edu/sitemap.livewhale.xml
+
+User-agent: *
+Disallow: *?replytocom

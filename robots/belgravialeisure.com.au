@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /author/
+Disallow: /search/{search_term_string}/feed/rss2/
+Disallow: /?s={search_term_string}
+Disallow: /cgi-bin/
+Sitemap: https://belgravialeisure.com.au/sitemap_index.xml

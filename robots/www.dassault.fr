@@ -1,0 +1,12 @@
+User-agent: *
+Disallow:/order
+Disallow:/member
+Disallow:/admin
+Disallow:/inc/struct
+Disallow:/inc/bloc
+Disallow:/inc/ajax
+Disallow:/inc/grid
+Disallow:/inc/cmd
+Disallow:/lib
+Disallow:/private
+

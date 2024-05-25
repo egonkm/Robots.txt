@@ -1,0 +1,11 @@
+Sitemap: https://www.vr-smart-finanz.de/sitemap.xml
+
+
+User-agent: *
+Disallow: /cpresources/
+Disallow: /static/
+Disallow: /storage/
+Disallow: /agb/
+Disallow: /assets/media/media/vrsf/storage/
+Disallow: /assets/media/media/vrsf/storage/bpb/
+

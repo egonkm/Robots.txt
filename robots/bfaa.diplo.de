@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /WEB-INF/
+Disallow: /blueprint/WEB-INF/
+Disallow: /static/appdata/
+
+Sitemap: https://bfaa.diplo.de/xx-de/sitemap_index.xml
+Sitemap: https://bfaa.diplo.de/xx-xx/sitemap_index.xml

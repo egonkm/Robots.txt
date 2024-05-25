@@ -1,0 +1,3 @@
+Sitemap: https://employment.ucsd.edu/sitemap.xml
+User-agent: *
+Disallow: /api/

@@ -1,0 +1,8 @@
+User-Agent: JoobleBot
+Disallow: /
+
+User-Agent: SemrushBot
+Disallow: /
+
+User-Agent: *
+Disallow: */rest/*

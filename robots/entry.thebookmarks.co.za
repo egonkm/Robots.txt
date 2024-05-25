@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /index.aspx
+Allow: /loeries2017.aspx
+Disallow: /default.aspx
+Disallow: /loeries2016.aspx
+Disallow: /finalists.aspx
+Disallow: /judging.aspx
+Disallow: /LoeriesJudging.aspx
+Disallow: /pendoringjudging.aspx
+Disallow: /pendoringremote.aspx
+Disallow: /remote.aspx
+Disallow: /winners.aspx

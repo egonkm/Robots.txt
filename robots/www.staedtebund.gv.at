@@ -1,0 +1,62 @@
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: OvalEarthBot
+Disallow: /
+
+User-agent: Pixray-Seeker
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: Flamingo_SearchEngine
+Disallow: /
+
+User-agent: BLP_bbot/0.1
+Disallow: /
+
+User-agent: BLP_bbot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: AnthropicBot
+Disallow: /
+
+User-agent: Claude
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-Agent: FacebookBot
+Disallow: /
+
+
+User-agent: *
+#Disallow: /fileadmin/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3cоnf/
+#Disallow: /typo3temp/
+Disallow: /*?id=*
+Disallow: /*&type=98
+Disallow: /*&type=100
+Disallow: /*&type=102
+Disallow: /*&type=111
+Disallow: /*?tx_felogin_pi1
+Disallow: /matomo/
+
+  
+Sitemap: https://www.staedtebund.gv.at/sitemap.xml

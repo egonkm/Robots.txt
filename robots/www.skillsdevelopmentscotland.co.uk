@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /umbraco/
+Sitemap: https://www.skillsdevelopmentscotland.co.uk/sitemap.xml

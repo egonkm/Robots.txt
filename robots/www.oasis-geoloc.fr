@@ -1,0 +1,49 @@
+User-agent: *
+Disallow: /admin/
+
+Disallow: /include/
+
+Disallow: /mobile/
+Disallow: /newsletter/
+Disallow: /barcode/
+Disallow: /caisse/
+Disallow: /carto/
+Disallow: /editeur/
+Disallow: /Scripts/
+Disallow: /signature/
+Disallow: /synchro/
+Disallow: /tiny_mce/
+Disallow: /tmp/
+Disallow: /upload/pdf/
+Disallow: /dhtml/download.php
+Disallow: page_gabarit.m.php
+Disallow: /*?add_filters=.*
+Disallow: /*&add_filters=.*
+Disallow: */?filtres=.*
+Disallow: /*?preview=.*
+Disallow: /*&preview=.*
+Disallow: /*?from_editor=.*
+Disallow: /*&from_editor=.*
+Allow: /themes/html/css/*.css
+Allow: /themes/html/js/*.js
+Allow: /themes/html/img/
+Allow: /themes/html/font/
+Allow: /themes/html/fonts/
+Allow: /themes/mobile/css/*.css
+Allow: /themes/mobile/js/*.js
+Allow: /themes/mobile/img/
+Allow: /themes/mobile/fonts/
+Allow: /themes/html_responsive/css/*.css
+Allow: /themes/html_responsive/js/*.js
+Allow: /themes/html_responsive/img
+Allow: /themes/html_responsive/fonts
+Allow: /themes/html/modeles/*
+Allow: /themes/html_1603/modeles/*
+Allow: /themes/html_1708/modeles/*
+Allow: /themes/html_responsive/modeles/*
+
+Disallow: /themes/
+Sitemap: https://www.oasis-geoloc.fr/sitemap-index.xml
+
+User-Agent: aranhabot
+Disallow: /

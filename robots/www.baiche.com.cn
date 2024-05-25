@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /city*
+Disallow: /car/inquiry/*
+Disallow: /file/*
+Disallow: /v1/city*
+Disallow: /api/*
+Disallow: /file/upload/*
+Disallow: /search?keyword*
+Disallow: /mobile/

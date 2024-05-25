@@ -1,0 +1,24 @@
+User-agent: AhrefsBot
+Disallow:/
+
+User-agent: Exabot
+Disallow:/
+
+User-agent: *
+#Disallow: /internal_redirect/
+Disallow: /group/*
+Disallow: /user/*
+Disallow: /c/portal/login*
+Disallow: /*/group/control_panel*
+Disallow: /*doAsUserId=*
+Disallow: /*p_p_id=customlogin*
+
+Disallow: */busqueda
+Disallow: */search
+Disallow: */rechercher
+Disallow: */suche
+#Disallow: */media/
+Disallow: */liferay-
+#Crawl-delay: 30
+
+Sitemap: https://www.andalucia.org/sitemap.xml

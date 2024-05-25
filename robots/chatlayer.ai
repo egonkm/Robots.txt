@@ -1,0 +1,14 @@
+Sitemap: https://chatlayer.ai/sitemap.xml
+Sitemap: https://chatlayer.ai/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /chatlayer-admin-login-albatros/
+Disallow: /whatsapp/
+Disallow: /messenger/
+Disallow: /viber/
+Disallow: /google-assistant/
+Disallow: /web/
+Disallow: /rcs/
+Disallow: /sms/
+Disallow: /youri-test-space/
+Allow: /wp-admin/admin-ajax.php

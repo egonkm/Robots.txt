@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /fr$
+Allow: /en$
+Allow: /nl$
+Allow: /de$
+Allow: /fr/$
+Allow: /en/$
+Allow: /nl/$
+Allow: /de/$
+Allow: /$
+Disallow: /

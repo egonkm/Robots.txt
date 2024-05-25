@@ -1,0 +1,106 @@
+#robots.txt for https://mobile.1und1.de
+#06. Mai, 2023
+
+#Sitemap 
+Sitemap:https://mobile.1und1.de/sitemap.xml
+
+User-agent:* 
+
+#Folder disallows
+Disallow:/.well-known/
+Disallow:/xml/
+Disallow:/static/
+Disallow:/modules/
+Disallow:/business-tablets-und-laptops/
+
+#Templates
+Disallow:/sea-tarif-page
+Disallow:/seo-landing-access-preview
+Disallow:/seo-landing-access
+Disallow:/landing-seo-tariff
+
+#Pages
+Disallow:/search
+Disallow:/smartphone-bewertung-schreiben
+Disallow:/smartphone-bewertung-schreiben-login
+Disallow:/smartphone-bewertung-schreiben-nutzungsbedingungen
+Disallow:/smartphone-bewertung-schreiben-richtlinien
+Disallow:/LieferAdresse
+Disallow:/details-bestellung
+Disallow:/lieferbedingungen
+
+
+#Folder Handling
+
+#Index only root of business-smartphones, not folder
+Allow:/business-smartphones/$
+Disallow:/business-smartphones/*
+
+#Index only root of bvb-aktion, not folder
+Allow:/bvb-aktion/$
+Disallow:/bvb-aktion/*
+
+#Disallow young-smartphones folder
+Disallow:/young-smartphones/
+
+#AllNetFlat Aktion double indexing prevention
+Disallow:/all-net-flat-aktion-smartphones/
+
+#Disallow Startguthaben folder
+https://mobile.1und1.de/startguthaben/
+
+
+#Indexing
+Allow:/*?ac=
+Allow:/*?color=
+Allow:/*?size=
+Allow:/*?chosenTariff=
+Allow:/*?cdpFlow=
+Disallow:/*?kwk=
+Disallow:/*?ps_id=
+Disallow:/*?hwid=
+Disallow:/*?article=
+Disallow:/*?actioncode=
+Disallow:/*?__lf=
+Disallow:/*?__sign=
+Disallow:/*?bk-special=
+Disallow:/*?contact.category=
+Disallow:/*?fbclid=
+Disallow:/*?hotline=
+Disallow:/*?ID=
+Disallow:/*?label=
+Disallow:/*?linkId=
+Disallow:/*?linkOrigin=
+Disallow:/*?mc=
+Disallow:/*?new_sLanguage=
+Disallow:/*?owner=
+Disallow:/*?ref=
+Disallow:/*?tags=
+Disallow:/*?ucuoId=
+Disallow:/*?zanpid=
+Disallow:/*?zxuid=
+Disallow:/*.php
+#Cart Parameter indexing
+Disallow:/*?cart.action=
+Disallow:/*?cart.bundle=
+Disallow:/*?cart.prepend=
+Disallow:/*?__sendingdata=
+Disallow:/*?__forcestop=
+
+#All general disallows
+User-agent:SlySearch
+Disallow:/
+User-agent:SmartDownload
+Disallow:/
+User-agent:SpankBot
+Disallow:/
+User-agent:spanner
+Disallow:/
+User-agent:SuperBot
+Disallow:/
+User-agent:SupperHTTP
+Disallow:/
+User-agent:Surfbot
+Disallow:/
+User-agent:ia_archiver
+Disallow:/

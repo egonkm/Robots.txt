@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow:
+Sitemap: http://www.esfcr.cz/sitemap.xml
+
+# WellKnown backlink bots disallow due to performance issues
+User-agent: AhrefsBot
+User-agent: Ahrefs
+User-agent: AhrefsSiteAudit
+User-agent: Rogerbot
+User-agent: MJ12bot
+Disallow: /

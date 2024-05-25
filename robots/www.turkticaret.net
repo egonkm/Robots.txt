@@ -1,0 +1,22 @@
+User-Agent: *
+Disallow: /*Sanal.Ofis/Sifre.Degistir/
+Disallow: /*Sanal.Ofis/Sifre.Degistir
+Disallow: /*Sanal.Ofis/Kullanici.Kayit/
+Disallow: /*Sanal.Ofis/Kullanici.Kayit
+Disallow: /*Sanal.Ofis/Sifremi.Unuttum/
+Disallow: /*Sanal.Ofis/Sifremi.Unuttum
+Disallow: /*Sanal.Ofis/
+Disallow: /*Sanal.Ofis
+Disallow: /phplive/
+Disallow: /siberhosting/sepete_ekle.php
+Disallow: /siberhosting/ssl_hizli_at.php
+Disallow: /siberhosting/sb_order.php
+Disallow: /siberhosting/sepet-urun.php
+Disallow: /siberhosting/usermanage/
+Disallow: /members/
+Disallow: /siberhosting/yorum/yorum_yaz.php
+Disallow: /firma-bilgileri
+Disallow: /Firma
+Disallow: /wp-admin/
+
+Sitemap: https://www.turkticaret.net/sitemap.xml

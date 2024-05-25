@@ -1,0 +1,16 @@
+User-agent: *
+Sitemap: https://aiartmaster.co/static-sitemap.xml
+Sitemap: https://aiartmaster.co/gallery-post-sitemap-index.xml
+
+
+Allow: *.css
+Allow: *.js# global
+Disallow: /wp-admin/
+
+User-agent: turnitinbot
+User-agent: NPBot
+User-agent: ia_archiver
+User-agent: webzip
+User-agent: OmniExplorer_Bot
+User-agent: BoardReader
+Disallow: /

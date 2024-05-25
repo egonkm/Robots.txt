@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Web site created using create-react-app" />
+    <link rel="apple-touch-icon" href="/logo192.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="stylesheet" href="./lib/leaflet.css" />
+    <script src="./lib/leaflet.js"></script>
+    <title>国家地理信息公共服务平台 天地图</title>
+    <script defer="defer" src="/static/js/main.9ee1ce3c.js"></script>
+    <link href="/static/css/main.d056a497.css" rel="stylesheet">
+</head>
+
+<body><noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script>window.TDT_CONFIG = { maptoken: "0b79a07d2808103ab84aa56485c331a8", map: { URL: "https://t4.tianditu.gov.cn", SHEETNUMBER: "GS（2024）0568号" }, header_url: { index: "https://www.tianditu.gov.cn/", developingResources: "http://lbs.tianditu.gov.cn/", catalogueAchievements: "http://mulu.tianditu.gov.cn/", archiveResources: "https://www.tianditu.gov.cn/portal", standardSpecification: "https://www.tianditu.gov.cn/portal/bzgf", online_updates: "https://vgimap.tianditu.gov.cn/", service_center: "https://cloudcenter.tianditu.gov.cn/", online_map: "https://map.tianditu.gov.cn/", multi_temporal_imaging: "https://image.tianditu.gov.cn/", developing_resources: "http://lbs.tianditu.gov.cn/", standard_map: "http://bzdt.ch.mnr.gov.cn/", developer_url: "https://console.tianditu.gov.cn/api/key",userCenter_url:"https://uums.tianditu.gov.cn/enterpriseInfo",register_url:"https://uums.tianditu.gov.cn/register",announcement_url:"https://www.ngcc.cn/xwzx/tzgg/202404/t20240424_2409.html", map_api: "http://lbs.tianditu.gov.cn/server/MapService.html", page_api: "http://lbs.tianditu.gov.cn/api/js4.0/guide.html", place_name_search_url: "http://lbs.tianditu.gov.cn/server/search2.html", reverse_geocoding: "http://lbs.tianditu.gov.cn/server/geocoding.html", geocoding_url: "http://lbs.tianditu.gov.cn/server/geocodinginterface.html", administrative_division: "http://lbs.tianditu.gov.cn/server/administrative.html", driving_planning_url: "http://lbs.tianditu.gov.cn/server/drive.html", static_map_url: "http://lbs.tianditu.gov.cn/staticapi/static.html", dataApi: "http://lbs.tianditu.gov.cn/data/dataapi.html", visualization_administrative_divisions: "https://cloudcenter.tianditu.gov.cn/administrativeDivision", global_surface_coverage_url: "https://cloudcenter.tianditu.gov.cn/landCover" }, FOOTER: { ABOUT_ONE: "https://www.tianditu.gov.cn/about/", ABOUT_TWO: "https://www.tianditu.gov.cn/about/service", ABOUT_THREE: "https://www.tianditu.gov.cn/about/copyright", ABOUT_FOUR: "https://www.tianditu.gov.cn/about/contact", MESSAGE: "https://www.tianditu.gov.cn/message/", FEEDBACK: "https://www.tianditu.gov.cn/feedback", RECORD: "http://www.miitbeian.gov.cn/", RECORDCODE: "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202008132", url: { pointErrorUrl: "https://www.tianditu.gov.cn/feedback/#/placeError", prevMapUrl: "https://map.tianditu.gov.cn/2020", adminVectorUrl: "https://tile0.tianditu.gov.cn/" } } }</script>
+</body>
+
+</html>

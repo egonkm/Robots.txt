@@ -1,0 +1,143 @@
+<!doctype html>
+<html class="ls-main">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Is my site using HTTP3? Check HTTP3 service on any URL. Test QUIC service, too.">
+    <title>HTTP/3 Check</title>
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css" />
+    <!-- UIkit JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit-icons.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:400" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="icon" type="image/png" href="/static/favicon-32x32.png" />
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T8Z9663');</script>
+    <!-- End Google Tag Manager -->
+</head>
+
+
+<body class="ls-body">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T8Z9663"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="uk-container">
+    <div class="uk-align-center" style="margin-bottom:70px;">
+    <div class="uk-margin-auto uk-margin-large-top uk-grid-small" uk-grid>
+        <div class="uk-width-1-1" style="padding:0;">
+            <div class="uk-width-1-1 uk-width-1-2@s uk-width-2-5@m uk-margin-auto">
+                <a href="/">
+                    <div class="ls-http3check-logo uk-align-center" style="margin-bottom: 0px;"></div>
+                </a>
+            </div>
+        </div>
+        <div class="uk-width-1-1 uk-container" style="margin-top:0px;">
+            <div class="uk-width-1-1 uk-width-1-2@s uk-width-2-5@m uk-margin-auto">
+                <a href="https://www.litespeedtech.com/" target='_blank'>
+                    <div class="uk-text-center uk-text-small uk-text-muted uk-margin-medium-left">
+                        <span uk-icon="icon:bolt; ratio:.75" class="uk-text-warning"></span>Powered By LiteSpeed
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="uk-margin-auto uk-margin-top uk-width-expand uk-width-3-4@s uk-width-2-3@m uk-position-relative">
+        <ul class="uk-flex-center@s" uk-tab="connect:.switcher-main;animation:uk-animation-fade;duration:125;">
+            <li><a href="#"><small>Standard</small></a></li>
+            <li><a href="#"><small>Advanced</small></a></li>
+        </ul>
+        <div class="uk-position-top-right uk-margin-top-small ls-about">
+            <a class="ls-about-link uk-link-muted" href="/about"><small>About</small></a>
+        </div>
+        <div class="uk-switcher switcher-main">
+            <div>
+                <div class="uk-padding-small uk-border-rounded uk-box-shadow">
+                    <form id="standard-form" method="get" class="uk-search uk-search-navbar uk-width-1 uk-flex" style="padding-left:10px;">
+                        <input class="uk-search-input" type="search" name="host" placeholder="Hostname" autofocus>
+                    </form>
+                </div>
+                <div class="uk-padding-small">
+                    <div class="uk-margin-auto" uk-grid>
+                        <button class="uk-margin-auto uk-width-4-5 uk-width-3-5@s uk-width-2-5@m uk-button uk-button-primary uk-border-rounded" type="submit" form="standard-form">Check</button>
+                    </div>
+                </div>
+                <h3 class="uk-heading-line uk-text-center uk-margin-medium-top"><span>Popular Searches</span></h3>
+                <div class="uk-padding-small uk-child-width-1-2@s uk-text-center uk-grid-small" uk-grid>
+                    <div>
+                        <a class="ls-suggestion-link" href="/?host=www.facebook.com">
+                            <div class="ls-suggestion ls-suggestion-1 uk-card uk-card-body uk-card-small" style="padding:20px 10px;">www.facebook.com</div>
+                        </a>
+                    </div>
+                    <div>
+                        <a class="ls-suggestion-link" href="/?host=www.litespeedtech.com">
+                            <div class="ls-suggestion ls-suggestion-10 uk-card uk-card-body uk-card-small">www.litespeedtech.com</div>
+                        </a>
+                    </div>
+                    <div>
+                        <a class="ls-suggestion-link" href="/?host=www.http3check.net">
+                            <div class="ls-suggestion ls-suggestion-1 uk-card uk-card-body uk-card-small">www.http3check.net</div>
+                        </a>
+                    </div>
+                    <div>
+                        <a class="ls-suggestion-link" href="/?host=www.google.com">
+                            <div class="ls-suggestion ls-suggestion-10 uk-card uk-card-body uk-card-small">www.google.com</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-padding uk-border-rounded uk-box-shadow-small" style="padding-top: 25px;">
+                <p class="uk-text-center uk-text-small">Use Advanced Search to bypass hostname resolution and use a custom IP address or port.</p>
+                <form method="get" class=" uk-grid-small uk-align-center" uk-grid>
+                    <div class="uk-width-1-1">
+                        <div class="uk-grid-small" uk-grid>
+                            <div class="uk-width-extend uk-width-1-6@s">
+                                <div class="uk-form-label">Address</div>
+                            </div>
+                            <div class="uk-width-extend uk-width-1-2@m">
+                                <input class="uk-input uk-border-rounded" type="text" name="ip" placeholder="IP Address">
+                            </div>
+                            <div class="uk-width-extend uk-width-1-5@m">
+                                <input class="uk-input uk-border-rounded valid-input" type="text" name="port" value="443" placeholder="Port">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uk-width-1-1">
+                        <div class="uk-form-controls uk-grid-small" uk-grid>
+                            <div class="uk-width-extend uk-width-1-6@s">
+                                <div class="uk-form-label">Host</div>
+                            </div>
+                            <div class="uk-width-extend uk-width-1-2@m">
+                                <input class="uk-input uk-border-rounded" type="text" name="host" placeholder="Hostname" required>
+                            </div>
+                            <div class="uk-width-extend uk-width-1-4@m">
+                                <button class="uk-width-extend uk-button uk-button-primary uk-border-rounded" type="submit">Check</button>
+                            </div>
+                        </div>
+                    </div>
+                    <input type="text" name="advanced" value="true" hidden>
+                </form>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="ls-footer uk-box-shadow-small" uk-grid>
+        <div class="uk-width-1-1">
+            <div class="uk-width-extend uk-width-1-2@s uk-margin-auto">
+                <p>
+                    Copyright &copy; 2019 - 2023 <a href="https://www.litespeedtech.com/" target="_blank">LiteSpeed Technologies Inc</a><br>
+                    All Rights Reserved. (<a href="https://www.litespeedtech.com/company/privacy-policy" target="_blank">Privacy Policy</a>)
+                </p>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: 
+Crawl-delay: 10
+Disallow:/DownLoadInfo/
+Disallow:/Templete/
+Disallow:/Generate/
+Disallow:/Tools/
+Disallow:/ExportProject/
+
+sitemap: http://www.bhi.com.cn/SiteMap/SiteMap.html
+sitemap: http://projectinfo.bhi.com.cn/sitemap.xml
+
+User-agent: YisouSpider
+Disallow: /

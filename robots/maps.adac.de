@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /route?*
+Disallow: /route/?*
+Sitemap: https://maps.adac.de/sitemap-index.xml

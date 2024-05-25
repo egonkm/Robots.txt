@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Citrix Secure Sign In</title>
+        <link rel="shortcut icon" href="/identity/favicon.ico" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    </head>
+    <body style="background-color: #39404d">
+        <div id="app"></div>
+        <script nonce="hmHfv0lYUE8U1Z3CKPCgPAglfNXTop+cBEwVLxN9/0E=">
+            __REACT_DEVTOOLS_GLOBAL_HOOK__ = parent.__REACT_DEVTOOLS_GLOBAL_HOOK__
+        </script>
+        <script nonce="hmHfv0lYUE8U1Z3CKPCgPAglfNXTop+cBEwVLxN9/0E=" id="modelJson" type="application/json">{&quot;responseCode&quot;:null,&quot;idpUi&quot;:null,&quot;brandingInfo&quot;:null,&quot;captchaSiteKey&quot;:&quot;6LdPbG0UAAAAAP5w6Vp-O2vBYEEr1NFAadgVerWO&quot;,&quot;enrollmentInput&quot;:{&quot;userName&quot;:null,&quot;oid&quot;:null,&quot;authDomainName&quot;:null,&quot;productName&quot;:null,&quot;credentialId&quot;:null,&quot;deviceName&quot;:null},&quot;signInPolicy&quot;:null,&quot;loginUrl&quot;:&quot;https://accounts.cloud.com/core/login?ReturnUrl=%2Fcore%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DRtmydVjvjLZBbU3qU3b8eQ%253D%253D%26redirect_uri%3Dhttps%253A%252F%252Fcitrix.cloud.com%252Foauth%26response_type%3Dcode%26scope%3Dopenid%2520email%2520profile%2520ctx_principal_aliases%2520offline_access%2520ctx_universal%2520ctx_adoid%2520allow_compressed_groups%26state%3Dhttps%253A%252F%252Fcitrix.cloud.com%252Foauth.8bed0241-2038-4e12-917b-ce5382d5b2c5&quot;,&quot;antiForgery&quot;:{&quot;name&quot;:&quot;idsrv.xsrf&quot;,&quot;value&quot;:&quot;CfDJ8AnqYHPyqPpApslkSUs3quyrkT5vJVCUo-DXN-jcMtkM9-M4AwBmU5yOiag5VvJh1joJbHur0uUsYFDVFLKR1mkmI83PVy2gWVzWynfQpkJ3KmGKaFF9CvOsi2C6GjUOiO1SRaY3znvG_7jzTlMe93M&quot;},&quot;allowRememberMe&quot;:false,&quot;rememberMe&quot;:false,&quot;username&quot;:null,&quot;externalProviders&quot;:null,&quot;additionalLinks&quot;:null,&quot;clientName&quot;:&quot;citrix-cloud-production&quot;,&quot;clientUrl&quot;:&quot;console-vnext&quot;,&quot;clientLogoUrl&quot;:null,&quot;employeeLoginUrl&quot;:&quot;https://accounts.cloud.com/core/connect/authorize?client_id=RtmydVjvjLZBbU3qU3b8eQ==&amp;scope=openid email profile ctx_principal_aliases offline_access ctx_universal ctx_adoid allow_compressed_groups&amp;response_type=code&amp;credential_type=user&amp;redirect_uri=https://citrix.cloud.com/oauth&amp;acr_values=product:employee tenant:citritelogin&amp;state=https://citrix.cloud.com/oauth.8bed0241-2038-4e12-917b-ce5382d5b2c5&quot;,&quot;includeTracking&quot;:true,&quot;errorMessage&quot;:null,&quot;requestId&quot;:&quot;00-c3c69cc09148f10c3c12c87a5749ee0f-f269cae935d9bd88-00&quot;,&quot;transactionId&quot;:null,&quot;siteUrl&quot;:&quot;https://accounts.cloud.com/core&quot;,&quot;siteName&quot;:&quot;Citrix Secure Sign In&quot;,&quot;currentUser&quot;:null,&quot;logoutUrl&quot;:&quot;logout&quot;,&quot;theme&quot;:&quot;console-vnext&quot;,&quot;custom&quot;:{&quot;enabledFeatures&quot;:[&quot;ConsoleVnextNativePasswordReset&quot;,&quot;ConsoleVnextNativeForgotUsername&quot;,&quot;BackupEmail&quot;,&quot;EnableEmployeeOktaLogin&quot;],&quot;companyCredentialsUrl&quot;:&quot;citrix.cloud.com/go/&quot;},&quot;mfaStatus&quot;:null,&quot;nonceValue&quot;:&quot;hmHfv0lYUE8U1Z3CKPCgPAglfNXTop+cBEwVLxN9/0E=&quot;}</script>
+    <script nonce="hmHfv0lYUE8U1Z3CKPCgPAglfNXTop+cBEwVLxN9/0E=" type="text/javascript" src="/identity/assetsv2/common.js"></script><script nonce="hmHfv0lYUE8U1Z3CKPCgPAglfNXTop+cBEwVLxN9/0E=" type="text/javascript" src="/identity/assetsv2/app.js"></script></body>
+</html>

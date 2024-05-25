@@ -1,0 +1,967 @@
+
+    
+    <!doctype html>
+
+    <!--[if IE 7]>
+    <html dir="ltr" lang="fr" class="no-js ie ie7 ie-lt8 ie-lt9"><![endif]-->
+    <!--[if IE 8]>
+    <html dir="ltr" lang="fr" class="no-js ie ie8 ie-lt9"><![endif]-->
+    <!--[if gte IE 9]>
+    <html dir="ltr" lang="fr" class="no-js ie"><![endif]-->
+    <!--[if !IE]><!-->
+    <html class="no-js" dir="ltr" lang="fr">
+    <!--<![endif]-->
+
+
+    
+    <head>
+        <meta charset="utf-8"/>
+        
+
+        
+
+    </meta>
+    </meta>
+    
+
+
+        
+
+        <script>
+          ! function(e) {
+            var a = e.style;
+            e.className = "js" + (void 0 == a.flexWrap && void 0 == a.WebkitFlexWrap && void 0 == a.msFlexWrap ? " no-flexwrap" : "");
+          }(document.documentElement);
+        </script>
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+        
+        
+            <title>Portail de la fonction publique - Luxembourg</title>
+        
+
+        
+            <meta name="description" content="Trouvez ici toutes les informations sur le coronavirus COVID-19, ainsi que sur ses symptÃ´mes, sa transmission, et les bons gestes pour assurer sa protection et celle de ses proches. AccÃ©dez au catalogue des formations disponibles. La Fonction publique a vocation..."/>
+        
+        
+
+        
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/img/favicons/apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/img/favicons/favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/img/favicons/favicon-16x16.png"/>
+    <link rel="manifest" href="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/img/favicons/site.webmanifest"/>
+    <link rel="mask-icon" href="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/img/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+    <link rel="shortcut icon" href="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/img/favicons/favicon.ico"/>
+    <meta name="msapplication-TileColor" content="#b91d47"/>
+    <meta name="msapplication-TileImage" content="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/img/favicons/mstile-144x144.png"/>
+    <meta name="msapplication-config" content="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/img/favicons/browserconfig.xml"/>
+    <meta name="theme-color" content="#ffffff"/>
+
+        
+    <!--[if gte IE 9]><!-->
+
+    
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default.min.css" type="text/css">
+
+
+
+    
+    <!--<![endif]-->
+    <!--TODO : check path for this item -->
+    
+
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/css/ie.css"/>
+    <![endif]-->
+
+    
+
+
+
+
+        
+
+
+        
+            <script type="opt-in" data-type="application/javascript" data-name="adobedtm" data-src="//assets.adobedtm.com/990f8e50757a/e981bf2c9221/launch-c003663ce2e3.min.js" async></script>
+        
+        
+
+    <!-- Facebook -->
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Portail de la fonction publique - Luxembourg"/>
+
+    
+        <meta property="og:description" content="Trouvez ici toutes les informations sur le coronavirus COVID-19, ainsi que sur ses symptÃ´mes, sa transmission, et les bons gestes pour assurer sa protection et celle de ses proches. AccÃ©dez au catalogue des formations disponibles. La Fonction publique a vocation..."/>
+    
+    
+
+    <meta property="og:url" content="http://fonction-publique.public.lu/fr.html"/>
+
+    
+    
+
+    
+        <meta property="og:image" content="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/img/social/share-facebook.png"/>
+        <meta property="og:image:type" content="image/png"/>
+    
+
+    <meta property="externalUrl" content="http://fonction-publique.public.lu/fr.html"/>
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary"/>
+    <meta property="twitter:title" content="Portail de la fonction publique - Luxembourg"/>
+
+    
+        <meta property="twitter:description" content="Trouvez ici toutes les informations sur le coronavirus COVID-19, ainsi que sur ses symptÃ´mes, sa transmission, et les bons gestes pour assurer sa protection et celle de ses proches. AccÃ©dez au catalogue des formations disponibles. La Fonction publique a vocation..."/>
+    
+    
+
+    <meta property="twitter:url" content="http://fonction-publique.public.lu/fr.html"/>
+
+    
+    
+    
+        <meta property="twitter:image" content="fonction_publique/clientlibs/default/resources/img/social/share-twitter.png"/>
+    
+
+
+        <script src="//cdn.public.lu/vendor/html5shiv.js"></script>
+
+        <script>
+            function cookieExists (name) {
+                var cks = document.cookie.split(';');
+                for(var i = 0; i < cks.length; i++) {
+                    if (cks[i].split('=')[0].trim() === name) {
+                        return true;
+                    }
+                }
+            }
+            if (!cookieExists('isPublicWebsite')) {
+                document.cookie = 'isPublicWebsite=true';
+            }
+        </script>
+
+        
+            
+        
+
+    </head>
+
+
+    <body id="top">
+    
+
+    
+    
+    
+    
+    <div class="skiplinks">
+        <a href="#headernav">Menu de navigation principale</a>
+        <a href="#main">Aller au contenu</a>
+    </div>
+
+
+    
+    
+    <div id="govbar" class="govbar">
+        <span href="http://gouvernement.lu" class="govbar-logo" title="Le Gouvernement du Grand-DuchÃ© de Luxembourg">
+                <img src="//cdn.public.lu/pictures/logos/gov/fr/gov-light.png" alt="Le Gouvernement du Grand-DuchÃ© de Luxembourg"/>
+        </span>
+        
+    </div>
+    
+
+
+    
+        
+        
+
+
+
+
+    
+        
+            
+            
+
+
+    
+
+            
+        
+    
+
+
+    
+
+    
+
+    
+    <div class="page page--standard-page page--home ">
+
+    
+    
+    <svg xmlns="http://www.w3.org/2000/svg" class="is-hidden iconset"><symbol viewBox="0 0 24 24" id="icon-hierarchy-error"><path d="M20.5 18c-.2-3.4-3-6-6.5-6h-2V5.9c1.4-.2 2.5-1.5 2.5-2.9 0-1.7-1.3-3-3-3s-3 1.3-3 3c0 1.5 1.1 2.7 2.5 2.9V12H9c-3.4 0-6.2 2.7-6.5 6-1.4.3-2.5 1.5-2.5 3 0 1.7 1.3 3 3 3s3-1.3 3-3c0-1.5-1.1-2.7-2.5-2.9C3.8 15.2 6.1 13 9 13h2v5.1c-1.4.2-2.5 1.5-2.5 2.9 0 1.7 1.3 3 3 3s3-1.3 3-3c0-1.5-1.1-2.7-2.5-2.9V13h2c2.9 0 5.2 2.2 5.5 5.1-1.4.2-2.5 1.4-2.5 2.9 0 1.7 1.3 3 3 3s3-1.3 3-3c0-1.5-1.1-2.7-2.5-3z"/></symbol><symbol viewBox="0 0 51.9 48.3" id="icon-home-breadcrumbs"><path d="M1 27.1c-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4l25-25c.4-.4 1-.4 1.4 0l24.9 24.9c.4.4.4 1 0 1.4-.4.4-1 .4-1.4 0L26 2.4 1.7 26.8c-.2.2-.5.3-.7.3zM41.8 12.3c-.5 0-1-.4-1-1V3.7h-7.5c-.5 0-1-.4-1-1s.4-1 1-1h8.5c.5 0 1 .4 1 1v8.7c0 .5-.5.9-1 .9z"/><path d="M43.7 48.3H31.8c-.5 0-1-.4-1-1V32.8H20.7v14.5c0 .5-.4 1-1 1H8c-.5 0-1-.4-1-1V26.1c0-.5.4-1 1-1 .5 0 1 .4 1 1v20.2h9.8V31.8c0-.5.4-1 1-1h12.1c.5 0 1 .4 1 1v14.5h9.9V26.1c0-.5.4-1 1-1 .5 0 1 .4 1 1v21.2c-.1.5-.5 1-1.1 1z"/></symbol><symbol viewBox="0 0 51.9 48.3" id="icon-home-error"><path d="M1 27.1c-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4l25-25c.4-.4 1-.4 1.4 0l24.9 24.9c.4.4.4 1 0 1.4-.4.4-1 .4-1.4 0L26 2.4 1.7 26.8c-.2.2-.5.3-.7.3zM41.8 12.3c-.5 0-1-.4-1-1V3.7h-7.5c-.5 0-1-.4-1-1s.4-1 1-1h8.5c.5 0 1 .4 1 1v8.7c0 .5-.5.9-1 .9z"/><path d="M43.7 48.3H31.8c-.5 0-1-.4-1-1V32.8H20.7v14.5c0 .5-.4 1-1 1H8c-.5 0-1-.4-1-1V26.1c0-.5.4-1 1-1 .5 0 1 .4 1 1v20.2h9.8V31.8c0-.5.4-1 1-1h12.1c.5 0 1 .4 1 1v14.5h9.9V26.1c0-.5.4-1 1-1 .5 0 1 .4 1 1v21.2c-.1.5-.5 1-1.1 1z"/></symbol><symbol viewBox="0 0 29.7 29.7" id="icon-search-anchor"><path id="search-anchor-search" d="M29.2 26.8l-5.1-5.1c-.5-.5-1.2-.6-1.8-.4l-1-1c4.3-4.8 4.1-12.2-.5-16.8C16-1.2 8.3-1.2 3.5 3.5c-4.8 4.8-4.8 12.5 0 17.3 4.6 4.6 12 4.8 16.8.5l1 1c-.3.6-.1 1.4.4 1.9l5.1 5.1c.7.7 1.8.7 2.4 0 .7-.8.7-1.8 0-2.5zm-9.8-7.4c-4 4-10.4 4-14.4 0S1 9 5 5s10.4-4 14.4 0c3.9 4 3.9 10.4 0 14.4z"/></symbol><symbol viewBox="0 0 29.7 29.7" id="icon-search-button"><path id="search-button-search" d="M29.2 26.8l-5.1-5.1c-.5-.5-1.2-.6-1.8-.4l-1-1c4.3-4.8 4.1-12.2-.5-16.8C16-1.2 8.3-1.2 3.5 3.5c-4.8 4.8-4.8 12.5 0 17.3 4.6 4.6 12 4.8 16.8.5l1 1c-.3.6-.1 1.4.4 1.9l5.1 5.1c.7.7 1.8.7 2.4 0 .7-.8.7-1.8 0-2.5zm-9.8-7.4c-4 4-10.4 4-14.4 0S1 9 5 5s10.4-4 14.4 0c3.9 4 3.9 10.4 0 14.4z"/></symbol><symbol viewBox="0 0 378.8 371.2" id="icon-covid"><g fill="none" stroke="#515151" stroke-width="11" stroke-linejoin="round" stroke-miterlimit="10"><path stroke-linecap="round" d="M264.6 137.9c10 5.4 35.2 6.2 54.4-13.5 16.9-27.3 31.7-5.6 36.8 11.3s4.5 43.2-24.6 29.6c-26.8-5.9-47.5 8.6-52.9 18.6M284 115.2c-7.6-10.3-16.7-19.2-26.8-26.5 3.5-11.6 9.8-22.2 21-26.2 30.2-11 12-29.9-3.6-38.3-15.5-8.4-41.3-13.2-34 18 2.7 11.6-2.6 22.7-10.4 32-12-4.6-24.8-7.4-38-8M82.7 259.2c7.6 10.3 16.7 19.2 26.8 26.5-3.5 11.6-9.8 22.2-21 26.2-30.2 11-12 29.9 3.6 38.3s41.3 13.2 34-18c-2.7-11.6 2.6-22.7 10.4-32 12 4.6 24.8 7.4 38 8M88.3 190.5c-5.4 10-26.1 24.5-52.9 18.6-29.1-13.6-29.6 12.7-24.6 29.6 5.1 16.9 19.9 38.6 36.8 11.3 19.2-19.6 44.5-18.8 54.4-13.5M128.3 107.6c5.9-10.5 7.4-42.3-14-56.9-29.3-17.4-1.9-34.3 16.4-39.8 18.3-5.5 50.5-6.4 35.5 24.3-8.7 26.4 8.8 49.7 19.5 55.3M59.7 182.2c.7-12.7 3.4-25.2 7.9-36.9-9.3-7.8-20.3-13.2-32-10.4-31.3 7.4-26.4-18.4-18-34 8.4-15.5 27.3-33.7 38.3-3.6 4.1 11.2 14.6 17.5 26.2 21 7.5-10.5 16.7-19.8 27.4-27.5M256.2 198.6c-5.9-7.8-16.2-11.6-26.1-8.6-12.7 3.8-19.9 17.2-16.1 29.9 2.4 7.9 8.5 13.7 15.8 16M231.7 139.4c-3.8-12.7-17.2-19.9-29.9-16.1s-19.9 17.2-16.1 29.9c3.8 12.7 17.2 19.9 29.9 16.1 12.6-3.8 19.9-17.2 16.1-29.9zM150.4 146.9c-3.8-12.7-17.2-19.9-29.9-16.1-12.7 3.8-19.9 17.2-16.1 29.9 3.8 12.7 17.2 19.9 29.9 16.1 12.7-3.8 19.9-17.2 16.1-29.9zM181 221.3c-3.8-12.7-17.2-19.9-29.9-16.1-12.7 3.8-19.9 17.2-16.1 29.9 3.8 12.7 17.2 19.9 29.9 16.1 12.7-3.8 19.9-17.2 16.1-29.9z"/><path d="M307.3 363.2h56c6.4 0 10.2-8.1 6.5-14l-80-126.3c-3.2-5-9.8-5-13 0l-80 126.3c-3.7 5.9 0 14 6.5 14h56M283.3 275.2v64M283.3 355.2v16"/></g></symbol><symbol viewBox="0 0 46.5 44" id="icon-formations"><g fill="none" stroke="#505050" stroke-width="1.3" stroke-miterlimit="10"><path d="M41.5 33h4V1h-44v32h4M.5 43h46"/><path d="M36.5 30v-3c0-2.2-1.8-4-4-4h-2c-2.2 0-4 1.8-4 4v3M18.5 37v-.9c0-2.8-2.2-4.1-5-4.1s-5 1.3-5 4.1v.9M28.5 37v-.9c0-2.8-2.2-4.1-5-4.1s-5 1.3-5 4.1v.9M38.5 37v-.9c0-2.8-2.2-4.1-5-4.1s-5 1.3-5 4.1v.9M13.5 43v-1.9c0-2.8-2.2-4.1-5-4.1s-5 1.3-5 4.1V43M23.5 43v-1.9c0-2.8-2.2-4.1-5-4.1s-5 1.3-5 4.1V43M33.5 43v-1.9c0-2.8-2.2-4.1-5-4.1s-5 1.3-5 4.1V43M43.5 43v-1.9c0-2.8-2.2-4.1-5-4.1s-5 1.3-5 4.1V43M31.5 20c1.7 0 3-1.3 3-3v-1c0-1.7-1.3-3-3-3s-3 1.3-3 3v1c0 1.7 1.3 3 3 3z"/></g></symbol><symbol viewBox="0 0 48 45.1" id="icon-emploi"><g fill="none" stroke="#505050" stroke-width="1.3" stroke-miterlimit="10"><path stroke-linecap="round" stroke-linejoin="round" d="M26 10.1h7v30h-7zM4 1.1h7v39H4zM15 19.1h7v21h-7zM37 23.1h7v17h-7z"/><path d="M48 44.1H0"/></g></symbol><symbol viewBox="0 0 39.1 45.5" id="icon-faq"><g fill="none" stroke="#505050" stroke-width="1.5" stroke-miterlimit="10"><circle cx="19.1" cy="28.9" r="3"/><path d="M16.1 18.9c0-2.7 4.1-5.5 5.7-7.1 1.4-1.4 1.2-3.7-.4-4.9-1-.7-2.4-.7-3.4-.1-.9.6-1.4 1.4-1.5 2.4 0 1.2-.1 1.7-1.3 1.7h-3c-1.2 0-1-.5-1-1.7.1-2.4 1.2-4.7 3.3-6.3 2.8-2.2 6.8-2.4 9.8-.4 4.6 3.1 5 9.4 1.3 13-1.2 1.1-4.4 3-4.4 4.4v2c0 .6-.3 1-.9 1h-3c-.6 0-1.1-.4-1.1-1v-3z"/><path stroke-linejoin="round" d="M31.1 14.9h3c2.2 0 4 1.8 4 4v14c0 2.2-1.8 4-4 4H18.7l-7 7.2c-.6.6-1.7.2-1.7-.7v-6.5H5c-2.2 0-4-1.8-4-4v-14c0-2.2 1.8-4 4-4h3"/></g></symbol><symbol viewBox="0 0 48.8 42.3" id="icon-carrieres"><g fill="none" stroke="#505050" stroke-width="1.5" stroke-miterlimit="10"><path d="M20.5 29.4v-2c0-1.3-2.8-3-5-3s-5 1.7-5 3v2M15.5 17.4c-1.6 0-3 1.1-3 2.5v2c0 1.4 1.4 2.5 3 2.5s3-1.1 3-2.5v-2c0-1.4-1.5-2.5-3-2.5z"/><path d="M1.5 11.4h46v30h-46zM4.5 9.4v-3h40v3M7.5 4.4v-3h34v3M24.5 18.4h15M24.5 23.4h15M24.5 28.4h15M9.5 33.4h30"/></g></symbol><symbol viewBox="0 0 366 358.6" id="icon-fp2025"><g fill="none" stroke="#515151" stroke-width="9" stroke-miterlimit="10"><path stroke-linecap="round" stroke-linejoin="round" d="M190.5 326.8v-26.9c0-19.2-24.6-29.1-40-29.1s-40 9.9-40 29.1v26.9"/><path stroke-linejoin="round" d="M150.5 270.8c14 0 24-9.1 24-22.4v-11.2c0-13.3-10-22.4-24-22.4s-24 9.1-24 22.4v11.2c0 13.3 10.1 22.4 24 22.4z"/><path stroke-linecap="round" stroke-linejoin="round" d="M310.5 350.8v-26.9c0-19.2-24.6-29.1-40-29.1-15.4 0-40 9.9-40 29.1v26.9"/><path stroke-linejoin="round" d="M270.5 294.8c14 0 24-9.1 24-22.4v-11.2c0-13.3-10-22.4-24-22.4s-24 9.1-24 22.4v11.2c0 13.3 10.1 22.4 24 22.4z"/><path d="M110.5 222.8h-24v31c0 7.8-10 11-14.5 4.6l-25.5-35.7h-24c-8.8 0-16-7.2-16-16v-120c0-8.8 7.2-16 16-16h192c8.8 0 16 7.2 16 16v120c0 8.8-7.2 16-16 16h-24"/><path d="M246.5 174.8h32v31c0 7.8 10 11 14.5 4.6l25.5-35.7h24c8.8 0 16-7.2 16-16v-136c0-8.8-7.2-16-16-16h-224c-8.8 0-16 7.2-16 16v32"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-email-error"><g id="email-error-Filled_Icons"><path d="M22.7 5l-10.4 8.4c-.1.1-.2.1-.3.1-.1 0-.2 0-.3-.1L1.3 5c-.2.3-.3.6-.3 1v11c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V6c0-.4-.1-.7-.3-1z"/><path d="M22 4.3c-.3-.2-.6-.3-1-.3H3c-.4 0-.7.1-1 .3l10 8.1 10-8.1z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-navigation-anchor"><path d="M2.8 6h18.5c.6 0 1-.4 1-1s-.4-1-1-1H2.8c-.5 0-1 .4-1 1s.5 1 1 1zM21.3 9H2.8c-.6 0-1 .4-1 1s.4 1 1 1h18.5c.6 0 1-.4 1-1s-.4-1-1-1zM21.3 14H2.8c-.6 0-1 .4-1 1s.4 1 1 1h18.5c.6 0 1-.4 1-1s-.4-1-1-1zM21.3 19H2.8c-.6 0-1 .4-1 1s.4 1 1 1h18.5c.6 0 1-.4 1-1s-.4-1-1-1z"/></symbol><symbol viewBox="0 0 24 24" id="icon-navigation-close"><path d="M13.4 12L23.7 1.7c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0L12 10.6 1.7.3C1.3-.1.7-.1.3.3c-.4.4-.4 1 0 1.4L10.6 12 .3 22.3c-.4.4-.4 1 0 1.4.2.2.4.3.7.3.3 0 .5-.1.7-.3L12 13.4l10.3 10.3c.2.2.5.3.7.3.3 0 .5-.1.7-.3.4-.4.4-1 0-1.4L13.4 12z" id="navigation-close-Filled_Icons"/></symbol><symbol viewBox="0 0 24 24" id="icon-subnav-anchor"><path d="M23 11H13V1c0-.6-.4-1-1-1s-1 .4-1 1v10H1c-.6 0-1 .4-1 1s.4 1 1 1h10v10c0 .6.4 1 1 1s1-.4 1-1V13h10c.6 0 1-.4 1-1s-.4-1-1-1z"/></symbol><symbol viewBox="0 0 24 24" id="icon-subnav-close"><path d="M13.4 12L23.7 1.7c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0L12 10.6 1.7.3C1.3-.1.7-.1.3.3c-.4.4-.4 1 0 1.4L10.6 12 .3 22.3c-.4.4-.4 1 0 1.4.2.2.4.3.7.3.3 0 .5-.1.7-.3L12 13.4l10.3 10.3c.2.2.5.3.7.3.3 0 .5-.1.7-.3.4-.4.4-1 0-1.4L13.4 12z" id="subnav-close-Filled_Icons"/></symbol><symbol viewBox="0 0 24 24" id="icon-langswitch"><path d="M21.1 4.2c-.5 1.3-1.4 3.5-2.9 4.2-.1.1-.2.1-.3 0-1.1-.3-2.1.1-2.7.4.2.3.5.8.7 1.8.2.1.6 0 .8-.1.2-.1.4-.1.6.1 1.2 1.2-.4 2.8-1.3 3.8l-.5.5.1.1c.2.2.5.5.6.9 0 .3-.1.6-.4.8-.5.5-1 .8-1.4 1-.1 1.7-1.4 2.7-3.5 2.7-1 0-2-2.5-2-3 0-.4.2-.7.3-1 .1-.2.2-.4.2-.5 0-.2-.4-.7-.9-1.1-.1-.1-.1-.2-.1-.4 0-.4-.1-.7-.2-.9-.3-.2-.8-.2-1.5-.2h-.8c-1.6 0-2-1.6-2-2.5 0-.2 0-3.9 2.9-4.5 1.3-.3 2.2-.2 2.7.2.3.4.4.6.5.7.5.4 1.5.2 2.3 0 .3-.1.5-.1.8-.2.1-.8.1-1.7 0-2-.6.3-1.2.3-1.7 0s-.8-.8-.9-1.5C10.4 2.1 13.1.9 15 .3c-1-.3-2-.4-3.1-.4C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12c0-3-1.1-5.7-2.9-7.8z"/></symbol><symbol viewBox="0 0 24 24" id="icon-back-to-top"><path d="M1.5 19.5c-.2 0-.4-.1-.6-.2-.4-.3-.5-1-.1-1.4l10.5-13c.2-.2.5-.4.8-.4s.6.1.8.4l11 13c.4.4.3 1.1-.1 1.4-.4.4-1.1.3-1.4-.1L12 7.1l-9.7 12c-.2.3-.5.4-.8.4"/></symbol><symbol viewBox="0 0 24 24" id="icon-langswitch-button"><path d="M12 19.5c-.3 0-.6-.1-.8-.4l-11-13c-.4-.4-.3-1.1.1-1.4.4-.4 1.1-.3 1.4.1L12 17 22.2 4.9c.4-.4 1-.5 1.4-.1s.5 1 .1 1.4l-11 13c-.1.2-.4.3-.7.3"/></symbol><symbol viewBox="0 0 24 24" id="icon-dropdown-button"><path d="M12 19.5c-.3 0-.6-.1-.8-.4l-11-13c-.4-.4-.3-1.1.1-1.4.4-.4 1.1-.3 1.4.1L12 17 22.2 4.9c.4-.4 1-.5 1.4-.1s.5 1 .1 1.4l-11 13c-.1.2-.4.3-.7.3"/></symbol><symbol viewBox="0 0 24 24" id="icon-previous-pagination"><path d="M18.5 24c-.2 0-.5-.1-.6-.2l-13-11c-.2-.2-.4-.5-.4-.8s.1-.6.4-.8l13-11c.4-.4 1.1-.3 1.4.1.4.4.3 1.1-.1 1.4L7 12l12.1 10.2c.4.4.5 1 .1 1.4-.1.3-.4.4-.7.4"/></symbol><symbol viewBox="0 0 24 24" id="icon-next-pagination"><path d="M5.5 24c-.3 0-.6-.1-.8-.4-.4-.4-.3-1.1.1-1.4L17 12 4.9 1.8c-.4-.4-.5-1-.1-1.4s1-.5 1.4-.1l13 11c.2.2.4.5.4.8s-.1.6-.4.8l-13 11c-.2 0-.5.1-.7.1"/></symbol><symbol viewBox="0 0 24 24" id="icon-remove-shop"><path d="M17.2 12l6.7-6.6c.1-.1.1-.3.1-.4 0-.1-.1-.3-.1-.4L19.4.1c-.1 0-.2-.1-.4-.1-.1 0-.3.1-.4.1L12 6.8 5.4.1C5.3 0 5.2 0 5 0c-.1 0-.2 0-.3.1L.2 4.6c-.2.2-.2.5 0 .7L6.8 12 .1 18.6c-.2.2-.2.5 0 .7l4.5 4.5c.1.1.3.2.4.2.1 0 .3-.1.4-.1l6.7-6.6 6.6 6.7h.3c.1 0 .3 0 .4-.1l4.5-4.5c.2-.2.2-.5 0-.7L17.2 12z" id="remove-shop-Filled_Icons"/></symbol><symbol viewBox="0 0 24 24" id="icon-book-download"><g id="book-download-Filled_Icons"><path d="M19.5 4h-13C5.7 4 5 3.3 5 2.5S5.7 1 6.5 1h13c.3 0 .5-.2.5-.5s-.2-.5-.5-.5h-13C5.1 0 4 1.1 4 2.5v14C4 17.9 5.1 19 6.5 19H11v-7c0-.8.7-1.5 1.5-1.5s1.5.7 1.5 1.5v7h5.5c.3 0 .5-.2.5-.5v-14c0-.3-.2-.5-.5-.5z"/><path d="M15.4 20.6s-.1 0 0 0c-.2-.2-.5-.2-.7 0l-1.1 1.1-.6.6V12c0-.3-.2-.5-.5-.5s-.5.2-.5.5v10.3l-.5-.5-1.1-1.1s-.1-.1-.2-.1h-.4c-.1 0-.1.1-.2.1 0 0-.1.1-.1.2v.4c0 .1.1.1.1.2l1.7 1.7.8.8.1.1h.4c.1 0 .1-.1.2-.1l.8-.8 1.7-1.7s.1-.1.1-.2v-.2-.2-.3zM6.5 2c-.3 0-.5.2-.5.5s.2.5.5.5h12c.3 0 .5-.2.5-.5s-.2-.5-.5-.5h-12z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-book-order"><g id="book-order-Filled_Icon"><path d="M12 18c0-.3.1-.7.2-1H8.4l-.2-1h4.3c1-2.3 3.3-4 6-4 1.2 0 2.4.4 3.4 1L24 6.7c.1-.2 0-.3-.1-.5-.1-.1-.2-.2-.4-.2H5.8L4.5.4C4.4.2 4.2 0 4 0H.5C.2 0 0 .2 0 .5s.2.5.5.5h3.1l3.8 16.1c-.8.3-1.4 1-1.4 1.9 0 1.1.9 2 2 2s2-.9 2-2c0-.4-.1-.7-.3-1H12z"/><path d="M18.5 13c-3 0-5.5 2.5-5.5 5.5s2.5 5.5 5.5 5.5 5.5-2.5 5.5-5.5-2.5-5.5-5.5-5.5zm2.5 6h-2v2c0 .3-.2.5-.5.5s-.5-.2-.5-.5v-2h-2c-.3 0-.5-.2-.5-.5s.2-.5.5-.5h2v-2c0-.3.2-.5.5-.5s.5.2.5.5v2h2c.3 0 .5.2.5.5s-.2.5-.5.5z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-logo-facebook"><path d="M18.8 7.5h-4.3V5.6c0-.9.6-1.1 1-1.1h3v-4h-4.3c-3.9 0-4.7 2.9-4.7 4.8v2.1h-3v4h3v12h5v-12h3.9l.4-3.9z" id="logo-facebook-Filled_Icons"/></symbol><symbol viewBox="0 0 24 24" id="icon-logo-google-plus"><g id="logo-google-plus-Filled_Icons"><path d="M11.4 12.9c-.7-.5-1.4-1.3-1.4-1.5 0-.4 0-.6 1-1.4 1.2-1 1.9-2.2 1.9-3.6 0-1.2-.4-2.3-1-3h.5c.1 0 .2 0 .3-.1l1.4-1c.2-.1.2-.3.2-.5-.1-.2-.2-.3-.5-.3H7.6c-.7 0-1.3.1-2 .3-2.2.8-3.8 2.7-3.8 4.7 0 2.8 2.1 4.8 5 4.9-.1.2-.1.4-.1.6 0 .4.1.8.3 1.2h-.1c-2.7 0-5.2 1.3-6.1 3.3-.2.5-.4 1-.4 1.6 0 .5.1 1 .4 1.4.6 1 1.8 1.9 3.5 2.3.9.2 1.8.3 2.8.3.9 0 1.7-.1 2.5-.3 2.4-.7 4-2.5 4-4.5.1-2-.5-3.2-2.2-4.4zm-7.7 4.5c0-1.4 1.8-2.7 3.9-2.7h.1c.5 0 .9.1 1.3.2.1.1.3.2.4.3 1 .7 1.6 1.1 1.8 1.8 0 .2.1.3.1.5 0 1.8-1.3 2.7-4 2.7-2.1 0-3.6-1.2-3.6-2.8zM5.6 3.9c.3-.4.8-.6 1.2-.6h.1c1.3 0 2.6 1.5 2.9 3.3.1 1-.1 2-.6 2.5-.4.5-.8.7-1.3.7C6.5 9.7 5.2 8.2 5 6.4c-.2-1 0-1.9.6-2.5zM23.5 9.5h-3v-3h-2v3h-3v2h3v3h2v-3h3z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-logo-linkedin"><path d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4S6.5 2.7 6.5 4c.1 1.4-.9 2.5-2.5 2.5zm11.5 6c-1.1 0-2 .9-2 2v7h-5s.1-12 0-13h5V10s1.5-1.4 3.9-1.4c3 0 5.1 2.1 5.1 6.3v6.7h-5v-7c0-1.2-.9-2.1-2-2.1z" id="logo-linkedin-Filled_Icons"/></symbol><symbol viewBox="0 0 24 24" id="icon-logo-rss"><g id="logo-rss-Filled_Icons"><path d="M12.5 24h-1c0-6.4-5.2-11.5-11.5-11.5v-1c6.9 0 12.5 5.6 12.5 12.5zM0 18.5V24h5.5c0-3.4-2.1-5.5-5.5-5.5z"/><path d="M20 24h-1C19 13.5 10.5 5 0 5V4c11 0 20 9 20 20z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-logo-twitter"><path d="M23.4 4.8c-.8.4-1.5.4-2.2 0 .9-.6 1-1 1.3-2-.9.5-1.9.9-2.9 1.1-.8-.9-2-1.4-3.3-1.4-2.5 0-4.5 2-4.5 4.5 0 .4 0 .7.1 1-3.8-.2-7.1-2-9.4-4.7-.3.7-.6 1.5-.6 2.3 0 1.6.8 3 2 3.8-.7 0-1.4-.2-2.1-.6v.1c0 2.2 1.6 4 3.6 4.5-.7.2-1.4.2-2.1.1.6 1.8 2.3 3.1 4.2 3.2-1.9 1.5-4.4 2.2-6.7 1.9 2 1.3 4.4 2 7 2 8.4 0 12.9-6.9 12.9-12.9v-.6c1.1-.8 2.1-1.4 2.7-2.3z" id="logo-twitter-Filled_Icons"/></symbol><symbol viewBox="0 0 24 24" id="icon-logo-email"><g id="logo-email-Filled_Icons"><path d="M22.7 5l-10.4 8.4c-.1.1-.2.1-.3.1-.1 0-.2 0-.3-.1L1.3 5c-.2.3-.3.6-.3 1v11c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V6c0-.4-.1-.7-.3-1z"/><path d="M22 4.3c-.3-.2-.6-.3-1-.3H3c-.4 0-.7.1-1 .3l10 8.1 10-8.1z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-logo-print"><g id="logo-print-Filled_Icons"><circle cx="3.5" cy="10.5" r=".5"/><path d="M21.5 7h-19C1.1 7 0 8.1 0 9.5v6C0 16.9 1.1 18 2.5 18H5v4.5c0 .3.2.5.5.5h13c.3 0 .5-.2.5-.5V18h2.5c1.4 0 2.5-1.1 2.5-2.5v-6C24 8.1 22.9 7 21.5 7zm-18 5c-.8 0-1.5-.7-1.5-1.5S2.7 9 3.5 9 5 9.7 5 10.5 4.3 12 3.5 12zM18 22H6v-7h12v7zM5.5 6h13c.3 0 .5-.2.5-.5v-1c0-.1-.1-.3-.1-.4l-3-3c-.1 0-.3-.1-.4-.1h-10c-.3 0-.5.2-.5.5v4c0 .3.2.5.5.5zm10-4.5l3 3h-3v-3z"/><path d="M7.5 17h9c.3 0 .5-.2.5-.5s-.2-.5-.5-.5h-9c-.3 0-.5.2-.5.5s.2.5.5.5zM7.5 19h9c.3 0 .5-.2.5-.5s-.2-.5-.5-.5h-9c-.3 0-.5.2-.5.5s.2.5.5.5zM7.5 21h9c.3 0 .5-.2.5-.5s-.2-.5-.5-.5h-9c-.3 0-.5.2-.5.5s.2.5.5.5z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-external-link"><path d="M17 12.5c-.6 0-1 .4-1 1V19H5V8h5.5c.6 0 1-.4 1-1s-.4-1-1-1H4c-.6 0-1 .4-1 1v13c0 .6.4 1 1 1h13c.6 0 1-.4 1-1v-6.5c0-.6-.4-1-1-1z"/><path d="M20.9 3.6c-.1-.2-.3-.4-.5-.5-.1-.1-.3-.1-.4-.1h-6c-.6 0-1 .4-1 1s.4 1 1 1h3.6L6.8 15.8c-.4.4-.4 1 0 1.4.2.2.5.3.7.3s.5-.1.7-.3L19 6.4V10c0 .6.4 1 1 1s1-.4 1-1V4c0-.1 0-.3-.1-.4z"/></symbol><symbol viewBox="0 0 24 24" id="icon-arrow-left"><path d="M18.5 24c-.2 0-.5-.1-.6-.2l-13-11c-.2-.2-.4-.5-.4-.8s.1-.6.4-.8l13-11c.4-.4 1.1-.3 1.4.1.4.4.3 1.1-.1 1.4L7 12l12.1 10.2c.4.4.5 1 .1 1.4-.1.3-.4.4-.7.4"/></symbol><symbol viewBox="0 0 24 24" id="icon-arrow-right"><path d="M5.5 24c-.3 0-.6-.1-.8-.4-.4-.4-.3-1.1.1-1.4L17 12 4.9 1.8c-.4-.4-.5-1-.1-1.4s1-.5 1.4-.1l13 11c.2.2.4.5.4.8s-.1.6-.4.8l-13 11c-.2 0-.5.1-.7.1"/></symbol><symbol viewBox="0 0 24 24" id="icon-album-infos-download"><path d="M11.6 18.9c.1.1.2.1.4.1.1 0 .3-.1.4-.1l7-7c.1-.1.2-.4.1-.5-.1-.3-.3-.4-.5-.4h-3V.5c0-.3-.2-.5-.5-.5h-7c-.3 0-.5.2-.5.5V11H5c-.2 0-.4.1-.5.3-.1.2 0 .4.1.5l7 7.1z"/><path d="M23 17.5c-.6 0-1 .4-1 1V22H2v-3.5c0-.6-.4-1-1-1s-1 .4-1 1V23c0 .6.4 1 1 1h22c.6 0 1-.4 1-1v-4.5c0-.6-.4-1-1-1z"/></symbol><symbol viewBox="0 0 24 24" id="icon-slideshow-download"><path d="M11.6 18.9c.1.1.2.1.4.1.1 0 .3-.1.4-.1l7-7c.1-.1.2-.4.1-.5-.1-.3-.3-.4-.5-.4h-3V.5c0-.3-.2-.5-.5-.5h-7c-.3 0-.5.2-.5.5V11H5c-.2 0-.4.1-.5.3-.1.2 0 .4.1.5l7 7.1z"/><path d="M23 17.5c-.6 0-1 .4-1 1V22H2v-3.5c0-.6-.4-1-1-1s-1 .4-1 1V23c0 .6.4 1 1 1h22c.6 0 1-.4 1-1v-4.5c0-.6-.4-1-1-1z"/></symbol><symbol viewBox="0 0 24 24" id="icon-gallery-album-download"><path d="M11.6 18.9c.1.1.2.1.4.1.1 0 .3-.1.4-.1l7-7c.1-.1.2-.4.1-.5-.1-.3-.3-.4-.5-.4h-3V.5c0-.3-.2-.5-.5-.5h-7c-.3 0-.5.2-.5.5V11H5c-.2 0-.4.1-.5.3-.1.2 0 .4.1.5l7 7.1z"/><path d="M23 17.5c-.6 0-1 .4-1 1V22H2v-3.5c0-.6-.4-1-1-1s-1 .4-1 1V23c0 .6.4 1 1 1h22c.6 0 1-.4 1-1v-4.5c0-.6-.4-1-1-1z"/></symbol><symbol viewBox="0 0 24 24" id="icon-gallery-album-category"><path d="M.5 0C.4 0 .2.1.1.2c0 0-.1.2-.1.3V9c0 .1.1.3.1.4l14.5 14.5c.2.1.3.1.4.1h.1c.2 0 .3-.2.4-.3l1.9-6.2 6.2-1.9c.2-.1.3-.2.3-.4s0-.4-.1-.5L9.3.2C9.3.1 9.1 0 9 0H.5zm5 8C4.1 8 3 6.9 3 5.5S4.1 3 5.5 3 8 4.1 8 5.5 6.9 8 5.5 8z"/></symbol><symbol viewBox="0 0 24 24" id="icon-box-organization-address"><path d="M12 0C7.6 0 4 3.6 4 8c0 4.2 7.3 15.3 7.6 15.8.1.1.2.2.4.2s.3-.1.4-.2C12.7 23.3 20 12.3 20 8c0-4.4-3.6-8-8-8zm0 11.5c-1.9 0-3.5-1.6-3.5-3.5s1.6-3.5 3.5-3.5 3.5 1.6 3.5 3.5-1.6 3.5-3.5 3.5z"/></symbol><symbol viewBox="0 0 24 24" id="icon-box-organization-phone"><g id="box-organization-phone-Filled_Icons"><path d="M17.5 15.6c0-.2-.1-.4-.2-.5L16 13.7c-.2-.2-.3-.2-.5-.2s-.5.1-.7.3l-.5.5c-.2.2-.5.2-.7 0-1.5-1.2-2.9-2.6-4.1-4.1-.2-.2-.1-.5 0-.7L10 9c.2-.2.3-.4.3-.6 0-.2-.1-.4-.2-.5L8.9 6.7c-.1-.2-.3-.2-.5-.2s-.4.1-.6.3l-.8.8c-.5.5-.7 1.3-.3 1.8 2 3.2 4.7 5.9 7.9 7.9.5.3 1.3.2 1.8-.3l.3-.3.5-.5c.2-.2.3-.4.3-.6z"/><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zm8.4 17.8c-.2.2-.5.3-.7.1-.2-.2-.3-.5-.1-.7 1.1-1.5 1.6-3.3 1.6-5.2 0-5.1-4.1-9.2-9.2-9.2S2.8 6.9 2.8 12s4.1 9.2 9.2 9.2c2.4 0 4-.6 4.6-1.8.3-.5.3-1.1.3-1.5-.5.4-1 .6-1.6.6-.4 0-.9-.1-1.2-.3-3.3-2.1-6.1-4.9-8.2-8.2-.6-1-.5-2.3.4-3.1l.8-.8c.7-.7 1.9-.8 2.5-.1l1.3 1.3c.3.3.5.8.5 1.3s-.2.9-.6 1.3l-.1.1c1 1.2 2.1 2.3 3.3 3.3l.2-.2c.7-.7 1.9-.7 2.5-.1l1.3 1.3c.3.3.5.8.5 1.3s-.2.9-.6 1.3l-.2.2c.2.6.3 1.6-.1 2.5-.5 1.2-1.9 2.6-5.6 2.6-5.6 0-10.2-4.6-10.2-10.2S6.4 1.8 12 1.8 22.2 6.4 22.2 12c0 2.1-.6 4.1-1.8 5.8z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-box-organization-fax"><path d="M0 7.5v13c0 .8.7 1.5 1.5 1.5H2V6h-.5C.7 6 0 6.7 0 7.5zM7.5 3H6V.5c0-.3-.2-.5-.5-.5S5 .2 5 .5v2.6c-1.1.2-2 1.2-2 2.4v16C3 22.9 4.1 24 5.5 24h2c1.4 0 2.5-1.1 2.5-2.5v-16C10 4.1 8.9 3 7.5 3zM21.5 6H11v16h10.5c.8 0 1.5-.7 1.5-1.5v-13c0-.8-.7-1.5-1.5-1.5zM14 18h-1v-1h1v1zm0-2h-1v-1h1v1zm0-2h-1v-1h1v1zm3 4h-1v-1h1v1zm0-2h-1v-1h1v1zm0-2h-1v-1h1v1zm3 4h-1v-1h1v1zm0-2h-1v-1h1v1zm0-2h-1v-1h1v1zm0-3.5c0 .3-.2.5-.5.5h-6c-.3 0-.5-.2-.5-.5v-2c0-.3.2-.5.5-.5h6c.3 0 .5.2.5.5v2z"/><path d="M22 6.5h-1V2.7L18.8 1H13v5.5h-1v-6c0-.3.2-.5.5-.5H19c.1 0 .2 0 .3.1l2.5 2c.1.1.2.2.2.4v4z"/><g><path d="M14 2h3.5v1H14z"/></g><g><path d="M14 4h6v1h-6z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-box-organization-email"><g id="box-organization-email-Filled_Icons"><path d="M22.7 5l-10.4 8.4c-.1.1-.2.1-.3.1-.1 0-.2 0-.3-.1L1.3 5c-.2.3-.3.6-.3 1v11c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V6c0-.4-.1-.7-.3-1z"/><path d="M22 4.3c-.3-.2-.6-.3-1-.3H3c-.4 0-.7.1-1 .3l10 8.1 10-8.1z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-geoportail-phone"><g id="geoportail-phone-Filled_Icons"><path d="M17.5 15.6c0-.2-.1-.4-.2-.5L16 13.7c-.2-.2-.3-.2-.5-.2s-.5.1-.7.3l-.5.5c-.2.2-.5.2-.7 0-1.5-1.2-2.9-2.6-4.1-4.1-.2-.2-.1-.5 0-.7L10 9c.2-.2.3-.4.3-.6 0-.2-.1-.4-.2-.5L8.9 6.7c-.1-.2-.3-.2-.5-.2s-.4.1-.6.3l-.8.8c-.5.5-.7 1.3-.3 1.8 2 3.2 4.7 5.9 7.9 7.9.5.3 1.3.2 1.8-.3l.3-.3.5-.5c.2-.2.3-.4.3-.6z"/><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zm8.4 17.8c-.2.2-.5.3-.7.1-.2-.2-.3-.5-.1-.7 1.1-1.5 1.6-3.3 1.6-5.2 0-5.1-4.1-9.2-9.2-9.2S2.8 6.9 2.8 12s4.1 9.2 9.2 9.2c2.4 0 4-.6 4.6-1.8.3-.5.3-1.1.3-1.5-.5.4-1 .6-1.6.6-.4 0-.9-.1-1.2-.3-3.3-2.1-6.1-4.9-8.2-8.2-.6-1-.5-2.3.4-3.1l.8-.8c.7-.7 1.9-.8 2.5-.1l1.3 1.3c.3.3.5.8.5 1.3s-.2.9-.6 1.3l-.1.1c1 1.2 2.1 2.3 3.3 3.3l.2-.2c.7-.7 1.9-.7 2.5-.1l1.3 1.3c.3.3.5.8.5 1.3s-.2.9-.6 1.3l-.2.2c.2.6.3 1.6-.1 2.5-.5 1.2-1.9 2.6-5.6 2.6-5.6 0-10.2-4.6-10.2-10.2S6.4 1.8 12 1.8 22.2 6.4 22.2 12c0 2.1-.6 4.1-1.8 5.8z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-geoportail-email"><g id="geoportail-email-Filled_Icons"><path d="M22.7 5l-10.4 8.4c-.1.1-.2.1-.3.1-.1 0-.2 0-.3-.1L1.3 5c-.2.3-.3.6-.3 1v11c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V6c0-.4-.1-.7-.3-1z"/><path d="M22 4.3c-.3-.2-.6-.3-1-.3H3c-.4 0-.7.1-1 .3l10 8.1 10-8.1z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-geoportail-direction"><path d="M23.9.1c-.2-.1-.4-.1-.6 0l-23 12c-.2.1-.3.3-.3.5.1.2.3.4.5.4H11v10.5c0 .2.2.4.4.5h.1c.2 0 .4-.1.4-.3l12-23c.1-.2.1-.4 0-.6z"/></symbol><symbol viewBox="0 0 24 24" id="icon-geoportail-website"><path d="M5.6 14.5c-.3 0-.5-.2-.5-.4l-.6-4c0-.3.1-.5.4-.6.3 0 .5.1.6.4l.3 1.9c.1-.4.8-.4.9 0L7 9.9c0-.3.3-.5.6-.4.3.1.4.3.4.6l-.6 4c0 .2-.2.4-.5.4-.2 0-.4-.1-.5-.3l-.2-.5-.2.5c0 .2-.2.3-.4.3zM11.6 14.5c-.3 0-.5-.2-.5-.4l-.6-4c0-.3.1-.5.4-.6.3 0 .5.1.6.4l.3 1.9c.1-.2.3-.3.5-.3s.4.1.5.3l.2-1.9c0-.3.3-.5.6-.4.3 0 .5.3.4.6l-.6 4c0 .2-.2.4-.5.4-.2 0-.4-.1-.5-.3l-.2-.5-.2.5c0 .2-.2.3-.4.3zM18.9 14.5c-.2 0-.4-.1-.5-.3l-.2-.5-.2.5c-.1.2-.3.4-.5.3-.2 0-.4-.2-.5-.4l-.6-4c0-.3.1-.5.4-.6.3 0 .5.1.6.4l.3 1.9c.1-.2.3-.3.5-.3s.4.1.5.3l.3-1.9c0-.3.3-.5.6-.4.3 0 .5.3.4.6l-.6 4c0 .2-.2.4-.5.4zM9.7 18c.6 1.2 1.3 2.5 2.2 3.7l.1-.1c.9-1.2 1.6-2.4 2.2-3.7H9.7zM8.6 18H3.5c1.8 2.6 4.7 4.3 7.9 4.5l-.1-.2c-1.2-1.4-2-2.8-2.7-4.3zM12.8 22.3l-.2.2c3.2-.2 6.1-1.9 7.9-4.5h-5.2c-.6 1.4-1.4 2.9-2.5 4.3zM14.6 6c-.6-1.3-1.5-2.5-2.5-3.7H12l-.1.1C10.9 3.5 10 4.7 9.4 6h5.2zM15.7 6h5c-1.8-2.6-4.7-4.3-7.9-4.5l.1.2C14.1 3 15 4.5 15.7 6zM11.2 1.7l.1-.1C8 1.7 5.1 3.4 3.3 6h5C9 4.5 10 3 11.2 1.7z"/><path d="M23.5 8h-1.8c-.1-.3-.3-.7-.5-1H16c.1.3.2.7.3 1h-1c-.1-.3-.2-.7-.3-1H9c-.1.3-.2.7-.3 1h-1c.1-.3.2-.7.3-1H2.7c-.2.3-.3.7-.5 1H.5c-.3 0-.5.2-.5.5v7c0 .3.2.5.5.5h1.9c.1.3.3.7.5 1h5.4c-.1-.3-.2-.7-.3-1h1.1c.1.3.2.7.3 1h5.5c.1-.3.2-.7.3-1h1.1c-.1.3-.2.7-.3 1h5.4c.2-.3.3-.7.5-1h1.8c.3 0 .5-.2.5-.5v-7c-.2-.3-.4-.5-.7-.5zm-.5 7H1V9h22v6z"/></symbol><symbol viewBox="0 0 24 24" id="icon-geoportail-more"><g id="geoportail-more-Filled_Icons"><circle cx="3" cy="12" r="3"/><circle cx="12" cy="12" r="3"/><circle cx="21" cy="12" r="3"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-gdpr-close"><path d="M13.4 12L23.7 1.7c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0L12 10.6 1.7.3C1.3-.1.7-.1.3.3c-.4.4-.4 1 0 1.4L10.6 12 .3 22.3c-.4.4-.4 1 0 1.4.2.2.4.3.7.3.3 0 .5-.1.7-.3L12 13.4l10.3 10.3c.2.2.5.3.7.3.3 0 .5-.1.7-.3.4-.4.4-1 0-1.4L13.4 12z" id="gdpr-close-Filled_Icons"/></symbol><symbol viewBox="0 0 24 24" id="icon-search-view-grid"><g id="search-view-grid-Filled_Icons"><path d="M14.5 0h-6c-.3 0-.5.2-.5.5v6c0 .3.2.5.5.5h6c.3 0 .5-.2.5-.5v-6c0-.3-.2-.5-.5-.5zM6.5 0h-6C.2 0 0 .2 0 .5v6c0 .3.2.5.5.5h6c.3 0 .5-.2.5-.5v-6c0-.3-.2-.5-.5-.5zM22.5 0h-6c-.3 0-.5.2-.5.5v6c0 .3.2.5.5.5h6c.3 0 .5-.2.5-.5v-6c0-.3-.2-.5-.5-.5zM14.5 8h-6c-.3 0-.5.2-.5.5v6c0 .3.2.5.5.5h6c.3 0 .5-.2.5-.5v-6c0-.3-.2-.5-.5-.5zM6.5 8h-6c-.3 0-.5.2-.5.5v6c0 .3.2.5.5.5h6c.3 0 .5-.2.5-.5v-6c0-.3-.2-.5-.5-.5zM22.5 8h-6c-.3 0-.5.2-.5.5v6c0 .3.2.5.5.5h6c.3 0 .5-.2.5-.5v-6c0-.3-.2-.5-.5-.5zM14.5 16h-6c-.3 0-.5.2-.5.5v6c0 .3.2.5.5.5h6c.3 0 .5-.2.5-.5v-6c0-.3-.2-.5-.5-.5zM6.5 16h-6c-.3 0-.5.2-.5.5v6c0 .3.2.5.5.5h6c.3 0 .5-.2.5-.5v-6c0-.3-.2-.5-.5-.5zM22.5 16h-6c-.3 0-.5.2-.5.5v6c0 .3.2.5.5.5h6c.3 0 .5-.2.5-.5v-6c0-.3-.2-.5-.5-.5z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-search-view-list"><g id="search-view-list-Filled_Icons"><path d="M23.5 1h-15c-.3 0-.5.2-.5.5v5c0 .3.2.5.5.5h15c.3 0 .5-.2.5-.5v-5c0-.3-.2-.5-.5-.5zM23.5 9h-15c-.3 0-.5.2-.5.5v5c0 .3.2.5.5.5h15c.3 0 .5-.2.5-.5v-5c0-.3-.2-.5-.5-.5zM23.5 17h-15c-.3 0-.5.2-.5.5v5c0 .3.2.5.5.5h15c.3 0 .5-.2.5-.5v-5c0-.3-.2-.5-.5-.5zM5.5 1h-5c-.3 0-.5.2-.5.5v5c0 .3.2.5.5.5h5c.3 0 .5-.2.5-.5v-5c0-.3-.2-.5-.5-.5zM5.5 9h-5c-.3 0-.5.2-.5.5v5c0 .3.2.5.5.5h5c.3 0 .5-.2.5-.5v-5c0-.3-.2-.5-.5-.5zM5.5 17h-5c-.3 0-.5.2-.5.5v5c0 .3.2.5.5.5h5c.3 0 .5-.2.5-.5v-5c0-.3-.2-.5-.5-.5z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-bloub-anchor"><g id="bloub-anchor-Filled_Icon"><path d="M2.7 2.1C1.3 2.1.2 3.2.2 4.6s1.1 2.5 2.5 2.5S5.2 6 5.2 4.6 4.1 2.1 2.7 2.1zM8.8 6H23c.6 0 1-.4 1-1s-.4-1-1-1H8.8c-.6 0-1 .4-1 1s.4 1 1 1zM2.7 10.1c-1.4 0-2.5 1.1-2.5 2.5s1.1 2.5 2.5 2.5 2.5-1.1 2.5-2.5-1.1-2.5-2.5-2.5zM23 12H8.8c-.6 0-1 .4-1 1s.4 1 1 1H23c.6 0 1-.4 1-1s-.4-1-1-1zM2.7 18.1c-1.4 0-2.5 1.1-2.5 2.5s1.1 2.5 2.5 2.5 2.5-1.1 2.5-2.5-1.1-2.5-2.5-2.5zM23 20H8.8c-.6 0-1 .4-1 1s.4 1 1 1H23c.6 0 1-.4 1-1s-.4-1-1-1z"/></g></symbol><symbol viewBox="0 0 24 24" id="icon-bloub-close"><path d="M13.4 12L23.7 1.7c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0L12 10.6 1.7.3C1.3-.1.7-.1.3.3c-.4.4-.4 1 0 1.4L10.6 12 .3 22.3c-.4.4-.4 1 0 1.4.2.2.4.3.7.3.3 0 .5-.1.7-.3L12 13.4l10.3 10.3c.2.2.5.3.7.3.3 0 .5-.1.7-.3.4-.4.4-1 0-1.4L13.4 12z" id="bloub-close-Filled_Icons"/></symbol></svg>
+
+
+    <header role="banner" class="page-header">
+        
+        
+    
+
+    <h1 class="page-logo">
+        
+    <a href="/fr.html" title="La Fonction Publique - Page d&#39;accueil">
+        <img src="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/resources/img/layout/logo-fonction-publique.svg" alt="La Fonction Publique" width="207" height="53"/>
+        
+        
+    </a>
+
+    </h1>
+
+
+
+        <a class="anchor" href="#headernav">
+            <svg aria-hidden="true" focusable="false" class="icon" viewBox="0 0 24 24" width="24" height="24">
+                <use xlink:href="#icon-navigation-anchor" x="0" y="0"/>
+            </svg>
+            <span>Menu <span>principal</span></span>
+        </a>
+        <nav class="page-headernav" id="headernav" role="navigation" aria-labelledby="headernav-title">
+            <h1 id="headernav-title">Menu de navigation principale</h1>
+            
+            <div class="nav-section nav-section--primary">
+    
+    <ul class="nav" aria-label="navigation principale">
+        
+            <li class="nav-item ">
+
+                <a href="/fr/avancer-ensemble.html" title="Avancer ensemble ">
+                    
+                    <span>Avancer ensemble</span>
+                </a>
+
+                <ul>
+
+                    <li class="subnav-item ">
+                        <a href="/fr/avancer-ensemble/gestion-objectifs.html" title="Gestion par objectifs ">
+                            
+                            <span>Gestion par objectifs</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/avancer-ensemble/gestioncompetences.html" title="Fonctions et compÃ©tences ">
+                            
+                            <span>Fonctions et compÃ©tences</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/avancer-ensemble/fp2025.html" title="FP2025 ">
+                            
+                            <span>FP2025</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/avancer-ensemble/dossiers.html" title="Dossiers ">
+                            
+                            <span>Dossiers</span>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        
+            <li class="nav-item ">
+
+                <a href="/fr/carriere.html" title="CarriÃ¨re ">
+                    
+                    <span>CarriÃ¨re</span>
+                </a>
+
+                <ul>
+
+                    <li class="subnav-item ">
+                        <a href="/fr/carriere/recrutement.html" title="Recrutement ">
+                            
+                            <span>Recrutement</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/carriere/parcours-remuneration.html" title="Parcours et rÃ©munÃ©ration ">
+                            
+                            <span>Parcours et rÃ©munÃ©ration</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/carriere/organisation-temps-travail.html" title="Organisation du temps de travail ">
+                            
+                            <span>Organisation du temps de travail</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/carriere/manquement-devoirs.html" title="Manquement aux devoirs ">
+                            
+                            <span>Manquement aux devoirs</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/carriere/fin-carriere.html" title="Fin de carriÃ¨re ">
+                            
+                            <span>Fin de carriÃ¨re</span>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        
+            <li class="nav-item ">
+
+                <a href="/fr/formation-developpement.html" title="Formation et dÃ©veloppement ">
+                    
+                    <span>Formation et dÃ©veloppement</span>
+                </a>
+
+                <ul>
+
+                    <li class="subnav-item ">
+                        <a href="/fr/formation-developpement/formationintitiale.html" title="Formation initiale ">
+                            
+                            <span>Formation initiale</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/formation-developpement/developpementcompetences.html" title="Formation continue  ">
+                            
+                            <span>Formation continue </span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/formation-developpement/parcours-specifiques.html" title="Parcours de formations spÃ©cifiques ">
+                            
+                            <span>Parcours de formations spÃ©cifiques</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/formation-developpement/reseaudeleguesformation.html" title="DÃ©lÃ©guÃ©s Ã  la formation ">
+                            
+                            <span>DÃ©lÃ©guÃ©s Ã  la formation</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/formation-developpement/reseauformateurs.html" title="RÃ©seau des formateurs  ">
+                            
+                            <span>RÃ©seau des formateurs </span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/formation-developpement/catalogue-formations.html" title="Catalogue des formations ">
+                            
+                            <span>Catalogue des formations</span>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        
+            <li class="nav-item ">
+
+                <a href="/fr/qualite-vie-travail.html" title="SÃ©curitÃ©, SantÃ©, QualitÃ© de vie au travail ">
+                    
+                    <span>SÃ©curitÃ©, SantÃ©, QualitÃ© de vie au travail</span>
+                </a>
+
+                <ul>
+
+                    <li class="subnav-item ">
+                        <a href="/fr/qualite-vie-travail/accessibilitelieuxpublics.html" title="AccessibilitÃ© des lieux ouverts au public ">
+                            
+                            <span>AccessibilitÃ© des lieux ouverts au public</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/qualite-vie-travail/soutienagents.html" title="Soutien aux agents ">
+                            
+                            <span>Soutien aux agents</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/qualite-vie-travail/soutienadministrations.html" title="Soutien aux administrations ">
+                            
+                            <span>Soutien aux administrations</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/qualite-vie-travail/sxamensmedicaux.html" title="Examens mÃ©dicaux ">
+                            
+                            <span>Examens mÃ©dicaux</span>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        
+            <li class="nav-item ">
+
+                <a href="/fr/plus.html" title="Plus ">
+                    
+                    <span>Plus</span>
+                </a>
+
+                <ul>
+
+                    <li class="subnav-item ">
+                        <a href="/fr/plus/actualites.html" title="ActualitÃ©s ">
+                            
+                            <span>ActualitÃ©s</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/plus/documentation.html" title="Documentation ">
+                            
+                            <span>Documentation</span>
+                        </a>
+                    </li>
+                
+
+                    <li class="subnav-item ">
+                        <a href="/fr/plus/legislation.html" title="LÃ©gislation ">
+                            
+                            <span>LÃ©gislation</span>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        
+    </ul>
+</div>
+
+
+
+
+
+
+
+            <a class="anchor" href="#topsearch">
+                <svg aria-hidden="true" focusable="false" class="icon" viewBox="0 0 24 24" width="24" height="24">
+                    <use xlink:href="#icon-search-anchor" x="0" y="0"/>
+                </svg>
+                <span>Rechercher</span>
+            </a>
+            
+            
+                <form id="topsearch" aria-label="Globale" class="search" role="search" action="/fr/support/recherche.html">
+    <label for="search-field-top">Mots-clÃ©</label>
+    <input type="text" name="q" id="search-field-top" value=""/>
+
+    <button class="btn" type="submit">
+        <svg aria-hidden="true" focusable="false" class="icon" viewBox="0 0 24 24" width="24" height="24">
+            <use xlink:href="#icon-search-button" x="0" y="0"/>
+        </svg>
+        <span class="assistivetext">Rechercher</span>
+    </button>
+
+    
+
+    
+</form>
+
+                
+
+            
+        </nav>
+    </header>
+
+    
+
+
+    
+    <main id="main" class="page-main" role="main">
+        
+
+        
+
+    <div class="page page--home">
+        
+    <section role="region" class="page-text">
+        <div class="home-featured">
+            <section class="home-focus">
+                
+    <h2 class="home-title">Focus sur</h2>
+    
+        
+            
+    <a href="/fr/avancer-ensemble/gestioncompetences/description-fonction-gestion-competences/modele-competences-fonction-publique.html" class="home-focus-link">
+        <div class="home-focus-visu">
+            <img src="//fonction-publique.public.lu/dam-assets/pictures/photos/focus/dictionnaire-competences.jpg/_jcr_content/renditions/thumb-xxhdpi.jpg" srcset=" //fonction-publique.public.lu/dam-assets/pictures/photos/focus/dictionnaire-competences.jpg/_jcr_content/renditions/thumb-xxhdpi.jpg 1280w, //fonction-publique.public.lu/dam-assets/pictures/photos/focus/dictionnaire-competences.jpg/_jcr_content/renditions/thumb-xhdpi.jpg 960w, //fonction-publique.public.lu/dam-assets/pictures/photos/focus/dictionnaire-competences.jpg/_jcr_content/renditions/thumb-hdpi.jpg 480w, //fonction-publique.public.lu/dam-assets/pictures/photos/focus/dictionnaire-competences.jpg/_jcr_content/renditions/thumb-mdpi.jpg 320w" alt=""/>
+        </div>
+        <div class="home-focus-content">
+            <h3 class="home-focus-title">ModÃ¨le de compÃ©tences 5+1 de la Fonction publique</h3>
+            <div class="home-focus-summary">
+                <p>Le modÃ¨le de compÃ©tences offre un langage commun et propose une vue dâensemble structurÃ©e de toutes les compÃ©tences auxquelles les collaborateurs dâun service public font appel (notamment pour rÃ©aliser les objectifs fixÃ©s).
+Le modÃ¨le de compÃ©tences Â« 5+1...</p>
+            </div>
+        </div>
+    </a>
+
+        
+    
+
+
+            </section>
+            <section class="home-news">
+                
+    
+    <ol class="home-news-list">
+        
+        
+            
+    <li class="search-result search-result--news">
+        <article class="article" itemscope itemtype="http://schema.org/Article" role="article">
+            <a class="search-result-link" href="http://mfp.gouvernement.lu/fr/actualites/2024/assermentation18agentsministerefonctionpublique.html" target="_blank">
+                <div>
+                    <ul class="article-metas">
+                        <li>
+                            <time class="article-published" itemprop="datePublished" datetime="22/05/2024">22/05/2024
+                            </time>
+                        </li>
+                    </ul>
+                    <header class="article-head">
+                        <div class="subhead subhead-theme-2">MinistÃ¨re</div>
+                        <h3 class="article-title">Assermentation de 18 agents au ministÃ¨re de la Fonction publique</h3>
+                    </header>
+                    
+                    <div class="article-summary">
+                        <p>Assermentation de 18 agents au ministÃ¨re de la Fonction publique En date du 22 mai 2024, Serge Wilmes, ministre de la Fonction publique, a procÃ©dÃ© Ã  l</p>
+                    </div>
+                </div>
+            </a>
+        </article>
+    </li>
+
+        
+        
+    
+        
+        
+            
+    <li class="search-result search-result--news">
+        <article class="article" itemscope itemtype="http://schema.org/Article" role="article">
+            <a class="search-result-link" href="http://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/05-mai/16-wilmes-dialogue-cgfp.html" target="_blank">
+                <div>
+                    <ul class="article-metas">
+                        <li>
+                            <time class="article-published" itemprop="datePublished" datetime="16/05/2024">16/05/2024
+                            </time>
+                        </li>
+                    </ul>
+                    <header class="article-head">
+                        <div class="subhead subhead-theme-2">MinistÃ¨re</div>
+                        <h3 class="article-title">Continuation du dialogue social avec la CGFP</h3>
+                    </header>
+                    
+                    <div class="article-summary">
+                        <p>Continuation du dialogue social avec la CGFP Le ministre de la Fonction publique poursuit le dialogue avec la CGFP. Aujourd'hui, une nouvelle</p>
+                    </div>
+                </div>
+            </a>
+        </article>
+    </li>
+
+        
+        
+    
+        
+        
+            
+    <li class="search-result search-result--news">
+        <article class="article" itemscope itemtype="http://schema.org/Article" role="article">
+            <a class="search-result-link" href="http://gouvernement.lu/de/actualites/toutes_actualites/communiques/2024/05-mai/16-wilmes-dialogue-cgfp.html" target="_blank">
+                <div>
+                    <ul class="article-metas">
+                        <li>
+                            <time class="article-published" itemprop="datePublished" datetime="16/05/2024">16/05/2024
+                            </time>
+                        </li>
+                    </ul>
+                    <header class="article-head">
+                        <div class="subhead subhead-theme-2">MinistÃ¨re</div>
+                        <h3 class="article-title">WeiterfÃ¼hrung des sozialen Dialogs mit der CGFP </h3>
+                    </header>
+                    
+                    <div class="article-summary">
+                        <p>WeiterfÃ¼hrung des sozialen Dialogs mit der CGFP Der Minister fÃ¼r den Ã¶ffentlichen Dienst fÃ¼hrt den Dialog mit der CGFP fort. Heute fand ein weiteres</p>
+                    </div>
+                </div>
+            </a>
+        </article>
+    </li>
+
+        
+        
+    </ol>
+
+
+                <footer>
+                    
+<p class="home-news-cta"> <a class="home-btn" href="//fonction-publique.public.lu/fr/plus/actualites.html">Toutes les actualitÃ©s</a> <a class="home-btn" href="https://mfp.gouvernement.lu/fr/actualites.html" target="_blank" title="Toutes les actualitÃ©s du ministÃ¨re - Nouvelle fenÃªtre" rel="noopener">Toutes les actualitÃ©s du ministÃ¨re</a> </p>
+
+    
+
+                </footer>
+            </section>
+        </div>
+        <div class="home-last">
+            <section class="home-last-jobs">
+                
+    <h2 class="home-title">Les derniers postes vacants</h2>
+    <ol class="search-results search-results--">
+        
+        
+            
+    <li class="search-result search-result--job">
+        <a class="search-result-link" title="PÃ©dagogue ou Psychologue (m/f) - Nouvelle fenÃªtre" href="http://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants/decentralise/2024/A1/Mai/20240516-pdagogueoupsychologuemf-284838.html" target="_blank">PÃ©dagogue ou Psychologue (m/f)</a>
+    </li>
+
+        
+        
+    
+        
+        
+            
+    <li class="search-result search-result--job">
+        <a class="search-result-link" title="Technicien en simulation (m/f) (rÃ©f. CGDIS001311-E) - Nouvelle fenÃªtre" href="http://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants/employes/2024/B1/Avril/20240417-technicienensimulationmfrfcgdi-266897.html" target="_blank">Technicien en simulation (m/f) (rÃ©f. CGDIS001311-E)</a>
+    </li>
+
+        
+        
+    
+        
+        
+            
+    <li class="search-result search-result--job">
+        <a class="search-result-link" title="Psychologue (m/f) - Nouvelle fenÃªtre" href="http://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants/decentralise/2024/A1/Mai/20240516-psychologuemf-285018.html" target="_blank">Psychologue (m/f)</a>
+    </li>
+
+        
+        
+    
+        
+        
+            
+    <li class="search-result search-result--job">
+        <a class="search-result-link" title="ArchÃ©ologue (m/f) (rÃ©f. E00029720) - Nouvelle fenÃªtre" href="http://govjobs.public.lu/fr/postuler/postes-ouverts/postes-vacants/employes/2024/A1/Mai/20240523-archologuemfrfe00029720-286240.html" target="_blank">ArchÃ©ologue (m/f) (rÃ©f. E00029720)</a>
+    </li>
+
+        
+        
+    </ol>
+
+
+                
+                
+    <footer>
+        <a href="https://govjobs.public.lu/fr.html" class="home-btn home-btn--white" target="_blank" title="Tous les postes  - Nouvelle fenÃªtre">Tous les postes</a>
+    </footer>
+
+
+            </section>
+            <section class="home-last-courses">
+                
+    <h2 class="home-title">Les derniÃ¨res formations</h2>
+    <ol class="search-results search-results--">
+        
+        
+        
+            
+    <li class="search-result search-result--job">
+        <a class="search-result-link" href="/fr/formation-developpement/catalogue-formations/secteur-communal/03develpers/03-3-langues/co_03-3-1-89.html">Introduction Ã  la rÃ©daction administrative (Webinaire)</a>
+    </li>
+
+        
+    
+        
+        
+        
+            
+    <li class="search-result search-result--job">
+        <a class="search-result-link" href="/fr/formation-developpement/catalogue-formations/secteur-etatique/04organisat/04-5-grh/et_04-5-3-36.html">Comment favoriser le transfert des connaissances dans son administration? (Blended learning)</a>
+    </li>
+
+        
+    
+        
+        
+        
+            
+    <li class="search-result search-result--job">
+        <a class="search-result-link" href="/fr/formation-developpement/catalogue-formations/secteur-etatique/04organisat/04-5-grh/et_04-5-2-83.html">Introduction Ã  la gestion prÃ©visionnelle des effectifs (Webinaire)</a>
+    </li>
+
+        
+    
+        
+        
+        
+            
+    <li class="search-result search-result--job">
+        <a class="search-result-link" href="/fr/formation-developpement/catalogue-formations/secteur-communal/00formini/00-fs-co/co_00-2-048.html">SystÃ¨me du chÃ¨que-service accueil (Blended learning)</a>
+    </li>
+
+        
+    </ol>
+
+
+                
+                
+    <footer>
+        <a href="//fonction-publique.public.lu/fr/formation-developpement/catalogue-formations.html" class="home-btn home-btn--white" target="_self" title="Toutes les formations ">Toutes les formations</a>
+    </footer>
+
+
+                <div class="home-last-visu">
+                    <img src="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default/img/samples/home/lastest.png" alt=""/>
+                </div>
+            </section>
+        </div>
+        <section class="home-links">
+            
+    <h2 class="home-title">Bon Ã  savoir</h2> 
+<ul class="home-links-list"> 
+ <li class="home-links-item"><a href="https://covid19.public.lu/fr.html" title="Coronavirus Covid-19 - Nouvelle fenÃªtre" target="_blank" rel="noopener"><span class="home-links-item--icon"><img src="//fonction-publique.public.lu/dam-assets/ctie/icons/covid.svg" alt=""></span>Coronavirus Covid-19 </a></li> 
+ <li class="home-links-item"><a href="/fr/formation-developpement/catalogue-formations.html" title="Catalogue des formations"> <span class="home-links-item--icon"><img src="//fonction-publique.public.lu/dam-assets/ctie/icons/formations.svg" alt=""></span>Catalogue des formations </a></li> 
+ <li class="home-links-item"><a href="https://fonction-publique.public.lu/fr/plus/documentation.html?q=chiffres+cl%C3%A9s" target="_blank" rel="noopener" title="Chiffres clÃ©s - Nouvelle fenÃªtre"> <span class="home-links-item--icon"><img src="//fonction-publique.public.lu/dam-assets/ctie/icons/emploi.svg" alt=""></span>Chiffres clÃ©s<br> </a></li> 
+ <li class="home-links-item"><a href="/fr/support/faqs.html" title="FAQ"> <span class="home-links-item--icon"><img src="//fonction-publique.public.lu/dam-assets/ctie/icons/faq.svg" alt=""></span>FAQ </a></li> 
+ <li class="home-links-item"><a href="/fr/avancer-ensemble/fp2025.html" title="FP2025"> <span class="home-links-item--icon"><img src="//fonction-publique.public.lu/dam-assets/ctie/icons/carrieres.svg" alt=""></span>FP2025 </a></li> 
+ <li class="home-links-item"><a href="/fr/qualite-vie-travail/soutienagents.html" title="Service psychosocial de la Fonction publique"> <span class="home-links-item--icon"><img src="//fonction-publique.public.lu/dam-assets/ctie/icons/fp2025.svg" alt=""></span>Accompagnement psychosocial</a><br> </li> 
+</ul>
+
+
+        </section>
+    </section>
+
+    </div>
+
+
+    </main><!-- /.page-main -->
+
+    
+    <footer role="contentinfo" class="page-footer">
+        <nav role="navigation" class="page-footernav" id="footernav">
+            <h1 class="at">AccÃ¨s direct et support</h1>
+
+            
+            
+                <div class="nav-section nav-section--primary">
+    
+    <ul class="nav" aria-label="navigation principale">
+        
+            <li class="nav-item ">
+
+                <a href="/fr/avancer-ensemble.html" title="Avancer ensemble ">
+                    
+                    <span>Avancer ensemble</span>
+                </a>
+
+                
+            </li>
+        
+            <li class="nav-item ">
+
+                <a href="/fr/carriere.html" title="CarriÃ¨re ">
+                    
+                    <span>CarriÃ¨re</span>
+                </a>
+
+                
+            </li>
+        
+            <li class="nav-item ">
+
+                <a href="/fr/formation-developpement.html" title="Formation et dÃ©veloppement ">
+                    
+                    <span>Formation et dÃ©veloppement</span>
+                </a>
+
+                
+            </li>
+        
+            <li class="nav-item ">
+
+                <a href="/fr/qualite-vie-travail.html" title="SÃ©curitÃ©, SantÃ©, QualitÃ© de vie au travail ">
+                    
+                    <span>SÃ©curitÃ©, SantÃ©, QualitÃ© de vie au travail</span>
+                </a>
+
+                
+            </li>
+        
+            <li class="nav-item ">
+
+                <a href="/fr/plus.html" title="Plus ">
+                    
+                    <span>Plus</span>
+                </a>
+
+                
+            </li>
+        
+    </ul>
+</div>
+
+
+
+
+
+
+
+                <div class="nav-section nav-section--secondary">
+    
+    <ul class="nav" aria-label="navigation secondaire">
+        
+            
+                <li class="nav-item ">
+                    <a href="/fr/plus/actualites.html">ActualitÃ©s</a>
+                </li>
+            
+                <li class="nav-item ">
+                    <a href="/fr/plus/documentation.html">Documentation</a>
+                </li>
+            
+                <li class="nav-item ">
+                    <a href="/fr/annuaire.html">Annuaire</a>
+                </li>
+            
+                <li class="nav-item ">
+                    <a href="/fr/plus/legislation.html">LÃ©gislation</a>
+                </li>
+            
+                <li class="nav-item ">
+                    <a href="/fr/support/faqs.html">Faqs</a>
+                </li>
+            
+        
+    </ul>
+</div>
+
+                
+    
+
+
+                <div class="nav-section nav-section--support">
+    
+    <ul class="nav" aria-label="navigation de support">
+        
+            
+                <li class="nav-item ">
+                    <a href="/fr/support/accessibilite.html">AccessibilitÃ©</a>
+                </li>
+            
+                <li class="nav-item ">
+                    <a href="/fr/support/aspects-legaux.html">Aspects lÃ©gaux</a>
+                </li>
+            
+                <li class="nav-item ">
+                    <a href="/fr/support/a-propos-du-site.html">A propos du site</a>
+                </li>
+            
+                <li class="nav-item ">
+                    <a href="/fr/support/plan.html">Plan du site</a>
+                </li>
+            
+                <li class="nav-item ">
+                    <a href="/fr/support/contact.html">Contact</a>
+                </li>
+            
+                <li class="nav-item ">
+                    <a href="/fr/support/protection-des-donnees.html">Protection des donnÃ©es</a>
+                </li>
+            
+        
+    </ul>
+</div>
+
+            
+        </nav>
+        
+        
+            
+   <p class="page-copyright">
+       <a class="renow" href="http://renow.lu" target="_blank" title="Renow, votre guide en matiÃ¨re de qualitÃ© web gouvernemental luxembourgeois - Nouvelle fenÃªtre">
+           <img src="//cdn.public.lu/pictures/logos/renow.png" srcset="//cdn.public.lu/pictures/logos/renow-hdpi.png 1.5x,
+        //cdn.public.lu/pictures/logos/renow-xhdpi.png 2x,
+        //cdn.public.lu/pictures/logos/renow-xxhdpi.png 3x" alt="Renow, votre guide en matiÃ¨re de qualitÃ© web gouvernemental luxembourgeois - Nouvelle fenÃªtre"/>
+        </a>
+    </p>
+
+
+        
+    </footer>
+    
+    <a href="#top" class="back" title="Haut de page">
+        <svg aria-hidden="true" focusable="false" class="icon" viewBox="0 0 24 24" width="24" height="24">
+            <use xlink:href="#icon-back-to-top" x="0" y="0"/>
+        </svg>
+        <span>Haut de page</span>
+    </a>
+
+
+
+    </div><!-- /.page -->
+
+    
+    
+    
+
+    <!--[if gte IE 9]><!-->
+    
+        
+    
+<script src="/etc.clientlibs/settings/wcm/designs/ctie/fonction_publique/clientlibs/default.min.js"></script>
+
+
+
+    
+    <!--<![endif]-->
+
+    <link rel="stylesheet" href="//cdn.public.lu/dam-assets/ctie/css/govbar.css"/>
+
+    </body>
+
+
+    </html>
+
+

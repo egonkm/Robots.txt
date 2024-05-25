@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /profiles/*.html/*/
+Disallow: /lookups/
+
+User-agent: Amazonbot
+Allow: /profiles/*.html
+Disallow: /profiles/*.html/*/
+
+Sitemap: https://faculty.mdanderson.org/sitemap.xml

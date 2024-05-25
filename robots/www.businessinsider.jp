@@ -1,0 +1,39 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Slurp
+Disallow: /post-178160
+Disallow: /post-178092
+Disallow: /post-177211
+Disallow: /post-176351
+Disallow: /post-175104
+Disallow: /post-174247
+Disallow: /post-172752
+Disallow: /post-168610
+Disallow: /post-165575
+Disallow: /post-164796
+Disallow: /post-163432
+Disallow: /post-108453
+Disallow: /post-648
+Disallow: /post-22-55
+Disallow: /post-1-26790
+User-agent: *
+Disallow: /post-278893
+Sitemap: https://www.businessinsider.jp/sitemap_index.xml
+Sitemap: https://www.businessinsider.jp/google_news_sitemap.xml
+

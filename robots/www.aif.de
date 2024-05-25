@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /plesk-stat/
+Disallow: /webstat/
+Disallow: /hilfe.html
+Disallow: /presse/aif-medienspiegel-2020.html
+Disallow: /presse/aif-medienspiegel-2020/beitrag-mdr-tv-nachrichtenmagazin-thueringen-journal.html
+Disallow: /presse/aif-medienspiegel-2020/beitrag-mdr-tv-magazin-sachsenspiegel.html
+Disallow: /presse/aif-medienspiegel-2020/beitrag-ndr-nordmagazin.html
+Disallow: /how-to.html
+Disallow: /fileadmin/user_upload/aif/ueber-uns/AiF_e.V._-_Satzung_-_Fassung_30.06.2021.pdf
+Disallow: /fileadmin/news_import/International_130904_web_S._Hofschlaeger_pixelio.de.jpg
+Disallow: /fileadmin/_processed_/1/8/csm_International_130904_web_S._Hofschlaeger_pixelio.de_dcc761f8b3.jpg

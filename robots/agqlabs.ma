@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /agqadmin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /tag/
+Disallow: /feed/
+Disallow: /*/feed/
+Disallow: /trackback/
+Disallow: /?*
+Disallow: /categoria-producto/
+Disallow: /carrito/
+Disallow: /checkout/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-content/uploads/
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.css?*
+Allow: /*.js?*
+Allow: /wp-content/*/*.css$
+Allow: /wp-content/*/*.js$
+Allow: /wp-includes/*/*.css$
+Allow: /wp-includes/*/*.js$
+Allow: /wp-content/*/*.css?*
+Allow: /wp-content/*/*.js?*
+
+Allow: /wp-content/*/*.ttf$
+Allow: /wp-content/*/*.woff$
+Allow: /wp-content/*/*.woff2$
+Allow: /wp-content/*/*.png$
+
+Allow: /wp-content/*/*.ttf?*
+Allow: /wp-content/*/*.woff?*
+Allow: /wp-content/*/*.woff2?*
+Allow: /wp-content/*/*.png?*
+
+Allow: /wp-includes/*/*.css?*
+Allow: /wp-includes/*/*.js?*
+Allow: /author/alfonso/
+Sitemap: https://agqlabs.ma/sitemap_index.xml

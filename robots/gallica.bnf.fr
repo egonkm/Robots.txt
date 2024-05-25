@@ -1,0 +1,25 @@
+User-agent: Amazonbot
+Disallow: /do-not-crawl/
+User-agent: *
+# CMS --------------------------------------------
+Disallow: /html/node/*
+# ParamÃ¨tre d'url --------------------------------
+Disallow: /*?
+Allow: /*?mode=*
+Allow: /*css?*
+Allow: /*js?*
+# Urls complÃ©mentaires ---------------------------
+Disallow: /f1.*
+Disallow: /texteBrut
+# paramÃ¨tres de recherche ------------------------
+Disallow: /services/engine/search/sru?*
+# Collections, Essentiels ------------------------
+Disallow: /node/*
+# Blog -------------------------------------------
+Disallow: /blog/comment/*
+# selections langues Ã©trangÃ¨res (anglais, italien)--------------------------------------------
+Disallow: /html/EN/*
+Disallow: /html/en/*
+Disallow: /html/it/*
+#sitemap
+Sitemap: https://gallica.bnf.fr/sitemap.xml

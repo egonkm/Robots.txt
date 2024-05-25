@@ -1,0 +1,11 @@
+User-agent: * 
+Disallow: /case-study-component-library/
+Disallow: /style-guide/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://www.pact.studio/sitemap.xml

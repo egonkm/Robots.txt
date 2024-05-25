@@ -1,0 +1,61 @@
+# HAL robots.txt
+# If you want to download lots of metadata, please use our API at https://api.archives-ouvertes.fr/
+# The API is far more efficient for metadata harvesting
+# To learn more, please contact hal-support@ccsd.cnrs.fr
+
+User-Agent: *
+Disallow: /RePEc/
+Disallow: /search/
+Disallow: /*/search/
+Disallow: /*/browse/last
+Disallow: /browse/last
+Disallow: /*/browse/latest-publications
+Disallow: /browse/latest-publications
+Disallow: */tei
+Disallow: */rdf
+Disallow: */bibtex
+Disallow: */dc
+Disallow: */datacite
+Disallow: */openaire
+Disallow: */dcterms
+Disallow: */endnote
+Disallow: */json
+Disallow: /ping
+Disallow: /login
+Disallow: /submit
+Disallow: /user
+Disallow: /*/user/*
+Disallow: /error
+Disallow: */preview/*
+Disallow: /view/resolver/*
+
+User-agent: SemanticScholarBot
+Crawl-delay: 5
+
+User-agent: TurnitinBot
+Crawl-delay: 5
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: Seekport Crawler
+Disallow: /
+
+User-agent: ltx71 - (http://ltx71.com/)
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Riddler
+Disallow: /
+
+# Sitemap
+Sitemap: http://hal.inrae.fr/robots/sitemap
+

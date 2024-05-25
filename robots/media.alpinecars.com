@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /login
+Disallow: /dashboard
+Disallow: /wp-content/download/
+Disallow: /download/
+Disallow: /?s=*
+Disallow: /feed/
+Disallow: /*/feed$
+Disallow: /utilisation-des-cookies
+Disallow: /donnees-personnelles
+Disallow: /mentions-legales
+Disallow: /cookies
+Disallow: /personal-data
+Disallow: /mentions-legales
+
+Sitemap: https://media.alpinecars.com/sitemap.xml

@@ -1,0 +1,10 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /1ewx
+Disallow: /conversion.aspx
+Disallow: /401
+Disallow: /not-found
+Disallow: /unauthorized
+Allow: /
+Sitemap: https://www.rebrandly.com/sitemap.xml
+Host: https://www.rebrandly.com

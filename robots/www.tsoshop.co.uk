@@ -1,0 +1,602 @@
+User-agent: *
+Disallow: /bookstore.asp?FO=1159966&action=searchresults 
+# Search results page
+Disallow: /bookstore.asp?FO=1159966&action=search
+# Search page
+Disallow: /bookstore.asp?ACTION=SHOPPINGBASKET
+# Basket
+Disallow: /bookstore.asp?Action=AddItem&ProductID=
+# Add items to cart
+Disallow: /bookstore.asp?ACTION=ACCOUNTVIEW
+# Login page
+Disallow: /bookstore.asp?FO=42853
+# Privacy Policy
+Disallow: /bookstore.asp?FO=42851
+# Security Policy
+Disallow: /bookstore.asp?FO=42852
+# Customer charter
+Disallow: /bookstore.asp?FO=1206403
+# Accessibility
+Disallow: /bookstore.asp?FO=42854
+# Terms and Conditions
+Disallow: /EOS/EOS-2012.html
+# EOS 2012
+Disallow: /cdsaquiz/
+Disallow: /gempdf/
+Disallow: /libraries/
+# SEO ranking improvement
+Disallow: /bookstore.asp?FO=1244466
+# BRC Archive Main
+Disallow: /bookstore.asp?FO=1244467
+# BRC Archive Titles
+Disallow: /bookstore.asp?FO=1244468
+# BRC Archive Articles
+Disallow: /bookstore.asp?FO=1244987
+# BRC Archive Misc images
+Disallow: /bookstore.asp?FO=1278301
+# BRC Archive Translations
+Disallow: /bookstore.asp?FO=1278302
+# Solutions/ The Retailer
+Disallow: /bookstore.asp?FO=39292
+# BSI Archive Main
+Disallow: /bookstore.asp?FO=39311
+# BSI Archive Titles
+Disallow: /bookstore.asp?FO=39312
+# BSI Archive Articles
+Disallow: /bookstore.asp?FO=1343860
+# BSI Archive Images
+Disallow: /bookstore.asp?FO=39293
+# Business & Economics Archive Main
+Disallow: /bookstore.asp?FO=39313
+# Business & Economics Archive Titles
+Disallow: /bookstore.asp?FO=39314
+# Business & Economics Archive Articles
+Disallow: /bookstore.asp?FO=39524
+# Business & Economics Archive IS Guides
+Disallow: /bookstore.asp?FO=1336924
+# Business & Economics Archive IMAGES
+Disallow: /bookstore.asp?FO=1347282
+# Business & Economics Archive LANDING PAGE
+Disallow: /bookstore.asp?FO=39295
+# Buidling, Design & Infrsatructure Archive Main
+Disallow: /bookstore.asp?FO=39317
+# Buidling, Design & Infrsatructure Archive Titles
+Disallow: /bookstore.asp?FO=39318
+# Buidling, Design & Infrsatructure Archive Articles 
+Disallow: /bookstore.asp?FO=1200423
+# Buidling, Design & Infrsatructure Archive JCT
+Disallow: /bookstore.asp?FO=1202581
+# Buidling, Design & Infrsatructure Archive IMAGES
+Disallow: /bookstore.asp?FO=1347283
+# Buidling, Design & Infrsatructure Archive LANDING PAGE
+Disallow: /bookstore.asp?FO=49907
+# DVSA Archive Main
+Disallow: /bookstore.asp?FO=1341331
+# DVSA Archive ADI
+Disallow: /bookstore.asp?FO=1341330
+# DVSA Archive LGV
+Disallow: /bookstore.asp?FO=1341329
+# DVSA Archive MC
+Disallow: /bookstore.asp?FO=1341328
+# DVSA Archive Car
+Disallow: /bookstore.asp?FO=1337194
+# DVSA Archive ARCHIVE
+Disallow: /bookstore.asp?FO=1335497
+# DVSA Archive Landing Pages
+Disallow: /bookstore.asp?FO=1202166
+# DVSA Archive Articles
+Disallow: /bookstore.asp?FO=1344639
+# DVSA Archive Theory-test-online
+Disallow: /bookstore.asp?FO=1339127
+# DVSA Archive Marketing campaigns/ Articles/  assets
+Disallow: /bookstore.asp?FO=1341327
+# DVSA Archive Superseded titles
+Disallow: /bookstore.asp?FO=1336101
+# DVSA Archive Bestseller Thumbnails
+Disallow: /bookstore.asp?FO=1336102
+# DVSA Archive Car page
+Disallow: /bookstore.asp?FO=1341264
+# DVSA Archive new car thumbs
+Disallow: /bookstore.asp?FO=1341265
+# DVSA Archive new mc thumbs
+Disallow: /bookstore.asp?FO=1341266
+# DVSA Archive new lgv thumbs
+Disallow: /bookstore.asp?FO=1341267
+# DVSA Archive new adi thumbs
+Disallow: /bookstore.asp?FO=1328822
+# DVSA Archive ZZHTML FILENAME|DSAWIDGET
+Disallow: /bookstore.asp?FO=39296
+# EDUCATION Archive Main
+Disallow: /bookstore.asp?FO=39321
+# EDUCATION Archive TITLES
+Disallow: /bookstore.asp?FO=39322
+# EDUCATION Archive ARTICLES
+Disallow: /bookstore.asp?FO=1345178
+# EDUCATION Archive Education landing page
+Disallow: /bookstore.asp?FO=39297
+# Geography & Earth Sciences Archive Main
+Disallow: /bookstore.asp?FO=39323
+# Geography & Earth Sciences Archive Titles
+Disallow: /bookstore.asp?FO=39324
+# Geography & Earth Sciences Archive Articles
+Disallow: /bookstore.asp?FO=1336983
+# Geography & Earth Sciences Archive Images Misc
+Disallow: /bookstore.asp?FO=1345325
+# Geography & Earth Sciences Archive landing Page
+Disallow: /bookstore.asp?FO=1345325
+# FOOD SAFETY Archive Main
+Disallow: /bookstore.asp?FO=1336270
+# FOOD SAFETY Archive Articles & Titles
+Disallow: /bookstore.asp?FO=1336271
+# FOOD SAFETY Archive Images
+Disallow: /bookstore.asp?FO=39299
+# Government Archive Main
+Disallow: /bookstore.asp?FO=39327
+# Government Archive Tiles
+Disallow: /bookstore.asp?FO=39328
+# Government Archive Articles
+Disallow: /bookstore.asp?FO=39300
+# Health Archive Main
+Disallow: /bookstore.asp?FO=39329
+# Health Archive Titles
+Disallow: /bookstore.asp?FO=39330
+# health Archive Articles
+Disallow: /bookstore.asp?FO=1336686
+# Health Archive images
+Disallow: /bookstore.asp?FO=39301
+# HEALTH & SAFETY Archive Main
+Disallow: /bookstore.asp?FO=39331
+# HEALTH & SAFETY Archive Titles
+Disallow: /bookstore.asp?FO=39332
+# HEALTH & SAFETY Archive Articles
+Disallow: /bookstore.asp?FO=1336677
+# HEALTH & SAFETY Archive images
+Disallow: /bookstore.asp?FO=1341148
+# HEALTH & SAFETY Archive Fire Manuals
+Disallow: /bookstore.asp?FO=39308
+# INFORMATION TECHNOLOGY Archive Main
+Disallow: /bookstore.asp?FO=39334
+# INFORMATION TECHNOLOGY Archive Artciles
+Disallow: /bookstore.asp?FO=39333
+# INFORMATION TECHNOLOGY Archive Titles
+Disallow: /bookstore.asp?FO=1336893
+# INFORMATION TECHNOLOGY Archive Images
+Disallow: /bookstore.asp?FO=39309
+# International Publications Archive Main
+Disallow: /bookstore.asp?FO=1347147
+# International Publications Archive Titles 2015
+Disallow: /bookstore.asp?FO=1339927
+# International Publications Archive Titles 2014
+Disallow: /bookstore.asp?FO=1332878
+# International Publications Archive Titles 2013
+Disallow: /bookstore.asp?FO=1336166
+# International Publications Archive Articles 2013
+Disallow: /bookstore.asp?FO=1325204
+# International Publications Archive Titles 2012
+Disallow: /bookstore.asp?FO=1315759
+# International Publications Archive Titles 2011
+Disallow: /bookstore.asp?FO=1309411
+# International Publications Archive Titles 2010
+Disallow: /bookstore.asp?FO=1311737
+# International Publications Archive OECD Factbook
+Disallow: /bookstore.asp?FO=1294311
+# International Publications Archive Titles 2009
+Disallow: /bookstore.asp?FO=1264354
+# International Publications Archive Titles 2008
+Disallow: /bookstore.asp?FO=1241937
+# International Publications Archive Titles 2007
+Disallow: /bookstore.asp?FO=1216043
+# International Publications Archive Titles 2006
+Disallow: /bookstore.asp?FO=1194898
+# International Publications Archive Titles 2005
+Disallow: /bookstore.asp?FO=1213347
+# International Publications Archive Articles
+Disallow: /bookstore.asp?FO=1169196
+# International Publications Archive Titles 2004
+Disallow: /bookstore.asp?FO=1169197
+# International Publications Archive Titles 2003
+Disallow: /bookstore.asp?FO=1169198
+# International Publications Archive Titles 2002
+Disallow: /bookstore.asp?FO=1169199
+# International Publications Archive Titles 2001
+Disallow: /bookstore.asp?FO=39336
+# International Publications Archive Articles
+Disallow: /bookstore.asp?FO=1345026
+# International Publications Archive Images & Landing pages
+Disallow: /bookstore.asp?FO=1343098
+# International Publications Archive Articles
+Disallow: /bookstore.asp?FO=1295200
+# International Publications Archive 2009 backup archive
+Disallow: /bookstore.asp?FO=1311846
+# Legislation Archive Main
+Disallow: /bookstore.asp?FO=1320905
+# Legislation Archive Northern Ireland
+Disallow: /bookstore.asp?FO=39304
+# Parliamentary Archive Main
+Disallow: /bookstore.asp?FO=1344733
+# Parliamentary Archive Titles 2015
+Disallow: /bookstore.asp?FO=1341990
+# Parliamentary Archive Titles 2014
+Disallow: /bookstore.asp?FO=1332597
+# Parliamentary Archive Titles 2013
+Disallow: /bookstore.asp?FO=1324436
+# Parliamentary Archive Titles 2012
+Disallow: /bookstore.asp?FO=1315479
+# Parliamentary Archive Titles 2011
+Disallow: /bookstore.asp?FO=1306641
+# Parliamentary Archive Titles 2010
+Disallow: /bookstore.asp?FO=1282161
+# Parliamentary Archive Titles 2009
+Disallow: /bookstore.asp?FO=1303132
+# Parliamentary Archive Simplifying Immigration Law
+Disallow: /bookstore.asp?FO=1262948
+# Parliamentary Archive Titles 2008
+Disallow: /bookstore.asp?FO=1241527
+# Parliamentary Archive Titles 2007
+Disallow: /bookstore.asp?FO=1216044
+# Parliamentary Archive Titles 2006
+Disallow: /bookstore.asp?FO=1194969
+# Parliamentary Archive Titles 2005
+Disallow: /bookstore.asp?FO=1169402
+# Parliamentary Archive Titles 2004
+Disallow: /bookstore.asp?FO=39341
+# Parliamentary Archive Titles 2000-2003
+Disallow: /bookstore.asp?FO=1191265
+# Parliamentary Archive Titles pre 2000
+Disallow: /bookstore.asp?FO=39342
+# Parliamentary Archive Articles
+Disallow: /bookstore.asp?FO=1345135
+# Parliamentary Archive legislation landing page
+Disallow: /bookstore.asp?FO=39303
+# Mapping and Travel Archive Main
+Disallow: /bookstore.asp?FO=39339
+# Mapping and Travel Archive Titles
+Disallow: /bookstore.asp?FO=39340
+# Mapping and Travel Archive Articles
+Disallow: /bookstore.asp?FO=1144466
+# Pharmacopoeia Archive Main
+Disallow: /bookstore.asp?FO=1345063
+# Pharmacopoeia Archive Landing Page
+Disallow: /bookstore.asp?FO=39310
+# Reference & research Acrhive
+Disallow: /bookstore.asp?FO=39343
+# Reference & research Acrhive Titles
+Disallow: /bookstore.asp?FO=39344
+# Reference & research Acrhive Articles
+Disallow: /bookstore.asp?FO=1345349
+# Reference & research Acrhive landing page
+Disallow: /bookstore.asp?FO=39305
+# Statistics Archive Main
+Disallow: /bookstore.asp?FO=39345
+# Statistics Archive Titles
+Disallow: /bookstore.asp?FO=39346
+# Statistics Archive Articles
+Disallow: /bookstore.asp?FO=39306
+# Transport Archive Main
+Disallow: /bookstore.asp?FO=39348
+# Transport Archive Articles
+Disallow: /bookstore.asp?FO=1336930
+# Transport Archive images
+Disallow: /bookstore.asp?FO=39347
+# Transport Archive Titles
+Disallow: /bookstore.asp?FO=39349
+# Miscellaneous Archive Main
+Disallow: /bookstore.asp?FO=39350
+# Miscellaneous Archive Titles
+Disallow: /bookstore.asp?FO=72383
+# Miscellaneous Archive O & R Info
+Disallow: /bookstore.asp?FO=1216490
+# Miscellaneous Archive Help Pages & Help Links
+Disallow: /bookstore.asp?FO=39420
+# Uncovereds Archive Main
+Disallow: /bookstore.asp?FO=39421
+# Uncovereds Archive Titles
+Disallow: /bookstore.asp?FO=39422
+# Uncovereds Archive Articles
+Disallow: /bookstore.asp?FO=39419
+# Uncovereds Archive Xmas Promo Titles
+Disallow: /bookstore.asp?FO=1138230
+# Whitelabel Archive Main
+Disallow: /bookstore.asp?FO=1138231
+# Whitelabel Archive London Chamber
+Disallow: /bookstore.asp?FO=1151531
+# Whitelabel Archive FDA
+Disallow: /bookstore.asp?FO=1151961
+# Whitelabel Archive Nuffield Trust
+Disallow: /bookstore.asp?FO=1157526
+# Whitelabel Archive Elain
+Disallow: /bookstore.asp?FO=1152324
+# Whitelabel Archive CBI
+Disallow: /bookstore.asp?FO=1168048
+# Whitelabel Archive IIP
+Disallow: /bookstore.asp?FO=1216650
+# Whitelabel Archive Chilled Foods
+Disallow: /bookstore.asp?FO=1252866
+# Whitelabel Archive QCDA
+Disallow: /bookstore.asp?FO=39428
+# Whitelabel Archive Subscriptions
+Disallow: /bookstore.asp?FO=39429
+# Whitelabel Archive Titles
+Disallow: /bookstore.asp?FO=39430
+# Whitelabel Archive Articles
+Disallow: /bookstore.asp?FO=1159646
+# Whitelabel Archive Pharmaceutical
+Disallow: /bookstore.asp?FO=1150801
+# Test Docs Archive Main
+Disallow: /bookstore.asp?FO=1192183
+# Test Docs Archive Investors In People
+Disallow: /bookstore.asp?FO=1288536
+# Test Docs Archive Articles
+Disallow: /bookstore.asp?FO=1295068
+# Test Docs Archive Misc Images
+Disallow: /bookstore.asp?FO=1151860
+# Networking Docs Archive
+Disallow: /bookstore.asp?FO=1159195
+# Nautical Archive
+Disallow: /bookstore.asp?FO=1192395
+# TSO Ireland Archive Main
+Disallow: /bookstore.asp?FO=1192396
+# TSO Ireland Archive Titles
+Disallow: /bookstore.asp?FO=1192397
+# TSO Ireland Archive Articles
+Disallow: /bookstore.asp?FO=1310745
+# TSO Ireland Archive NIA Reports
+Disallow: /bookstore.asp?FO=1323537
+# TSO Ireland Archive Images
+Disallow: /bookstore.asp?FO=1218771
+# Test Docs Elain Archive
+Disallow: /bookstore.asp?FO=1223210
+# Featured Search Results archive
+Disallow: /bookstore.asp?FO=1227751
+# Featured Search Results archive images
+Disallow: /bookstore.asp?FO=1339241
+# AXELOS Archive Main
+Disallow: /bookstore.asp?FO=1339242
+# AXELOS Archive New Images
+Disallow: /bookstore.asp?FO=1339262
+# AXELOS Archive Homepage
+Disallow: /bookstore.asp?FO=1339263
+# AXELOS Archive ITIL
+Disallow: /bookstore.asp?FO=1340568
+# AXELOS Archive ITIL Old
+Disallow: /bookstore.asp?FO=1339346
+# AXELOS Archive PRINCE2
+Disallow: /bookstore.asp?FO=1340569
+# AXELOS Archive PRINCE2 old
+Disallow: /bookstore.asp?FO=1339351
+# AXELOS Archive P3O
+Disallow: /bookstore.asp?FO=1340570
+# AXELOS Archive P3O old
+Disallow: /bookstore.asp?FO=1339352
+# AXELOS Archive P3M3
+Disallow: /bookstore.asp?FO=1340571
+# AXELOS Archive P3M3 old
+Disallow: /bookstore.asp?FO=1339385
+# AXELOS Archive MSP
+Disallow: /bookstore.asp?FO=1340572
+# AXELOS Archive MSP old
+Disallow: /bookstore.asp?FO=1339396
+# AXELOS Archive MOV
+Disallow: /bookstore.asp?FO=1340573
+# AXELOS Archive MOV old
+Disallow: /bookstore.asp?FO=1339407
+# AXELOS Archive MOR
+Disallow: /bookstore.asp?FO=1340574
+# AXELOS Archive MOR old
+Disallow: /bookstore.asp?FO=1339424
+# AXELOS Archive MOP
+Disallow: /bookstore.asp?FO=1340575
+# AXELOS Archive MOP old
+Disallow: /bookstore.asp?FO=1339757
+# AXELOS Archive Logos for TSO SHop
+Disallow: /bookstore.asp?FO=1342622
+# AXELOS Archive Logos for IBP
+Disallow: /bookstore.asp?FO=1339790
+# AXELOS Archive Aticles
+Disallow: /bookstore.asp?FO=1341037
+# AXELOS Archive AXELOS Banners
+Disallow: /bookstore.asp?FO=1341434
+# AXELOS Archive AXELOS Titles
+Disallow: /bookstore.asp?FO=1344467
+# AXELOS Archive TSO AXELOS
+Disallow: /bookstore.asp?FO=1344468
+# AXELOS Archive AXELOS Pormotions
+Disallow: /bookstore.asp?FO=1344469
+# AXELOS Archive ITIL
+Disallow: /bookstore.asp?FO=1344771
+# AXELOS Archive images ITIL
+Disallow: /bookstore.asp?FO=1344858
+# AXELOS Archive images ITILV3
+Disallow: /bookstore.asp?FO=1344868
+# AXELOS Archive images ITIL Translations
+Disallow: /bookstore.asp?FO=1344470
+# AXELOS Archive P30
+Disallow: /bookstore.asp?FO=1344772
+# AXELOS Archive Images P30
+Disallow: /bookstore.asp?FO=1344471
+# AXELOS Archive MSP (Programme)
+Disallow: /bookstore.asp?FO=1344773
+# AXELOS Archive images MSP
+Disallow: /bookstore.asp?FO=1344472
+# AXELOS Archive PRINCE2
+Disallow: /bookstore.asp?FO=1344774
+# AXELOS Archive images PRINCE2
+Disallow: /bookstore.asp?FO=1344473
+# AXELOS Archive P3M3
+Disallow: /bookstore.asp?FO=1344775
+# AXELOS Archive P3M3 images
+Disallow: /bookstore.asp?FO=1344474
+# AXELOS Archive MOP (portfolio)
+Disallow: /bookstore.asp?FO=1344776
+# AXELOS Archive images MOP
+Disallow: /bookstore.asp?FO=1344475
+# AXELOS Archive MOR
+Disallow: /bookstore.asp?FO=1344777
+# AXELOS Archive images MOR
+Disallow: /bookstore.asp?FO=1344476
+# AXELOS Archive MOV
+Disallow: /bookstore.asp?FO=1344778
+# AXELOS Archive images MOR
+Disallow: /bookstore.asp?FO=1344946
+# AXELOS Archive landing page Assets
+Disallow: /bookstore.asp?FO=1244166
+# OGC Archive Main
+Disallow: /bookstore.asp?FO=1196176
+# OGC Archive PDF Ais
+Disallow: /bookstore.asp?FO=1306826
+# OGC Archive pagemetadata
+Disallow: /bookstore.asp?FO=1232430
+# OGC BEST MP ARCHIVE Main
+Disallow: /bookstore.asp?FO=1232431
+# OGC BEST MP ARCHIVE Articles
+Disallow: /bookstore.asp?FO=1232432
+# OGC BEST MP ARCHIVE Images
+Disallow: /bookstore.asp?FO=1335619
+# OGC BEST MP ARCHIVE IP Doc 3
+Disallow: /bookstore.asp?FO=1335604
+# OGC BEST MP ARCHIVE IP Doc 5
+Disallow: /bookstore.asp?FO=1330399
+# OGC BEST MP ARCHIVE Buttons
+Disallow: /bookstore.asp?FO=1330400
+# OGC BEST MP ARCHIVE Homepage
+Disallow: /bookstore.asp?FO=1330401
+# OGC BEST MP ARCHIVE ITL
+Disallow: /bookstore.asp?FO=1330402
+# OGC BEST MP ARCHIVE MOP
+Disallow: /bookstore.asp?FO=1330403
+# OGC BEST MP ARCHIVE MOR
+Disallow: /bookstore.asp?FO=1330404
+# OGC BEST MP ARCHIVE MOV
+Disallow: /bookstore.asp?FO=1330405
+# OGC BEST MP ARCHIVE MSP
+Disallow: /bookstore.asp?FO=1330406
+# OGC BEST MP ARCHIVE P3M3
+#Disallow: /bookstore.asp?FO=1330407
+# OGC BEST MP ARCHIVE P3O
+Disallow: /bookstore.asp?FO=1330408
+# OGC BEST MP ARCHIVE PRINCE2
+Disallow: /bookstore.asp?FO=1241711
+# OGC BEST MP ARCHIVE PDFs/ WOrd Docs
+Disallow: /bookstore.asp?FO=1260110
+# OGC BEST MP ARCHIVE White Papers
+Disallow: /bookstore.asp?FO=1260111
+# OGC BEST MP ARCHIVE Case Studies
+Disallow: /bookstore.asp?FO=1164026
+# OGC BEST MP ARCHIVE PRICE2 Archive
+Disallow: /bookstore.asp?FO=1312008
+# OGC BEST MP ARCHIVE MSP Archive
+Disallow: /bookstore.asp?FO=1292059
+# OGC BEST MP ARCHIVE Affiliates and Resellers
+Disallow: /bookstore.asp?FO=1272127
+# OGC BEST MP ARCHIVE Ebooks
+Disallow: /bookstore.asp?FO=1229140
+# OGC BEST MP ARCHIVE Guest Writer
+Disallow: /bookstore.asp?FO=1229143
+# OGC BEST MP ARCHIVE ASk the Experts
+Disallow: /bookstore.asp?FO=1342583
+# OGC BEST MP ARCHIVE news archive
+Disallow: /bookstore.asp?FO=1202649
+# CBI Titles Archive
+Disallow: /bookstore.asp?FO=1264468
+# MISC Online Pages Archive Main
+Disallow: /bookstore.asp?FO=1343556
+# MISC Online Pages Archive Homepage layout tests
+Disallow: /bookstore.asp?FO=1233468
+# MISC Online Pages Archive Microsites
+Disallow: /bookstore.asp?FO=1267456
+# OFQUAL archive
+Disallow: /bookstore.asp?FO=1277729
+# TEST AFF Folder 
+Disallow: /bookstore.asp?FO=1313389
+# IBP Archive Main
+Disallow: /bookstore.asp?FO=1314818
+# IBP Archive Articles and titles
+Disallow: /bookstore.asp?FO=1313507
+# IBP Archive Misc images
+Disallow: /bookstore.asp?FO=1341510
+# IBP Archive PMI
+Disallow: /bookstore.asp?FO=1313770
+# IBP Archive Twitter Widget
+Disallow: /bookstore.asp?FO=1313152
+# IBP Archive  POll Widget
+Disallow: /bookstore.asp?FO=1343409
+# IBP Archive Latest Pubs thumbs
+Disallow: /bookstore.asp?FO=1318308
+# London 2012 POs archive
+Disallow: /bookstore.asp?FO=1319658
+# Project Syrup Archive
+Disallow: /bookstore.asp?FO=1323107
+# Santander Archive
+Disallow: /bookstore.asp?FO=1326503
+# Social Sciences Archive
+Disallow: /bookstore.asp?FO=1334612
+# Bestsellers Img Height 40px archive
+Disallow: /bookstore.asp?FO=1335996
+# Bestsellers new Page archive
+Disallow: /bookstore.asp?FO=1336444
+# BRC New Page archive
+Disallow: /bookstore.asp?FO=1339717
+# Ian Test Folder Archive
+Disallow: /bookstore.asp?FO=1339883
+# PACE Revisions Archive
+Disallow: /bookstore.asp?FO=1340978
+# Scotland Project Archive
+Disallow: /bookstore.asp?FO=1341320
+# Gazette Archive 
+Disallow: /bookstore.asp?FO=1342745
+# FCA Project Archive
+Disallow: /bookstore.asp?FO=1169266
+# TSO Scotland Archive Main
+Disallow: /bookstore.asp?FO=1169268
+# TSO Scotland Archive Articles
+Disallow: /bookstore.asp?FO=1254176
+# TSO Scotland Archive Images
+Disallow: /bookstore.asp?FO=1169267
+# TSO Scotland Archive Titles
+Disallow: /bookstore.asp?FO=38932
+# TSO SHop Images
+Disallow: /bookstore.asp?FO=39351
+# TSO SHop PDFs
+Disallow: /bookstore.asp?FO=1342810
+# TSO Shop FCA Handbooks Test bed
+Disallow: /bookstore.asp?FO=1347332
+# Carousel parent archive
+Disallow: /bookstore.asp?FO=1347581
+# Carousel Images
+Disallow: /bookstore.asp?FO=1347582
+# Law archive main
+Disallow: /bookstore.asp?FO=1347334
+# Law archive landing page
+Disallow: /bookstore.asp?FO=1347335
+
+Crawl-delay: 5
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: Googlebot
+Crawl-delay: 5
+
+User-agent: bingbot
+Crawl-delay: 5
+
+User-agent: slurp
+Crawl-delay: 5
+
+User-agent: rogerbot
+Crawl-delay: 5

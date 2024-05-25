@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://mosolytgyartunk.hu/sitemap.xml
+Sitemap: https://mosolytgyartunk.hu/sitemap.rss

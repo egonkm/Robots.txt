@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: / *session=*
+Disallow: / *emailto*
+Disallow: / *
+Disallow: /ords/*
+Allow: /ords/r/app/*/*
+Sitemap: https://www.right-thing.solutions/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow: /admin.php
+Sitemap: https://subventions.entreprises.bnpparibas/sitemap.xml

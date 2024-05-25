@@ -1,0 +1,12 @@
+# shaw.ca robots.txt
+
+User-agent: *
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /order-confirmation/
+Disallow: /lead-form/
+Disallow: /lead-acknowledgement/
+Disallow: /ShawTV/
+Disallow: /shawtv/
+
+Sitemap: https://www.shaw.ca/sitemap.xml

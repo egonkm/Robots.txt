@@ -1,0 +1,10 @@
+User-agent: * 
+Disallow: /kml/
+Disallow: /arcgis/
+Disallow: /arcims/
+Disallow: /Infomap
+Disallow: /arcims/
+Disallow: /level2.cfm
+Disallow: /level3.cfm
+Disallow: /level2
+Disallow: /level3

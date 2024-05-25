@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /siam1/
+Disallow: /siam2/
+Disallow: /siaten/

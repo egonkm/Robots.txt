@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /SiteGlobals/
+Allow: /SiteGlobals/Frontend/JavaScript/
+Allow: /SiteGlobals/Modules/
+Allow: /SiteGlobals/StyleBundles/
+Allow: /SiteGlobals/Frontend/
+Crawl-delay: 30
+Sitemap: https://www.zensus2022.de/Sitemap_Index.xml

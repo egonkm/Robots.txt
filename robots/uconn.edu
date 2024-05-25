@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wordpress/wp-admin/
+Disallow: /content/cache/
+Disallow: /*?s=
+Disallow: /*?*&s=
+Allow: /wordpress/wp-admin/admin-ajax.php
+
+Sitemap: https://uconn.edu/sitemap.xml
+
+Sitemap: https://uconn.edu/sitemap.xml

@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /
+Disallow: /events?*q=*
+Disallow: /events?*since=*
+Disallow: /events/*?*since=*
+Disallow: /groups?*q=*
+Disallow: /track_visitor
+Disallow: /*?auth_token
+Disallow: /*?user_token
+Disallow: /user/auth/*
+User-agent: BUbiNG
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+Sitemap: https://www.doorkeeper.jp/sitemaps/sitemap.xml.gz

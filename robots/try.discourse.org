@@ -1,0 +1,7 @@
+User-agent: googlebot
+Allow: /
+Disallow: /uploads/*
+
+User-agent: *
+Disallow: /
+

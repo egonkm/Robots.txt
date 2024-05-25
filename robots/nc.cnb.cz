@@ -1,0 +1,5 @@
+Sitemap: https://nc.cnb.cz/sitemap.xml
+
+User-agent: *
+Disallow: /export/sites/cnb/
+Disallow: /export/sites/pnu/

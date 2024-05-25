@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /$
+Disallow: */product-search*
+Disallow: */search*
+Disallow: */product-marketing-tool/*
+Disallow: */booksellers/forthcoming-titles-alert*
+Disallow: */1000$
+Disallow: *wicket:interface*

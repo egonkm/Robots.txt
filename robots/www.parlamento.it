@@ -1,0 +1,14 @@
+User-agent: Acunetix Security Scanner
+Disallow: /
+
+User-Agent: *
+Disallow: /ric/
+Disallow: /ric2012/
+Disallow: /App/Pages/
+
+
+# DIRITTO ALL'OBLIO
+# I documenti per i quali e' stata accolta un'istanza di oblio ai sensi delle delibere n. 31 del 18 dicembre 2013 e n. 62 del 7 maggio 2015 (http://www.senato.it/4567) 
+# sono oggetto di una procedura informatica finalizzata ad istruire i motori di ricerca a non effettuare l'indicizzazione dei testi in essi contenuti. 
+# In particolare tale procedura prevede che venga restituita un'intestazione X-Robots-Tag con valore "noindex, nofollow, noarchive" nella risposta HTTP della pagina interessata. 
+# Affinche' le suddette istruzioni di deindicizzazione siano efficaci, la pagina non deve essere bloccata da un file robots.txt, come specificato dalla documentazione online dei motori di ricerca.

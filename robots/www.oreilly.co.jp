@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /mt
+Disallow: /manager
+Disallow: /app
+Disallow: /catalog/catalog0809.pdf
+Disallow: /catalog/catalog2011.pdf
+Disallow: /catalog/catalog2013.pdf
+Disallow: /catalog/catalog2015.pdf
+Disallow: /catalog/catalog2016.pdf
+Disallow: /catalog/catalog2017.pdf
+Disallow: /ebook/download
+Disallow: /pub/outgoing
+Disallow: /pub/tools
+Disallow: /library
+

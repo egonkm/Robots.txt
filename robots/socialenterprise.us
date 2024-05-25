@@ -1,0 +1,344 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <!-- Google tag - MTI (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-068ELFB733"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-068ELFB733');
+    </script>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <!-- CSRF Token -->
+
+    <meta name="csrf-token" content="">
+
+
+
+    <title>Social Enterprise Alliance</title>
+
+
+
+    <link rel="icon" type="image/x-icon" href="https://socialenterprise.us/public/img/favicon.ico">
+
+
+
+    <!-- Styles -->
+
+    <link href="https://socialenterprise.us/public/css/bootstrap-5.0.0-alpha-2.min.css" rel="stylesheet" />
+
+    <link href="https://socialenterprise.us/public/css/chosen.min.css" rel="stylesheet" />
+
+    <link href="https://socialenterprise.us/public/css/sweetalert2.min.css" rel="stylesheet" />
+
+    <link href="https://socialenterprise.us/public/css/LineIcons.2.0.css" rel="stylesheet" />
+
+    <link href="https://socialenterprise.us/public/css/tiny-slider.css" rel="stylesheet" />
+
+    <link href="https://socialenterprise.us/public/css/animate.css" rel="stylesheet" />
+
+    <link href="https://socialenterprise.us/public/css/lindy-uikit.css" rel="stylesheet" />
+
+    <link href="https://socialenterprise.us/public/css/style.css" rel="stylesheet" />
+
+
+
+    
+
+
+</head>
+
+<body>
+
+    <div id="app">
+
+
+
+        <!--[if lte IE 9]>
+
+        <p class="browserupgrade">
+
+            You are using an <strong>outdated</strong> browser. Please
+
+            <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+
+            your experience and security.
+
+        </p>
+
+        <![endif]-->
+
+
+
+        <!-- ========================= preloader start ========================= -->
+
+        <div class="preloader">
+
+            <div class="loader">
+
+                <div class="spinner">
+
+                    <div class="spinner-container">
+
+                        <div class="spinner-rotator">
+
+                            <div class="spinner-left">
+
+                                <div class="spinner-circle"></div>
+
+                            </div>
+
+                            <div class="spinner-right">
+
+                                <div class="spinner-circle"></div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- ========================= preloader end ========================= -->
+
+
+
+        <!-- ========================= hero-section-wrapper-2 start ========================= -->
+
+        <section class="hero-section-wrapper-2">
+
+
+
+            <!-- ========================= header-2 start ========================= -->
+
+            <header class="header header-2">
+
+                <div class="navbar-area">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-lg-12">
+                <nav class="navbar navbar-expand-lg">
+                    <a class="navbar-brand" href="https://socialenterprise.us">
+                        <img src="https://socialenterprise.us/public/img/logo/sea-logo.png" alt="Logo" />
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="toggler-icon"></span>
+                        <span class="toggler-icon"></span>
+                        <span class="toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent2">
+                        <ul id="nav2" class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a class="" href="https://socialenterprise.us/home">Dashboard </a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class=" data-toggle js-activated" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" data-hover="dropdown" data-delay="1000" data-close-others="false">
+                                    Member Resources <i class="lni lni-chevron-down pl-1"></i>
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                    <li class="dropdown-item"><a class="" href="https://socialenterprise.us/verification">People and Planet First</a></li>
+                                    <li class="dropdown-divider"></li>
+                                    <li class="dropdown-item"><a class="" href="https://socialenterprise.us/funding">Funding Database</a></li>
+                                    <li class="dropdown-divider"></li>
+                                    <li class="dropdown-item"><a class="" href="https://socialenterprise.us/member_tools">Member Tools</a></li>
+                                    <li class="dropdown-divider"></li>
+                                    <li class="dropdown-item"><a class="" href="https://socialenterprise.us/summit_videos">Summit Videos</a></li>
+                                    <li class="dropdown-divider"></li>
+                                    <li class="dropdown-item"><a class="" href="https://socialenterprise.us/webinar_archive">Webinar Archive</a></li>
+                                    <li class="dropdown-divider"></li>
+                                    <li class="dropdown-item"><a class="" href="https://socialenterprise.us/upcoming_events">Upcoming Events</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a target="_blank" href="https://shop.socialenterprise.us/">Shop</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="" href="https://socialenterprise.us/profile/edit">Edit Profile</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="" href="https://socialenterprise.us/profile/view">View Public Profile</a>
+                            </li>
+                        </ul>
+                                                <a class="button button-sm border-button mr-20" href="https://socialenterprise.us/login"><i class="lni lni-user pl-0"></i>&nbsp;Login</a>
+                                                <!-- <a href="https://socialenterprise.us/donation" class="button button-sm radius-10">Make A Donation</a> -->
+                    </div>
+                    <!-- navbar collapse -->
+                </nav>
+                <!-- navbar -->
+            </div>
+        </div>
+        <!-- row -->
+    </div>
+    <!-- container -->
+</div>
+<!-- navbar area -->
+            </header>
+
+            <!-- ========================= header-2 end ========================= -->
+
+
+
+            
+
+
+        </section>
+
+
+
+        <div id="content-section-wrapper">
+
+
+
+            <div class="container pt-150">
+
+    <div class="row">
+        <div class="col-lg-12">
+
+            <div class="card border-danger mb-40">
+                <div class="card-header bg-danger"><h5 class="white">404 Access Denied<h5></div>
+
+                <div class="card-body">
+                    <div class="offset-4 col-lg-4">
+                        <img src="https://socialenterprise.us/public/img/denied-icon.jpg" alt="" />
+                    </div>
+                    <div class="offset-3 col-lg-6">
+
+                    <h4 class="mt-20 mb-20">Sorry. You do not have access to this feature. </h4>
+                    <h5 class="mb-20">Please contact your admin - info@socialenterprise.us</h5>
+
+                    <a class="button button-lg btn-block" href="https://socialenterprise.us/home">Back To Dashboard</a>
+                    </div>
+                </div>
+            
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+        </div>
+
+
+
+        <!-- ========================= start: footer ======================= -->
+
+        <footer class="footer footer-style-1">
+
+            <div class="container">
+    <div class="widget-wrapper">
+        <div class="row">
+            <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="footer-widget wow fadeInUp" data-wow-delay=".2s">
+                    <div class="logo">
+                        <a href="https://socialenterprise.us"> <img src="https://socialenterprise.us/public/img/logo/sea-logo.png" alt="" width="70%"> </a>
+                    </div>
+                    <p class="desc">Creating a new equitable economic norm by catalyzing social enterprises in the U.S. to grow their revenue and their impact.</p>
+                    <ul class="socials">
+                        <li> <a target="_blank" href="https://www.facebook.com/pages/Social-Enterprise-Alliance/59580246388"> <i class="lni lni-facebook-filled"></i> </a> </li>
+                        <li> <a target="_blank" href="https://twitter.com/SEAlliance"> <i class="lni lni-twitter-filled"></i> </a> </li>
+                        <li> <a target="_blank" href="https://www.instagram.com/toasting_good/"> <i class="lni lni-instagram-filled"></i> </a> </li>
+                        <li> <a target="_blank" href="https://www.linkedin.com/company/social-enterprise-alliance/"> <i class="lni lni-linkedin-original"></i> </a> </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-2 offset-xl-1 col-lg-2 col-md-6 col-sm-6">
+                <div class="footer-widget wow fadeInUp" data-wow-delay=".3s">
+                    <h6>Quick Links</h6>
+                    <ul class="links">
+                        <li> <a href="https://socialenterprise.us">Home</a> </li>
+                        <li> <a href="https://socialenterprise.us/about">About</a> </li>
+                        <li> <a href="https://socialenterprise.us/community">Community</a> </li>
+                        <li> <a href="https://socialenterprise.us/blog">Blog</a> </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                <div class="footer-widget wow fadeInUp" data-wow-delay=".4s">
+                    <h6>Help & Support</h6>
+                    <ul class="links">
+                        <li> <a href="https://socialenterprise.us/members">Member Directory</a> </li>
+                        <li> <a href="https://socialenterprise.us/privacy-policy">Privacy Policy</a> </li>
+                        <li> <a href="https://socialenterprise.us/terms-of-use">Terms & Conditions</a> </li>
+                        <li> <a href="https://socialenterprise.us#contact">Contact Us</a> </li>
+                    </ul>
+                </div>
+            </div>
+            <!--
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="footer-widget wow fadeInUp" data-wow-delay=".5s">
+                        <h6>Coming Soon</h6>
+                        <ul class="links">
+                            <li> <a>Chapter Pages</a></li>
+                            <li> <a>Free Resources</a> </li>
+                            <li> <a>Programs</a> </li>
+                            <li> <a>Support Center</a> </li>
+                        </ul>
+                    </div>
+                </div>
+            -->
+        </div>
+    </div>
+    <div class="copyright-wrapper wow fadeInUp" data-wow-delay=".2s">
+        <p><a href="https://socialenterprise.us" rel="nofollow" target="_blank">&copy; SEA Inc. 2023</a> <a href="#">All Rights Reserved.</a></p>
+    </div>
+</div>
+        </footer>
+
+        <!-- ========================= end: footer ========================= -->
+
+
+
+
+
+    </div>
+
+
+
+    <!-- Scripts -->
+
+    <script src="https://socialenterprise.us/public/js/jquery-1.12.4.min.js"></script>
+
+    <script src="https://socialenterprise.us/public/js/jquery.validate.min.js"></script>
+
+    <script src="https://socialenterprise.us/public/js/bootstrap.5.0.0.alpha-2-min.js"></script>
+
+    <script src="https://socialenterprise.us/public/js/chosen.jquery.min.js"></script>
+
+    <script src="https://socialenterprise.us/public/js/sweetalert2.all.min.js"></script>
+
+    <script src="https://socialenterprise.us/public/js/tiny-slider.js"></script>
+
+    <script src="https://socialenterprise.us/public/js/count-up.min.js"></script>
+
+    <script src="https://socialenterprise.us/public/js/wow.min.js"></script>
+
+    <script src="https://socialenterprise.us/public/js/main.js"></script>
+
+
+
+    
+
+
+</body>
+
+</html>

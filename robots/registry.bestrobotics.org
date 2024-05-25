@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /api/
+Disallow: /authentication/
+Disallow: /cron/
+Disallow: /css/
+Disallow: /exporters/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /logs/
+Disallow: /plugins/
+Disallow: /support/

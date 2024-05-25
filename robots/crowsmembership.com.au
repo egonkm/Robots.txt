@@ -1,0 +1,12 @@
+# robots.txt for https://crowsmembership.com.au/
+
+sitemap: https://crowsmembership.com.au/sitemaps-1-sitemap.xml
+
+# live - don't allow web crawlers to index cpresources/ or vendor/
+
+User-agent: *
+Disallow: /cpresources/
+Disallow: /vendor/
+Disallow: /.env
+Disallow: /cache/
+

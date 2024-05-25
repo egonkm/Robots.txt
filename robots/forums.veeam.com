@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /groupcp.php
+Disallow: /login.php
+Disallow: /memberlist.php
+Disallow: /posting.php
+Disallow: /privmsg.php
+Disallow: /profile.php
+Disallow: /search.php
+Disallow: */site-search?q=*
+Disallow: /viewonline.php
+Disallow: /ucp.php
+Disallow: /map.php
+Disallow: /group*.html
+Disallow: /download/
+Disallow: /*view=print
+Sitemap: https://forums.veeam.com/sitemap.xml
+Host: https://forums.veeam.com

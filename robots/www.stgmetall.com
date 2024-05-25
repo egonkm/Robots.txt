@@ -1,0 +1,1 @@
+Sitemap:http://www.stgmetall.com/sitemap.xml

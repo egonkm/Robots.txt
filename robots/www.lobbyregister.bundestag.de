@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /sucheJson
+Disallow: /sucheDetailJson
+Disallow: /suchePdf
+Disallow: /sucheDetailPdf
+Disallow: /personensucheJson
+Disallow: /personensucheDetailJson
+Disallow: /personensuchePdf
+Disallow: /personensucheDetailPdf
+Disallow: /expertensucheJson
+Disallow: /expertensucheDetailJson
+Disallow: /expertensuchePdf
+Disallow: /expertensucheDetailPdf

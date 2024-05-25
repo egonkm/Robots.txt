@@ -1,0 +1,10 @@
+User-agent: *
+Allow:*
+Disallow: */apps/*
+Disallow: */wbg/services/*
+Disallow: */en/webarchives/archive*
+Disallow: */misc*
+Disallow: */conf/*
+Disallow: */downloadstats/*
+Disallow: */wbg/aem/*
+Sitemap: https://projects.banquemondiale.org/sitemap.xml

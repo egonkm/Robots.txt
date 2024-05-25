@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /reusables
+Disallow: /feedback
+Disallow: /autocomplete
+Disallow: /search
+Sitemap: https://sell.amazon.co.uk/sitemap.xml

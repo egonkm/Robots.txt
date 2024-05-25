@@ -1,0 +1,5 @@
+Sitemap: https://communityovercode.org/sitemap.xml
+Sitemap: https://communityovercode.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

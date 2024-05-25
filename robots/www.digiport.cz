@@ -1,0 +1,7 @@
+User-agent: *
+Crawl-delay: 1
+Disallow: /hledani
+Disallow: /moje/
+Disallow: /microsites/
+
+Sitemap: https://www.digiport.cz/sitemap_index.xml

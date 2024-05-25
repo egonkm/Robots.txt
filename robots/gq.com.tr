@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /arama-sonuc?keyword=
+Disallow: /etiket?t=*

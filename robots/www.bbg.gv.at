@@ -1,0 +1,23 @@
+User-agent: *
+
+# sitemap
+Allow: /sitemap.xml?sitemap=*
+
+Sitemap: https://www.bbg.gv.at/sitemap.xml
+
+# folders
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /_offline_impfstoff/
+Disallow: /import_prod/
+Disallow: /lagerstand/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# parameters
+Disallow: /*?id=*               # non-realurl URLs
+Disallow: /*cHash               # no cHash
+Disallow: /*tx_powermail_pi1    # no powermail thanks pages
+Disallow: /*tx_tenderlist_tenderlist    # no tenderlist thanks pages
+Disallow: /*suche/?q

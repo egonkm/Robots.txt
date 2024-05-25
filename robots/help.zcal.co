@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /~gitbook/
+Allow: /
+Sitemap: https://help.zcal.co/sitemap.xml

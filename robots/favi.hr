@@ -1,0 +1,27 @@
+Sitemap: https://favi.hr/sitemap/sitemap-index.xml
+
+User-agent: *
+Disallow: /proizvodi/kupovina/
+Disallow: /proizvodi*besplatnaDostava=
+Disallow: /proizvodi*cijenaOd=
+Disallow: /proizvodi*cijenaDo=
+Disallow: /proizvodi*dimenzije[*]=
+Disallow: /proizvodi*filteri=
+Disallow: /proizvodi*color=
+Disallow: /proizvodi*feature1=
+Disallow: /proizvodi*feature2=
+Disallow: /proizvodi*feature3=
+Disallow: /proizvodi*feature4=
+Disallow: /proizvodi*feature5=
+Disallow: /proizvodi*feature6=
+Disallow: /proizvodi*feature7=
+Disallow: /proizvodi*feature8=
+Disallow: /proizvodi*feature9=
+Disallow: /proizvodi*feature10=
+Disallow: /proizvodi*luxury=
+Disallow: /proizvodi*priceFrom=
+Disallow: /proizvodi*priceTo=
+Disallow: /proizvodi*sort=
+Disallow: /proizvodi*style=
+Disallow: /dodaj-recenziju/*
+Disallow: /profil/

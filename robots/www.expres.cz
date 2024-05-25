@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /diskuse.asp?*reakce=
+Disallow: /*/ankety.asp?id=
+Disallow: /diskuse.asp?*vlakno=
+Disallow: /diskuse.aspx?*reakce=
+Disallow: /*/ankety.aspx?id=
+Disallow: /diskuse.aspx?*vlakno=
+Disallow: /skolnihra/trida.asp
+Disallow: /hledej.aspx
+Allow: /
+
+User-agent: MachineLearning
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://www.expres.cz/sitemap?type=sitemap

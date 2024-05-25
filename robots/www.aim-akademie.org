@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /template/
+Allow: /typo3/sysext/frontend/Resources/Public/*
+Allow: /template/Resources/Public/*
+Sitemap: http://kweb-03-dev/layouts/typo3/alster/sitemap.xml

@@ -1,0 +1,10 @@
+Sitemap: https://ayersfoundationtrust.org/sitemap.xml
+Sitemap: https://ayersfoundationtrust.org/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://ayersfoundationtrust.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

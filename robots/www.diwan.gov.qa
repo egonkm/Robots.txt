@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /sitecore/*
+Disallow: /english/*
+Disallow: /en/*
+Disallow: /arabic/*
+Disallow: /ar/*
+Disallow: /api/*
+sitemap: https://www.diwan.gov.qa/sitemap.xml
+Sitemap: sitemap.xml

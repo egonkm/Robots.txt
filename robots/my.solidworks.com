@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /mfg/
+Allow:/reader/
+Disallow: /adaptive-images.php
+Disallow: /partner/
+Allow: /training/
+Disallow: /search/
+Allow: /forums/
+Disallow: /reader/solidworks-forum/
+Disallow: /r2/
+Disallow: /r3/
+Disallow: /signin 
+Allow: /buzz/
+Disallow: /drive
+Disallow: /3ddrive
+Allow: /mylearning
+Allow: /cadmodels
+Allow: /asset
+Allow: /user

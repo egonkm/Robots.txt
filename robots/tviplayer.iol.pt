@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /recuperarpassword
+Disallow: /programa/louco-amor/**
+Disallow: /programa/ninguem-como-tu/**
+Sitemap: https://tviplayer.iol.pt/sitemap.xml
+Sitemap: https://tviplayer.iol.pt/sitemap_videos.xml
+
+User-agent: OpenAI
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Googlebot-Bard
+Disallow: /
+
+User-agent: OpenAI-Crawler
+Disallow: /

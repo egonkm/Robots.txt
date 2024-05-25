@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /reader*
+Disallow: /all-offers/*
+Disallow: /basket
+Disallow: /error
+Disallow: /search/go*
+Disallow: /admin/
+Disallow: /admin/*
+Disallow: /free-membership-signup
+Disallow: /free-membership-signup/*
+Disallow: /cffiles/

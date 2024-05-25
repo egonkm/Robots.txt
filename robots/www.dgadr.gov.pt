@@ -1,0 +1,64 @@
+# If the Joomla site is installed within a folder such as at
+# e.g. www.example.com/joomla/ the robots.txt file MUST be
+# moved to the site root at e.g. www.example.com/robots.txt
+# AND the joomla folder name MUST be prefixed to the disallowed
+# path, e.g. the Disallow rule for the /administrator/ folder
+# MUST be changed to read Disallow: /joomla/administrator/
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+#
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+
+# gonza
+Disallow: /01_Admin/
+Disallow: /02_Apps/
+Disallow: /AgriculturaFamiliar/
+
+# gonza
+# Os proximos comandos servem para desindexar a informação referente ao site antigo.
+# Mais tarde deverão ser apagados.
+
+Disallow: /ar/
+Disallow: /docbweb/				
+Disallow: /docs_pdf/
+Disallow: /docs_word/
+Disallow: /fitofarmaceuticos/
+Disallow: /prrn/						
+Disallow: /rectec/
+Disallow: /wwwbase/		
+Disallow: /aaaDefault.aspx
+Disallow: /default.aspx
+# Ricardo
+# retirar da pesquisa artigos da acreditação de entidades de regantes
+
+Disallow: /component/content/article/39-reconhecimento-de-regantes/reconhecimento-de-regantes-tabs/414-quadro-1-regiao-sul-ribatejo-alentejo-e-algarve
+Disallow: /component/content/article/39-reconhecimento-de-regantes/reconhecimento-de-regantes-tabs/416-quadro-2-regiao-litoral-norte-e-centro
+Disallow: /component/content/article/39-reconhecimento-de-regantes/reconhecimento-de-regantes-tabs/417-quadro-3-regiao-interior-norte-e-centro
+Disallow: /component/content/article/39-reconhecimento-de-regantes/reconhecimento-de-regantes-tabs/418-quadro-4-culturas-em-estufa-continente
+
+
+
+
+
+
+
+
+

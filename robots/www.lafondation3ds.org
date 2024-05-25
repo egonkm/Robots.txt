@@ -1,0 +1,5 @@
+User-agent: * 
+Disallow: /core-static/* 
+Disallow: /asset/* 
+
+Sitemap: https://www.lafondation3ds.org/contents/sitemap-lafondation.xml

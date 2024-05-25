@@ -1,0 +1,13 @@
+User-agent: * 
+Disallow: /DLLR%20Forms/
+Disallow: /DLLR/javascript/
+Disallow: /DLLR/cfdocs/
+Disallow: /DLLR/downfiles/
+Disallow: /DLLR/secdocs/
+Disallow: /ELS_applications/cgi-bin/ 
+Disallow: /ELS_applications_Docs/
+Disallow: /GWIB/javascript/
+Disallow: /WiaWeb/
+Disallow: /employment/unemploymenttest.shtml
+Disallow: /employment/assets/
+Disallow: /employment/unemployment.shtml/uim/

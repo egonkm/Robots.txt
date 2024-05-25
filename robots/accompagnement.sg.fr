@@ -1,0 +1,25 @@
+#Le robots.txt ne doit pas Ãªtre modifiÃ©.
+#Si vous avez des questions ou si vous souhaitez apporter
+#des modifications, merci de contacter CLI/DFC/DMK.
+#Pour en savoir plus : https://support.google.com/webmasters/answer/6062608?hl=fr
+#Pour lire les rÃ¨gles : http://robots-txt.com/
+
+#RÃ¨gles pour l'ensemble des bots
+User-agent: *
+Disallow: /secure*
+Disallow: /campagne-promo*
+Disallow: /campagne-media*
+Disallow: /com/*
+Disallow: /loginpage*
+Disallow: /page-deconnexion*
+Disallow: /page-erreur-404
+Disallow: /page-erreur-410
+Disallow: /resultats-recherche
+Disallow: /stream-specifique*
+Disallow: /restitution*
+Disallow: /cem/ced*
+Disallow: /tuto-espace-client*
+Disallow: /particuliers*
+
+#Sitemaps
+Sitemap: https://accompagnement.sg.fr/sitemap.xml

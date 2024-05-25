@@ -1,0 +1,25 @@
+ï»¿# Robots.txt for crawler
+
+User-agent: *
+
+# Disallow Crawler
+Disallow: /User
+Disallow: /Dateien
+# Crawler often creates invalid script/webresource resource request
+Disallow: /ScriptResource
+Disallow: /WebResource
+Disallow: /verlag/Template-kimeta
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# Max crawler Time per page in sec
+Crawl-Delay: 2
+
+#Sitemap
+#Sitemap: https://www.borkenerzeitung.de.de/Sitemap/Sitemap_Index.xml.gz
+
+# Die J. Mergelsberg GmbH & Co. KG  behÃ¤lt sich eine Nutzung ihrer Inhalte fÃ¼r kommerzielles Text und Data Mining im Sinne von Â§ 44b UrhG ausdrÃ¼cklich vor. FÃ¼r den Erwerb eines entsprechenden Nutzungsrechts wenden Sie sich bitte an verlag@borkenerzeitung.de.

@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /tag/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-json/
+Disallow: /wp-content/uploads/
+
+User-agent: Googlebot
+Allow:
+Disallow: /tag/
+
+User-agent: Googlebot-Image
+Allow:
+
+User-agent: Mediapartners-Google
+Allow:
+
+User-agent: Adsbot-Google
+Allow:
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: bingbot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: BingPreview
+Disallow: /
+
+User-agent: AdIdxBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /

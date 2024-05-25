@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Allow: /account/login
+Allow: /public/content/
+

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /__data/assets/git_bridge/0011/2069903/
+Disallow: /__data/assets/git_bridge/0003/2168544/

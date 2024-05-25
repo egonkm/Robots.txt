@@ -1,0 +1,82 @@
+User-agent: *
+# Directories
+Disallow: /actus/
+Disallow: /actualites/
+Disallow: /Actualites/
+Disallow: /a_la_une
+Disallow: /A-la-une
+Disallow: /Bpifrance/
+Disallow: /node/
+Disallow: /taxonomy/
+Disallow: /user/
+Disallow: /recherche/
+Disallow: /Recherche/
+Disallow: /Espace-Presse/
+Disallow: /evenements/
+Disallow: /Module-offre-Regionaux/
+Disallow: /Newsletter/
+Disallow: /Qui-sommes-nous/
+Disallow: /Restez-informe-A-la-une/
+Disallow: /tags/
+Disallow: /Toutes-nos-solutions/
+Disallow: /Trouvez-la-solution-qu-il-vous-faut/
+Disallow: /Vivez-Bpifrance/
+Disallow: /votre_projet/
+Disallow: /web
+Disallow: /core/
+Disallow: /profiles/
+Disallow: /content/tipafriend/
+Disallow: /profiles/
+Disallow: /export/
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow : *&field_labels=*
+Disallow : *&field_sector_tags=*
+Disallow : *&field_event_family=*
+Disallow : *&type=All*
+Disallow: /*?utm=*
+Disallow : /*?term=*
+Disallow: /*?searchsearch_api_fulltext=*
+Disallow: /*?field_labels&field_tag&search_api_fulltext=&page=*
+Sitemap: https://www.bpifrance.fr/sitemap.xml

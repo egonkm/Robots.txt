@@ -1,0 +1,10 @@
+
+User-agent: *
+Disallow: /form/
+Disallow: /PccClose/
+Disallow: */secur/forgotpassword.jsp?*
+
+User-Agent: googlebot
+Allow: /form/
+Allow: /PccClose/
+Disallow: */secur/forgotpassword.jsp?*

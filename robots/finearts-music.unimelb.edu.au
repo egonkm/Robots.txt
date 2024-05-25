@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /home
+Disallow: /web_services/
+Disallow: /dev/
+Disallow: /404*
+
+Sitemap: https://finearts-music.unimelb.edu.au/sitemap.xml

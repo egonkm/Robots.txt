@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cps/
+
+Sitemap: https://kariera.lidl.cz/sitemap.xml

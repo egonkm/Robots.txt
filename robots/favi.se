@@ -1,0 +1,27 @@
+Sitemap: https://favi.se/sitemap/sitemap-index.xml
+
+User-agent: *
+Disallow: /produkter/till-butik/
+Disallow: /produkter*friFrakt=
+Disallow: /produkter*prisFran=
+Disallow: /produkter*prisTill=
+Disallow: /produkter*dimension[*]=
+Disallow: /produkter*filter=
+Disallow: /produkter*color=
+Disallow: /produkter*feature1=
+Disallow: /produkter*feature2=
+Disallow: /produkter*feature3=
+Disallow: /produkter*feature4=
+Disallow: /produkter*feature5=
+Disallow: /produkter*feature6=
+Disallow: /produkter*feature7=
+Disallow: /produkter*feature8=
+Disallow: /produkter*feature9=
+Disallow: /produkter*feature10=
+Disallow: /produkter*luxury=
+Disallow: /produkter*priceFrom=
+Disallow: /produkter*priceTo=
+Disallow: /produkter*sort=
+Disallow: /produkter*style=
+Disallow: /lagg-till-recension/*
+Disallow: /anvandarprofiler/

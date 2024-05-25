@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /downloads/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /lang/
+Disallow: /modules/
+Disallow: /pipe/
+Disallow: /status/
+Disallow: /templates/
+Disallow: /templates/*
+Disallow: /templates_c/
+Disallow: /login*
+Disallow: /index.php?rp=/login

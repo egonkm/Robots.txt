@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /ident/
+
+User-agent: *
+Disallow: /hirugynokseg.php
+
+Sitemap: https://www.napi.hu/gsitemaps.xml

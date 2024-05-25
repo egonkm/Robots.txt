@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: *)*
+Disallow: /1042886/
+Disallow: /baedgnqgdzowviv/
+Disallow: /collqmkgawjiy/
+Disallow: /email-signature/
+Disallow: /euhdzbrhnb/
+Disallow: /fjotteylbh/
+Disallow: /ftnckdyza/
+Disallow: /kgpjfjuyxv/
+Disallow: /mpa/*
+Disallow: /ojncyugizzpw/
+Disallow: /qkpkkfodznqody/
+Disallow: /syglzdqdbxbvyg/
+Disallow: /tlcsdscrfnmoox/
+Disallow: /wztlirwlfqtvlms/
+Disallow: /zoietzacdy/
+Disallow: /contents/contentlist.aspx*
+Disallow: /tvpage*
+Disallow: /IndustryEvent.asmx/GetPhoto
+Disallow: /business-news/
+Disallow: /cdn-cgi/
+Disallow: *__hstc=
+
+sitemap: https://www.brokernews.com.au/sitemap.xml

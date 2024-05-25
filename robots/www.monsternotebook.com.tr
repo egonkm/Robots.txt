@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /*opf=*
+Disallow: /popup/
+Disallow: /siparis/
+Disallow: /uyeIslem/
+Disallow: /uyeislem/
+Disallow: /moduls/
+Disallow: /mesaj/
+Disallow: /sepet/
+Disallow: /uyeBilgi/
+Disallow: /uyebilgi/
+Disallow: /form/
+Disallow: /*srt=*
+Disallow: /*?ps=*
+Disallow: /admin/
+Disallow: /urun_kiyaslama.aspx
+Disallow: /arama/*
+Disallow: /customize/*
+Disallow: /UPLOAD/urun_sayfasi/*
+Disallow: */usercontrols/*
+Disallow: *yardim.aspx*
+Disallow: *icerik.aspx*
+
+Sitemap: https://www.monsternotebook.com.tr/sitemap.axd

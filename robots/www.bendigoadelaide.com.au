@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /edit/CMS/
+Disallow: /Util/
+Disallow: /Recycle-Bin/
+Disallow: /recycle-bin/
+Disallow: /500
+Disallow: /404
+Disallow: /search
+Disallow: /media-centre/message-for-retired-officer-division-members
+Disallow: /find_v2/
+
+Sitemap: https://www.bendigoadelaide.com.au/sitemap.xml

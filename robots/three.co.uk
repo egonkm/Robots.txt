@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /business-search
+Sitemap: https://www.three.co.uk/sitemap.xml

@@ -1,0 +1,5 @@
+Sitemap: https://blog.trade.gov/sitemap.xml
+Sitemap: https://blog.trade.gov/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

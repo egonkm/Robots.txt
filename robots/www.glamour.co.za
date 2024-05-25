@@ -1,0 +1,21 @@
+User-agent:  *
+
+Allow: *.js
+Allow: *.css
+Disallow: *search?q
+Disallow: */preview/
+Disallow: /test$
+Disallow: /tag/
+Disallow: /xmlrpc.php
+Disallow: /profile
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /junk/
+Disallow: /index.php?*
+Disallow: /trackback/
+Disallow: /administrator/
+Disallow: */trackback/
+Disallow: /license.txt
+Disallow: /*.php$
+
+Sitemap: https://www.glamour.co.za/sitemap.xml

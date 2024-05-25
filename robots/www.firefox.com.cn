@@ -1,0 +1,7 @@
+user-agent: LinkChecker
+disallow:
+crawl-delay: 1
+user-agent: *
+disallow: /welcome/
+disallow: /whatsnew/
+Sitemap: http://www.firefox.com.cn/sitemap.xml

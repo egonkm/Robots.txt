@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /collections/
+Disallow: /products/
+Disallow: /blog/

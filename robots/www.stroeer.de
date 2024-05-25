@@ -1,0 +1,32 @@
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: CrazyWebCrawler-Spider
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Publicnow
+Disallow: /newsroom/blog
+
+User-agent: IonCrawl
+Disallow: /
+
+User-Agent: trendictionbot
+Disallow: /newsroom/blog
+
+User-agent: *
+Crawl-delay: 120
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /newsroom/blog

@@ -1,0 +1,13 @@
+User-agent: GPTBot
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: *
+Disallow: /gz/user-logged
+Disallow: /navigation/
+Disallow: /noindex/
+Disallow: /registration?confirmation_url*
+Disallow: /recommendations*
+Disallow: /buscar*
+Disallow: /configuracion*
+Disallow: /restricciones*

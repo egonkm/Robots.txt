@@ -1,0 +1,265 @@
+<!doctype html><html xmlns:saxon="http://saxon.sf.net/" lang="hu">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>MNB Adatszolgáltatói Portál - Kezdőlap</title>
+      <link rel="icon" type="image/x-icon" href="/static/assets/favicon.ico">
+      <link rel="shortcut icon" type="image/x-icon" href="/static/assets/favicon.ico">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="format-detection" content="telephone=no">
+      <meta name="theme-color" content="#fff">
+      <meta name="msapplication-navbutton-color" content="#fff">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="#fff">
+      
+      <link rel="stylesheet" href="/static/common.css?v=42">
+      <link rel="stylesheet" href="/static/layouts/portal.css?v=42"><script type="text/javascript">
+							var mnbStatPortalLang = 'hu';
+						</script></head>
+   <body>
+      <div class="page-size" id="vue-app">
+         <hea01-header inline-template="" v-cloak="" search-page-path="/kereso">
+            <header class="hea01-header header-hu" id="sf-header"><a href="#jump-link" class="a11y-jump-link" tabindex="0">Ugrás a tartalomhoz</a><div xmlns:v-on="vue" class="hea01-header-mainmenu" v-on:keydown.esc="closeSearchBar">
+                  <div class="container hea01-header-mainmenu-container">
+                     <div class="hea01-header-mainmenu-row row">
+                        
+                           <div class="hea01-header-mainmenu__logo-container"><a class="hea01-header-mainmenu__logo-link" href="/nyito">
+                                 <img src="/sw/static/pic/mnb-logo-w.svg" alt="" class="hea01-header-mainmenu__logo"><span class="hea01-header-mainmenu__logo-title"><span>MNB</span><span>Adatszolgáltatás</span></span></a></div>
+                        
+                        <div class="hea01-header-mainmenu__desktop-menu">
+                           <ul class="hea01-header-mainmenu__menu" role="menu">
+                              
+                                 <li class="hea01-header-mainmenu__menuitem" role="menuitem"><a xmlns:v-bind="vue" class="hea01-header-mainmenu__menuitem-link" href="/nyito/naptar" v-bind:class="{'is-active' : isActive('/nyito/naptar')}">Adatszolgáltatási <br />naptár</a></li>
+                              
+                              <li class="hea01-header-mainmenu__menuitem" role="menuitem"><button xmlns:v-bind="vue" class="hea01-header-mainmenu__menuitem-link has-megamenu" v-bind:class="{'has-focus is-open' : showMegamenu===2}" v-bind:aria-expanded="showMegamenu===2?'true' : 'false'" v-on:click.prevent.stop="toggleMegamenu(2)">Jegybanki <br /> adatszolgáltatás</button><div xmlns:v-bind="vue" v-click-outside="onClickOutside" class="hea01-header-megamenu hea01-header-megamenu--v2" v-bind:class="{'is-open' : showMegamenu===2}">
+                                    <ul xmlns:s="shima" class="hea01-header-megamenu-list">
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-kotelezettseg"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-book-reader"></i></span><span class="hea01-header-megamenu__menuitem-text">Adatszolgáltatási kötelezettség</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-kotelezettseg-teljesitese"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-chart-pie"></i></span><span class="hea01-header-megamenu__menuitem-text">Adatszolgáltatás teljesítése</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/kapcsolodo-informaciok"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-tint"></i></span><span class="hea01-header-megamenu__menuitem-text">Kapcsolódó információk</span></a></li>
+                                       
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="hea01-header-mainmenu__menuitem" role="menuitem"><button xmlns:v-bind="vue" class="hea01-header-mainmenu__menuitem-link has-megamenu" v-bind:class="{'has-focus is-open' : showMegamenu===3}" v-bind:aria-expanded="showMegamenu===3?'true' : 'false'" v-on:click.prevent.stop="toggleMegamenu(3)">HITREG <br />adatszolgáltatás</button><div xmlns:v-bind="vue" v-click-outside="onClickOutside" class="hea01-header-megamenu hea01-header-megamenu--v2" v-bind:class="{'is-open' : showMegamenu===3}">
+                                    <ul xmlns:s="shima" class="hea01-header-megamenu-list">
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/hitreg-adatszolgaltatas/hitelintezetek"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-chart-pie"></i></span><span class="hea01-header-megamenu__menuitem-text">Hitelintézetek</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/hitreg-adatszolgaltatas/penzugyi-vallalkozasok"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-hands-helping"></i></span><span class="hea01-header-megamenu__menuitem-text">Pénzügyi vállalkozások</span></a></li>
+                                       
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="hea01-header-mainmenu__menuitem hea01-header-mainmenu__menuitem--external" role="menuitem"><a class="hea01-header-mainmenu__menuitem-link" href="https://www.mnb.hu/felugyelet/adatszolgaltatas" target="_blank">Felügyeleti <br /> adatszolgáltatás</a><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13">
+                                    <path fill="#fff" d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z" transform="translate(-8 -3)"></path>
+                                    <path fill="#fff" d="M14.556 14.556H4.444V4.444H9.5L8.056 3H4.444A1.446 1.446 0 0 0 3 4.444v10.112A1.446 1.446 0 0 0 4.444 16h10.112A1.446 1.446 0 0 0 16 14.556v-3.612L14.556 9.5z" transform="translate(-3 -3)"></path>
+                                 </svg>
+                              </li>
+                              <li class="hea01-header-mainmenu__menuitem" role="menuitem"><button xmlns:v-bind="vue" class="hea01-header-mainmenu__menuitem-link has-megamenu" v-bind:class="{'has-focus is-open' : showMegamenu===5}" v-bind:aria-expanded="showMegamenu===5?'true' : 'false'" v-on:click.prevent.stop="toggleMegamenu(5)">Adatszolgáltatási <br />előírások</button><div xmlns:v-bind="vue" v-click-outside="onClickOutside" class="hea01-header-megamenu hea01-header-megamenu--v2" v-bind:class="{'is-open' : showMegamenu===5}">
+                                    <ul xmlns:s="shima" class="hea01-header-megamenu-list">
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-mnb-rendeletek"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-hands-helping"></i></span><span class="hea01-header-megamenu__menuitem-text">Adatszolgáltatási MNB rendeletek</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-eloirasok/kapcsolodo-eloirasok_-technikai-segedletek"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fab fa-hubspot"></i></span><span class="hea01-header-megamenu__menuitem-text">Kapcsolódó előírások, technikai<br /> segédletek</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-eloirasok/szektormeghatarozast-segito-informaciok"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-filter"></i></span><span class="hea01-header-megamenu__menuitem-text">Szektormeghatározást segítő információk</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-eloirasok/adatszolgaltatasi-rendelettervezetek_-kulso-velemenyeztetes"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-eye"></i></span><span class="hea01-header-megamenu__menuitem-text">Adatszolgáltatási rendelettervezetek, <br />külső véleményeztetés</span></a></li>
+                                       
+                                    </ul>
+                                 </div>
+                              </li>
+                           </ul>
+                        </div>
+                        <div xmlns:v-bind="vue" class="hea01-header-mainmenu__mobile-menu" v-bind:class="{'is-open' : showHamburgerMenu}">
+                           <ul class="hea01-header-mainmenu__menu" role="menu">
+                              
+                                 <li class="hea01-header-mainmenu__menuitem" role="menuitem"><a class="hea01-header-mainmenu__menuitem-link" href="/nyito/naptar" v-bind:class="{'is-active' : isActive('/nyito/naptar')}">Adatszolgáltatási <br />naptár</a></li>
+                              
+                              <li class="hea01-header-mainmenu__menuitem" role="menuitem"><button class="hea01-header-mainmenu__menuitem-link has-megamenu" v-bind:class="{'has-focus is-open' : showMegamenu===2}" v-bind:aria-expanded="showMegamenu===2?'true' : 'false'" v-on:click.prevent.stop="toggleMegamenu(2)">Jegybanki <br /> adatszolgáltatás</button><div v-click-outside="onClickOutside" class="hea01-header-megamenu hea01-header-megamenu--v2" v-bind:class="{'is-open' : showMegamenu===2}">
+                                    <ul xmlns:s="shima" class="hea01-header-megamenu-list">
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-kotelezettseg"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-book-reader"></i></span><span class="hea01-header-megamenu__menuitem-text">Adatszolgáltatási kötelezettség</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-kotelezettseg-teljesitese"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-chart-pie"></i></span><span class="hea01-header-megamenu__menuitem-text">Adatszolgáltatás teljesítése</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/kapcsolodo-informaciok"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-tint"></i></span><span class="hea01-header-megamenu__menuitem-text">Kapcsolódó információk</span></a></li>
+                                       
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="hea01-header-mainmenu__menuitem" role="menuitem"><button class="hea01-header-mainmenu__menuitem-link has-megamenu" v-bind:class="{'has-focus is-open' : showMegamenu===3}" v-bind:aria-expanded="showMegamenu===3?'true' : 'false'" v-on:click.prevent.stop="toggleMegamenu(3)">HITREG <br />adatszolgáltatás</button><div v-click-outside="onClickOutside" class="hea01-header-megamenu hea01-header-megamenu--v2" v-bind:class="{'is-open' : showMegamenu===3}">
+                                    <ul xmlns:s="shima" class="hea01-header-megamenu-list">
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/hitreg-adatszolgaltatas/hitelintezetek"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-chart-pie"></i></span><span class="hea01-header-megamenu__menuitem-text">Hitelintézetek</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/hitreg-adatszolgaltatas/penzugyi-vallalkozasok"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-hands-helping"></i></span><span class="hea01-header-megamenu__menuitem-text">Pénzügyi vállalkozások</span></a></li>
+                                       
+                                    </ul>
+                                 </div>
+                              </li>
+                              <li class="hea01-header-mainmenu__menuitem hea01-header-mainmenu__menuitem--external" role="menuitem"><a class="hea01-header-mainmenu__menuitem-link" href="https://www.mnb.hu/felugyelet/adatszolgaltatas" target="_blank">Felügyeleti <br /> adatszolgáltatás</a><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13">
+                                    <path fill="#fff" d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z" transform="translate(-8 -3)"></path>
+                                    <path fill="#fff" d="M14.556 14.556H4.444V4.444H9.5L8.056 3H4.444A1.446 1.446 0 0 0 3 4.444v10.112A1.446 1.446 0 0 0 4.444 16h10.112A1.446 1.446 0 0 0 16 14.556v-3.612L14.556 9.5z" transform="translate(-3 -3)"></path>
+                                 </svg>
+                              </li>
+                              <li class="hea01-header-mainmenu__menuitem" role="menuitem"><button class="hea01-header-mainmenu__menuitem-link has-megamenu" v-bind:class="{'has-focus is-open' : showMegamenu===5}" v-bind:aria-expanded="showMegamenu===5?'true' : 'false'" v-on:click.prevent.stop="toggleMegamenu(5)">Adatszolgáltatási <br />előírások</button><div v-click-outside="onClickOutside" class="hea01-header-megamenu hea01-header-megamenu--v2" v-bind:class="{'is-open' : showMegamenu===5}">
+                                    <ul xmlns:s="shima" class="hea01-header-megamenu-list">
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-mnb-rendeletek"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-hands-helping"></i></span><span class="hea01-header-megamenu__menuitem-text">Adatszolgáltatási MNB rendeletek</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-eloirasok/kapcsolodo-eloirasok_-technikai-segedletek"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fab fa-hubspot"></i></span><span class="hea01-header-megamenu__menuitem-text">Kapcsolódó előírások, technikai<br /> segédletek</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-eloirasok/szektormeghatarozast-segito-informaciok"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-filter"></i></span><span class="hea01-header-megamenu__menuitem-text">Szektormeghatározást segítő információk</span></a></li>
+                                       
+                                       
+                                          <li class="hea01-header-megamenu__menuitem"><a class="hea01-header-megamenu__menuitem-link-v2" href="/nyito/adatszolgaltatasi-eloirasok/adatszolgaltatasi-rendelettervezetek_-kulso-velemenyeztetes"><span class="hea01-header-megamenu__menuitem-icon-v2"><i class="icon fas fa-eye"></i></span><span class="hea01-header-megamenu__menuitem-text">Adatszolgáltatási rendelettervezetek, <br />külső véleményeztetés</span></a></li>
+                                       
+                                    </ul>
+                                 </div>
+                              </li>
+                           </ul>
+                        </div>
+                        <div class="hea01-header-mainmenu__right">
+                           <div class="hea01-header-mainmenu__right-search-container hea01-header-mainmenu__right-search-container--v2" v-if="showHeaderSearch">
+                              <form v-if="showHeaderSearch" id="searchForm" v-on:submit.prevent="onSearch(suggestions.length ? getSelectedSuggestion() || suggestions[0] : null)">
+                                 <div class="hea01-header-mainmenu__right-search">
+                                    <img src="/sw/static/pic/bx-search-alt.svg" alt="" class="hea01-header-mainmenu__right-search-icon"><input class="hea01-header-mainmenu__right-search-input" type="text" v-model="searchQuery" ref="searchInput"><button class="hea01-header-mainmenu__right-search-reset btn" type="button" v-if="searchQuery.length &gt; 0" v-on:click.prevent="clearSearchQuery"><i class="icon fas fa-times">&nbsp;</i></button><ul class="hea01-header-mainmenu__autosuggest-list" v-if="suggestions.length &gt; 0">
+                                       <li class="hea01-header-mainmenu__autosuggest-list-item" v-for="(suggestion, index) in highlightedSuggestions"><a class="hea01-header-mainmenu__autosuggest-link" role="button" tabindex="0" v-html="suggestion" v-on:click="onSearch(suggestions[index])"></a></li>
+                                    </ul>
+                                 </div>
+                              </form>
+                           </div>
+                           <ul class="hea01-header-mainmenu__right-list">
+                              <li class="hea01-header-mainmenu__right-listitem"><button class="hea01-header-mainmenu__search" type="button" v-on:click.prevent.stop="toggleHeaderSearch()" aria-label="Kereső">
+                                    <img src="/sw/static/pic/bx-search-alt.svg" alt=""></button></li>
+                              <li class="hea01-header-mainmenu__right-listitem"><button xmlns:v-bind="vue" class="hea01-header-mainmenu__right-listitem-high-contrast-button" v-on:click.prevent="toggleHighContrast" v-bind:aria-label="isHighContrastEnabled ? 'Magas kontrasztos nézet bekapcsolva' : 'Magas kontrasztos nézet kikapcsolva'"><span class="hea01-header-mainmenu__right-listitem--high-contrast-visible">
+                                       <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#fff">
+                                          <path d="M0 0h24v24H0z" fill="none"></path>
+                                          <path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"></path>
+                                       </svg></span><span class="hea01-header-mainmenu__right-listitem--high-contrast-hidden">
+                                       <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#fff">
+                                          <path d="M0 0h24v24H0zm0 0h24v24H0zm0 0h24v24H0zm0 0h24v24H0z" fill="none"></path>
+                                          <path d="M12 7c2.76 0 5 2.24 5 5 0 .65-.13 1.26-.36 1.83l2.92 2.92c1.51-1.26 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-3.98.7l2.16 2.16C10.74 7.13 11.35 7 12 7zM2 4.27l2.28 2.28.46.46C3.08 8.3 1.78 10.02 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.42.42L19.73 22 21 20.73 3.27 3 2 4.27zM7.53 9.8l1.55 1.55c-.05.21-.08.43-.08.65 0 1.66 1.34 3 3 3 .22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53-2.76 0-5-2.24-5-5 0-.79.2-1.53.53-2.2zm4.31-.78l3.15 3.15.02-.16c0-1.66-1.34-3-3-3l-.17.01z"></path>
+                                       </svg></span></button></li>
+                           </ul><button xmlns:v-bind="vue" class="hea01-header-mainmenu__menu-toggler" v-on:click.prevent.stop="toggleHamburgerMenu()" v-bind:class="{'has-focus' : showHamburgerMenu || showHeaderSearch}"><span class="hea01-header-mainmenu__menu-toggler-bar"></span></button></div>
+                     </div>
+                  </div>
+               </div>
+            </header>
+         </hea01-header>
+         <cb01-cookie-bar xmlns:v-bind="vue" inline-template="" v-cloak="" v-bind:cookie-name="'83ea576d-3247-49d7-95d4-d0e123c04656'" v-bind:cookie-lifespan-in-days="50">
+            <section class="cb01-cookie-bar" v-if="isVisible" aria-label="ez a weboldal sütiket&#xA;(„cookie”) használ">
+               <div class="container" tabindex="0">
+                  <div class="row">
+                     <div class="flex-row">
+                        <div class="col-sm-8">
+                           <h3 class="cb01-cookie-bar__title">Ez a weboldal sütiket
+                              („cookie”) használ
+                           </h3>
+                           <p class="cb01-cookie-bar__text">Kérjük, pipálja ki azon
+                              cookie kategóriák mellett elhelyezett négyzetet, amelyek használatához az
+                              ELFOGADOM gombra kattintással hozzájárul. Hozzájárulását bármikor jogosult
+                              visszavonni (azaz a cookie beállításokat megváltoztatni) az oldal alján
+                              található Cookie beállítások módosítása gombra kattintva. A hozzájárulás
+                              visszavonása nem érinti a hozzájáruláson alapuló, a visszavonás előtti
+                              adatkezelés jogszerűségét. A weboldalon használt cookie-kra vonatkozó részletes
+                              információkat a&nbsp;<a xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:s="shima" ontouchstart="" href="https://www.mnb.hu/cookie" target="_blank" class="link"><strong>Cookie Tájékoztató</strong></a>&nbsp;tartalmazza.
+                           </p>
+                        </div>
+                        <div class="cb01-cookie-bar__button-container col-sm-4"><button xmlns:v-on="vue" class="btn btn--secondary cb01-cookie-bar__button" type="button" v-on:click.prevent="closeNotification(false)">Nem fogadom el</button><button xmlns:v-on="vue" class="btn btn--primary cb01-cookie-bar__button" type="button" v-on:click.prevent="closeNotification(true)">Elfogadom</button></div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+         </cb01-cookie-bar>
+         <main class="main" id="main">
+            <section class="err01-error">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-xs-12" tabindex="0">
+                        <p class="err01-error__status-code">404</p>
+                        <p class="err01-error__text">Sajnálatos módon az Ön által keresett oldal nem létezik. Ha a weboldalon hibát találna, kérjük jelezze a statadatszolg@mnb.hu
+                           e-mail címen.
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </section>
+         </main>
+         <footer class="foo01-footer">
+   <div class="foo01-footer-container container">
+      <div class="row foo01-footer__row">
+         <div class="foo01-footer__flex-row">
+            <div class="foo01-footer__col foo01-footer__col--mobile">
+               <a class="foo01-footer__logo-link" href="/nyito">
+                     <img src="/sw/static/pic/mnb-logo-w.svg" alt="" class="foo01-footer__logo" aria-hidden="true">
+                     <div class="foo01-footer__logo-title"><span>MNB</span><span>Adatszolgáltatás</span></div></a>
+               <ul class="foo01-footer__icon-link-list foo01-footer__icon-link-list--mobile" role="list">
+                  <li class="foo01-footer__icon-link-listitem" role="listitem"><a href="https://hu-hu.facebook.com/jegybank" class="foo01-footer__icon-link"><i class="foo01-footer__icon fab fa-facebook-square" aria-hidden="true"></i></a></li>
+                  <li class="foo01-footer__icon-link-listitem" role="listitem"><a href="https://www.youtube.com/channel/UCnCJTBYt0ZLRlZEtGL0zuYw" class="foo01-footer__icon-link" aria-label="YouTube csatorna"><i class="foo01-footer__icon fab fa-youtube" aria-hidden="true"></i></a></li>
+                  <li class="foo01-footer__icon-link-listitem" role="listitem"><a href="https://hu.linkedin.com/company/magyar-nemzeti-bank" class="foo01-footer__icon-link"><i class="foo01-footer__icon fab fa-linkedin" aria-hidden="true"></i></a></li>
+               </ul>
+            </div>
+            <div class="foo01-footer__col">
+               <ul class="foo01-footer__text-link-list" role="list">
+                  
+                     <li class="foo01-footer__text-link-listitem" role="listitem"><a class="foo01-footer__text-link foo01-footer__text-link--v2" href="/nyito/oldalterkep" ontouchstart="">Oldaltérkép</a></li>
+                  
+                  <li class="foo01-footer__text-link-listitem" role="listitem"><a class="foo01-footer__text-link foo01-footer__text-link--v2" href="https://mnb.hu/" ontouchstart="" target="_blank"><span>MNB.hu</span><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13">
+                           <path fill="#fff" d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z" transform="translate(-8 -3)"></path>
+                           <path fill="#fff" d="M14.556 14.556H4.444V4.444H9.5L8.056 3H4.444A1.446 1.446 0 0 0 3 4.444v10.112A1.446 1.446 0 0 0 4.444 16h10.112A1.446 1.446 0 0 0 16 14.556v-3.612L14.556 9.5z" transform="translate(-3 -3)"></path>
+                        </svg></a></li>
+                  <li class="foo01-footer__text-link-listitem" role="listitem"><a class="foo01-footer__text-link foo01-footer__text-link--v2" href="https://statisztika.mnb.hu" ontouchstart="" target="_blank"><span>Statisztikai Publikációs
+                           Portál</span><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13">
+                           <path fill="#fff" d="m13 3 3.293 3.293-7 7 1.414 1.414 7-7L21 11V3z" transform="translate(-8 -3)"></path>
+                           <path fill="#fff" d="M14.556 14.556H4.444V4.444H9.5L8.056 3H4.444A1.446 1.446 0 0 0 3 4.444v10.112A1.446 1.446 0 0 0 4.444 16h10.112A1.446 1.446 0 0 0 16 14.556v-3.612L14.556 9.5z" transform="translate(-3 -3)"></path>
+                        </svg></a></li>
+                  
+                     <li class="foo01-footer__text-link-listitem" role="listitem"><a class="foo01-footer__text-link foo01-footer__text-link--v2" href="/nyito/elerhetosegek" ontouchstart="">Elérhetőségek</a></li>
+                  
+               </ul>
+               <ul class="foo01-footer__icon-link-list" role="list">
+                  <li class="foo01-footer__icon-link-listitem" role="listitem"><a href="https://hu-hu.facebook.com/jegybank" class="foo01-footer__icon-link"><i class="foo01-footer__icon fab fa-facebook-square" aria-hidden="true"></i></a></li>
+                  <li class="foo01-footer__icon-link-listitem" role="listitem"><a href="https://www.youtube.com/channel/UCnCJTBYt0ZLRlZEtGL0zuYw" class="foo01-footer__icon-link" aria-label="YouTube csatorna"><i class="foo01-footer__icon fab fa-youtube" aria-hidden="true"></i></a></li>
+                  <li class="foo01-footer__icon-link-listitem" role="listitem"><a href="https://hu.linkedin.com/company/magyar-nemzeti-bank" class="foo01-footer__icon-link"><i class="foo01-footer__icon fab fa-linkedin" aria-hidden="true"></i></a></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+      </div><script>
+			setTimeout(function(){
+				var r={js:['/static/libs.js?v=42','/static/layouts/portal.js?v=42']
+			};
+			function l(o,v,c){if(o&&o.length){window[v]=o.length;for(var i=0;i<o.length;i++){var d=document,e=d.createElement(c?'link':'script');e.setAttribute(c?'href':'src',o[i]);if(c){e.setAttribute('rel','stylesheet');e.setAttribute('type','text/css');}e.onload=function(){if(!--window[v]){var ev=document.createEvent('Event');ev.initEvent(c?'cssLoaded':'jsLoaded',true,true);document.body.dispatchEvent(ev);}};e.onerror=e.onload;d.getElementsByTagName('head')[0].appendChild(e);}}}l(r.css,'cssLoaderRemainFiles',true);l(r.js,'jsLoaderRemainFiles');});
+		</script><script>
+			!function (a, b, c, e, f) {
+				var d = a.createElement("script");
+				d.id = "wcw_socket_script", d.src = b + "/js/WCWSocket2.js?cid=" + c + "&uri=" + encodeURIComponent(a.location) + "&native=" + e + "&language=" + f, document.getElementsByTagName("head")[0].appendChild(d)}(document, "https://chatbot.mnb.hu/cwd", "sta", true, "HU");
+				window.addEventListener("message", function (e) {
+					if (e.origin !== "https://chatbot.mnb.hu") return;
+					if (e.data === "closeWebview") {
+						window.tabWebviewClose();
+					}
+				}, false);
+		</script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HB57RR00QJ"></script><script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'G-HB57RR00QJ');</script></body>
+</html>

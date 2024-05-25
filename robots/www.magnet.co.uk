@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap: https://www.magnet.co.uk/sitemap-products.xml
+
+Disallow: /*---*---*
+
+Sitemap: https://www.magnet.co.uk/sitemap.xml
+Sitemap: https://www.magnet.co.uk/sitemap-locations.xml

@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /ardimport/
+Disallow: /*~player.html
+Disallow: /suche2.html?*
+
+User-agent: webzip
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: webwhacker
+Disallow: /
+
+User-agent: websauger
+Disallow: /
+
+User-agent: webcapture
+Disallow: /
+
+User-agent: teleport
+Disallow: /
+
+User-agent: sitesnagger
+Disallow: /
+
+User-agent: net attache
+Disallow: /
+
+User-agent: httrack
+Disallow: /
+

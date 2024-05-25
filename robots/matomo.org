@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /recommends/
+Disallow: /e-landing-page-sitemap.xml
+Disallow: /post_tag-sitemap.xml 
+Disallow: /author-sitemap.xml
+Disallow: /category-sitemap.xml
+Allow: /wp-admin/admin-ajax.php
+Crawl-delay: 20
+

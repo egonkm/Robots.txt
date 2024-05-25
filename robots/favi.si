@@ -1,0 +1,27 @@
+Sitemap: https://favi.si/sitemap/sitemap-index.xml
+
+User-agent: *
+Disallow: /izdelki/v-trgovino/
+Disallow: /izdelki*brezplacnaDostava=
+Disallow: /izdelki*cenaOd=
+Disallow: /izdelki*cenaDo=
+Disallow: /izdelki*mere[*]=
+Disallow: /izdelki*filtri=
+Disallow: /izdelki*color=
+Disallow: /izdelki*feature1=
+Disallow: /izdelki*feature2=
+Disallow: /izdelki*feature3=
+Disallow: /izdelki*feature4=
+Disallow: /izdelki*feature5=
+Disallow: /izdelki*feature6=
+Disallow: /izdelki*feature7=
+Disallow: /izdelki*feature8=
+Disallow: /izdelki*feature9=
+Disallow: /izdelki*feature10=
+Disallow: /izdelki*luxury=
+Disallow: /izdelki*priceFrom=
+Disallow: /izdelki*priceTo=
+Disallow: /izdelki*sort=
+Disallow: /izdelki*style=
+Disallow: /oddaj-recenzijo/*
+Disallow: /uporabniski-profili/

@@ -1,0 +1,7 @@
+Sitemap: https://www.ardaudiothek.de/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /api/*
+Disallow: /embed/*
+Disallow: /meins/*
+Disallow: /redirect/*

@@ -1,0 +1,5 @@
+    # AMA DataSet Limited - Strata CMS - Live
+    # www.ama.uk.com
+    #
+    User-agent: *
+    Disallow: /pdf/MRS_RESEARCH%20LIVE%20REPORT_2018_FINAL_PDF.pdf    

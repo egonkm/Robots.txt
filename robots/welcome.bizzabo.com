@@ -1,0 +1,19 @@
+User-agent: *
+Disallow:  /http://welcome.bizzabo.com/request-demo?utm_campaign=Adwords%3A%20Australia%2C%20Demo%20Request&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20Canada%2C%20Request%20Demo&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20France%2C%20Request%20Demo&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20Germany%2C%20Request%20Demo&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20France%2C%20Request%20Demo&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20Italy%2C%20Demo%20Request&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20Portugal%2C%20Request%20Demo&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20Spain%2C%20Demo%20Request&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20UK%2C%20Request%20Demo&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20United%20States%2C%20Request%20Demo&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20Bizzabo%20Non-US%2C%20Request%20Demo&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20Bizzabo%20US%2C%20Request%20Demo&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20Competition%2C%20Competitors&utm_source=ppc
+Disallow:  /request-demo?utm_campaign=Adwords%3A%20Competition%2C%20Eventbrite%2C%20Demo%20Request&utm_source=ppc
+
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/

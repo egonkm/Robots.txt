@@ -1,0 +1,1389 @@
+<!doctype html>
+<html>
+    <head> 
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+        <!-- <meta http-equiv="Pragma" content="no-cache" /> 
+        <meta http-equiv="Cache-Control" content="no-cache" />  -->
+        <meta http-equiv="Expires" content="0" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+        <!---關鍵字meta--->
+        <meta name="keywords" content="ezPay電子發票,ezPay,第三方支付平台" />
+        <script src="https://inv.ezpay.com.tw/js/jquery/jquery-3.7.1.min.js"></script>
+        <link href="https://inv.ezpay.com.tw/css/reset.css?v20221022" rel="stylesheet"></link> 
+        <script src="https://inv.ezpay.com.tw/js/general_function.js?v20240205"></script>
+        <link href="https://inv.ezpay.com.tw/css/bootstrap/bootstrap.css?t=1716669986" rel="stylesheet"></link>
+        <script src="https://inv.ezpay.com.tw/js/bootstrap/bootstrap.min.js?v20240226"></script>
+        <script src="https://inv.ezpay.com.tw/js/index_invoice.js?v20221020"></script>
+        <link rel="icon" href="https://inv.ezpay.com.tw/images/favicon/favicon-32x32.png?v20221022" type="image/vnd.microsoft.icon"/>
+        <script type="text/javascript" src="https://inv.ezpay.com.tw/js/plugin/TweenMax.min.js?v20221022"></script>
+        <script src="https://inv.ezpay.com.tw/js/plugin/jquery.superscrollorama.js?v20221022"></script>
+        <script src="https://inv.ezpay.com.tw/js/plugin/enquire.js?v20221022"></script>
+        <script src="https://inv.ezpay.com.tw/js/cookie_fn.js?v20221020"></script>
+        <title>ezPay電子發票</title>
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TZ8MLLP');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KKRGNSE9E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KKRGNSE9E6');
+</script>
+
+<script>
+    $(document).ready(function() {
+      $(document.body).prepend(`
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZ8MLLP"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+      `);
+    });
+</script> 
+    </head>
+    <style> 
+        .top_logo_div{
+            display:inline-block;
+        }
+        body{
+            font-family: 微軟正黑體;
+            min-width:320px;
+        }
+        #menu{
+            width:100%;
+        }
+
+        #logo_sm{
+            display:none;
+        }
+        #menu_btn{
+            display:none;
+        }
+
+        #sm-bar{
+            display:none;
+        }
+        #top-bar{
+            top: 0px;
+            height:81px;
+            width: 100%;
+            background: #2e2e2e;
+            position: fixed;
+            z-index: 9999;
+            -webkit-box-shadow: 0px 2px 2px #2e2e2e;
+            -moz-box-shadow: 0px 2px 2px #2e2e2e;
+            box-shadow: 0px 2px 2px #2e2e2e;
+            padding-top: 4px;
+        }
+
+        #logo{
+            margin-top: 22px;
+            margin-left: 44px;
+            width: 230px;
+        }
+        #menu_news{
+            color: white;
+            font-size: 1.3em;
+            float: right;
+            margin-right: 26px;
+            margin-top: 25.5px;
+        }
+        #menu_news:hover {
+            color:#95b875;
+        }
+        #menu_announce{
+            color: white;
+            font-size: 1.3em;
+            float: right;
+            margin-right: 26px;
+            margin-top: 25.5px;
+        }
+        #menu_announce:hover {
+            color:#95b875;
+        }
+        #menu_count{
+            color: white;
+            font-size: 1.3em;
+            float: right;
+            margin-right: 26px;
+            margin-top: 25.5px;
+        }
+        #menu_count:hover {
+            color:#95b875;
+        }
+        #menu_link{
+            color: white;
+            font-size: 1.3em;
+            float: right;
+            margin-right: 26px;
+            margin-top: 25.5px;
+        }
+        #menu_link:hover {
+            color:#95b875;
+        }
+        #menu_intro{
+            color: white;
+            font-size: 1.3em;
+            float: right;
+            margin-right: 26px;
+            margin-top: 25.5px;
+        }
+        #menu_intro:hover {
+            color:#95b875;
+        }
+        /*menu的登入按鈕*/
+        .enter {
+            background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #8fb888), color-stop(1, #507d58));
+            background:-moz-linear-gradient(top, #8fb888 5%, #507d58 100%);
+            background:-webkit-linear-gradient(top, #8fb888 5%, #507d58 100%);
+            background:-o-linear-gradient(top, #8fb888 5%, #507d58 100%);
+            background:-ms-linear-gradient(top, #8fb888 5%, #507d58 100%);
+            background:linear-gradient(to bottom, #8fb888 5%, #507d58 100%);
+            filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8fb888', endColorstr='#507d58',GradientType=0);
+            background-color:#8fb888;
+            -moz-border-radius:8px;
+            -webkit-border-radius:8px;
+            border-radius:8px;
+            display:inline-block;
+            cursor:pointer;
+            color:#ffffff;
+            font-family: Arial, "微軟正黑體";
+            font-size:15px;
+            font-weight:bold;
+            padding:8px 20px;
+            float: right;
+            margin-right:51px;
+            margin-top:18.5px;
+            text-decoration:none;
+            text-shadow:0px 1px 0px #2f6627;
+        }
+        .enter:hover {
+            background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #507d58), color-stop(1, #8fb888));
+            background:-moz-linear-gradient(top, #507d58 5%, #8fb888 100%);
+            background:-webkit-linear-gradient(top, #507d58 5%, #8fb888 100%);
+            background:-o-linear-gradient(top, #507d58 5%, #8fb888 100%);
+            background:-ms-linear-gradient(top, #507d58 5%, #8fb888 100%);
+            background:linear-gradient(to bottom, #507d58 5%, #8fb888 100%);
+            background-color:#507d58;
+            text-decoration:none;
+            color:white;
+        }
+        .enter:active {
+            text-decoration:none;
+            position:relative;
+            top:1px;
+        }
+
+
+        /*註冊按鈕*/
+        .apply {
+
+            background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #d6b889), color-stop(1, #967c62));
+            background:-moz-linear-gradient(top, #d6b889 5%, #967c62 100%);
+            background:-webkit-linear-gradient(top, #d6b889 5%, #967c62 100%);
+            background:-o-linear-gradient(top, #d6b889 5%, #967c62 100%);
+            background:-ms-linear-gradient(top, #d6b889 5%, #967c62 100%);
+            background:linear-gradient(to bottom, #d6b889 5%, #967c62 100%);
+            filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d6b889', endColorstr='#967c62',GradientType=0);
+            background-color:#d6b889;
+            -moz-border-radius:8px;
+            -webkit-border-radius:8px;
+            border-radius:8px;
+            display:inline-block;
+            cursor:pointer;
+            color:#ffffff;
+            font-family: Arial, "微軟正黑體";
+            font-size:15px;
+            font-weight:bold;
+            padding:8px 20px;
+            float: right;
+            margin-right:20px;
+            margin-top:19.5px;
+            text-decoration:none;
+            text-shadow:0px 1px 0px #2f6627;
+        }
+
+        .apply:hover {
+            background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #967c62), color-stop(1, #d6b889));
+            background:-moz-linear-gradient(top, #967c62 5%, #d6b889 100%);
+            background:-webkit-linear-gradient(top, #967c62 5%, #d6b889 100%);
+            background:-o-linear-gradient(top, #967c62 5%, #d6b889 100%);
+            background:-ms-linear-gradient(top, #967c62 5%, #d6b889 100%);
+            background:linear-gradient(to bottom, #967c62 5%, #d6b889 100%);
+            filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#967c62', endColorstr='#d6b889',GradientType=0);
+            background-color:#967c62;
+            color:white;
+            text-decoration:none;
+        }
+        .apply:active {
+            position:relative;
+            top:1px;
+            text-decoration:none;
+        }
+        /*        登出按鈕*/
+
+        #number_word{
+            font-family: Arial, "微軟正黑體";
+            color: #ffffff;
+            float: right;
+            margin-top:26px;
+            text-decoration: none;
+            font-size: 1.3em;
+            margin-right:157px;
+        }
+        .logout {
+            background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #d6b889), color-stop(1, #967c62));
+            background:-moz-linear-gradient(top, #d6b889 5%, #967c62 100%);
+            background:-webkit-linear-gradient(top, #d6b889 5%, #967c62 100%);
+            background:-o-linear-gradient(top, #d6b889 5%, #967c62 100%);
+            background:-ms-linear-gradient(top, #d6b889 5%, #967c62 100%);
+            background:linear-gradient(to bottom, #D0383F 5%, #87051A 100%);
+            filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d6b889', endColorstr='#967c62',GradientType=0);
+            background-color:#d6b889;
+            -moz-border-radius:8px;
+            -webkit-border-radius:8px;
+            border-radius:8px;
+            display:inline-block;
+            cursor:pointer;
+            color:#ffffff;
+            font-family: Arial, "微軟正黑體";
+            font-size:15px;
+            font-weight:bold;
+            padding:8px 20px;
+            float: right;
+            margin-top:16.5px;
+            text-decoration:none;
+            text-shadow:0px 1px 0px #2f6627;
+            margin-right:-227px;
+        }
+
+        .logout:hover {
+            background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #967c62), color-stop(1, #d6b889));
+            background:-moz-linear-gradient(top, #967c62 5%, #d6b889 100%);
+            background:-webkit-linear-gradient(top, #967c62 5%, #d6b889 100%);
+            background:-o-linear-gradient(top, #967c62 5%, #d6b889 100%);
+            background:-ms-linear-gradient(top, #967c62 5%, #d6b889 100%);
+            background: linear-gradient(to bottom, #E5767B 5%, #AE243A 100%);
+            filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#967c62', endColorstr='#d6b889',GradientType=0);
+            background-color:#967c62;
+            color:white;
+            text-decoration:none;
+        }
+        .logout:active {
+            position:relative;
+            top:1px;
+            text-decoration:none;
+        }
+        .logout a{
+            color:white;
+        } 
+
+        #goto_center{
+            color:white;
+            text-decoration:none;
+        }
+        #goto_center:hover {
+            color:#95b875;
+
+        }
+
+        .pop_contant {
+            margin-left: 0%;
+            padding-top: 7%;
+            padding-left: 13%;
+            padding-right:13%;
+            padding-bottom: 10%;
+            line-height: 23px;
+            font-size: 1.1em;
+        }
+
+        .modal-header {
+            min-height: 16.43px;
+            padding: 15px;
+            border-bottom: 1px solid #e5e5e5;
+        }
+        .modal-sm {
+            width: 37%;
+            margin-left: 30.5%;
+            margin-right: 30%;
+        }
+        #new_year{
+            width:225px;
+            height:36px;
+            margin-top:17px;
+            margin-left:15px;
+            visibility:hidden;
+            display:none;
+        }
+
+        @media screen and (max-width: 1280px) {
+            .hidden-sm {
+                display: none!important;
+            }
+
+            .enter, .apply{
+                display:none;
+            }
+            
+            .logout {
+                margin-right: -198px;
+            }
+            .modal-sm {
+                width: 46%;
+                margin-left: 26%;
+                margin-right: 30%;
+                margin-top: 6%;
+            }
+            .enter{
+                margin-right: 129px;
+            }
+            .apply{
+                margin-right: 18px;
+            }
+            #number_word {
+                margin-right: 214px;
+            }
+            #sm-bar{
+                margin-top: 27px;
+                width: 100%;
+                background: #2E2E2E;
+                position: fixed;
+                z-index:5;
+                padding-top: 12px;
+                padding-bottom: 12px;
+                padding-left: 25px;
+                padding-right: 10px;
+                text-align: center;
+                padding-right: 25px;
+            }
+            #menu_btn{
+                margin-top:-29px;
+                position: fixed;
+                display: block;
+                float: right;
+                z-index: 9999;
+                width: 34px;
+                height: auto;
+                margin-left: 92%;
+                cursor: pointer;
+            }
+            .sm-menu-style{
+                font-size: 1.3em;
+                padding-bottom: 10px;
+                padding-top: 12px;
+                border-bottom: 1px solid #666666;
+                color:white;
+            }
+            .sm-menu-style:hover{
+                color:wheat;
+            }
+            .sm-menu-style:last-of-type{
+                border-bottom:none;
+            }
+        }
+
+        @media screen and (max-width:860px) {
+            .logout{
+                margin-right:-194px;
+            }
+            #number_word {
+                margin-right: 189px;
+            }
+
+            #sm-bar{
+                margin-top: 23px;
+                width: 100%;
+                background: #2E2E2E;
+                position: fixed;
+                z-index:5;
+                padding-top: 12px;
+                padding-bottom: 12px;
+                padding-left: 25px;
+                padding-right: 10px;
+                text-align: center;
+                padding-right: 25px;
+            }
+            #menu_btn{
+                margin-top: -30px;
+                position:fixed;
+                display: block;
+                float: right;
+                z-index: 9999;
+                width: 34px;
+                height: auto;
+                margin-left: 89%;
+                cursor:pointer;
+            }
+            .sm-menu-style{
+                font-size: 1.3em;
+                padding-bottom: 10px;
+                padding-top: 12px;
+                border-bottom: 1px solid #666666;
+            }
+            .sm-menu-style:last-of-type{
+                border-bottom:none;
+            }
+        }
+
+        @media screen and (max-width: 767px) { 
+            .logout {
+                margin-right: -194px;
+            }
+            #number_word {
+                margin-right: 189px;
+            }
+            #sm-bar{
+                margin-top:26px;
+                width: 100%;
+                background: #2E2E2E;
+                position: fixed;
+                z-index:5;
+                padding-top: 12px;
+                padding-bottom: 12px;
+                padding-left: 25px;
+                padding-right: 10px;
+                text-align: center;
+                padding-right: 25px;
+            }
+            .sm-menu-style{
+                font-size: 1.3em;
+                padding-bottom: 10px;
+                padding-top: 12px;
+                border-bottom: 1px solid #666666;
+            }
+            .sm-menu-style:last-of-type{
+                border-bottom:none;
+            }
+
+            #logo_sm{
+                display:inline;
+                margin-top: 25px;
+                margin-left: 33px;
+                width: 152px;
+            }
+            .enter{
+                margin-right:98px;
+            }
+            .apply {
+                margin-right: 16px;
+
+            }
+            #menu_btn{
+                margin-top: -29px;
+                position: fixed;
+                display: block;
+                float: right;
+                z-index: 9999;
+                width: 34px;
+                height: auto;
+                margin-left: 88%;
+                cursor: pointer;
+            }
+            #menu_count{
+                display:none;
+            }
+            #menu_link{
+                display:none;
+            }
+            #menu_intro{
+                display:none;
+            }
+            .modal-sm {
+                width: 64%;
+                margin-left: 17%;
+                margin-right: 30%;
+                margin-top: 13%;
+            }
+        }
+
+        @media screen and (max-width:690px){
+            #top-bar{
+                height:115px;
+            }
+            #new_year{
+                margin-top:5px;
+                margin-left:40px;
+            }
+        }
+
+        @media screen and (max-width:660px) {
+            #menu_btn {
+                margin-top: -26px;
+                position: fixed;
+                display: block;
+                float: right;
+                z-index: 9999;
+                width: 34px;
+                height: auto;
+                margin-left: 87%;
+                cursor: pointer;
+            }
+            #logo_sm {
+                display:inline;
+                width: 129px;
+                margin-top: 26px;
+                margin-left: 31px;
+            }
+            .logout{
+                font-size: 0.9em;
+                padding: 5px 19px;
+                margin-top: 23px;
+                margin-right:-153px;
+            }
+            #number_word {
+                margin-right: 160px;
+                font-size: 0.9em;
+            }
+            #sm-bar{
+                margin-top: 27px;
+                width: 100%;
+                background: #2E2E2E;
+                position: fixed;
+                z-index:5;
+                padding-top: 12px;
+                padding-bottom: 12px;
+                padding-left: 25px;
+                padding-right: 10px;
+                text-align: center;
+                padding-right: 25px;
+            }
+            .sm_menu_text{
+                font-size:1em;
+                text-decoration:none;
+                color:white;
+            }
+
+            .sm_menu_text:hover{
+                text-decoration:none;
+                color:#e5e5e5;
+            }
+        }
+        @media screen and (max-width: 479px)  {
+
+            #top-bar {
+                width: 100%;
+                background: #2e2e2e;
+                position: fixed;
+                z-index: 9999;
+                -webkit-box-shadow: 0px 2px 2px #2e2e2e;
+                -moz-box-shadow: 0px 2px 2px #2e2e2e;
+                box-shadow: 0px 2px 2px #2e2e2e;
+                padding-top: 1px;
+
+            }
+            #logo_sm {
+                display:inline;
+                width:82px;
+                margin-top: 27px;
+                margin-left: 13px;
+            }
+            .logout{
+                font-size: 0.8em;
+                padding: 5px 19px;
+                margin-top: 23px;
+                margin-right: -144px;
+            }
+            #number_word {
+                margin-top: 28px;
+                margin-right: 139px;
+                font-size: 0.7em;
+            }
+            #sm-bar{
+                margin-top: 27px;
+                width: 100%;
+                background: #2E2E2E;
+                position: fixed;
+                z-index:5;
+                padding-top: 12px;
+                padding-bottom: 12px;
+                padding-left: 25px;
+                padding-right: 10px;
+                text-align: center;
+                padding-right: 25px;
+            }
+            .sm-menu-style{
+                font-size: 1em;
+                padding-bottom: 10px;
+                padding-top: 12px;
+                border-bottom: 1px solid #666666;
+            }
+            .sm-menu-style:last-of-type{
+                border-bottom:none;
+            }
+            .sm_menu_text{
+                text-decoration:none;
+                color:white;
+            }
+
+            .sm_menu_text:hover{
+                text-decoration:none;
+                color:#e5e5e5;
+            }
+            #fit{
+                font-size: 0.6em;
+                margin-top:59%;
+                margin-left:-76.5%
+
+            }
+
+            #menu_btn {
+                margin-top:-18px;
+                position: fixed;
+                display: block;
+                float: right;
+                z-index: 9999;
+                width: 28px;
+                height: auto;
+                margin-left: 87%;
+                cursor: pointer;
+            }
+            .modal-sm {
+                width:85%;
+                margin-left:7%;
+                margin-right: 30%;
+                margin-top: 20%;
+            }
+            .enter{
+                font-size: 0.8em;
+                padding: 5px 19px;
+                margin-right:62px;
+                margin-top: 24px;
+            }
+            .apply {
+                font-size: 0.8em;
+                margin-right: 6px;
+                padding: 5px 19px;
+                margin-top: 24px;
+            }
+        }
+
+            .getCookie{
+                background: #1F1F1F;
+                color:#FFFFFF;
+                position: fixed;
+                width:100%;
+                bottom:0;
+                font-size: 16px;
+                z-index: 9999;
+                height: auto;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding:20px 30px;
+                flex-wrap: wrap;
+                display: none;
+                opacity: 0.9;
+                }
+
+            .getCookie_header{
+                width: 1140px;
+                display: flex;
+                justify-content: flex-end;
+                height: 20px;
+            }
+            .getCookie_inner{
+                display: flex;
+                flex-wrap: wrap;
+                align-items: center;
+            }
+
+            .agreeBtn{
+                border: 1px solid #F1B027;
+                background: #1F1F1F;
+                width: 80px;
+                height: auto;
+                color:#F1B027;
+                border-radius: 10px;
+                text-align: center;
+                padding: 8px;
+                margin-left: 10px;
+                cursor: pointer;
+            }
+
+            .cancel{
+                position: relative;
+            }
+
+            .cancelBtn {
+            position: absolute;
+            top: -10px;
+            width: 20px;
+            height: 20px;
+            color:white;
+            cursor: pointer;
+            }
+
+            .cancelBtn:before, .cancelBtn:after {
+                position: absolute;
+                left: 15px;
+                content: ' ';
+                height: 15px;
+                width: 2px;
+                background-color: white;
+            }
+            .cancelBtn:before {
+                transform: rotate(45deg);
+            }
+            .cancelBtn:after {
+                transform: rotate(-45deg);
+            }
+        
+        @media screen and (max-width:1231px) {
+            .agreeBtn{
+                width: 100%;
+                margin-top: 10px;
+            }
+        }
+
+        @media screen and (max-width:414px){
+            #logo {
+                margin-top: 22px;
+                margin-left: 5px;
+                width: 155px;
+            }
+        }
+
+        @media screen and (max-width:320px){
+            #logo,#new_year {
+                margin-left:10px;
+            }
+        }
+    </style>
+    <script>
+
+        var cookie_function = new Cookie_function();
+        cookie_function.set_base_url("https://inv.ezpay.com.tw/");
+
+        $(document).ready(function () {
+            $("#sm-bar").hide();
+            $("#menu_btn").on("click", function () {
+                $(this).toggleClass("active");
+                $("#sm-bar").fadeToggle();
+            });
+            $("#menu_count").on("click", function (e) {
+                $('html, body').animate({
+                    scrollTop: $("#bg3").offset().top  // 只需修改此處
+                }, 800); // 750是滑動的時間，單位為毫秒
+                e.preventDefault();
+            });
+
+            $("#menu_link").on("click", function (e) {
+                $('html, body').animate({
+                    scrollTop: $("#bg6").offset().top  // 只需修改此處
+                }, 800); // 750是滑動的時間，單位為毫秒
+                e.preventDefault();
+            });
+
+            var this_location = "https://inv.ezpay.com.tw/";
+            if (this_location === "https://cinv.pay2go.com/" || this_location === "https://cinv.ezpay.com.tw/") {
+                $('#test_location').html('[API串接測試區]');
+            } else {
+                $('#test_location').html('');
+            }
+
+            var today = new Date();
+            
+            if(today.getFullYear() === 2020){
+                if(today.getMonth() < 1){
+                    $('#new_year').css('visibility','visible');
+                }else if(today.getMonth() === 1 && today.getDate() <10){
+                    $('#new_year').css('visibility','visible');
+                }else{
+                    $('#new_year').css('visibility','hidden');
+                    $('#top-bar').css('height','81px');
+                    $('#sm-bar').css('margin-top','-15px');
+                }
+            }else{
+                $('#new_year').css('visibility','hidden');
+                $('#top-bar').css('height','81px');
+                $('#sm-bar').css('margin-top','-15px');
+            }
+        });
+
+        $(function(){
+                //判斷使用者有無同意存取cookie
+                let cookie = cookie_function.getCookie('user');
+                if(cookie == 'visitor'){
+                    $('.getCookie').css("display","none");
+                }else{
+                    $('.getCookie').css("display","inline-flex");
+                }
+            
+                // cookie_function.deleteCookie('user');
+
+                //同意存取cookie
+                $('.agreeBtn').click(function() {
+                    cookie_function.setCookie('user','visitor',{expires:'Fri, 31 Dec 9999 23:59:59 GMT'});
+                    $('.getCookie').css("display","none");
+                });
+
+                //關閉cookie詢問
+                $('.cancel').click(function(){
+                    $('.getCookie').css("display","none");
+                });
+            });
+    </script>
+    <body>
+        <div id='menu'>
+            <div id="top-bar" style='inline' class="bg_opacity">
+                <div class="top_logo_div">
+                    <a href="https://inv.ezpay.com.tw/">
+                        <img id="logo_sm" rel="image_src" class="hidden-sm hidden-lg" src="https://inv.ezpay.com.tw/images/receipt/inv_logo_w.png"></img> 
+                        <!--大尺寸的logo-->
+                        <img id="logo" rel="image_src" src="https://inv.ezpay.com.tw/images/receipt/inv_logo_wc.png"> </img>
+                        <img id="new_year"> </img>
+                        <span id="test_location" style="color:#eea236;position:relative;top:13px;"></span>
+                    </a>
+                </div>
+
+                <!--登入&申請的顯示判斷-->
+                  
+                    <a style='text-decoration:none;' href="https://inv.ezpay.com.tw/main/Login_center/single_login" class="enter">登入</a>
+                    <a style='text-decoration:none;' href="https://inv.ezpay.com.tw/main/Login_center/registration" class="apply">申請</a>
+                     
+                <a class="hidden-xs hidden-sm" style=' text-decoration:none;' href="https://inv.ezpay.com.tw/Invoice_index/lastest_news?Type=1" id="menu_announce">服務公告</a>
+                <a class="hidden-xs hidden-sm" style=' text-decoration:none;' href="https://inv.ezpay.com.tw/Invoice_index/lastest_news?Type=2" id="menu_news">最新消息</a>     
+                <a class="hidden-xs hidden-sm" style=' text-decoration:none;'  href="https://inv.ezpay.com.tw/Invoice_index/qa" id="menu_intro">幫助中心</a>
+                <a class="hidden-xs hidden-sm" style=' text-decoration:none;'  href="https://inv.ezpay.com.tw/Invoice_index/#bg6" id="menu_link">金流服務</a>
+                <a class="hidden-xs hidden-sm" style=' text-decoration:none;' href="https://inv.ezpay.com.tw/Invoice_index/#bg3" id="menu_count">產品說明</a>
+                <!--小螢幕的menu-->
+                <div id='sm-bar'>
+                    <div class='sm-menu-style' style='cursor: pointer'><a class="sm_menu_text" href="https://inv.ezpay.com.tw/main/Login_center/single_login">登入</a></div>
+                    <div class='sm-menu-style' style='cursor: pointer'><a class="sm_menu_text" href="https://inv.ezpay.com.tw/main/Login_center/registration">申請</a></div>
+                    <div class='sm-menu-style' style='cursor: pointer'><a class="sm_menu_text" href="https://inv.ezpay.com.tw/Invoice_index/#bg3">產品說明</a></div>
+                    <div class='sm-menu-style' style='cursor: pointer'><a class="sm_menu_text" href="https://inv.ezpay.com.tw/Invoice_index/#bg6">金流服務</a></div>
+                    <div class='sm-menu-style' style='color:white;'><a class="sm_menu_text"  href="https://inv.ezpay.com.tw/Invoice_index/qa">幫助中心</a></div>
+                    <div  class='sm-menu-style ' style='color:white; cursor:pointer'><a class="sm_menu_text"  href="https://inv.ezpay.com.tw/Invoice_index/lastest_news?Type=2">最新消息</a></div>
+                    <div  class='sm-menu-style ' style='color:white; cursor:pointer'><a class="sm_menu_text"  href="https://inv.ezpay.com.tw/Invoice_index/lastest_news?Type=1">服務公告</a></div>
+                </div>
+                <img id="menu_btn" rel="image_src" src="https://inv.ezpay.com.tw/images/receipt/menu.png"/>
+            </div>
+        </div>
+
+        <!-- <div class="getCookie">
+        <div class="getCookie_header">
+            <div class="cancel"><div class="cancelBtn"></div></div>
+        </div>
+        <div class="getCookie_inner">
+            <div>本網站使用Cookies來改善您的使用體驗，點擊"同意"或繼續瀏覽網站即表示您同意我們使用Cookies。更多Cookies以及相關政策，請閱讀隱私權條款。</div>
+            <div class="agreeBtn">同意</div>
+        </div>
+        </div> -->
+    </body>
+<link href="https://inv.ezpay.com.tw/css/receipt_index.css?t=1716669986" rel="stylesheet"></link> 
+<style>
+    .icon_animation {
+        -webkit-animation-duration: 0.8s;
+        animation-duration: 0.8s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both
+    }
+
+    .zoomIn {
+        -webkit-animation-name: zoomIn;
+        animation-name: zoomIn
+    }
+
+    @keyframes zoomIn {
+        0% {
+            opacity: 0;
+            -webkit-transform: scale3d(.3,.3,.3);
+            transform: scale3d(.3,.3,.3)
+        }
+
+        50% {
+            opacity: 1
+        }
+    }
+</style>
+
+<script>
+    $(document).ready(function () {
+
+        var controller = $.superscrollorama();
+        controller.addTween('#receipt', TweenMax.from($('#receipt'), .4, {css: {opacity: 0, y: -140}}));
+//        controller.addTween('#bg3_word', TweenMax.from($('.icon_animation'), .40, {css: {opacity: 0, scale: 0}}));
+
+        $('.icon_animation').addClass('zoomIn');
+        $(window).scroll(function () {
+            var scrollVal = $(this).scrollTop(),
+                    animate_flag = 0;
+
+            if (scrollVal >= 1272) {
+                if (animate_flag !== 1) {
+                    $('.icon_animation').addClass('zoomIn');
+                    animate_flag = 1;
+                }
+            } else {
+                $('.icon_animation').removeClass('zoomIn');
+                animate_flag = 0;
+            }
+        });
+
+        // hover動畫
+        $(".bg6_a").hover(function () {
+            $(this).find(".underline-from-center").animate({
+                "width": "78%",
+                "height": "4px",
+                "border-radius": "5px"
+            }, "fast");
+        }, function () {
+            $(this).find(".underline-from-center").animate({
+                "width": "0px",
+                "height": "4px",
+                "background": "none"
+            });
+        });
+
+        $(".basic_add").hide();
+        $(".basic_add2").hide();
+        $(".minus_btn").hide();
+        $(".minus_btn2").hide();
+        //加購方案按鈕一   
+        $(".add_btn").click(function () {
+            $(".basic_add").slideDown("slow");
+            $(".minus_btn").show();
+            $(".add_btn").hide();
+        });
+        $(".minus_btn").click(function () {
+            $(".basic_add").slideUp("slow");
+            $(".minus_btn").hide();
+            $(".add_btn").show();
+        });
+        //加購方案按鈕二  
+        $(".add_btn2").click(function () {
+            $(".basic_add2").slideDown("slow");
+            $(".minus_btn2").show();
+            $(".add_btn2").hide();
+        });
+        $(".minus_btn2").click(function () {
+            $(".basic_add2").slideUp("slow");
+            $(".minus_btn2").hide();
+            $(".add_btn2").show();
+        });
+
+        $(function () {
+            //  點選右方導覽列到指定背景區塊
+            var num_li = $("#nav_bar li").length;
+
+            for (var i = 0; i <= num_li; i++) {
+                $("#nav_bar li:eq(" + i + ")").click({
+                    id: i
+                }, function(e) {
+                    $("#nav_bar li").css("color", "#fff");
+                    var page = e.data.id + 1;
+                    $("html,body").animate({
+                        "scrollTop": $("#bg" + page).offset().top - 78
+                    })
+                    $(this).css("color", "#373737");
+                })
+            }
+            // 滾軸至背景區塊
+            $(window).scroll(function() {
+                if ($(window).scrollTop() >= $("#bg1").offset().top - 81 && $(window).scrollTop() < $("#bg2").offset().top - 81) {
+                    $("#nav_bar li").css("color", "white") //除了被點擊到的游標，其他都恢復成原來的顏色
+                    $("#nav_bar li:eq(0)").css("color", "#373737")
+                } else if ($(window).scrollTop() >= $("#bg2").offset().top - 81 && $(window).scrollTop() < $("#bg3").offset().top - 81) {
+                    $("#nav_bar li").css("color", "white")
+                    $("#nav_bar li:eq(1)").css("color", "#373737")
+                } else if ($(window).scrollTop() >= $("#bg3").offset().top - 81 && $(window).scrollTop() < $("#bg4").offset().top - 81) {
+                    $("#nav_bar li").css("color", "white")
+                    $("#nav_bar li:eq(2)").css("color", "#373737")
+                } else if ($(window).scrollTop() >= $("#bg4").offset().top - 81 && $(window).scrollTop() < $("#bg5").offset().top - 81) {
+                    $("#nav_bar li").css("color", "white")
+                    $("#nav_bar li:eq(3)").css("color", "#373737")
+                } else if ($(window).scrollTop() >= $("#bg5").offset().top - 81 && $(window).scrollTop() < $("#bg6").offset().top - 81) {
+                    $("#nav_bar li").css("color", "white")
+                    $("#nav_bar li:eq(4)").css("color", "#373737")
+                } else if ($(window).scrollTop() >= $("#bg6").offset().top - 81) {
+                    $("#nav_bar li").css("color", "white")
+                    $("#nav_bar li:eq(5)").css("color", "#373737")
+                }
+            })
+
+            // 產品說明
+            $("#menu_count").on("click", function (e) {
+                e.preventDefault();
+                $('html, body').stop().animate({
+                    scrollTop: $("#bg3").offset().top - 81
+                }, 750); // 750是滑動的時間，單位為毫秒
+            });
+            //menu的產品說明&費率表滑動區     
+            $("#product_intro").on("click", function (e) {
+                $('html, body').animate({
+                    scrollTop: $("#bg3").offset().top - 81
+                }, 750); // 750是滑動的時間，單位為毫秒
+                e.preventDefault();
+            });
+            $("#price").on("click", function (e) {
+                $('html, body').animate({
+                    scrollTop: $("#bg5").offset().top - 81
+                }, 750);  // 750是滑動的時間，單位為毫秒
+                e.preventDefault();
+            });
+
+        });
+
+    });
+
+    //最新消息
+
+    $(function () {
+        show_news_li();
+    });
+    $(window).resize(function () {
+        show_news_li();
+    });
+
+    function show_news_li(type, title, date, link) {
+
+        $("#show_news").html("");
+        var type = "1,1,1,1,1,1,1,1,1,1";
+        var title = "【重要通知】2024年05月26日(日) 客服中心電話語音服務暫停,【重要提醒】2024年6月4日(二) 系統優化維護作業,【重要提醒】2024年4月16日(二)系統優化維護作業,【重要提醒】2024年2月26日(一) 電子發票部份功能服務暫停公告,2024年春節期間，ezPay電子發票加值服務平台服務不打烊,【重要提醒】2024年1月18日(四)系統優化維護作業,【重要通知】2024 年1月14日(日) 客服中心電話語音服務暫停,【重要提醒】2024年1月18日(四)系統優化維護作業,【重要提醒】2024年01月09日(二) 電子發票上傳異常處理完成公告,【重要提醒】2024年01月05日(五) 電子發票空白未使用字軌自動上傳暫停公告";
+        var date = "2024-05-22,2024-05-08,2024-04-10,2024-02-23,2024-01-29,2024-01-17,2024-01-12,2024-01-11,2024-01-09,2024-01-05";
+        var link = "a0880af102c94f2772c8a212636e5b092878190656e0b582c801aa8e02335afa631713bbabe976fc530acafda39b86b3db29542d13e215b6da25f34ec975711e4885d47a3eadb34c709bb36ddce08cf28e1aa846bd54a5d02698de5ddb0b6349c8e2fa257523391938f22834dc0226d23d0d6ecb64280970bda60f45df073aad,5b86698d689a1fddad8ba2a0eb2f37ee2bc60c924f35040e986f7d1d4278375582b482d988c68cdc2bd1864ece8b65990b930a920733285a55a7f484cba852a0d82f81c2ac244b00f4c6f270e3ffd040d40f73fcbefb40d6fd644267ce4527fcf8e51b55c08fdff32f914c23f7e9f279c5b4f06f1d841c753b2306082747c221,68f786b98f25f2979cb555a52a202ea620113249b8441939ae405d2de7ae12b7d23acba7e938e809667e1033c678bbc3153088a9de60329734174bca9eb364ef2fbfc9a039d16c8a6909edf338929ce54177e951d35a8e84d3e8ca566d19c62dab304afd395b9fb76e33fdfbe8ee3efaa002d025d0ceae82048ba1c671366797,a3f53d768cc3dda762449b68f4f1a09aa04ae6bfb0f3a26e1a4a95d2f7fb4449ac5203c1aae2eca75408c88e6afb05f6750e047c0990a671382b31a540d5d55c8eb0f9b4a09a661debc14b6c87d626b9d6ae2291e3bfaf058a23e4c9e9ba146af4f8df1f205a60d9b28f580b97c297d7fa05b1d3dd14ac7967c29841e8eb3617,114df9735509192b15e858e961a947e7ac54cf3a228c2c4966b6de32e7d52ea8abbeb118536185a67651db10d4ac05fa4eb6cccd5487d1507e6280b94564161a13172b898afc2afe297b41125fe46fa63bd041691c293b0f09ae6ee57b0c3befdf0a69286b2d4bc2b002e5eed16bc299c7d83af60bbc79c0c7964a95dd96782a,e78cb6e6fa20716fe86d2c145014702a23319557cf9e8a6dcb4c13028d851eadc029aa62e4fbdf8b18f971065c181fc439ec507e44e5c622e38c1b1dd36c84b35afa72724ef7163af1907ea28d555b84d94e25ff3afaf296b6f3733e23804e1c0a7d4997134069edf71335be55159fd3b8b2e2ac6da9a896107ad38e59d991aa,db766ebe7f51bce20f48336e2ec47b42330e5803326765fcdd45a973be7a9278c943cd4966053e4391db3aa0878b22cf767fffc0c4b246f16e9c53bdc539aa418949a16b42011d259004cb234a5768041a0d105911d13c76418e40323e01e902f754e0688df69b56d9ba0b5c7f841a793ce3733aa1d7dc3e630695bfc883b11e,8442e30975ba0af91dc77db60c2f0f32e88db2addae2aaf3a65c14c2e678ed8245b5a6a4f31f91e1c8bd1c5df0dfea085f2b663fe20261d4c11b5c942b2367c50ecc9b8b232fdceb7d8980f523311946898944f18001481a287861af36e0004be792de759d46958c2762a19ef9320091db6782f0b3c896d546f9caed70986edf,38691dbc5a9da7b0792b824729c4b6cf773ab84d9b0eb0eab2dba979f588dd64ffb23c90111425938531de3f2decba42cf732616251a78d32c542e039d5532bcdb672cb1e52b194b95a467c4bacd09bc5fe685445a92649dc1c8a5396cf41b35dac2f7c9c66dfa89ff7b99dd24a5aea24a42ebc0f40c9802e4d8714ae74f872c,469090f86d0386e233f47c9cbd1fd9e959fd684dc0181c01f352faeae2e977ebaaf324fb3ce668291a407eb2f7771a9bbe498079d251d473f6e0ff6ea3d65b43ff43b41bea92a82ce8e61344343a18ce5d7092ab7af7ec041f381ca90115cbde29d7523193132b77c67654281040adad3ebf61ab9b10cff0297769f0dd104c18";
+        //用,分割成陣列
+        var array_type = type.split(",");
+        var array_title = title.split(",");
+        var array_date = date.split(",");
+        var array_post_data = link.split(",");
+        //取陣列長度
+        var news_length = array_title.length;
+        var i;
+        var lihtml = "";
+        var baseurl = "https://inv.ezpay.com.tw/";
+        var tag_html;
+
+        for (i = 0; i < news_length; i++) {
+
+            if (array_type[i] === "2") {
+                tag_html = "<span  class='label label-warning' style='margin-right:10px;font-size:0.8em; padding-top:5px;'>最新消息</span>";
+            } else if (array_type[i] === "1") {
+                tag_html = "<span  class='label label-danger' style='margin-right:10px;font-size:0.8em; padding-top:5px;'>服務公告</span>";
+            }
+
+            lihtml += "<div class='news-child' style='display:inline-block'>" + tag_html +
+                    "</span><span ><a style='font-size:14px;padding-right:10px' href=" + baseurl +
+                    "Invoice_index/lastest_news_detail?post_data=" + array_post_data[i] + ">" + array_title[i] + "</a></span></div>";
+        }
+        $("#show_news").html(lihtml);
+        count_new_height();
+    }
+
+    function count_new_height() {
+        var newsOutwidth = parseInt($(".newsstyle").height(), "10");
+        var newsInheight = parseInt($("#show_news").height(), "10");
+
+        if (newsInheight > newsOutwidth) {
+            $(".news-child:last-child").remove();
+            count_new_height();
+        }
+    }
+</script>
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- 右方點導覽列 -->
+        <div id='nav_bar'>
+            <ul>
+                <li style="cursor: pointer;"></li>
+                <li style="cursor: pointer;"></li>
+                <li style="cursor: pointer;"></li>
+                <li style="cursor: pointer;"></li>
+                <li style="cursor: pointer;"></li> 
+                <li style="cursor: pointer;"></li> 
+            </ul>
+        </div>
+        <div id="bg1">  
+            <img id="receipt_text" src="https://inv.ezpay.com.tw/images/receipt/receipt_text.png"  alt="電子發票加值服務中心e指搞定"></img>
+            <a href="https://inv.ezpay.com.tw/dw_files/invoice/invoice.pdf?t=20231215" target="blank" id="fit"><span class="glyphicon glyphicon-leaf"></span>&nbsp;符合財政部國稅局電子發票加值中心管理規範</a>
+            <img id="earth" src="https://inv.ezpay.com.tw/images/receipt/earth.png" alt="ezPay電子發票"></img>
+            <!--最新消息-->
+            <div id="news" class="news_resize">
+                <div class="newsstyle"   >
+                    <div id='show_news'>
+                    </div>
+                </div> 
+            </div>
+        </div>
+        <!--第2區-->
+        <div id="bg2" class='bg2_slide'>
+            <!--  -->
+            <img id="cloud" src="https://inv.ezpay.com.tw/images/receipt/cloud.png" alt="電子發票輕鬆管理，功能齊全" ></img>
+            <img id="mac" src="https://inv.ezpay.com.tw/images/receipt/imac.png" alt="imac" ></img>
+            <img id="receipt"   src="https://inv.ezpay.com.tw/images/receipt/receipt_pic.png" alt="receipt"></img>
+            <div class="TitleText">輕鬆管理，功能齊全</div>
+            <div class="section2_text">
+                <ul>
+                    <li>開立、作廢、折讓e起完成</li>
+                    <li>自動上傳財政部，申報方便</li>
+                    <li>媒體申報一鍵下載</li>
+                    <li>明細查詢一目了然</li>
+                    <li>設定字軌e化使用</li>
+                </ul>
+            </div>
+        </div>
+        <!--第3區-->
+        <div id='bg3'>
+            <div class="container">
+                <div id="bg3_word">發票e化，好處多多！</div>
+            </div>
+            <img id="iphone"   src="https://inv.ezpay.com.tw/images/receipt/iphone.png" alt="電子發票載具"></img>
+            <img id="receipt_forphone" class="icon_animation click_show"  src="https://inv.ezpay.com.tw/images/receipt/receipt_pic.png" alt="載具顯示電子發票"></img>
+            <img id="icon01" class="icon_animation click_show" src="https://inv.ezpay.com.tw/images/receipt/icon02.png"  alt="電子發票的簡易申請三步驟" ></img>
+            <img id="icon02" class="icon_animation click_show"src="https://inv.ezpay.com.tw/images/receipt/icon01.png"  alt="電子發票的API程式串接" ></img>
+            <img id="icon03" class="icon_animation click_show " src="https://inv.ezpay.com.tw/images/receipt/icon03.png"  alt="電子發票服務帳務管理有一套" ></img>
+            <div id="icon_title" class=" icon_animation click_show " >簡易申請三步驟</div>
+            <div id="icon_title2" class=" icon_animation click_show ">API程式串接</div>
+            <div id="icon_title3" class=" icon_animation click_show ">帳務管理有一套</div>  <!--字要跟著icon(class=icon_animation)一起出來-->
+            <div>
+                <div class="dialog_box icon_animation hidden-xs hidden-sm inv_step " >
+                    <div>1.申請發票加值服務。</div>
+                    <div>2.設定上傳發票字軌。</div>
+                    <div>3.開立發票自動完成。</div>                        
+                </div>
+                <div class="dialog_box icon_animation hidden-xs hidden-sm inv_manage ">
+                    <span>智能管理，所有功能。系統處理，有效簡化，工作提升效率。</span>
+                    <span class=" glyphicon glyphicon-save"></span>
+                    <a href="https://inv.ezpay.com.tw/Invoice_index/download" target="_blank">請點我下載</a>
+                </div>
+                <span class="dialog_box icon_animation hidden-xs hidden-sm " style=" margin-left:75.2%;">帳務人員彈性運用，單筆或批次處理自由選擇，輕鬆管理，方便查詢。</span>
+            </div>
+        </div>
+        <!--第4區-->
+        <div id="bg4">
+            <div id="store_receipt">
+                <img src="https://inv.ezpay.com.tw/images/receipt/store_receipt.png" alt="store_receipt" ></img>
+            </div>
+            <div class="TitleText4">
+                <p>中獎發票 便利商店列印</p>
+                <p>省時 省力 節省寄送費用</p>
+            </div>
+            <div class="section4_text">                
+                <p>當消費者收到中獎發票通知後，憑通知信件內容至全家FamiPort 輸入「發票號碼」、「發票日期」與「隨機碼」即可列印中獎發票</p>
+                <p>兌換獎金更加快速方便，也無需負擔郵寄發票的時間與成本。</p>
+                <a class="print_step_btn" href="https://inv.ezpay.com.tw/Invoice_index/famiPrintStep" target="_blank">中獎發票列印操作流程</a>
+                <div class="note">
+                    <p>※ 目前僅先開放全家便利商店</p>
+                    <p>※ 消費者無需負擔全家 FamiPort列印費用</p>
+                    <p>※ 僅提供查詢/列印兌獎期間內的中獎發票</p>
+                    <p>※ 欲開通此功能請與您的商務經理聯繫或來信至客服中心</p>
+                </div>
+            </div>
+        </div>
+        <!--第五區-->
+        <div id="bg5">
+            <div class="container">
+                <div  id="bg5_slogen">夠省才划算，最高CP值！</div>
+                <div class="charge_title" style="background-color:#555553">
+                    <span>系統設定費</span>
+                </div>
+                <div id="system_setting_form">
+                    <p>凡首次申請使用本平台電子發票服務，均收系統設定費；日後續用將不需再繳交此項費用。</p>
+                    <p>費用：3,000元。</p>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="charge_title">
+                            <span>年費制</span>
+                        </div>
+                        <div id="basic" class="year_form" style="border-color:#859e19">   
+                            <p class="section_four_title" style="color:#859e19">基本型</p>
+                            <p class="section_four_text">為期一年，適合每月使用量低於500張者使用。</p>
+                            <span class="section_four_text">費用：6,000元，每月可開立500張(含)以內的發票。</span>
+                            <img class="add_btn btn_style" style="cursor: pointer;" src="https://inv.ezpay.com.tw/images/receipt/addbuy.png"  alt="電子發票服務加購方案展開按鈕" ></img>   
+                            <img class="minus_btn btn_style" style="cursor: pointer;" src="https://inv.ezpay.com.tw/images/receipt/minusbuy.png"  alt="電子發票服務加購方案收起按鈕" ></img>  
+                            <!--加購方案區塊-->
+                            <div class="basic_add">
+                                <p class="basic_add_title">加購方案</p>
+                                <p class="section_four_text" style="text-decoration:underline;">方案A</p>
+                                <p class="section_four_text">費用：300元。&nbsp;&nbsp;&nbsp;張數：150張。</p>
+                                <p class="section_four_text" style="text-decoration:underline;">方案B</p>
+                                <p class="section_four_text">費用：600元。&nbsp;&nbsp;&nbsp;張數：500張。</p>
+                                <p class="section_four_text">※加購之電子發票張數不可跨月使用。</p>
+                            </div>
+                        </div>
+                        <div id="expert" class="year_form" style="border-color:#859e19">
+                            <p class="section_four_title" style="color:#859e19">菁英型</p>
+                            <p class="section_four_text">為期一年，適合每月使用量低於3,000張者使用。</p>
+                            <span class="section_four_text">費用：12,000元，每月可開立3,000張(含)以內的發票。</span>
+                            <img class="add_btn2 btn_style" style="cursor: pointer;" src="https://inv.ezpay.com.tw/images/receipt/addbuy.png"  alt="電子發票服務加購方案展開按鈕" ></img>   
+                            <img class="minus_btn2 btn_style" style="cursor: pointer;" src="https://inv.ezpay.com.tw/images/receipt/minusbuy.png"  alt="電子發票服務加購方案收起按鈕" ></img>  
+                            <!--                                加購方案區塊-->
+                            <div class="basic_add2">
+                                <p class="basic_add_title">加購方案</p>
+                                <p class="section_four_text" style="text-decoration:underline;">方案A</p>
+                                <p class="section_four_text">費用：300元。&nbsp;&nbsp;張數：150張。</p>
+                                <p class="section_four_text" style="text-decoration:underline;">方案B</p>
+                                <p class="section_four_text">費用：600元。&nbsp;&nbsp;張數：500張。</p>
+                                <p class="section_four_text">※加購之電子發票張數不可跨月使用。</p>
+                            </div>
+                        </div>
+                        <div id="vip" class="year_form" style="border-color:#859e19">
+                            <p class="section_four_title" style="color:#859e19">尊榮型</p>
+                            <p class="section_four_text">為期一年，適合每月使用量超過3,000張者使用。</p>
+                            <p class="section_four_text">費用：18,000元，無發票開立數限制。</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <div class="charge_title" style="background-color:#766148;">
+                            <span>計費制</span>
+                        </div>
+                        <div class="time_form">
+                            <p class="section_four_title">微量型</p>
+                            <p class="section_four_text"> 適合發票開立數不固定者使用。</p>
+                            <p class="section_four_text"> 總計3,000張發票，無使用期限。</p>
+                            <p class="section_four_text">費用： 4,500元，平均每張1.5元。</p>
+                        </div>
+                        <div  class="time_form"> 
+                            <p class="section_four_title">精算型</p>
+                            <p class="section_four_text">適合發票開立數不固定者使用。</p>
+                            <p class="section_four_text">總計10,000張發票，無使用期限。</p>
+                            <p class="section_four_text">費用：12,000元，平均每張1.2元。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="charge_title" style="background-color:#23729a">
+                    <span>超商列印中獎發票</span>
+                </div>
+                <div id="cvs_print_form">
+                    <p>以超商列印次數計價。</p>
+                    <p>費用：單筆18元。</p>
+                </div>
+                <!--補充說明-->
+                <div style="margin-top:20px;margin-bottom:40px; font-size:1.3em" id="extra_tips">
+                    ※以上訂價皆已含稅。
+                </div>
+            </div>
+        </div>
+        <!--第六區 更多服務連結區-->
+        <div id="bg6">
+            <div class="container">
+                <div  id="bg5_slogen">金流服務</div> 
+                <div class="row">
+                    <!-- ezpay簡單付 -->
+                    <a href="https://www.ezpay.com.tw/" target="_blank" class="bg6_a">
+                        <div class="col-md-3 link_area">
+                            <div  class='link_height'>
+                                <img src="https://inv.ezpay.com.tw/image/logo/pay2go_logo_link.png" alt="ezpay電子發票" id="pay2go_logo_link">
+                            </div>
+                            <div  class="link_title pay2go_link_hvr ">ezPay 簡單付</div>
+                            <div class="underline-from-center" style="background:#F29929;"></div>
+                            <div  class="link_intro">ezPay 簡單付行動整合金流服務，快速接入多元電子支付工具，提供消費者更為彈性的支付選擇。</div>
+                        </div>
+                    </a>
+                    <!-- 藍新金流Newebpay -->
+                    <a href="https://www.newebpay.com/" target="_blank" class="bg6_a">
+                        <div class="col-md-3 link_area">
+                            <div class='link_height'>
+                                <img src="https://inv.ezpay.com.tw/images/logo/NewebPayLogo.png" alt="藍新金流第三方金流" class="newebpay_link">
+                            </div>
+                            <div class="link_title spg_link_hvr">藍新金流第三方金流</div>
+                            <div class="underline-from-center" style="background:#0C417E;"></div>
+                            <div class="link_intro">集結業界最全面與便捷的金流整合式服務。不論是微型商家或是企業級商戶，都能ㄧ站滿足金流需求。</div>
+                        </div>
+                    </a>
+                    <!-- 智付通捐款平台 -->
+                    <a href="https://donate.newebpay.com/" target="_blank" class="bg6_a">
+                        <div class="col-md-3 link_area">
+                            <div class='link_height'>
+                                <img src="https://inv.ezpay.com.tw/images/logo/NewebPayLogo.png" alt="藍新金流第三方金流" class="newebpay_link">
+                            </div>
+                            <div class="link_title  spg_link_hvr">藍新金流捐款平台</div>
+                            <div class="underline-from-center" style="background:#0C417E;"></div>
+                            <div class="link_intro">合規之受捐單位，僅需簡易輸入資料，即可產出捐款頁與QR Code，快速將您的活動傳遞出去。</div>
+                        </div>  
+                    </a>
+                    <!-- 威肯數位 -->
+                    <a href="https://www.wecanpay.com.tw/index.html" target="_blank" class="bg6_a">
+                        <div class="col-md-3 link_area wecanpay_style" >   
+                            <div  class="wecanpay_height">
+                                <img src="https://inv.ezpay.com.tw/image/logo/wecanpay_link.png" alt="威肯數位" class="wecanpay_img">
+                            </div>
+                            <div class="link_title">威肯數位</div>
+                            <div class="underline-from-center" style="background:#2098D1;"></div>
+                            <div class="link_intro">整合線上及線下的所有商店加值服務應用環境，提供買方多元化的消費環境，並已完成電子發票整合服務。</div>
+                        </div>  
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .footer_sm_look{
+        display:inline;
+    }
+    @media screen and (max-width: 767px) { 
+        .footer_sm_look{
+            display:block;
+            margin-bottom:20px;
+        }
+        .footer_text{
+            font-size: 1em;
+            padding-bottom: 1.5%;
+        }
+    }
+
+    @media screen and (min-width:0px) and (max-width: 479px)  { 
+        .footer_sm_look{
+            display:block;
+        }
+    }
+
+</style>
+<script>
+    //2017/5/1起 footer客服時間改為24小時
+    var Today = new Date();
+    var month = Today.getMonth();
+    var date = Today.getDate();
+    var hour = Today.getHours();
+    month = month + 1;
+
+
+    $(window).on('load', function () {
+        if ("https://inv.ezpay.com.tw/" === "https://cinv.pay2go.com/" || "https://inv.ezpay.com.tw/" === "https://cinv.ezpay.com.tw/") {
+            check_location();
+        }
+    });
+
+    function check_location() {
+        var storage_str = sessionStorage["storage_check"];
+        if (storage_str !== '1') {
+            var alert_str = "目前網頁為ezPay電子發票加值服務平台API串接測試區。\n若欲前往正式區，請至https://inv.ezpay.com.tw。";
+            alert(alert_str);
+            sessionStorage["storage_check"] = '1';
+        }
+    }
+</script>
+<div class="i_footer_100" id="footer" style="background-color:#272828 ;color:white;">
+    <section style="padding:50px; text-align:center;">
+        <div  class="footer_sm_look">
+            <img src="https://inv.ezpay.com.tw/images/main_icon/footer01.PNG" title="phone" style="margin:-5px"></img>
+            <span class="footer_text ">客服電話：02-2653-6000</span>
+        </div>
+        <div  class="footer_sm_look">
+            <img src="https://inv.ezpay.com.tw/images/main_icon/footer02.PNG" style="margin:5px; " title="email"/>
+            <span class="footer_text">客服信箱：<a style="color:white;" href="mailto:cs@ezpay.com.tw">cs@ezpay.com.tw</a></span>
+        </div>
+        <div class="footer_sm_look">
+            <img src="https://inv.ezpay.com.tw/images/main_icon/footer03.PNG" style="margin:5px; " title="fax"/>
+            <span class="footer_text">客服傳真：02-2783-7111</span>
+        </div>
+        <div style="margin-top:12px">
+            <div class="footer_text footer_sm_look" id="phone_service_time">服務時間：24小時</div> 
+            <div class="footer_text footer_sm_look" id="email_service_time"></div>
+        </div>
+        <div style="margin-top:40px;">
+            <span class="footer_text" style="color:#818181">COPYRIGHT 2024 © ezPay Co., Ltd.</span>
+        </div>
+    </section>
+</div>

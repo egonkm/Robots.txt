@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+Sitemap: https://www.fire.tas.gov.au/wp-sitemap.xml
+
+Disallow: /userfiles/
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

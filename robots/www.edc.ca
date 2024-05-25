@@ -1,0 +1,33 @@
+########################################################
+#
+#    EDC.ca Robots File
+#
+########################################################
+
+User-agent: *
+
+Disallow: /fr/blog/
+Disallow: /FR/About-Us/
+Disallow: /EN/About-Us/News-Room/
+Disallow: /en/form/
+Disallow: /fr/formulaire/
+Disallow: /EN/Promotions/
+Disallow: /FR/Promotions/
+Disallow: /en/premium/
+Disallow: /fr/premium/
+Disallow: /events/
+Disallow: *?elqTrackId
+Disallow: *?il
+Disallow: *?ARI
+Disallow: *?lang
+Disallow: *?frompage
+Disallow: /fr/tag/
+Disallow: /en/tag/
+Disallow: /en/pro/
+Disallow: /fr/pro/
+Disallow: /en/financial-institutions/
+Disallow: /fr/institutions-financieres/
+Disallow: /en/my-account/
+Disallow: /fr/mon-compte/
+
+Sitemap: https://www.edc.ca/sitemap.xml

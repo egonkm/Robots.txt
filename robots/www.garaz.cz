@@ -1,0 +1,16 @@
+User-agent: *
+# dont crawl pagination on article pages
+Disallow: /clanek/*timeline--pageItem=
+
+User-agent: SeznamBot
+# dont crawl pagination on article pages
+Disallow: /clanek/*timeline--pageItem=
+# dont crawl the same page with opened menu
+Disallow: /*menu--open
+# dont crawl the same page with opened gallery
+Disallow: /*mol-gallery--expanded=
+
+Sitemap: https://www.garaz.cz/sitemaps/sitemap_articles.xml
+Sitemap: https://www.garaz.cz/sitemaps/sitemap_news.xml
+Sitemap: https://www.garaz.cz/sitemaps/sitemap_sections.xml
+Sitemap: https://www.garaz.cz/sitemaps/sitemap_tags.xml

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: https://resources.mynewsdesk.com/image/upload/fl_attachment/*
+Disallow: https://resources.mynewsdesk.com/image/upload/f_pdf,fl_attachment/*
+Disallow: /*.pdf$

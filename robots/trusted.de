@@ -1,0 +1,87 @@
+User-agent: *
+Allow: /
+
+Disallow: /partner/
+Disallow: /datenschutz
+Disallow: /impressum
+Disallow: /versand
+Disallow: /*gclid
+Disallow: /*msclkid
+Disallow: /*popup
+Disallow: /catalog/category
+
+User-agent: AhrefsBot
+Disallow: /
+
+# Block Searchmetrics Bot
+User-agent: SearchmetricsBot
+Disallow: /
+
+# Block MJ12bot as it is just noise
+User-agent: MJ12bot
+Disallow: /
+
+# Block Sogou
+User-agent: sogou spider
+Disallow: /
+
+# Block BlexBot
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+# Block Ezooms Robot
+User-agent: Ezooms Robot
+Disallow: /
+
+# Block BlexBot
+User-agent: BLEXBot
+Disallow: /
+
+# Block netEstate NE Crawler (+http://www.website-datenbank.de/)
+User-agent: netEstate NE Crawler (+http://www.website-datenbank.de/)
+Disallow: /
+
+# Block WiseGuys Robot
+User-agent: WiseGuys Robot
+Disallow: /
+
+# Block Turnitin Robot
+User-agent: Turnitin Robot
+Disallow: /
+
+# Block Heritrix
+User-agent: Heritrix
+Disallow: /
+
+# Block pricepi
+User-agent: pimonster
+Disallow: /
+User-agent: Pimonster
+Disallow: /
+User-agent: Pi-Monster
+Disallow: /
+
+# Block Eniro
+User-agent: ECCP/1.0 (search@eniro.com)
+Disallow: /
+
+
+# Block SoGou
+User-agent: Sogou Spider
+Disallow: /
+
+# Block Youdao
+User-agent: YoudaoBot
+Disallow: /
+
+User-agent: LCC
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /

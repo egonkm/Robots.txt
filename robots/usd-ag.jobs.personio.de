@@ -1,0 +1,7 @@
+User-agent: *
+                                            Disallow: /xml
+                                            Disallow: /search
+                                            Disallow: /privacy-policy
+                                            Disallow: /apply/*
+                                            Disallow: /check-applied/*
+                                            Disallow: /thank-you/*

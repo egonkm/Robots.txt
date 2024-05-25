@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /product/treed-toe
+Disallow: /product/join-now
+Disallow: /product/adherez
+Disallow: /paspoort
+Disallow: /passport
+Disallow: /passeport
+Disallow: /*add-to-cart=*
+Disallow: /cart/
+Disallow: /winkelmand/
+Disallow: /checkout/
+Disallow: /my-account/
+Disallow: /mijn-account/
+Allow: /wp-admin/admin-ajax.php

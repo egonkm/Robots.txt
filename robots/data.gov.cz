@@ -1,0 +1,6 @@
+Sitemap: https://data.gov.cz/sitemap.xml
+User-agent: *
+Disallow: /sparql*
+Disallow: /fct/
+Disallow: /describe/
+Disallow: /zdroj/

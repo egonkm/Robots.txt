@@ -1,0 +1,54 @@
+<!doctype html><html lang="en"><head><meta name="viewport" content="width=device-width,initial-scale=1"/><meta charset="utf-8"/><title>Common Voice</title><meta name="google-site-verification" content="INju26zkno9w88GUk0U7QX8ACKiHSkfJZlCBa-gfCMw"/><meta property="og:type" content="product"/><meta property="og:title" content="Mozilla Common Voice"/><meta property="og:url" content="https://commonvoice.mozilla.org/"/><meta property="og:image" content="https://commonvoice.mozilla.org/img/cv-social-1024x512.jpg"/><meta property="og:image:width" content="1024"/><meta property="og:image:height" content="512"/><meta property="og:image" content="https://commonvoice.mozilla.org/img/cv-social-1024x512@2x.jpg"/><meta property="og:image:width" content="2048"/><meta property="og:image:height" content="1024"/><meta property="og:image" content="https://commonvoice.mozilla.org/img/cv-social-1024x512@3x.jpg"/><meta property="og:image:width" content="3072"/><meta property="og:image:height" content="1536"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@mozilla"/><meta name="twitter:creator" content="@mikehenrty"/><link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Zilla+Slab:400,600" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Inter:400,600" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700" rel="stylesheet"/><link rel="apple-touch-icon" href="https://commonvoice.mozilla.org/img/voice-touch-icon.png"/><script>if (navigator.doNotTrack === '1' || navigator.doNotTrack === 'yes'
+      ) {
+        console.log('do not track header set, disabling analytics');
+        window.ga = function() {};
+      } else {
+        // default to non-production GA stream
+        let gaId = 'UA-194612451-1';
+        if (window.location.origin === 'https://commonvoice.mozilla.org') {
+          gaId = 'UA-194612451-2';
+        }
+        (function(i, s, o, g, r, a, m) {
+          i['GoogleAnalyticsObject'] = r;
+          (i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments);
+          }), (i[r].l = 1 * new Date());
+          (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+          a.async = 1; a.src = g; m.parentNode.insertBefore(a, m);
+        })(
+          window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        ga('create', gaId, 'auto');
+        ga('send', 'pageview');
+      }</script><script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-T4DZBR7');</script><script>(function (w, d, s, n, a) {
+        if (!w[n]) {
+          var l = 'call,catch,on,once,set,then,track'.split(','),
+            i,
+            o = function (n) {
+              return 'function' == typeof n
+                ? o.l.push([arguments]) && o
+                : function () {
+                    return o.l.push([n, arguments]) && o;
+                  };
+            },
+            t = d.getElementsByTagName(s)[0],
+            j = d.createElement(s);
+          j.async = !0;
+          j.src = 'https://cdn.fundraiseup.com/widget/' + a;
+          t.parentNode.insertBefore(j, t);
+          o.s = Date.now();
+          o.v = 4;
+          o.h = w.location.href;
+          o.l = [];
+          for (i = 0; i < 7; i++) o[l[i]] = o(l[i]);
+          w[n] = o;
+        }
+      })(window, document, 'script', 'FundraiseUp', 'ADCYPWMX');</script><script defer="defer" src="/dist/runtime.00f0838133a9a85d.js"></script><script defer="defer" src="/dist/vendors.e8c95d2f7cc100ef.js"></script><script defer="defer" src="/dist/main.9bf6935887d4be6e.js"></script><link href="/dist/chrome-color.4e16297291336682.svg" rel="preload" as="image"><link href="/dist/close-black.a794ab384389fc57.svg" rel="preload" as="image"><link href="/dist/close.407c0135d219d1cb.svg" rel="preload" as="image"><link href="/dist/contact.6c9c8bd4df68d2b5.svg" rel="preload" as="image"><link href="/dist/cv-logo-black.270d5891c1700962.svg" rel="preload" as="image"><link href="/dist/cv-logo-white.3b47f3ba45b69f4a.svg" rel="preload" as="image"><link href="/dist/discourse.e709f94f3a145b10.svg" rel="preload" as="image"><link href="/dist/exclamation.8ff079b062644e06.svg" rel="preload" as="image"><link href="/dist/ff-color.065faaf607fac0cc.svg" rel="preload" as="image"><link href="/dist/github.aae4752d9340a76a.svg" rel="preload" as="image"><link href="/dist/keyboard.162f944a62a997e4.svg" rel="preload" as="image"><link href="/dist/main.9bf6935887d4be6e.js" rel="preload" as="script"><link href="/dist/main.f910e016844b0ac6.css" rel="preload" as="style"><link href="/dist/mars-avatar.6e8aeebd12e814ce.svg" rel="preload" as="image"><link href="/dist/mars-sad.fa2d488fbbddcc42.svg" rel="preload" as="image"><link href="/dist/play.e514fd69a5ec96b8.svg" rel="preload" as="image"><link href="/dist/question-mark.b9b56342e9b2c9d0.svg" rel="preload" as="image"><link href="/dist/runtime.00f0838133a9a85d.js" rel="preload" as="script"><link href="/dist/safari-color.8a3db6670f5b3860.svg" rel="preload" as="image"><link href="/dist/search.89fe1f8c7d4cc0a9.svg" rel="preload" as="image"><link href="/dist/star.3f89142a8319d79e.svg" rel="preload" as="image"><link href="/dist/star.c188df5c81773613.svg" rel="preload" as="image"><link href="/dist/success.8eca68289b3dedbf.svg" rel="preload" as="image"><link href="/dist/support.27a6cee2843c5c49.svg" rel="preload" as="image"><link href="/dist/vendors.e8c95d2f7cc100ef.js" rel="preload" as="script"><link href="/dist/main.f910e016844b0ac6.css" rel="stylesheet"></head><body><noscript>Please enable JavaScript to run this app</noscript><div id="root"></div></body></html>

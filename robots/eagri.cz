@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /public/portal/mze/kalendar-akci?*
+Disallow: /public/portal/ukzuz/kalendar-akci?*
+Disallow: /public/portal/ukzuz/kalendar-akci-2?*
+
+Sitemap: https://eagri.cz/public/portal/sitemap.xml 

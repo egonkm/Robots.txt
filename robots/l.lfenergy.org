@@ -1,0 +1,6 @@
+
+User-agent: *
+Allow: *
+
+Sitemap: https://landscape.lfenergy.org/sitemap.xml
+  

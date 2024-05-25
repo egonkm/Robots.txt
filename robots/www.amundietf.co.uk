@@ -1,0 +1,8 @@
+User-agent: * 
+Sitemap: https://www.amundietf.co.uk/sitemap/sitemap.xml
+Disallow: /amundi_etf_uk_instit/
+Disallow: /amundi_etf_uk_retail/
+Disallow: /professional/dl/
+Disallow: /retail/dl/
+Disallow: /retail/ezjscore/
+Disallow: /professional/ezjscore/

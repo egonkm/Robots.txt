@@ -1,0 +1,10 @@
+User-agent: Applebot         # apple
+Disallow: /                  # disallow this directory
+
+User-agent: Qwantify
+Disallow: / 
+
+User-agent: *
+Disallow: /
+
+    

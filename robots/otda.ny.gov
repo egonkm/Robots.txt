@@ -1,0 +1,61 @@
+# OFFICE OF ADMINISTRATIVE HEARINGS
+
+User-agent: *
+Disallow: /fair%20hearing%20images/
+Disallow: /share/
+Disallow: /social/
+Disallow: /employee-info/
+Disallow: /time/
+Disallow: /news/jobs/attachments/
+Disallow: /news/reports/
+Disallow: /news/hero/
+Disallow: /contracts/forms/
+Disallow: /legal/part-902-hotel-motel-regs.pdf
+Disallow: /SNAP-COVID-19/messages/
+Disallow: /Migrant-Relocation-Assistance/
+Disallow: /MRAP/
+Disallow: /waiver-request-summer-ebt.asp
+
+User-agent: nys-crawler
+Disallow: /share/
+Disallow: /social/
+Disallow: /employee-info/
+Disallow: /time/
+Disallow: /news/jobs/attachments/
+Disallow: /news/reports/
+Disallow: /news/hero/
+Disallow: /contracts/forms/
+Disallow: /waiver-request-summer-ebt.asp
+
+User-agent: nys-qa-crawler
+Disallow: /share/
+Disallow: /social/
+Disallow: /employee-info/
+Disallow: /time/
+Disallow: /news/jobs/attachments/
+Disallow: /news/reports/
+Disallow: /news/hero/
+Disallow: /contracts/forms/
+Disallow: /waiver-request-summer-ebt.asp
+
+User-agent: nys-elastic-crawler
+Disallow: /share/
+Disallow: /social/
+Disallow: /employee-info/
+Disallow: /time/
+Disallow: /news/jobs/attachments/
+Disallow: /news/reports/
+Disallow: /news/hero/
+Disallow: /contracts/forms/
+Disallow: /waiver-request-summer-ebt.asp
+
+User-agent: nys-elastic-crawler Elastic Cloud (https://www.elastic.co/guide/en/cloud/current/ec-get-help.html; 37e0a42d3d1642719c01f9fa7fabcdd7)
+Disallow: /share/
+Disallow: /social/
+Disallow: /employee-info/
+Disallow: /time/
+Disallow: /news/jobs/attachments/
+Disallow: /news/reports/
+Disallow: /news/hero/
+Disallow: /contracts/forms/
+Disallow: /waiver-request-summer-ebt.asp

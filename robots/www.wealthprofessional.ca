@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /share/
+Disallow: /business-news/
+Disallow: /cdn-cgi/
+Disallow: *__hstc=
+
+User-agent: Googlebot-News
+Disallow: /infocus/
+Disallow: /life/
+Disallow: /business-news/
+
+User-agent: Twitterbot
+Disallow:
+
+sitemap: https://www.wealthprofessional.ca/sitemap.xml

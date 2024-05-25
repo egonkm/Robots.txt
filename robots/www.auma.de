@@ -1,0 +1,55 @@
+User-agent: *
+
+Disallow: /_layouts/
+Allow: /_layouts/15/images/
+Allow: /_layouts/15/aumaTradefairdataDetailview/
+Allow: /_layouts/15/aumaTradefairdataDetailview/js/
+Allow: /_layouts/15/init.js
+Allow: /_layouts/15/1031/styles/Themable/corev15.css
+Allow: /_layouts/15/1031/initstrings.js
+Allow: /_layouts/15/blank.js
+Allow: /_layouts/15/ScriptResx.ashx
+Allow: /_layouts/15/1031/strings.js
+Allow: /_layouts/15/sp.init.js
+Allow: /_layouts/15/core.js
+
+Disallow: /_vti_bin/
+
+Disallow: /_catalogs/
+Allow:/_catalogs/masterpage/
+
+Noindex: /de/anzeigen/
+Noindex: /anzeigen/
+Disallow: /de/anzeigen/
+Disallow: /anzeigen/
+
+Noindex: /de/imf/
+Noindex: /imf/
+Disallow: /de/imf/
+Disallow: /imf/
+
+Noindex: /de/page-not-found
+Noindex: /en/page-not-found
+Noindex: /fr/page-not-found
+Noindex: /es/page-not-found
+Disallow: /de/page-not-found
+Disallow: /en/page-not-found
+Disallow: /fr/page-not-found
+Disallow: /es/page-not-found
+
+Disallow: /de/der-auma/team/geschaeftsfuehrung-und-finanzen/
+Disallow: /de/der-auma/team/oeffentlichkeitsarbeit-und-messen-deutschland/
+Disallow: /de/der-auma/team/globale-maerkte-und-it/
+Disallow: /de/der-auma/team/institut-der-deutschen-messewirtschaft/
+
+Disallow: /de/der-auma/events/auma-fachforen/anmeldung-lehrerfortbildung/
+Disallow: /de/der-auma/events/auma-fachforen/anmeldung-datenschutz/
+
+Disallow: /en/auma/team/management-and-finances/
+Disallow: /en/auma/team/public-relations-and-trade-fairs-germany/
+Disallow: /en/auma/team/global-markets-and-it/
+Disallow: /en/auma/team/institute-of-the-german-trade-fair-industry/
+
+
+
+Sitemap: https://www.auma.de/sitemap.xml

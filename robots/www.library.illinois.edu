@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /bibapp/
+Disallow: /ereserves/
+Disallow: /mailform/
+Disallow: /newtitles/
+Disallow: /pilot/
+Disallow: /proxy/
+Disallow: /rex/rolodex/
+Disallow: /gateway/
+Disallow: /hpnl/staff/
+Disallow: /archives/email-ahx.php
+
+User-agent: OmniExplorer_Bot
+Disallow: /

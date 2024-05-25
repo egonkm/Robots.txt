@@ -1,0 +1,16 @@
+#             __
+#     _(\    |@@|
+#    (__/\__ \--/ __          Welcome to robots.txt file for Eurobank e-Banking.
+#       \___|----|  |   __    If you are not a robot but a curious developer sniffing
+#           \ }{ /\ )_ / _\   around robots.txt files and you have any good ideas about
+#           /\__/\ \__O (__   properly indexing a HashRouter SPA don't hesitate to contact us.
+#          (--/\--)    \__/   All ideas are welcomed...
+#          _)(  )(_
+#         `---''---`
+#
+
+# Thou hidest them in the covert of Thy presence from the plottings of man;
+# Thou concealest them in a pavilion from the strife of tongues.
+User-Agent: *
+Disallow: /compatibility/
+Disallow: /error/

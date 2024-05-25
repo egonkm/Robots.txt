@@ -1,0 +1,38 @@
+User-Agent: *
+Disallow: /content/dam
+Disallow: /contentblock*
+Disallow: /en/internal
+Disallow: /en/archive
+Disallow: /en/search-results.html
+Disallow: /en/test.html
+Disallow: /en/test
+Disallow: /content/communicationstoolbox
+Disallow: /communicationstoolbox
+Disallow: /content/granteeresources
+Disallow: /en/email-profile-center
+
+User-Agent: Twitterbot
+Allow: /
+
+User-Agent: Jigsaw/2.3.0 W3C_CSS_Validator_JFouffa/2.0
+Disallow: /content/dam/images
+Disallow: /content/dam/files/interactives
+Disallow: /content/dam/files/legacy-files
+Disallow: /content/dam/web-assets
+Disallow: /content/dam/supplementary-assets
+Disallow: /content/dam/connect
+Disallow: /content/dam/wcs
+Disallow: /content/dam/legacy
+Disallow: /content/dam/COH
+Disallow: /contentblock*
+Disallow: /en/internal
+Disallow: /en/archive
+Disallow: /en/search-results.html
+Disallow: /en/test.html
+Disallow: /en/test
+Disallow: /content/communicationstoolbox
+Disallow: /communicationstoolbox
+Disallow: /content/granteeresources
+Disallow: /en/email-profile-center
+
+Sitemap: https://www.rwjf.org/sitemap.xml

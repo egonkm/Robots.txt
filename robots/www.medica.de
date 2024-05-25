@@ -1,0 +1,56 @@
+# static robots.txt...
+User-agent: *
+Disallow:  /kati-cgi/kati/
+
+
+
+# Sitemaps for https://www.medica.de (lang=1, https=1)
+
+# oid=100938, [hidden]
+Sitemap: https://www.medica.de/it_sitemap_100938_02_01.xml
+
+# oid=143893, Media & News
+Sitemap: https://www.medica.de/it_sitemap_143893_02_01.xml
+
+# oid=1537, Exhibitors & Products
+Sitemap: https://www.medica.de/it_sitemap_1537_02_01.xml
+
+# oid=20808, Home
+Sitemap: https://www.medica.de/it_sitemap_20808_01_01.xml
+
+# oid=20809, Visit
+Sitemap: https://www.medica.de/it_sitemap_20809_01_01.xml
+
+# oid=20810, Exhibit
+Sitemap: https://www.medica.de/it_sitemap_20810_01_01.xml
+
+# oid=40939, [hidden]
+Sitemap: https://www.medica.de/it_sitemap_40939_01_01.xml
+
+# oid=41497, Program
+Sitemap: https://www.medica.de/it_sitemap_41497_01_01.xml
+
+# oid=45766, [hidden]
+Sitemap: https://www.medica.de/it_sitemap_45766_01_01.xml
+
+# oid=56544, [hidden]
+Sitemap: https://www.medica.de/it_sitemap_56544_01_01.xml
+
+# oid=98094, [hidden]
+Sitemap: https://www.medica.de/it_sitemap_98094_01_01.xml
+
+# oid=98750, [hidden]
+Sitemap: https://www.medica.de/it_sitemap_98750_02_01.xml
+
+
+
+
+# Sitemaps for https://www.medica.de (lang=1, https=1)
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+
+User-agent: *
+Disallow: /vis/v1/de/search/
+
+Sitemap: https://www.medica.de/vis_sitemap_https_www.medica.de_de.xml

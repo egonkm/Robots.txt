@@ -1,0 +1,105 @@
+User-agent: *
+#EDF PARTICULIER
+Disallow: /fr/accueil/403.html
+Disallow: /fr/accueil/404.html
+Disallow: /fr/accueil/500.html
+Allow: /fr/accueil/connexion/creer-espace-client.html
+Disallow: /fr/accueil/connexion/*
+Disallow: /fr/accueil/aide-contact/faq/contact/idError
+Disallow: /fr/accueil/aide-contact/faq/contact/sessionId
+Disallow: /fr/accueil/electricite-gaz/choisir-edf/sessionId
+Disallow: /fr/accueil/electricite-gaz/choisir-edf/urlError
+Disallow: /fr/accueil/autres-pages/*
+Disallow: /fr/accueil/espace-client/*
+Disallow: /fr/accueil/espace-client.html
+Disallow: /fr/accueil/pages-erreur/*
+Disallow: /fr/accueil/pages-erreur.html
+Disallow: /fr/accueil/recette-lot3/*
+Disallow: /fr/accueil/recette-lot3.html
+Allow: /content/Composants_Onglets/*.jpg
+Allow: /content/Composants_Onglets/*.png
+Allow: /content/Composants_Onglets/*.gif
+Allow: /content/Composants_Onglets/*.svg
+Allow: /content/Composants_Onglets/*.css
+Allow: /content/Composants_Onglets/*.js
+Disallow: /content/Composants_Onglets/
+Disallow: /content/Composants_Onglets.html
+Disallow: /content/campaigns/*
+Disallow: /content/campaigns.html
+Allow: /content/EDF_RC/*.jpg
+Allow: /content/EDF_RC/*.png
+Allow: /content/EDF_RC/*.gif
+Allow: /content/EDF_RC/*.svg
+Allow: /content/EDF_RC/*.css
+Allow: /content/EDF_RC/*.js
+Disallow: /content/EDF_RC/*
+Disallow: /content/EDF_RC.html
+Disallow: /*recherche.html?
+Disallow: /*faq*.html?q=
+#GUIDE DE L ENERGIE
+#CSS, JS, Images
+Allow: /fr/accueil/guide-energie/core/*.css$
+Allow: /fr/accueil/guide-energie/core/*.css?
+Allow: /fr/accueil/guide-energie/core/*.js$
+Allow: /fr/accueil/guide-energie/core/*.js?
+Allow: /fr/accueil/guide-energie/core/*.gif
+Allow: /fr/accueil/guide-energie/core/*.jpg
+Allow: /fr/accueil/guide-energie/core/*.jpeg
+Allow: /fr/accueil/guide-energie/core/*.png
+Allow: /fr/accueil/guide-energie/core/*.svg
+Allow: /fr/accueil/guide-energie/profiles/*.css$
+Allow: /fr/accueil/guide-energie/profiles/*.css?
+Allow: /fr/accueil/guide-energie/profiles/*.js$
+Allow: /fr/accueil/guide-energie/profiles/*.js?
+Allow: /fr/accueil/guide-energie/profiles/*.gif
+Allow: /fr/accueil/guide-energie/profiles/*.jpg
+Allow: /fr/accueil/guide-energie/profiles/*.jpeg
+Allow: /fr/accueil/guide-energie/profiles/*.png
+Allow: /fr/accueil/guide-energie/profiles/*.svg
+#Directories
+Disallow: /fr/accueil/guide-energie/core/
+Disallow: /fr/accueil/guide-energie/profiles/
+Disallow: /fr/accueil/guide-energie/mail/*
+#Files
+Disallow: /fr/accueil/guide-energie/README.txt
+Disallow: /fr/accueil/guide-energie/web.config
+#Paths (clean URLs)
+Disallow: /fr/accueil/guide-energie/admin/
+Disallow: /fr/accueil/guide-energie/filter/tips
+Disallow: /fr/accueil/guide-energie/node/add/
+Disallow: /fr/accueil/guide-energie/search/
+Disallow: /fr/accueil/guide-energie/user/register/
+Disallow: /fr/accueil/guide-energie/user/password/
+Disallow: /fr/accueil/guide-energie/user/login/
+Disallow: /fr/accueil/guide-energie/user/logout/
+#Paths (no clean URLs)
+Disallow: /fr/accueil/guide-energie/index.php/admin/
+Disallow: /fr/accueil/guide-energie/index.php/comment/reply/
+Disallow: /fr/accueil/guide-energie/index.php/filter/tips
+Disallow: /fr/accueil/guide-energie/index.php/node/add/
+Disallow: /fr/accueil/guide-energie/index.php/search/
+Disallow: /fr/accueil/guide-energie/index.php/user/password/
+Disallow: /fr/accueil/guide-energie/index.php/user/register/
+Disallow: /fr/accueil/guide-energie/index.php/user/login/
+Disallow: /fr/accueil/guide-energie/index.php/user/logout/
+#Economies d'Ã©nergie
+Disallow: /fr/accueil/economies-d-energie/content/sendToFriend
+Disallow: /fr/accueil/economies-d-energie/partagez-par-email
+Disallow: /fr/accueil/economies-d-energie/default/notationContent
+Disallow: /fr/accueil/economies-d-energie/default/getNotation
+Disallow: /fr/accueil/economies-d-energie/eco-gestes/conseils/ma-liste?*
+#header (script mode)
+Disallow: /fr/accueil/economies-d-energie/headerScript/call
+#gÃ©nÃ©rÃ©es par les recherches dans le moteur de recherche
+Disallow: /fr/accueil/economies-d-energie/resultats-de-recherche
+Disallow: /fr/accueil/economies-d-energie/recherche?type
+#uploads
+Disallow: /fr/accueil/economies-d-energie/uploads
+#guides pratiques (version imprimable)
+Disallow: /impression$
+#Sitemap
+Sitemap: https://particulier.edf.fr/fr/sitemap.xml
+Sitemap: https://particulier.edf.fr/en/sitemap.xml
+Sitemap: https://particulier.edf.fr/fr/accueil/guide-energie/sitemap.xml
+Sitemap: https://particulier.edf.fr/fr/accueil/economies-d-energie/sitemap.xml
+Sitemap: https://particulier.edf.fr/fr/accueil/economies-d-energie/rdp_sitemap_partner.xml

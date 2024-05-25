@@ -1,0 +1,17 @@
+User-agent: Bingbot
+Disallow: /
+User-agent: Slurp
+Disallow: /
+User-agent: *
+Allow: /
+Disallow: /index/showNewsCommentList
+Disallow: /search.action
+Disallow: /dwr
+Disallow: /newsearch.action?keywords=
+Disallow: /newscomment
+Disallow: /company/magazine/
+Disallow: /indexnew/
+Disallow: /indexold/
+Disallow: /industry/
+Disallow: /*?*
+Disallow: /?*

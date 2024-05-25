@@ -1,0 +1,56 @@
+User-agent: *
+
+Disallow: /*/comments-*
+Disallow: /*/print/
+Disallow: /*SIT*
+Disallow: /*.swf
+Disallow: /printpage/
+Disallow: /double-rainbow
+Disallow: /double-rainbow/
+Disallow: /*-simplify/*
+Disallow: /it-test-only/
+Disallow: /enewsletters/
+Disallow: /search?q=*
+Disallow: */rss$
+Disallow: */rss2/$
+Disallow: */feed$
+Disallow: /*/coupons/visit/*
+Disallow: /app-route/
+Disallow: /app/
+
+Sitemap: https://www.news.com.au/sitemap.xml
+Sitemap: https://www.news.com.au/news-sitemap.xml
+Sitemap: https://www.news.com.au/coupons/sitemap.xml
+Sitemap: https://www.news.com.au/video-sitemap.xml
+
+#Agent Specific Disallowed Sections
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: CCBot
+Disallow: / 
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User 
+Allow: /
+
+User-agent: anthropic-ai 
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: / 
+
+User-agent: ia_archiver 
+Disallow: / 
+
+User-agent: MJ12bot 
+Disallow: / 
+
+User-agent: PiplBot
+Disallow: / 
+
+User-agent: Google-Extended
+Disallow: /

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /~gitbook/
+Allow: /
+Sitemap: https://doc.transport.data.gouv.fr/sitemap.xml

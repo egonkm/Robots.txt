@@ -1,0 +1,11 @@
+
+Sitemap: https://www.hrc.org/sitemap.xml
+
+
+User-agent: *
+Disallow: /cpresources/
+Disallow: /corporate-downloads/
+Disallow: /corporate-downloads/privacy/
+Disallow: /corporate-downloads/partners/
+
+    

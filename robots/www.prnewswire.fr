@@ -1,0 +1,1286 @@
+ <!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon" href="/content/dam/prnewswire/icons/2019-Q4-PRN-Icon-32-32.png" type="image/png" />
+<meta name="adobeLaunchScript" content="//assets.adobedtm.com/launch-ENb957f6e7383d4549b191e1190ed5476e.min" />
+<meta name="optanonhelper" content="us-prod" />
+<link rel="stylesheet" href="/etc.clientlibs/prncom/clientlibs/clientlibs-common.min.css" type="text/css">
+<meta name="description" />
+<title>PR Newswire France | Dernieres actualites</title>
+<meta name="msvalidate.01" content="9D28F7743C790DD88F2D9C7375EF7ED5" />
+<meta name="p:domain_verify" content="7d052ac42aa9e7505635404745861994" />
+<meta name="referrer" content="unsafe-url" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="author" content />
+<meta name="cf_entity_thumbnail_url" value="https://www.prnewswire.com/content/dam/prnewswire/common/logo-prn-01_PRN.gif" content />
+<meta name="google-site-verification" content="xDAXH-iSoJ2LVjsJb88HI03rnWfjQ3sQcczI4-EGotQ" />
+<meta name="naver-site-verification" content="0aaad19c909a94c1b1cf1e782a10f0a6d8e14fc0" />
+<meta name="keywords" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@PRNewswire" />
+<meta name="twitter:title" content="PR Newswire France | Dernieres actualites" />
+<meta name="twitter:description" content="PR Newswire France | Dernieres actualites" />
+<meta name="twitter:image" content="https://www.prnewswire.com/content/dam/prnewswire/common/prn_twitter_sharing_logo.png" />
+<meta property="og:title" content="PR Newswire France | Dernieres actualites" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="PR Newswire France | Dernieres actualites" />
+<meta property="og:image" content="https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg" />
+<meta property="og:url" content="https://www.prnewswire.com/fr/communiques-de-presse/" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://www.prnewswire.com/fr/communiques-de-presse/" />
+<link rel="next" href="https://www.prnewswire.com/fr/communiques-de-presse/?page=2" />
+
+</head>
+<body class="prncom prncom_international prncom_international_index international-home-page news blue-theme">
+<div class="page-wrap">
+<div>
+<header class="main-header visible-lg-block prnewswire">
+<section class="nav-junior">
+<div class="container">
+<nav class="navbar navbar-junior" aria-label="primary">
+<div>
+<ul class="nav navbar-nav">
+<li>
+<a href="/home/" target="_self">Retour aux sites internationaux</a>
+</li> </ul>
+<ul class="nav navbar-nav navbar-right"> <li>
+<a target="_self">+33 (0) 1 49 25 70 00</a>
+</li> <li>
+<a href="https://gdpr.cision.fr" target="_blank">RGPD</a>
+</li> <li>
+<a href="https://prnmedia.prnewswire.com/" target="_blank">Journalistes</a>
+</li>
+<li class="bg-brand-secondary ">
+<a href="/fr/nous-contacter/" target="_blank">Demander plus d&#39;informations</a>
+</li> </ul>
+</div>
+</nav>
+</div>
+</section>
+<section class="nav-main">
+<div class="container">
+<nav class="navbar navbar-default" aria-label="secondary">
+<div class="navbar-header">
+<a class="navbar-brand" href="/" target="_self">
+<img class="img-responsive " src="/content/dam/prnewswire/homepage/prn_cision_logo_desktop.png" title="PR Newswire: news distribution, targeting and monitoring" alt="PR Newswire: news distribution, targeting and monitoring" loading="lazy" onerror="this.onerror=null; this.src=''" />
+</a>
+</div>
+<div>
+<ul class="nav navbar-nav">
+<li class="dropdown" id="news">
+<a href="/fr/communiques-de-presse/" target="_self" data-subnav="news">Actualités</a>
+</li>
+<li class="dropdown" id="products">
+<a href="/fr/produits/" target="_self" data-subnav="products">Produits</a>
+</li>
+<li class="dropdown" id="contact">
+<a href="/fr/nous-contacter/" target="_self" data-subnav="contact">Contact</a>
+</li>
+</ul>
+</div>
+<div>
+</div>
+</nav>
+</div>
+</section>
+</header>
+<nav class="header-mobile navbar navbar-default navbar-fixed-top mm-slideout prnewswire">
+<div class="container-fluid">
+<ul class="nav navbar-nav navbar-left">
+<li>
+<a class="nav-mobile-button" href="#nav-mobile" aria-label="Hamburger menu">
+<span aria-hidden="true">
+<i class="btr bt-bars"></i>
+</span>
+</a>
+</li>
+<li>
+<a class="navbar-brand" href="/home" target="_self">
+<img class="img-responsive " src="/content/dam/prnewswire/homepage/prn_cision_logo_mobile.png" title="PR Newswire: news distribution, targeting and monitoring" alt="PR Newswire: news distribution, targeting and monitoring" />
+</a>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right"><li class="bg-brand-secondary hidden-xs">
+<a class="btn-sar" href="https://portal.prnewswire.com" target="_blank"><span>Demander plus d&#39;informations</span></a>
+</li><li class="hidden-xs">
+<a href="/contact-us/">
+<span aria-hidden="true">
+<i class="btr bt-phone"></i>
+</span>
+</a>
+</li>
+<li class="dropdown visible-xs">
+<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-label="telephone">
+<span aria-hidden="true">
+<i class="btr bt-phone"></i>
+</span>
+</a>
+<ul class="dropdown-menu contact">
+<li class="hidden-xs">
+<p>Téléphone</p>
+</li>
+<li class="hidden-xs">
+<a href="javascript:void(0)" class="omniture-sticky-menu">
+<p>
+<i class="btr bt-phone"></i> +33 180492878 de 8 AM - 5 PM GMT
+</p>
+</a>
+</li>
+<li><a href="/fr/nous-contacter/" class="btn btn-primary btn-nav-cta hidden-xs omniture-sticky-menu">Nous contacter</a></li>
+<li class="row visible-xs">
+<div class="col-xs-5 col-vcenter">
+<p class="text-center">
+<a class="omniture-sticky-menu" href="/fr/nous-contacter/">Nous contacter</a>
+</p>
+</div>
+<div class="col-xs-6 col-vcenter">
+<p class="text-center">
+<a href="tel:+1-888-776-0942" class="omniture-sticky-menu"> +33 180492878</a>
+<br/>
+<span class="text-muted small">de 8 AM - 5 PM GMT</span>
+</p>
+</div>
+</li>
+</ul>
+</li>
+
+</ul>
+</div>
+</nav>
+<nav id="nav-mobile" role="navigation" aria-labelledby="Menu" aria-label="Mobile menu">
+<div id="mm-panel-default" class="Panel">
+<ul id="mm-default">
+<li class="mm-footer">
+<a href="/fr/nous-contacter/" target="_self">Demander plus d&#39;informations</a>
+</li>
+<li class="mm-footer">
+<a href="https://prnmedia.prnewswire.com/" target="_blank">Journalistes</a>
+</li>
+<li class="mm-footer">
+<a href="https://gdpr.cision.fr/" target="_blank">RGPD</a>
+</li>
+
+<li class="mm-footer mm-social">
+<a aria-label="Visit our social media page on Twitter" href="https://twitter.com/PRNEurope" target="_blank">
+<i class="fab fab-twitter"></i>
+</a>
+<a aria-label="Visit our social media page on Facebook" href="https://www.facebook.com/pages/PR-Newswire/26247320522" target="_blank">
+<i class="fab fab-facebook-alt"></i>
+</a>
+<a aria-label="Visit our social media page on LinkedIn" href="https://www.linkedin.com/company/3785733?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3785733%2Cidx%3A2-3-6%2CtarId%3A1478617336639%2Ctas%3Apr%20newswire" target="_blank">
+<i class="fab fab-linkedin-alt"></i>
+</a>
+</li>
+</ul>
+</div>
+<div id="mm-panel-actualités" class="Panel parent-panel">
+<ul id="mm-actualités" role="tabpanel" data-section="Actualités">
+<li class="mm-footer">
+<a href="/fr/nous-contacter/" target="self">Demander plus d&#39;informations</a>
+</li>
+<li class="mm-footer">
+<a href="https://prnmedia.prnewswire.com/" target="self">Journalistes</a>
+</li>
+<li class="mm-footer">
+<a href="https://gdpr.cision.fr/" target="self">RGPD</a>
+</li>
+<li class="mm-footer mm-social">
+<a aria-label="Visit our social media page on Twitter" href="https://twitter.com/PRNEurope" target="self">
+<i class="fab fab-twitter"></i>
+</a>
+<a aria-label="Visit our social media page on Facebook" href="https://www.facebook.com/pages/PR-Newswire/26247320522" target="self">
+<i class="fab fab-facebook-alt"></i>
+</a>
+<a aria-label="Visit our social media page on LinkedIn" href="https://www.linkedin.com/company/3785733?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3785733%2Cidx%3A2-3-6%2CtarId%3A1478617336639%2Ctas%3Apr%20newswire" target="self">
+<i class="fab fab-linkedin-alt"></i>
+</a>
+</li>
+</ul>
+</div>
+<input type="hidden" class="mobile-nav-tabs" value="Actualités" data-link="/fr/communiques-de-presse/" />
+<div id="mm-panel-produits" class="Panel parent-panel">
+<ul id="mm-produits" role="tabpanel" data-section="Produits">
+<li class="mm-footer">
+<a href="/fr/nous-contacter/" target="self">Demander plus d&#39;informations</a>
+</li>
+<li class="mm-footer">
+<a href="https://prnmedia.prnewswire.com/" target="self">Journalistes</a>
+</li>
+<li class="mm-footer">
+<a href="https://gdpr.cision.fr/" target="self">RGPD</a>
+</li>
+<li class="mm-footer mm-social">
+<a aria-label="Visit our social media page on Twitter" href="https://twitter.com/PRNEurope" target="self">
+<i class="fab fab-twitter"></i>
+</a>
+<a aria-label="Visit our social media page on Facebook" href="https://www.facebook.com/pages/PR-Newswire/26247320522" target="self">
+<i class="fab fab-facebook-alt"></i>
+</a>
+<a aria-label="Visit our social media page on LinkedIn" href="https://www.linkedin.com/company/3785733?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3785733%2Cidx%3A2-3-6%2CtarId%3A1478617336639%2Ctas%3Apr%20newswire" target="self">
+<i class="fab fab-linkedin-alt"></i>
+</a>
+</li>
+</ul>
+</div>
+<input type="hidden" class="mobile-nav-tabs" value="Produits" data-link="/fr/produits/" />
+<div id="mm-panel-contact" class="Panel parent-panel">
+<ul id="mm-contact" role="tabpanel" data-section="Contact">
+<li class="mm_selected">
+<a target="_self"></a>
+</li>
+<li class="mm-footer">
+<a href="/fr/nous-contacter/" target="self">Demander plus d&#39;informations</a>
+</li>
+<li class="mm-footer">
+<a href="https://prnmedia.prnewswire.com/" target="self">Journalistes</a>
+</li>
+<li class="mm-footer">
+<a href="https://gdpr.cision.fr/" target="self">RGPD</a>
+</li>
+<li class="mm-footer mm-social">
+<a aria-label="Visit our social media page on Twitter" href="https://twitter.com/PRNEurope" target="self">
+<i class="fab fab-twitter"></i>
+</a>
+<a aria-label="Visit our social media page on Facebook" href="https://www.facebook.com/pages/PR-Newswire/26247320522" target="self">
+<i class="fab fab-facebook-alt"></i>
+</a>
+<a aria-label="Visit our social media page on LinkedIn" href="https://www.linkedin.com/company/3785733?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3785733%2Cidx%3A2-3-6%2CtarId%3A1478617336639%2Ctas%3Apr%20newswire" target="self">
+<i class="fab fab-linkedin-alt"></i>
+</a>
+</li>
+</ul>
+</div>
+<input type="hidden" class="mobile-nav-tabs" value="Contact" data-link="/fr/nous-contacter/" />
+</nav>
+</div>
+<main role="main" id="main" tabindex="-1" class="international-home-page">
+<section class="jumbotron jumbotron--parent mb-xxl ">
+<figure>
+<div class="jumbo-image overlay__image">
+<img src="/content/dam/prnewswire/products/product-details/country/detailimages/hero_home_color.jpg" title="RÉALISEZ VOS OBJECTIFS DE COMMUNICATION" class alt loading="lazy" />
+<div class="overlay__color overlay__color_brand-gradient"></div>
+</div>
+</figure>
+<div class="jumbotron jumbotron__child">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="jumbo-content">
+<h1>RÉALISEZ VOS OBJECTIFS DE COMMUNICATION</h1>
+<p class="hidden-xs">Avec les solutions de PR Newswire qui ont remporté des prix et le plus grand réseau de distribution du secteur</p>
+<a href="/fr/nous-contacter/" id="bannerButton" class="btn btn-lg btn-hero omniture-hero-button" target="_self">NOUS CONTACTER</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="container">
+<input type="hidden" id="calDate" />
+<div class="jump-to form-inline">
+<form>
+<label for="release-date">Aller vers les<span> communiqués de presse</span>:</label>
+<div class="form-group ab-date-picker-input">
+<input class="date form-control" id="date" type="text" readonly value="25/05/2024" />
+</div>
+<div class="form-group">
+<select class="selectpicker" data-style="btn-default" id="prnCalendar" data-width="fit">
+<option>00:00</option>
+<option>01:00</option>
+<option>02:00</option>
+<option>03:00</option>
+<option>04:00</option>
+<option>05:00</option>
+<option>06:00</option>
+<option>07:00</option>
+<option>08:00</option>
+<option>09:00</option>
+<option>10:00</option>
+<option>11:00</option>
+<option>12:00</option>
+<option>13:00</option>
+<option>14:00</option>
+<option>15:00</option>
+<option>16:00</option>
+<option>17:00</option>
+<option>18:00</option>
+<option>19:00</option>
+<option>20:00</option>
+<option>21:00</option>
+<option>22:00</option>
+<option>23:00</option>
+</select>
+</div>
+<button class="btn btn-info" id="GoButton">Aller sur</button>
+</form>
+</div>
+<div class="filters">
+<select class="filter-selector selectpicker show-tick" id="perPage1" data-style="btn-link" data-width="fit" data-totallist="1145">
+<option value="25">25 par page</option>
+<option value="50">50 par page</option>
+<option value="75">75 par page</option>
+<option value="100">100 par page</option>
+</select>
+</div>
+</section>
+<section class="container">
+<div class="row">
+<div class="col-md-8 col-sm-8 ">
+<div class="card-list card-list-hr nativo-section">
+<h2 class="section-header">Dernières actualités
+<small></small>
+</h2>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/cathy-collart-geiger-ex-pdg-de-picard-surgeles-rejoint-ladvisory-board-du-cabinet-international-pricingone-302155117.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2421563/PricingOne_Logo.jpg?p=thumbnail" alt="Cathy Collart Geiger, ex-PDG de Picard Surgelés, rejoint l&#39;Advisory Board du cabinet international PricingOne" title="Cathy Collart Geiger, ex-PDG de Picard Surgelés, rejoint l'Advisory Board du cabinet international PricingOne" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>24 mai, 2024, 10:45 GMT</small>
+Cathy Collart Geiger, ex-PDG de Picard Surgelés, rejoint l'Advisory Board du cabinet international PricingOne
+</h3>
+<p class="remove-outline">Cathy Collart Geiger, ancienne PDG de l'entreprise Picard Surgelés, intègre l'Advisory Board de PricingOne, cabinet de conseil stratégique en...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/le-cabinet-de-conseil-headmind-partners-specialise-en-data-ia--cybersecurite-se-dote-dun-nouveau-conseil-dadministration-associant-entrepreneurs-experimentes-et-universitaires-de-renom-302154627.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2420988/HEADMIND_PARTNERS_Logo.jpg?p=thumbnail" alt="Le cabinet de conseil HEADMIND PARTNERS, spécialisé en data, IA &amp;amp; Cybersécurité, se dote d&#39;un nouveau Conseil d&#39;Administration, associant entrepreneurs expérimentés et universitaires de renom." title="Le cabinet de conseil HEADMIND PARTNERS, spécialisé en data, IA &amp; Cybersécurité, se dote d'un nouveau Conseil d'Administration, associant entrepreneurs expérimentés et universitaires de renom." loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>24 mai, 2024, 07:30 GMT</small>
+Le cabinet de conseil HEADMIND PARTNERS, spécialisé en data, IA &amp; Cybersécurité, se dote d'un nouveau Conseil d'Administration, associant entrepreneurs expérimentés et universitaires de renom.
+</h3>
+<p class="remove-outline">Fort de l'accélération des enjeux de Cybersécurité et d'Intelligence Artificielle dans les organisations, HeadMind Partners affiche son expertise...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/decouvrez-les-nouveaux-espaces--famille--sur-le-theme-des-gommes-avec-parkroyal-collection-marina-bay-singapore-et-son-offre--au-pays-des-gnomes--302154965.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2410748/The_Gnome_s_Burrow_PARKROYAL_COLLECTION_Marina_Bay_Singapore.jpg?p=thumbnail" alt="DÉCOUVREZ LES NOUVEAUX ESPACES « FAMILLE » SUR LE THÈME DES GOMMES AVEC PARKROYAL COLLECTION MARINA BAY, SINGAPORE, ET SON OFFRE « AU PAYS DES GNOMES »" title="DÉCOUVREZ LES NOUVEAUX ESPACES « FAMILLE » SUR LE THÈME DES GOMMES AVEC PARKROYAL COLLECTION MARINA BAY, SINGAPORE, ET SON OFFRE « AU PAYS DES GNOMES »" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>24 mai, 2024, 04:23 GMT</small>
+DÉCOUVREZ LES NOUVEAUX ESPACES « FAMILLE » SUR LE THÈME DES GOMMES AVEC PARKROYAL COLLECTION MARINA BAY, SINGAPORE, ET SON OFFRE « AU PAYS DES GNOMES »
+</h3>
+<p class="remove-outline">PARKROYAL COLLECTION Marina Bay, Singapore, est ravi de présenter deux espaces « Famille » sur le thème des gnomes. Les gnomes ont été choisis comme...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/tan-xuguang--promouvoir-activement-la-cooperation-strategique-avec-des-entreprises-de-classe-mondiale-dans-lindustrie--302154962.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2421303/image_5030058_9062673.jpg?p=thumbnail" alt="Tan Xuguang : Promouvoir activement la coopération stratégique avec des entreprises de classe mondiale dans l&#39;industrie !" title="Tan Xuguang : Promouvoir activement la coopération stratégique avec des entreprises de classe mondiale dans l'industrie !" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>24 mai, 2024, 04:14 GMT</small>
+Tan Xuguang : Promouvoir activement la coopération stratégique avec des entreprises de classe mondiale dans l'industrie !
+</h3>
+<p class="remove-outline">Du 22 au 23 mai 2024, heure locale en Allemagne, Tan Xuguang a dirigé une équipe à Munich pour effectuer une visite d'investigation avec TÜV...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="col-sm-12 card">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/barilla-et-plug-and-play-a-la-recherche-didees-et-de-talents-pour-lavenir-de-lalimentation--candidatures-ouvertes-pour-le-programme-good-food-makers-2024-302154521.html">
+<h3 class="no-top-margin remove-outline">
+<small>23 mai, 2024, 16:59 GMT</small>
+Barilla et Plug and Play à la recherche d'idées et de talents pour l'avenir de l'alimentation : candidatures ouvertes pour le programme Good Food Makers 2024
+</h3>
+<p class="remove-outline">Les candidatures sont désormais ouvertes pour la sixième édition du Good Food Makers, le programme mondial d'innovation de Barilla destiné aux...</p>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="col-sm-12 card">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/desec--chihuahua-city-un-nouvel-aimant-dinvestissement-en-raison-de-la-proximite-dans-le-nord-du-mexique-302154445.html">
+<h3 class="no-top-margin remove-outline">
+<small>23 mai, 2024, 16:06 GMT</small>
+DESEC : Chihuahua City, un nouvel aimant d'investissement en raison de la proximité dans le nord du Mexique
+</h3>
+<p class="remove-outline">Dans le contexte du &quot;rapprochement&quot; ou de la relocalisation d'entreprises, l'État de la capitale de Chihuahua vise à devenir l'une des villes les...</p>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/generali-real-estate-accelere-linnovation-assistee-par-lia-en-sappuyant-sur-des-donnees-de-confiance-fournies-par-precisely-302154189.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail video">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2420580/Precisely_1.mp4?p=thumbnail" alt="Generali Real Estate accélère l&#39;innovation assistée par l&#39;IA en s&#39;appuyant sur des données de confiance fournies par Precisely" title="Generali Real Estate accélère l'innovation assistée par l'IA en s'appuyant sur des données de confiance fournies par Precisely" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>23 mai, 2024, 13:00 GMT</small>
+Generali Real Estate accélère l'innovation assistée par l'IA en s'appuyant sur des données de confiance fournies par Precisely
+</h3>
+<p class="remove-outline">Precisely, le leader mondial de l'intégrité des données, annonce que Generali Real Estate, l'un des principaux gestionnaires d'actifs immobiliers au...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/enygea-expert-en-hygiene-mobile-continue-son-developpement-au-canada-302152905.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2419306/Enygea.jpg?p=thumbnail" alt="Enygea, expert en hygiène mobile continue son développement au Canada" title="Enygea, expert en hygiène mobile continue son développement au Canada" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>23 mai, 2024, 12:30 GMT</small>
+Enygea, expert en hygiène mobile continue son développement au Canada
+</h3>
+<p class="remove-outline">Depuis plus de 30 ans, le groupe Enygea est expert en location de sanitaires mobiles et services associés. Il se développe avec un seul mot d'ordre : ...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/lexposition-speciale-des-peintures-de-la-dynastie-chinoise-des-song-souvre-a-paris-302154171.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2415642/Zhejiang_Provincial_Department_of_Culture_and_Tourism.jpg?p=thumbnail" alt="L&#39;exposition spéciale des peintures de la dynastie chinoise des Song s&#39;ouvre à Paris" title="L'exposition spéciale des peintures de la dynastie chinoise des Song s'ouvre à Paris" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>23 mai, 2024, 11:38 GMT</small>
+L'exposition spéciale des peintures de la dynastie chinoise des Song s'ouvre à Paris
+</h3>
+<p class="remove-outline">Le 13 mai 2024, le Palais de Chaillot à Paris est devenu le lieu d'une exposition spéciale des peintures de la dynastie chinoise des Song, qui font...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/groupe-acheter-louerfr-resultats-annuel-2023-302154090.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/777840/Acheter_louer_fr_Logo.jpg?p=thumbnail" alt="Groupe acheter-louer.fr Résultats annuel 2023" title="Groupe acheter-louer.fr Résultats annuel 2023" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>23 mai, 2024, 10:08 GMT</small>
+Groupe acheter-louer.fr Résultats annuel 2023
+</h3>
+<p class="remove-outline">En milliers d'euros 2023* 2022 Chiffre d'affaires 2 304 3 704 Autres produits d'exploitation 713 898 Produits d'exploitation 3 018 4 601 EBITDA**...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/les-amandes-iberiques-misent-sur-la-france-et-lallemagne-pour-croitre-sur-le-marche-europeen-dans-les-annees-a-venir-avec-comme-points-forts-la-durabilite-et-la-qualite-302153239.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2418540/Spanish_Almond_Board.jpg?p=thumbnail" alt="Les amandes ibériques misent sur la France et l&#39;Allemagne pour croître sur le marché européen dans les années à venir, avec comme points forts la durabilité et la qualité" title="Les amandes ibériques misent sur la France et l'Allemagne pour croître sur le marché européen dans les années à venir, avec comme points forts la durabilité et la qualité" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>23 mai, 2024, 08:00 GMT</small>
+Les amandes ibériques misent sur la France et l'Allemagne pour croître sur le marché européen dans les années à venir, avec comme points forts la durabilité et la qualité
+</h3>
+<p class="remove-outline">Les amandes d'Espagne et du Portugal ont représenté plus de 22 % des importations de ce fruit à coque en Allemagne en 2022, selon les données de...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/tineco-annonce-louverture-de-son-premier-pop-up-store-a-paris-et-presente-sa-derniere-nouveaute--302153990.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2417879/Tineco_PopUp_PressRelease.jpg?p=thumbnail" alt="Tineco annonce l&#39;ouverture de son premier Pop-up store à Paris et présente sa dernière nouveauté !" title="Tineco annonce l'ouverture de son premier Pop-up store à Paris et présente sa dernière nouveauté !" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>23 mai, 2024, 07:40 GMT</small>
+Tineco annonce l'ouverture de son premier Pop-up store à Paris et présente sa dernière nouveauté !
+</h3>
+<p class="remove-outline">Tineco, le leader mondial de l'innovation en matière de propreté et d'entretien ménager, est fier d'annoncer l'ouverture de son tout premier Pop-up...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/xinhua-silk-road--changzhou-dans-lest-de-la-chine-organise-des-activites-de-promotion-de-la-culture-et-du-tourisme-a-paris-302153432.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2418979/pic.jpg?p=thumbnail" alt="Xinhua Silk Road : Changzhou, dans l&#39;est de la Chine, organise des activités de promotion de la culture et du tourisme à Paris" title="Xinhua Silk Road : Changzhou, dans l'est de la Chine, organise des activités de promotion de la culture et du tourisme à Paris" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>22 mai, 2024, 21:10 GMT</small>
+Xinhua Silk Road : Changzhou, dans l'est de la Chine, organise des activités de promotion de la culture et du tourisme à Paris
+</h3>
+<p class="remove-outline">La ville de Changzhou, dans la province du Jiangsu, dans l'est de la Chine, a récemment organisé une conférence sur la culture et la promotion du...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/envoy-global-nomme-une-nouvelle-directrice-financiere-et-un-nouveau-president-des-services-consulaires-et-des-visas-mondiaux-302153405.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2242075/Envoy_Logo.jpg?p=thumbnail" alt="Envoy Global nomme une nouvelle directrice financière et un nouveau président des services consulaires et des visas mondiaux" title="Envoy Global nomme une nouvelle directrice financière et un nouveau président des services consulaires et des visas mondiaux" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>22 mai, 2024, 20:22 GMT</small>
+Envoy Global nomme une nouvelle directrice financière et un nouveau président des services consulaires et des visas mondiaux
+</h3>
+<p class="remove-outline">Envoy Global, leader technologique dans le domaine de l'immigration mondiale et de la mobilité de la main-d'œuvre, a annoncé l'arrivée de deux...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/transformer-la-sante-hepatique--le-fibroscan-nouvelle-generation-dechosens-est-desormais-disponible-dans-le-monde-entier-302153161.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2370966/Logo_Logo.jpg?p=thumbnail" alt="TRANSFORMER LA SANTÉ HÉPATIQUE : LE FIBROSCAN® NOUVELLE GÉNÉRATION D&#39;ECHOSENS EST DÉSORMAIS DISPONIBLE DANS LE MONDE ENTIER" title="TRANSFORMER LA SANTÉ HÉPATIQUE : LE FIBROSCAN® NOUVELLE GÉNÉRATION D'ECHOSENS EST DÉSORMAIS DISPONIBLE DANS LE MONDE ENTIER" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>22 mai, 2024, 16:39 GMT</small>
+TRANSFORMER LA SANTÉ HÉPATIQUE : LE FIBROSCAN® NOUVELLE GÉNÉRATION D'ECHOSENS EST DÉSORMAIS DISPONIBLE DANS LE MONDE ENTIER
+</h3>
+<p class="remove-outline">Les maladies hépatiques sont aujourd'hui responsables de deux millions de décès par an dans le monde. Ce chiffre devrait augmenter à mesure que les...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/deepl-annonce-un-investissement-de-300-millions-de-dollars-pour-une-valorisation-de-2-milliards-de-dollars-soutenu-par-la-demande-mondiale-en-matiere-dia-linguistique-302153052.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2419636/DeepL_Logo.jpg?p=thumbnail" alt="DeepL annonce un investissement de 300 millions de dollars pour une valorisation de 2 milliards de dollars, soutenu par la demande mondiale en matière d&#39;IA linguistique" title="DeepL annonce un investissement de 300 millions de dollars pour une valorisation de 2 milliards de dollars, soutenu par la demande mondiale en matière d'IA linguistique" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>22 mai, 2024, 15:19 GMT</small>
+DeepL annonce un investissement de 300 millions de dollars pour une valorisation de 2 milliards de dollars, soutenu par la demande mondiale en matière d'IA linguistique
+</h3>
+<p class="remove-outline">Société comptant parmi les leaders dans le domaine de l'IA linguistique, DeepL vient d'annoncer aujourd'hui un investissement de 300 millions de...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/g2acom-sassocie-a-lattaquant-vedette-robert-lewandowski-302152566.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2418448/G2A_COM_Robert_Lewandowski.jpg?p=thumbnail" alt="G2A.COM s&#39;associe à l&#39;attaquant vedette Robert Lewandowski" title="G2A.COM s'associe à l'attaquant vedette Robert Lewandowski" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>22 mai, 2024, 10:00 GMT</small>
+G2A.COM s'associe à l'attaquant vedette Robert Lewandowski
+</h3>
+<p class="remove-outline">G2A.COM, la plus grande place de marché de divertissement numérique au monde, est heureuse d'annoncer un partenariat à long terme avec la star du...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/crowdworks-ai-la-principale-startup-dia-de-coree-du-sud-participe-a-vivatech-2024-pour-cibler-le-marche-europeen-de-lia-302151855.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/1864372/CW_logo.jpg?p=thumbnail" alt="Crowdworks AI, la principale startup d&#39;IA de Corée du Sud, participe à VIVATECH 2024… pour cibler le marché européen de l&#39;IA" title="Crowdworks AI, la principale startup d'IA de Corée du Sud, participe à VIVATECH 2024… pour cibler le marché européen de l'IA" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>22 mai, 2024, 06:00 GMT</small>
+Crowdworks AI, la principale startup d'IA de Corée du Sud, participe à VIVATECH 2024… pour cibler le marché européen de l'IA
+</h3>
+<p class="remove-outline">Crowdworks AI (KOSDAQ:355390, PDG Kim Woosung) annonce sa participation pour la deuxième année consécutive à VIVATECH 2024, le plus grand événement...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/lavenir-du-commerce-international-est-en-passe-detre-regionalise-restructure-et-detourne-selon-un-rapport-du-dmcc-302151415.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail video">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2417921/DMCC_Future_of_Trade.mp4?p=thumbnail" alt="L&#39;AVENIR DU COMMERCE INTERNATIONAL EST EN PASSE D&#39;ÊTRE RÉGIONALISÉ, RESTRUCTURÉ ET DÉTOURNÉ, SELON UN RAPPORT DU DMCC" title="L'AVENIR DU COMMERCE INTERNATIONAL EST EN PASSE D'ÊTRE RÉGIONALISÉ, RESTRUCTURÉ ET DÉTOURNÉ, SELON UN RAPPORT DU DMCC" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>21 mai, 2024, 12:35 GMT</small>
+L'AVENIR DU COMMERCE INTERNATIONAL EST EN PASSE D'ÊTRE RÉGIONALISÉ, RESTRUCTURÉ ET DÉTOURNÉ, SELON UN RAPPORT DU DMCC
+</h3>
+<p class="remove-outline">La croissance et la résilience du commerce international se maintiendront en 2024 grâce à l'accélération de la régionalisation et à...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/bingx-celebre-son-sixieme-anniversaire-avec-une-strategie-globale-dexpansion-complete-302151215.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2416780/6th_Anni_Expansion_1920x1080.jpg?p=thumbnail" alt="BingX célèbre son sixième anniversaire avec une stratégie globale d&#39;expansion complète" title="BingX célèbre son sixième anniversaire avec une stratégie globale d'expansion complète" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>21 mai, 2024, 09:47 GMT</small>
+BingX célèbre son sixième anniversaire avec une stratégie globale d'expansion complète
+</h3>
+<p class="remove-outline">BingX, une importante plateforme d'échange de cryptomonnaies, a annoncé aujourd'hui sa stratégie ambitieuse d'expansion mondiale &quot;ExpansionX&quot; lors de ...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/deloitte-et-basware-forment-une-alliance-pour-revolutionner-la-facturation-electronique-302149477.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2415908/Basware_Deloitte.jpg?p=thumbnail" alt="Deloitte et Basware forment une alliance pour révolutionner la facturation électronique" title="Deloitte et Basware forment une alliance pour révolutionner la facturation électronique" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>21 mai, 2024, 07:00 GMT</small>
+Deloitte et Basware forment une alliance pour révolutionner la facturation électronique
+</h3>
+<p class="remove-outline">Deloitte et Basware ont récemment dévoilé une alliance visant à renforcer le traitement des factures sans intervention humaine pour leurs clients à...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/quobly-nomme-son-comite-scientifique-302150444.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2417237/1_Quobly_Logo.jpg?p=thumbnail" alt="Quobly nomme son comité scientifique" title="Quobly nomme son comité scientifique" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>21 mai, 2024, 06:00 GMT</small>
+Quobly nomme son comité scientifique
+</h3>
+<p class="remove-outline">Quobly, start up française qui développe un ordinateur quantique universel sans erreurs à base de qubits semiconducteurs dévoile aujourd'hui son...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/fibank-lance-la-nouvelle-carte-exclusive-mastercard-platinum-first-lady-302150412.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2332102/4525446/Fibank.jpg?p=thumbnail" alt="Fibank lance la nouvelle carte exclusive Mastercard Platinum First Lady" title="Fibank lance la nouvelle carte exclusive Mastercard Platinum First Lady" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>20 mai, 2024, 18:09 GMT</small>
+Fibank lance la nouvelle carte exclusive Mastercard Platinum First Lady
+</h3>
+<p class="remove-outline">Fibank, en collaboration avec Mastercard®, a lancé en Bulgarie la nouvelle carte de crédit Mastercard® Platinum First Lady. Cette carte exclusive est ...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/sanya-souligne-le-sixieme-anniversaire-de-letablissement-du-ftp-de-hainan-avec-lengagement-de-stimuler-linfluence-du-tourisme-mondial-302150330.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail video">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2417070/video.mp4?p=thumbnail" alt="Sanya souligne le sixième anniversaire de l&#39;établissement du FTP de Hainan avec l&#39;engagement de stimuler l&#39;influence du tourisme mondial" title="Sanya souligne le sixième anniversaire de l'établissement du FTP de Hainan avec l'engagement de stimuler l'influence du tourisme mondial" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>20 mai, 2024, 16:42 GMT</small>
+Sanya souligne le sixième anniversaire de l'établissement du FTP de Hainan avec l'engagement de stimuler l'influence du tourisme mondial
+</h3>
+<p class="remove-outline">Alors que Sanya marque le sixième anniversaire du port de libre-échange de Hainan (FTP de Hainan), la ville réfléchit à sa croissance importante et...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+<div class="row newsCards" lang="fr">
+<div class="card col-view">
+<a class="newsreleaseconsolidatelink display-outline w-100" href="/fr/communiques-de-presse/-agents-de-voyages---gerard-depardieu-confirme-pour-le-film-du-musicien-non-conformiste-et-entrepreneur-trickster-302150122.html">
+<div class="col-sm-4 col-lg-3 col-xs-12 pull-right card">
+<div class="img-parent-fixed img-thumbnail logo">
+<div class="img-ratio-sizer"></div>
+<div class="img-ratio-element">
+<img src="https://mma.prnewswire.com/media/2417013/Gerard_Depardieu.jpg?p=thumbnail" alt="« Agents de voyages » : Gérard Depardieu confirmé pour le film du musicien non-conformiste et entrepreneur Trickster" title="« Agents de voyages » : Gérard Depardieu confirmé pour le film du musicien non-conformiste et entrepreneur Trickster" loading="lazy" />
+</div>
+</div>
+</div>
+<div class="col-sm-8 col-lg-9 pull-left card">
+<h3>
+<small>20 mai, 2024, 12:45 GMT</small>
+« Agents de voyages » : Gérard Depardieu confirmé pour le film du musicien non-conformiste et entrepreneur Trickster
+</h3>
+<p class="remove-outline">Alors que le 77e Festival de Cannes démarre, le musicien et entrepreneur autrichien Juergen Pichler [alias Trickster] a annoncé la sortie prochaine...</p>
+</div>
+<hr class="visible-xs-block visible-sm-block" />
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="targetComp">
+<div class="row mb-xl">
+<div class="col-sm-12">
+<img class="img-thumbnail" src="/content/dam/prnewswire/products/product-details/country/detailimages/IntWebsiteProduct_Wire.jpg" alt />
+<h3>Distribution</h3>
+<p>Augmentez la collecte des médias et recherchez la visibilité en tirant parti du réseau de distribution des médias le plus grand et le plus fiable au monde</p>
+<a class="btn btn-default btn-block mb-xl" href="/fr/produits/" target="_self">En savoir plus</a>
+</div>
+</div>
+<div class="row mb-xl">
+<div class="col-sm-12">
+<img class="img-thumbnail" src="/content/dam/prnewswire/products/product-details/country/detailimages/IntWebsiteProduct_MNR.jpg" alt />
+<h3>Multimédia</h3>
+<p>Faites ressortir votre histoire et construisez des liens plus étroits avec votre public en faisant la promotion des contenus multimédia</p>
+<a class="btn btn-default btn-block mb-xl" href="/fr/produits/" target="_self">En savoir plus</a>
+</div>
+</div>
+<div class="row mb-xl">
+<div class="col-sm-12">
+<img class="img-thumbnail" src="/content/dam/prnewswire/products/product-details/country/detailimages/IntWebsiteProduct_Cloud.jpg" alt />
+<h3>Cision Communications Cloud™</h3>
+<p>Cision Communications Cloud™ offre une plateforme sophistiquée et facile à utiliser afin d’atteindre de pertinents influenceurs des médias et de concevoir des campagnes percutantes</p>
+<a class="btn btn-default btn-block mb-xl" href="/fr/produits/" target="_self">En savoir plus</a>
+</div>
+</div>
+<div class="row mb-xl">
+<div class="col-sm-12">
+<img class="img-thumbnail" src="/content/dam/prnewswire/products/product-details/country/detailimages/IntWebsiteProduct_Monitor.jpg" alt />
+<h3>Surveillance</h3>
+<p>Surveillez ce qui se dit sur votre marque, vos concurrents et l’industrie à travers les multiples canaux en ligne, sociaux, imprimés et de diffusion</p>
+<a class="btn btn-default btn-block mb-xl" href="/fr/produits/" target="_self">En savoir plus</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="toolbar-container">
+<div class="pagination-bar">
+<div class="page-list pull-right">
+<nav>
+<ul class="pagination">
+<li class="disabled">
+<a aria-label="Previous">
+<span aria-hidden="true">&laquo;</span>
+</a>
+</li>
+<li class="active">
+<a href="?page=1&pagesize=25">1</a>
+</li>
+<li>
+<a href="?page=2&pagesize=25">2</a>
+</li>
+<li>
+<a href="?page=3&pagesize=25">3</a>
+</li>
+<li>
+<a href="?page=4&pagesize=25">4</a>
+</li>
+<li>
+<a href="?page=5&pagesize=25">5</a>
+</li>
+<li>
+<a aria-label="Next" href="?page=2&pagesize=25">
+<span aria-hidden="true">&raquo;</span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="quantity form-inline pull-right perpage-list">
+<select class="filter-selector selectpicker show-tick" id="perPageBottom1" data-style="btn-link" data-width="fit" data-totallist="1145">
+<option value="25">25 par page</option>
+<option value="50">50 par page</option>
+<option value="75">75 par page</option>
+<option value="100">100 par page</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<input type="hidden" id="currentSiteLanguage" name="siteLanguage" value="fr" />
+</main>
+<input type="hidden" value="/etc.clientlibs/prncom/clientlibs/clientlibs-common/resources/js/page.intl.homepage.js" id="jsFileName" />
+<div>
+<footer id="js-footer">
+<section class="main-footer">
+<div class="container">
+<div class="row">
+<div class="col-sm-3 col-xs-6">
+<div class="footerContact">
+<div class="footer-head hidden-xs ">
+<h2 class="omniture-footer-main">Contactez Nous</h2>
+</div>
+<ul class="footer-contact">
+<li>
+<div class="pull-left">
+<span aria-hidden="true" class="btr bt-mobile bt-lg hidden-xs"></span>
+</div>
+<div class="footer-num ">
+<a href="tel:+33%20(0)%201%2049%2025%2070%2000">+33 (0) 1 49 25 70 00</a></br>
+de 09h00 à 18h00
+</div>
+</li>
+<li><a class="chatLink" href="javascript://Chat" style="display: none;" id="chatLinkFooter"></a>
+</li>
+</ul>
+<style>
+    .footer-contact li {
+    padding-bottom:10px;
+    display:flex;
+    align-items: center;
+    }
+</style></div>
+<div class="customrte">
+<section class="lead-wrapper text-center">
+<ul class="list-unstyled">
+<li style="text-align: left;">       10 avenue du Stade de France,<br/>
+       93200, Saint-Denis, France<br/>
+       <a href="/cdn-cgi/l/email-protection#a1c8cfc7cec7d3c0cfc2c4e1c2c8d2c8cecf8fc2cecc"><span class="__cf_email__" data-cfemail="30595e565f5642515e535570535943595f5e1e535f5d">[email&#160;protected]</span></a></li>
+</ul>
+</section>
+<style>
+.products footer .lead-wrapper{
+  border:0;
+  padding:0;
+}
+</style>
+</div>
+<div class="footerSocial">
+<div class="social-links hidden-xs">
+<a href="https://twitter.com/PRNEurope" title="Twitter" aria-label="Twitter" target="_blank"><span aria-hidden="true" class="fab fab-twitter"></span></a>
+<a href="https://www.facebook.com/pages/PR-Newswire/26247320522" title="Facebook" aria-label="Facebook" target="_blank"><span aria-hidden="true" class="fab fab-facebook-alt"></span></a>
+<a href="https://www.linkedin.com/company/3785733?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3785733%2Cidx%3A2-3-6%2CtarId%3A1478617336639%2Ctas%3Apr%20newswire" title="LinkedIn" aria-label="LinkedIn" target="_blank"><span aria-hidden="true" class="fab fab-linkedin-alt"></span></a>
+</div></div>
+<div class="ghost">
+</div>
+<div class="hidden-xs">
+</div>
+</div>
+<div class="col-sm-3 hidden-xs">
+<div class="footerList">
+<div class="footer-head">
+<h2>Sites mondiaux</h2>
+</div>
+<ul class="list-unstyled">
+<li>
+<a class="omniture-footer-main" title="APAC" href="https://www.prnewswire.com/apac/" target="_self">APAC</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="APAC - Traditional Chinese" href="https://www.prnewswire.com/apac/zh/" target="_self">APAC - Traditional Chinese</a>
+</li>
+<li>
+<a class="omniture-footer_subsites" title="Asie" href="http://www.prnasia.com/" target="_blank">Asie</a>
+</li>
+<li>
+<a class="omniture-footer_subsites" title="Brésil" href="http://www.prnewswire.com.br/" target="_blank">Brésil</a>
+</li>
+<li>
+<a class="omniture-footer_subsites" title="Canada" href="http://www.newswire.ca/en/" target="_blank">Canada</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Tchèque" href="/cs/tiskova-zprava/" target="_self">Tchèque</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Danemark" href="/da/pressemeddelelser/" target="_self">Danemark</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Finlande" href="/fi/lehdistotiedotteet/" target="_self">Finlande</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="France" href="/fr/communiques-de-presse/" target="_self">France</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Allemagne" href="/de/pressemitteilungen/" target="_self">Allemagne</a>
+</li>
+</ul></div>
+<div class="hidden-xs">
+</div>
+</div>
+<div class="col-sm-3 hidden-xs">
+<div class="footerList">
+<div class="footer-head">
+</div>
+<h2>&nbsp;</h2>
+<ul class="list-unstyled">
+<li>
+<a class="omniture-footer-main" title="Inde" href="/in/news-releases/" target="_self">Inde</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Indonesia" href="https://www.prnewswire.com/id/" target="_self">Indonesia</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Israël" href="/il/news-releases/" target="_self">Israël</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Italie" href="/it/comunicati-stampa/" target="_self">Italie</a>
+</li>
+<li>
+<a class="omniture-footer_subsites" title="Mexique" href="http://www.prnewswire.com.mx/" target="_blank">Mexique</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Middle East" href="/ae/news-releases/" target="_self">Middle East</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Middle East - Arabic" href="/ae/ar/news-releases/" target="_self">Middle East - Arabic</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Pays-Bas" href="/nl/persberichten/" target="_self">Pays-Bas</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Norvège" href="/no/pressemeldinger/" target="_self">Norvège</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Pologne" href="/pl/komunikat-prasowy/" target="_self">Pologne</a>
+</li>
+</ul></div>
+<div class="ghost">
+</div>
+<div class="hidden-xs">
+</div>
+</div>
+<div class="col-sm-3 col-xs-12 hidden-xs">
+<div class="footerList">
+<div class="footer-head">
+</div>
+<h2>&nbsp;</h2>
+<ul class="list-unstyled">
+<li>
+<a class="omniture-footer-main" title="Portugal" href="/pt/comunicados-de-imprensa/" target="_self">Portugal</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Russie" href="/ru/press-releases/" target="_self">Russie</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Slovaquie" href="/sk/tlacova-sprava/" target="_self">Slovaquie</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Espagne" href="/es/comunicados-de-prensa/" target="_self">Espagne</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="Suède" href="/sv/pressmeddelanden/" target="_self">Suède</a>
+</li>
+<li>
+<a class="omniture-footer_subsites" title="Royaume-Uni" href="http://www.prnewswire.co.uk/" target="_blank">Royaume-Uni</a>
+</li>
+<li>
+<a class="omniture-footer-main" title="États Unis" href="https://www.prnewswire.com/" target="_self">États Unis</a>
+</li>
+</ul></div>
+<div>
+</div>
+</div>
+
+<div class="visible-xs col-xs-12 text-center">
+</div>
+<div class="hidden-sm col-xs-6 visible-xs dropup">
+<a href title class="dropdown-toggle icon-toggle mobile-my-services hidden-lg hidden-sm" data-toggle="dropdown" data-icon-toggle="footer-services-dropup">Sites mondiaux <i class="btr bt-angle-up"></i></a>
+<ul class="dropdown-menu">
+<li><a title="Asie" href="http://www.prnasia.com/" rel="nofollow" target="_blank">Asie</a>
+</li>
+<li><a title="Brésil" href="http://www.prnewswire.com.br/" rel="nofollow" target="_blank">Brésil</a>
+</li>
+<li><a title="Canada" href="http://www.newswire.ca/en/" rel="nofollow" target="_blank">Canada</a>
+</li>
+<li><a title="Tchèque" rel="nofollow" target="_self">Tchèque</a>
+</li>
+<li><a title="Danemark" rel="nofollow" target="_self">Danemark</a>
+</li>
+<li><a title="Finlande" rel="nofollow" target="_self">Finlande</a>
+</li>
+<li><a title="France" rel="nofollow" target="_self">France</a>
+</li>
+<li><a title="Allemagne" rel="nofollow" target="_self">Allemagne</a>
+</li>
+<li><a title="Inde" rel="nofollow" target="_self">Inde</a>
+</li>
+<li><a title="Israël" rel="nofollow" target="_self">Israël</a>
+</li>
+<li><a title="Italie" rel="nofollow" target="_self">Italie</a>
+</li>
+<li><a title="Mexique" href="http://www.prnewswire.com.mx/" rel="nofollow" target="_blank">Mexique</a>
+</li>
+<li><a title="Middle East" rel="nofollow" target="_self">Middle East</a>
+</li>
+<li><a title="Pays-Bas" rel="nofollow" target="_self">Pays-Bas</a>
+</li>
+<li><a title="Norvège" rel="nofollow" target="_self">Norvège</a>
+</li>
+<li><a title="Pologne" rel="nofollow" target="_self">Pologne</a>
+</li>
+<li><a title="Portugal" rel="nofollow" target="_self">Portugal</a>
+</li>
+<li><a title="Russie" rel="nofollow" target="_self">Russie</a>
+</li>
+<li><a title="Slovaquie" rel="nofollow" target="_self">Slovaquie</a>
+</li>
+<li><a title="Espagne" rel="nofollow" target="_self">Espagne</a>
+</li>
+<li><a title="Suède" rel="nofollow" target="_self">Suède</a>
+</li>
+<li><a title="Royaume-Uni" href="http://www.prnewswire.co.uk/" rel="nofollow" target="_blank">Royaume-Uni</a>
+</li>
+<li><a title="États Unis" href="https://www.prnewswire.com/" rel="nofollow" target="_self">États Unis</a>
+</li>
+</ul>
+</div>
+<div class="visible-xs col-xs-12 text-center">
+<a href="tel:+33%20(0)%201%2049%2025%2070%2000" title="Contact Us" class="call-mobile hidden-lg hidden-sm">
+<i class="btr bt-mobile bt-lg"></i> +33 (0) 1 49 25 70 00<br/>
+de 09h00 à 18h00
+</a>
+</div>
+
+</div>
+</div>
+</section>
+
+<div>
+<section class="sub-footer">
+<div class="container">
+<div class="row">
+<div class="col-md-9 col-sm-9 col-lg-9 col-xs-12">
+<ul>
+<li><a class="omniture-footer-links" href="/terms-of-use/" title="Terms of Use" target="_self">Terms of Use</a></li>
+<li><a class="omniture-footer-links" href="/privacy-policy/" title="Privacy Policy" target="_self">Privacy Policy</a></li>
+<li><a class="omniture-footer-links" href="/prn-information-security-policy/" title="Information Security Policy" target="_self">Information Security Policy</a></li>
+<li><a class="omniture-footer-links" href="/sitemap/" title="Site Map" target="_self">Site Map</a></li>
+<li><a class="omniture-footer-links" href="/cookie-settings/" title="Cookie Settings" target="_self">Cookie Settings</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-3 col-lg-3 col-xs-12 ">
+<span class="pull-right pull-none-xs">Copyright © 2024 <a title="Cision" href="http://www.cision.com/us/?utm_medium=website&amp;utm_source=prnewswire&amp;utm_content=cishomepage&amp;utm_campaign=prnewswire">Cision</a> US Inc.</span>
+</div>
+</div>
+</div>
+</section>
+</div>
+</footer>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<input type="hidden" id="pageName" value="www.prnewswire.com_PR Newswire France | Dernieres actualites" />
+<input type="hidden" id="channel" value="PRN_PR Newswire France | Dernieres actualites" />
+<input type="hidden" id="prop6" value="PRN_PR Newswire France | Dernieres actualites" />
+<script src="/etc.clientlibs/prncom/clientlibs/clientlibs-common/resources/js/lib/require.js" loading="defer"></script>
+<script src="/etc.clientlibs/prncom/clientlibs/clientlibs-common/resources/js/ticker_model.js" loading="defer"></script>
+<script>
+
+    // Disabled logic option for per page dropdown
+    if($('select.filter-selector[data-totallist]').length > 0 && !$('#advNewsCountID').length > 0){
+        var getTotalcount = Math.ceil($('select.filter-selector[data-totallist]').attr('data-totallist') / 25);
+
+        $('select.filter-selector').each(function(){
+            for (var i = getTotalcount; i < $(this).find('option').length; i++) {
+                $(this).find('option').eq(i).attr('disabled','true')
+            }
+        })
+    }
+    if (document.getElementById("jsFileName")) {
+        var jsFileName =  document.getElementById("jsFileName").value;
+    }
+	var serverJSONObj = '{"partnerID":"1893751","playerID":"33476201","partnerIDAdd":"189375100"}';
+	serverJSONObj = JSON.parse(serverJSONObj);
+    if($('.home-page').length  > 0 && !$('.home-page').hasClass('mycnw-credentials')){
+        requirejs(['/etc.clientlibs/prncom/clientlibs/clientlibs-common/resources/js/main.js'], function (common) {
+            // page specific js
+            if (jsFileName) {
+                requirejs([jsFileName]);
+            }
+        });
+    }else if($('.prncom_news-releases_headline-listing').length  > 0){
+
+         requirejs(['/etc.clientlibs/prncom/clientlibs/clientlibs-common/resources/js/newrelease.js'], function (common) {
+            // page specific js
+            if (jsFileName) {
+                requirejs([jsFileName]);
+            }
+        });
+
+    }else if($('.inline-gallery-template').length  > 0 && $('.static-gallery-template').length > 0){
+
+         requirejs(['/etc.clientlibs/prncom/clientlibs/clientlibs-common/resources/js/template.js'], function (common) {
+            // page specific js
+            if (jsFileName) {
+                requirejs([jsFileName]);
+            }
+        });
+
+    }else{
+        requirejs(['/etc.clientlibs/prncom/clientlibs/clientlibs-common/resources/js/common.js'], function (common) {
+            // page specific js
+            if (jsFileName) {
+                requirejs([jsFileName]);
+            }
+        });
+    }
+</script>
+<script src="/etc.clientlibs/prncom/clientlibs/component-clientlibs.min.js"></script>
+<script src="/etc.clientlibs/prncom/components/global/menu/clientlibs.min.js"></script>
+<link rel="stylesheet" href="/etc.clientlibs/prncom/components/content/rotatingBanner/clientlib.min.css" type="text/css">
+<script src="/etc.clientlibs/prncom/components/content/rotatingBanner/clientlib.min.js"></script>
+<link rel="stylesheet" href="/etc.clientlibs/prncom/components/content/liveUpdates/clientlib.min.css" type="text/css">
+<script src="/etc.clientlibs/prncom/components/content/liveUpdates/clientlib.min.js"></script>
+<a id="liveagent_button_online_573d0000000oLnn" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('573d0000000oLnn')"></a><div id="liveagent_button_offline_573d0000000oLnn" style="display: none;"></div><script type="text/javascript">
+if (!window._laq) { window._laq = []; }
+window._laq.push(function(){liveagent.showWhenOnline('573d0000000oLnn', document.getElementById('liveagent_button_online_573d0000000oLnn'));
+liveagent.showWhenOffline('573d0000000oLnn', document.getElementById('liveagent_button_offline_573d0000000oLnn'));
+});</script>
+</body>
+</html>

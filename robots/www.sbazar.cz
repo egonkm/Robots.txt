@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /readiness
+Disallow: /admin/
+# filtr bazárek + kategorie
+Disallow: /*categoryId=
+
+
+Sitemap: https://www.sbazar.cz/static/sitemaps/sitemap.xml.gz

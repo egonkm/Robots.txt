@@ -1,0 +1,13 @@
+# www.robotstxt.org/
+
+# Sitemaps
+Sitemap: https://foo.com/sitemap.xml
+
+# Don't allow web crawlers to index cpresources/, vendor/, etc.
+User-agent: *
+Disallow: /cpresources/
+Disallow: /vendor/
+Disallow: /.env
+Disallow: /cache/
+Disallow: /index.php/actions/
+Disallow: /esi/

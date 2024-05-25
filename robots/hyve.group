@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cmsctx/
+
+User-agent: *
+
+Sitemap: https://replace.domain/sitemap.xml

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /_api/
+Disallow: /api/v1/
+Disallow: /admin/
+Disallow: /oauth/
+Disallow: /terms
+Disallow: /privacy
+Disallow: /_design
+Sitemap: https://feature-request.scaleway.com/sitemap.xml

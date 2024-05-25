@@ -1,0 +1,4 @@
+User-agent: *
+disallow: /style-guide
+
+Sitemap: https://www.onepercentfortheplanet.org/sitemap.xml

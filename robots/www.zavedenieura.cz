@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cs/vyhledavani
+Disallow: /cs/404
+Disallow: /en/vyhledavani
+Disallow: /en/404
+Sitemap: http://www.zavedenieura.cz/sitemap.xml

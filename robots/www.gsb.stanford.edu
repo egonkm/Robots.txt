@@ -1,0 +1,93 @@
+#
+  # robots.txt - changed
+  #
+  # This file is to prevent the crawling and indexing of certain parts
+  # of your site by web crawlers and spiders run by sites like Yahoo!
+  # and Google. By telling these 'robots' where not to go on your site,
+  # you save bandwidth and server resources.
+  #
+  # This file will be ignored unless it is at the root of your host:
+  # Used:    http://example.com/robots.txt
+  # Ignored: http://example.com/site/robots.txt
+  #
+  # For more information about the robots.txt standard, see:
+  # http://www.robotstxt.org/robotstxt.html
+
+
+  User-agent: MauiBot
+  User-agent: SemrushBot
+  Disallow: /
+
+  User-agent: *
+  Crawl-delay: 10
+
+  # Directories
+  Disallow: /admin/
+  Disallow: /core/
+  Disallow: /file/
+  Disallow: /includes/
+  Disallow: /misc/
+  Disallow: /modules/
+  Disallow: /profiles/
+  Disallow: /scripts/
+  Disallow: /themes/
+
+ # Files
+  Disallow: /*.pdf
+  Disallow: /cron.php
+  Disallow: /install.php
+  Disallow: /core/install.php
+  Disallow: /core/install.php/
+  Disallow: /update.php
+  Disallow: /xmlrpc.php
+
+  # Paths (clean URLs)
+  Disallow: /alumni/contact/alumni-association/about-alumni/
+  Disallow: /alumni/reunions/agenda/
+  Disallow: /authoring/
+  Disallow: /comment/reply/
+  Disallow: /content/
+  Disallow: /email-contact/
+  Disallow: /filter/tips/
+  Disallow: /gsb-cmis/gsb-cmis-download-auth/
+  Disallow: /library/articles/databases/links/
+  Disallow: /library/articles/ejournals/links/
+  Disallow: /library/articles/ebooks/links/
+  Disallow: /node/
+  Disallow: /programs/mba/admission/events/
+  Disallow: /programs/msx/admission/events/
+  Disallow: /programs/phd/admission/events/
+  Disallow: /programs/research-fellows/admission/events/
+  Disallow: /search/
+  Disallow: /seed/coaches-consultants/coaches/
+  Disallow: /sites/gsb/files/program-brochure
+  Disallow: /taxonomy/
+  Disallow: /text-equivalent/
+  Disallow: /user/register/
+  Disallow: /user/password/
+  Disallow: /user/login/
+  Disallow: /user/logout/
+  Disallow: /users/
+  Disallow: /alumni/reunions/*-class-*/*
+  Disallow: /alumni/reunions/all-sloan-msx-classes/*
+  Allow: /alumni/reunions/all-sloan-msx-classes/$
+  Disallow: /alumni/reunions/sep-*-reunion-*/*
+  Allow: /alumni/reunions/sep-*-reunion-*/$
+  Disallow: /alumni/reunions/alumni-day/*-*/*
+  Disallow: /tel:*
+
+  # Paths (no clean URLs)
+  Disallow: /?q=admin/
+  Disallow: /?q=comment/reply/
+  Disallow: /?q=filter/tips/
+  Disallow: /?q=node/add/
+  Disallow: /?q=search/
+  Disallow: /?q=user/password/
+  Disallow: /?q=user/register/
+  Disallow: /?q=user/login/
+  Disallow: /?q=user/logout/
+  Disallow: /testing-new-home-page
+
+  # Disallow Email contact form
+  Disallow:  /email-contact/taxonomy_term
+  Disallow:  /email-contact/node

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /2023r2/
+Disallow: /2023r1/
+Disallow: /2022r3/
+Disallow: /2022r2/
+Disallow: /2022r1/
+Disallow: /2021r2/
+Disallow: /2021r1/
+Disallow: /2020r3/
+Disallow: /2020r2/
+Disallow: /2020r1/

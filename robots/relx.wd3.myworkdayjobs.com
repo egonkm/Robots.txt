@@ -1,0 +1,21 @@
+Sitemap: https://relx.wd3.myworkdayjobs.com/relx/siteMap.xml
+Sitemap: https://relx.wd3.myworkdayjobs.com/ReedExhibitions/siteMap.xml
+Sitemap: https://relx.wd3.myworkdayjobs.com/RiskSolutions/siteMap.xml
+Sitemap: https://relx.wd3.myworkdayjobs.com/ciriumcareers/siteMap.xml
+Sitemap: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/siteMap.xml
+Sitemap: https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/siteMap.xml
+Sitemap: https://relx.wd3.myworkdayjobs.com/Law360/siteMap.xml
+Sitemap: https://relx.wd3.myworkdayjobs.com/Knowable/siteMap.xml
+Sitemap: https://relx.wd3.myworkdayjobs.com/reedtech/siteMap.xml
+
+User-agent: *
+Allow: /relx/
+Allow: /ReedExhibitions/
+Allow: /RiskSolutions/
+Allow: /ciriumcareers/
+Allow: /ElsevierJobs/
+Allow: /LexisNexisLegal/
+Allow: /Law360/
+Allow: /Knowable/
+Allow: /reedtech/
+Disallow: /refreshFacet/

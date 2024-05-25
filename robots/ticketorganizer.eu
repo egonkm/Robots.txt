@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /mtt/
+Disallow: /pay/
+Disallow: /_mtt2/
+Disallow: /_cms2/
+Disallow: /_checkout2/
+Disallow: /_ticketshop2/
+Disallow: /event/fussball-kongress-deutschland
+Disallow: /event/fussball-kongress-sterreich
+Disallow: /event/fussball-kongress-schweiz

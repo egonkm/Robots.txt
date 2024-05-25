@@ -1,0 +1,130 @@
+<html class="aui ltr yui3-js-enabled" dir="ltr" lang="cs-CZ">
+<div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div>
+
+<head>
+    <title>ZÃ¡kladnÃ­ informace - ÄeskÃ¡ sprÃ¡va sociÃ¡lnÃ­ho zabezpeÄenÃ­ - otevÅenÃ¡ data</title>
+    <META content="initial-scale=1.0, width=device-width" name="viewport">
+    <META http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+    <META http-equiv="X-UA-Compatible" content="IE=9; IE=EDGE"> 
+    <META http-equiv="cache-control" content="no-cache">
+    <META http-equiv="pragma" content="no-cache">  
+    <link href="https://data.cssz.cz/data_files/favicon.ico" rel="Shortcut Icon">
+    <link href="https://data.cssz.cz" rel="canonical">
+
+    <link href="https://data.cssz.cz/data_files/style.css" rel="stylesheet" type="text/css">
+    <script src="https://data.cssz.cz/data_files/jquery-2.2.1.min.js" type="text/javascript"></script>
+    <script src="https://data.cssz.cz/data_files/custom.js" type="text/javascript"></script>
+
+</head>
+
+<body class="yui3-skin-sam controls-visible guest-site signed-out public-page site dockbar-split dockbar-ready"> <a href="#main-content" id="skip-to-content">PÅejÃ­t k obsahu</a>
+    <div class="portlet-boundary portlet-boundary_145_ portlet-static portlet-static-end portlet-borderless portlet-dockbar " id="p_p_id_145_"> <span id="p_145"></span>
+        <div class="navbar navbar-static-top dockbar" id="_145_dockbar" data-namespace="_145_">
+            <div class="navbar-inner">
+                <div class="container"> 
+                    <a class="btn btn-navbar" id="_145_navSiteNavigationNavbarBtn" data-navid="_145_navSiteNavigation" tabindex="0" "=" "><i class="icon-reorder "></i></a>
+                    <a class="btn btn-navbar " id="_145_navAccountControlsNavbarBtn " data-navid="_145_navAccountControls " tabindex="0 " "=""></a>
+                    <div class="collapse nav-collapse" id="_145_navSiteNavigationNavbarCollapse">
+                        <ul aria-label="LiÅ¡ta" class="nav nav-navigation" id="_145_navSiteNavigation" role="menubar"> </ul>
+                    </div>
+                    <div class="collapse nav-collapse" id="_145_navAccountControlsNavbarCollapse">
+                        <ul aria-label="LiÅ¡ta" class="nav nav-account-controls" id="_145_navAccountControls" role="menubar">
+                            <li class="sign-in " id="usla_" role="presentation">
+                               
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="dockbar-messages" id="_145_dockbarMessages">
+            <div class="header"></div>
+            <div class="body"></div>
+            <div class="footer"></div>
+        </div>
+ 
+    </div>
+    <div class="container-fluid" id="wrapper">
+        <header id="banner" role="banner">
+            <div id="heading">
+                <h1 class="site-title"> <a class="logo custom-logo" href="https://data.cssz.cz/web/otevrena-data/zakladni-info" title="ÄeskÃ¡ sprÃ¡va sociÃ¡lnÃ­ho zabezpeÄenÃ­ - otevÅenÃ¡ data "> <img alt="ÄeskÃ¡ sprÃ¡va sociÃ¡lnÃ­ho zabezpeÄenÃ­ - otevÅenÃ¡ data" height="83" src="https://data.cssz.cz/data_files/company_logo.png" width="574"> <span class="site-name" title="ÄeskÃ¡ sprÃ¡va sociÃ¡lnÃ­ho zabezpeÄenÃ­ - otevÅenÃ¡ data "> </span> </a> </h1>
+                <h2 class="page-title"> <span>ZÃ¡kladnÃ­ informace</span> </h2>
+                <div class="search-container">
+                    <form action="https://data.cssz.cz/web/otevrena-data/zakladni-info?p_p_id=3&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;_3_struts_action=%2Fsearch%2Fsearch" method="get" name="ctem_null_null_3_fm" onsubmit="ctem_null_null_3_search(); return false;">
+                        <input name="p_p_id" type="hidden" value="3">
+                        <input name="p_p_lifecycle" type="hidden" value="0">
+                        <input name="p_p_state" type="hidden" value="maximized">
+                        <input name="p_p_mode" type="hidden" value="view">
+                        <input name="_3_struts_action" type="hidden" value="/search/search">
+                        <input name="_3_keywords" size="30" title="VyhledÃ¡vÃ¡nÃ­" type="text" value="">
+                        <select name="_3_groupId" title="RÃ¡mec ">
+                            <option value="0" selected="">VÅ¡e</option>
+                            <option value="20181">Tento web</option>
+                        </select>
+                        <input align="absmiddle" border="0" src="https://data.cssz.cz/data_files/search.png" title="VyhledÃ¡vÃ¡nÃ­" type="image"> </form>
+                </div>
+            </div>
+            <nav class="sort-pages modify-pages navbar site-navigation" id="navigation" role="navigation">
+                <div class="navbar-inner" style="background:#F48B5C">
+                    <div class="collapse nav-collapse">
+                        <ul aria-label="StrÃ¡nky webu" class="nav nav-collapse" role="menubar" id="yui_patched_v3_11_0_1_1456993223342_145">
+                            <li class="lfr-nav-item selected active" id="layout_27" aria-selected="true" role="presentation">
+                                <a aria-labelledby="layout_27" class="" href="https://data.cssz.cz/zakladni-info" role="menuitem" style="background:#006225;border: 1px solid #006225" tabindex="0" id="yui_patched_v3_11_0_1_1456993223342_164"> <span style="background:#006225;color:#FFFFFF;font-weight:bold" id="yui_patched_v3_11_0_1_1456993223342_198"> ZÃ¡kladnÃ­ informace </span> </a>
+                            </li>
+                            <li class="lfr-nav-item" id="layout_28" role="presentation">
+                                <a aria-labelledby="layout_28" class="" href="https://data.cssz.cz/katalog-otevrenych-dat" role="menuitem" style="background:#FFFFFF;border: 1px solid #F48B5C" tabindex="-1" id="yui_patched_v3_11_0_1_1456993223342_166"> <span style="color:#006225;font-weight:bold;background:#FFFFFF"> Katalog otevÅenÃ½ch dat </span> </a>
+                            </li>
+                            <li class="lfr-nav-item" id="layout_3" role="presentation">
+                                <a aria-labelledby="layout_3" class="" href="https://data.cssz.cz/podminky-uziti" role="menuitem" style="background:#FFFFFF;border: 1px solid #F48B5C" tabindex="-1" id="yui_patched_v3_11_0_1_1456993223342_168"> <span style="color:#006225;font-weight:bold;background:#FFFFFF" id="yui_patched_v3_11_0_1_1456993223342_194"> PodmÃ­nky uÅ¾itÃ­ </span> </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+           
+        </header>
+       
+
+
+
+
+        <div id="content">
+            <div class="columns-1" id="main-content" role="main">
+                <div class="portlet-layout row-fluid">
+                    <div class="portlet-column portlet-column-only span12" id="column-1">
+                        <div class="portlet-dropzone portlet-column-content portlet-column-content-only" id="layout-column_column-1">
+                            <div class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_m5J6HeAylhM2_"> <span id="p_56_INSTANCE_m5J6HeAylhM2"></span>
+                                <div class="portlet-borderless-container" style="">
+                                    <div class="portlet-body">
+                                      <h1 class="portlet-title"> 
+                                        <span>PoÅ¾adovanÃ½ zdroj nebyl nalezen.</span> 
+                                      </h1> 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <footer id="footer" role="contentinfo">
+            <div class="footer-menu">
+                <ul>
+                    <li class="first"><a href="https://data.cssz.cz/nejcastejsi-dotazy">NejÄastÄjÅ¡Ã­ dotazy</a></li>
+                    <li><a href="https://data.cssz.cz/prohlaseni-o-pristupnosti">ProhlÃ¡Å¡enÃ­ o pÅÃ­stupnosti</a></li>
+                    <li><a href="http://www.cssz.cz/cz/e-podani/zakladni-informace/call-centrum-technicke-pomoci-ceske-spravy-socialniho-zabezpeceni.htm" target="_blank">TechnickÃ¡ pomoc</a></li>
+                    <li class="last"><a href="http://www.cssz.cz" target="_blank">Provozovatel ÄSSZ</a></li>
+                </ul>
+            </div>
+            <div class="footer-right">
+                <div id="copyright"> <a href="http://www.cssz.cz" target="_blank">ÄeskÃ¡ sprÃ¡va sociÃ¡lnÃ­ho zabezpeÄenÃ­ Â© 2016</a> </div>
+            </div>
+        </footer>
+    </div>
+   
+</body>
+
+</html>

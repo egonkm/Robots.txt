@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /refer/
+Disallow: /(popup:*
+Disallow: /account*
+Sitemap: https://today.yougov.com/sitemap.xml
+Sitemap: https://today.yougov.com/sitemap-rankings.xml
+Sitemap: https://today.yougov.com/sitemap-rated-entities.xml
+Sitemap: https://today.yougov.com/sitemap-topic-entities.xml

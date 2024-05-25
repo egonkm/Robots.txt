@@ -1,0 +1,10 @@
+User-Agent: *
+  Disallow: /search
+  Disallow: /content/*
+  Disallow: /stream/*
+  Disallow: /top/*
+  Disallow: /author/*
+  Disallow: *?*=*
+  Sitemap: https://www.investorschronicle.co.uk/sitemap.xml/
+  User-agent: GPTBot
+  Disallow: /

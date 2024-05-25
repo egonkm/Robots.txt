@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /content
+Disallow: /kirby
+Disallow: /panel
+Disallow: /login
+
+Sitemap: https://unserrechtsstaat.de/sitemap.xml

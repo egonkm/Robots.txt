@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https:/clarity.design/sitemap.xml
+Host: https://clarity.design

@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /index.php/admin
+Disallow: /index.php/administrator
+Disallow: /login/
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wordpress/login/
+Disallow: /wordpress/wp-login.php
+Disallow: /index/user
+Disallow: /user/
+Disallow: /?q=user
+Disallow: /?q=user/login
+Disallow: /administrator/
+Disallow: /en/
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-Agent: AhrefsBot
+Crawl-Delay: 2
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: /sitemap.xml

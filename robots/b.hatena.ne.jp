@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /api/entry/http
+Disallow: /api/entry/info
+Disallow: /api/internal/bookmarks/shares_and_clicks
+Disallow: /api/internal/cambridge/user
+Disallow: /api/related_entries/
+Disallow: /api/users/*/bookmarks
+Disallow: /entry/button/
+Disallow: /entry.count
+Disallow: /entry/image/
+Disallow: /entry/jsonlite
+Disallow: /guide/bbutton?url=*
+Disallow: /-/webextension/*
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: Googlebot
+User-agent: Mediapartners-Google
+Disallow: /api/entry/http
+Disallow: /api/entry/info
+Disallow: /api/internal/bookmarks/shares_and_clicks
+Disallow: /api/internal/cambridge/user
+Disallow: /api/related_entries/
+Disallow: /api/users/*/bookmarks
+Disallow: /entry/button/
+Disallow: /entry.count
+Disallow: /entry/*/comment/*
+Disallow: /entry/image/
+Disallow: /entry/jsonlite
+Disallow: /guide/bbutton?url=*
+Disallow: /-/webextension/*

@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /nginx/browser
+Disallow: /nginx/changeset
+Disallow: /nginx/log
+Disallow: /nginx/export

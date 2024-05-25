@@ -1,0 +1,12 @@
+User-agent: *
+Allow:*
+Disallow: */apps/*
+Disallow: */wbg/services/*
+Disallow: */en/webarchives/archive*
+Disallow: */misc*
+Disallow: */conf/*
+Disallow: */downloadstats/*
+Disallow: */wbg/aem/*
+Disallow: */en/search*
+Disallow: */content/search*
+Sitemap: https://www.worldbank.org/sitemap.xml

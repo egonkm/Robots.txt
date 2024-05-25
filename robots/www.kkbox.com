@@ -1,0 +1,32 @@
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot-News
+Disallow: /
+Allow: /tw/tc/column/
+Allow: /hk/tc/column/
+Allow: /jp/ja/column/
+Allow: /sg/en/column/
+Allow: /sg/sc/column/
+Allow: /my/en/column/
+Allow: /my/sc/column/
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /api_mybox/
+Disallow: /tw/ms/
+Disallow: /hk/ms/
+Disallow: /sg/ms/
+Disallow: /jp/ms/
+Disallow: /my/ms/
+Disallow: /tw/ja/
+Disallow: /hk/ja/
+Disallow: /sg/ja/
+Disallow: /my/ja/
+Disallow: /tw/sc/
+Disallow: /hk/sc/
+Disallow: /jp/sc/
+Disallow: /sg/tc/
+Disallow: /my/tc/
+Disallow: /jp/tc/
+Allow: /

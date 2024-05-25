@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /exhibitorlist22.aspx
+Disallow: /ExhibitorDetails22.aspx
+
+Sitemap:  https://gisec.ae/sitemap.xml

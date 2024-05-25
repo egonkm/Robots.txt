@@ -1,0 +1,19 @@
+# robots.txt for http://www.students.unimelb.edu.au/
+
+User-agent: *
+Disallow:/new-students/get-started/nested-content
+Disallow:/assets
+Allow:  /__data/assets/image/0012/4587591/favicon.png
+Disallow:/library
+Disallow:/privacy-collection-notices
+Disallow:/myuniapps/
+Disallow:/student-support/advice-and-help/stop-1/feedback
+Disallow:/your-course/manage-your-course/planning-your-course-and-subjects/faculty-course-planning-resources/faculty
+Disallow:/mega-menu
+Disallow:/sandbox
+Disallow:/your-course/manage-your-course/fees-and-payments/paying-your-fees/nested-content
+Disallow:/academic-skills/nested-content
+Disallow:/campus-life/sports-and-recreation
+
+User-agent: PowerMapper
+Allow: /

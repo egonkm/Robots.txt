@@ -1,0 +1,104 @@
+# See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+#
+User-agent: mauibot
+Disallow: /
+
+
+User-agent: AhrefsBot
+Disallow: /
+
+
+User-agent: Scoopitbot/1.1
+Disallow: /
+
+
+User-agent: Go-http-client/1.1
+Disallow: /
+
+
+User-agent: SemrushBot
+Disallow: /
+
+
+User-agent: SemrushBot/3~bl
+Disallow: /
+
+
+User-agent: serpstatbot
+Disallow: /
+
+
+User-agent: SEOkicks
+Disallow: /
+
+
+User-agent: Cliqzbot
+Disallow: /
+
+
+User-agent: Neevabot
+Disallow: /
+
+
+User-agent: ltx71
+Disallow: /
+
+
+User-agent: Elastic-Heartbeat
+Disallow: /
+
+
+User-agent: PetalBot
+Disallow: /
+
+
+User-agent: http://seekport.com
+Disallow: /
+
+
+User-agent: DataForSeoBot
+Disallow: /
+
+
+User-agent: Screaming Frog
+Disallow: /
+
+
+User-agent: botify
+Disallow: /
+
+
+User-agent: *
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /assets/browser-update*.js
+Disallow: /email/
+Disallow: /session
+Disallow: /user-api-key
+Disallow: /*?api_key*
+Disallow: /*?*api_key*
+Disallow: /badges
+Disallow: /u/
+Disallow: /my
+Disallow: /search
+Disallow: /tag/*/l
+Disallow: /g
+Disallow: /t/*/*.rss
+Disallow: /c/*.rss
+
+
+User-agent: Googlebot
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /assets/browser-update*.js
+Disallow: /email/
+Disallow: /session
+Disallow: /user-api-key
+Disallow: /*?api_key*
+Disallow: /*?*api_key*
+
+
+
+Sitemap: https://discuss.elastic.co/sitemap.xml
+
+

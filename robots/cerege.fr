@@ -1,0 +1,979 @@
+<!doctype html>
+<html lang="fr-FR" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	
+<!-- Optimisation des moteurs de recherche par Rank Math - https://rankmath.com/ -->
+<title>Page Introuvable - CEREGE</title>
+<meta name="robots" content="follow, noindex"/>
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Page Introuvable - CEREGE" />
+<meta property="og:site_name" content="CEREGE" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page Introuvable - CEREGE" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.cerege.fr/fr/#organization","name":"CEREGE","url":"https://www.cerege.fr","logo":{"@type":"ImageObject","@id":"https://www.cerege.fr/fr/#logo","url":"https://www.cerege.fr/wp-content/uploads/2022/06/cropped-logo_cerege_mini.png","contentUrl":"https://www.cerege.fr/wp-content/uploads/2022/06/cropped-logo_cerege_mini.png","caption":"CEREGE","inLanguage":"fr-FR","width":"235","height":"79"}},{"@type":"WebSite","@id":"https://www.cerege.fr/fr/#website","url":"https://www.cerege.fr/fr","name":"CEREGE","publisher":{"@id":"https://www.cerege.fr/fr/#organization"},"inLanguage":"fr-FR"},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page Introuvable - CEREGE","isPartOf":{"@id":"https://www.cerege.fr/fr/#website"},"inLanguage":"fr-FR"}]}</script>
+<!-- /Extension Rank Math WordPress SEO -->
+
+<link rel='dns-prefetch' href='//www.bugherd.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="CEREGE &raquo; Flux" href="https://www.cerege.fr/fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CEREGE &raquo; Flux des commentaires" href="https://www.cerege.fr/fr/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="CEREGE &raquo; Flux iCal" href="https://www.cerege.fr/fr/agenda/?ical=1" />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.cerege.fr/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3' media='all' />
+<style id='rank-math-toc-block-style-inline-css'>
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='three-preview-css' href='https://www.cerege.fr/wp-content/plugins/3r-elementor-timeline-widget/assets/css/style.css?ver=6.5.3' media='all' />
+<link rel='stylesheet' id='trp-language-switcher-style-css' href='https://www.cerege.fr/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=2.7.4' media='all' />
+<link rel='stylesheet' id='megamenu-css' href='https://www.cerege.fr/wp-content/uploads/maxmegamenu/style.css?ver=833a6f' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.cerege.fr/wp-includes/css/dashicons.min.css?ver=6.5.3' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://www.cerege.fr/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://www.cerege.fr/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://www.cerege.fr/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.cerege.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1712139047' media='all' />
+<link rel='stylesheet' id='elementor-post-4-css' href='https://www.cerege.fr/wp-content/uploads/elementor/css/post-4.css?ver=1712139047' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://www.cerege.fr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://www.cerege.fr/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://www.cerege.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1712139047' media='all' />
+<link rel='stylesheet' id='pymac-halpublication-css-css' href='https://www.cerege.fr/wp-content/plugins/pymac-hal/assets/css/style.css?ver=6.5.3' media='all' />
+<link rel='stylesheet' id='pymac-usersList-css-css' href='https://www.cerege.fr/wp-content/themes/pymac/cerege/assets/css/usersList.css?ver=1' media='all' />
+<link rel='stylesheet' id='elementor-post-432-css' href='https://www.cerege.fr/wp-content/uploads/elementor/css/post-432.css?ver=1713360905' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='https://www.cerege.fr/wp-content/uploads/elementor/css/post-7.css?ver=1713360905' media='all' />
+<link rel='stylesheet' id='elementor-post-2502-css' href='https://www.cerege.fr/wp-content/uploads/elementor/css/post-2502.css?ver=1712139190' media='all' />
+<link rel='stylesheet' id='elementor-post-1028-css' href='https://www.cerege.fr/wp-content/uploads/elementor/css/post-1028.css?ver=1712139047' media='all' />
+<link rel='stylesheet' id='admin-custom-style-css' href='https://www.cerege.fr/wp-content/themes/pymac/assets/css/admin-custom.css?ver=1675961562' media='all' />
+<link rel='stylesheet' id='slick-theme-style-css' href='https://www.cerege.fr/wp-content/themes/pymac/assets/css/slick-theme.css?ver=1655217325' media='all' />
+<link rel='stylesheet' id='style-style-css' href='https://www.cerege.fr/wp-content/themes/pymac/assets/css/style.css?ver=1679049785' media='all' />
+<link rel='stylesheet' id='slick-style-css' href='https://www.cerege.fr/wp-content/themes/pymac/assets/css/slick.css?ver=1655217424' media='all' />
+<link rel='stylesheet' id='eael-general-css' href='https://www.cerege.fr/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.9.14' media='all' />
+<link rel='stylesheet' id='pymac-style-css' href='https://www.cerege.fr/wp-content/themes/pymac/style.css?ver=1' media='all' />
+<link rel='stylesheet' id='slick-theme-css-css' href='https://www.cerege.fr/wp-content/themes/pymac/assets/css/slick-theme.css?ver=6.5.3' media='all' />
+<link rel='stylesheet' id='slick-css-css' href='https://www.cerege.fr/wp-content/themes/pymac/assets/css/slick.css?ver=6.5.3' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.5.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://www.cerege.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://www.cerege.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://www.cerege.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://www.cerege.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src="https://www.cerege.fr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.cerege.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="pymac-halpublicationobject-js-js-extra">
+var scriptData = {"assetsUrl":"https:\/\/www.cerege.fr\/wp-content\/plugins\/pymac-hal\/assets\/"};
+</script>
+<script src="https://www.cerege.fr/wp-content/plugins/pymac-hal/assets/js/containerHal.js?ver=1" id="pymac-halpublicationobject-js-js"></script>
+<script src="https://www.cerege.fr/wp-content/plugins/pymac-hal/assets/js/halpublication.js?ver=1" id="pymac-halpublication-js-js"></script>
+<script src="https://www.cerege.fr/wp-content/themes/pymac/cerege/assets/js/usersList.js?ver=1" id="pymac_usersList-js-js"></script>
+<script src="https://www.cerege.fr/wp-content/themes/pymac/assets/js/single-author.js?ver=6.5.3" id="single-author-js-js"></script>
+<script src="https://www.cerege.fr/wp-content/themes/pymac/assets/js/main.js?ver=6.5.3" id="main-js-js"></script>
+<script src="https://www.bugherd.com/sidebarv2.js?apikey=ge9dnik8d0p7b2qzw0x2ga&amp;ver=6.5.3" id="bugherd-js-js"></script>
+<script src="https://www.cerege.fr/wp-content/themes/pymac/assets/js/slick.min.js?ver=6.5.3" id="slick-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.cerege.fr/fr/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cerege.fr/xmlrpc.php?rsd" />
+<link rel="alternate" hreflang="fr-FR" href="https://www.cerege.fr/fr/robots.txt/"/>
+<link rel="alternate" hreflang="en-GB" href="https://www.cerege.fr/en/robots.txt/"/>
+<link rel="alternate" hreflang="fr" href="https://www.cerege.fr/fr/robots.txt/"/>
+<link rel="alternate" hreflang="en" href="https://www.cerege.fr/en/robots.txt/"/>
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.cerege.fr/fr"><link rel="alternate" href="https://www.cerege.fr/fr/wp-json/tribe/events/v1/" /><meta name="generator" content="Elementor 3.20.3; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<link rel="icon" href="https://www.cerege.fr/wp-content/uploads/2023/01/cropped-favicon_cerege-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.cerege.fr/wp-content/uploads/2023/01/cropped-favicon_cerege-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.cerege.fr/wp-content/uploads/2023/01/cropped-favicon_cerege-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.cerege.fr/wp-content/uploads/2023/01/cropped-favicon_cerege-270x270.png" />
+<style type="text/css">/** Mega Menu CSS: fs **/</style>
+</head>
+<body class="error404 wp-custom-logo translatepress-fr_FR tribe-no-js mega-menu-menu-1 elementor-default elementor-kit-4 elementor-page-2502">
+
+
+<a class="skip-link screen-reader-text" href="#content">Passer au contenu</a>
+
+		<div data-elementor-type="header" data-elementor-id="432" class="elementor elementor-432 elementor-location-header" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-c21b65c elementor-section-full_width elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="c21b65c" data-element_type="section" id="topbar" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0276063" data-id="0276063" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-001312e elementor-nav-menu--dropdown-none elementor-widget__width-auto menu_top elementor-widget elementor-widget-nav-menu" data-id="001312e" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.cerege.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1712139047">			<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-001312e" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1113"><a href="https://www.cerege.fr/fr/le-cerege/nos-offres-demploi/" class="elementor-item">Emploi</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1114"><a href="https://www.cerege.fr/fr/communication/presse/" class="elementor-item">Presse</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1117"><a href="https://www.cerege.fr/fr/contacter-le-cerege/" class="elementor-item">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-590"><a target="_blank" rel="noopener" href="https://dircom.cerege.fr/" class="elementor-item">Intranet</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-001312e" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1113"><a href="https://www.cerege.fr/fr/le-cerege/nos-offres-demploi/" class="elementor-item" tabindex="-1">Emploi</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1114"><a href="https://www.cerege.fr/fr/communication/presse/" class="elementor-item" tabindex="-1">Presse</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1117"><a href="https://www.cerege.fr/fr/contacter-le-cerege/" class="elementor-item" tabindex="-1">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-590"><a target="_blank" rel="noopener" href="https://dircom.cerege.fr/" class="elementor-item" tabindex="-1">Intranet</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0003423 elementor-widget__width-auto language_switcher elementor-widget elementor-widget-shortcode" data-id="0003423" data-element_type="widget" id="language_switcher_topbar" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><ul data-no-translation><li><a href='https://www.cerege.fr/fr/robots.txt/'><span>fr.</span></a></li><li><a href='https://www.cerege.fr/en/robots.txt/'><span>en.</span></a></li></ul></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-171002f elementor-search-form--skin-full_screen elementor-widget__width-auto elementor-widget elementor-widget-search-form" data-id="171002f" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;full_screen&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.cerege.fr/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">		<search role="search">
+			<form class="elementor-search-form" action="https://www.cerege.fr/fr" method="get">
+												<div class="elementor-search-form__toggle" tabindex="0" role="button">
+					<i aria-hidden="true" class="fas fa-search"></i>					<span class="elementor-screen-only">Rechercher </span>
+				</div>
+								<div class="elementor-search-form__container">
+					<label class="elementor-screen-only" for="elementor-search-form-171002f">Rechercher </label>
+
+					
+					<input id="elementor-search-form-171002f" placeholder="Rechercher..." class="elementor-search-form__input" type="search" name="s" value="">
+					
+					
+										<div class="dialog-lightbox-close-button dialog-close-button" role="button" tabindex="0">
+						<i aria-hidden="true" class="eicon-close"></i>						<span class="elementor-screen-only">Fermer cette boîte de recherche.</span>
+					</div>
+									</div>
+			</form>
+		</search>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-65557f0 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-widget__width-auto elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="65557f0" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.cerege.fr/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1712139047">		<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="/wp-admin/profile.php" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-lock"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ab0bd46 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-widget__width-auto elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ab0bd46" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.facebook.com/ceregeUM34/" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook-f"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.instagram.com/cerege_officiel" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-instagram"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.linkedin.com/company/cerege/" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-linkedin-in"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://bsky.app/profile/cerege.bsky.social" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M407.8 294.7c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3zM288 227.1C261.9 176.4 190.9 81.9 124.9 35.3C61.6-9.4 37.5-1.7 21.6 5.5C3.3 13.8 0 41.9 0 58.4S9.1 194 15 213.9c19.5 65.7 89.1 87.9 153.2 80.7c3.3-.5 6.6-.9 10-1.4c-3.3 .5-6.6 1-10 1.4C74.3 308.6-9.1 342.8 100.3 464.5C220.6 589.1 265.1 437.8 288 361.1c22.9 76.7 49.2 222.5 185.6 103.4c102.4-103.4 28.1-156-65.8-169.9c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3c64.1 7.1 133.6-15.1 153.2-80.7C566.9 194 576 75 576 58.4s-3.3-44.7-21.6-52.9c-15.8-7.1-40-14.9-103.2 29.8C385.1 81.9 314.1 176.4 288 227.1z"></path></svg>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.youtube.com/channel/UCTHJszN7fxqmekbpq97Blbg" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-youtube"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-82fa79a elementor-section-full_width elementor-hidden-desktop elementor-section-height-default elementor-section-height-default" data-id="82fa79a" data-element_type="section" id="header_mobile">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f8d9ef" data-id="6f8d9ef" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1441388 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="1441388" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.20.0 - 26-03-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>						<a href="https://www.cerege.fr/fr">
+			<picture class="attachment-full size-full wp-image-69">
+<source type="image/webp" srcset="https://www.cerege.fr/wp-content/uploads/2022/06/cropped-logo_cerege_mini.png.webp"/>
+<img width="235" height="79" src="https://www.cerege.fr/wp-content/uploads/2022/06/cropped-logo_cerege_mini.png" alt=""/>
+</picture>
+				</a>
+									</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1631587 elementor-hidden-desktop" data-id="1631587" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-94104d7 elementor-widget elementor-widget-heading" data-id="94104d7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.20.0 - 26-03-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Centre de recherche et d’enseignement <br/> des géosciences de l’environnement</div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-56ab206 elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="56ab206" data-element_type="section" id="wrap_head_main">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a5c2d15" data-id="a5c2d15" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-843302e elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="843302e" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+									<a href="https://www.cerege.fr/fr">
+			<picture class="attachment-full size-full wp-image-69">
+<source type="image/webp" srcset="https://www.cerege.fr/wp-content/uploads/2022/06/cropped-logo_cerege_mini.png.webp"/>
+<img width="235" height="79" src="https://www.cerege.fr/wp-content/uploads/2022/06/cropped-logo_cerege_mini.png" alt=""/>
+</picture>
+				</a>
+									</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-af24171" data-id="af24171" data-element_type="column" id="head_slogan">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-068b885 elementor-widget elementor-widget-heading" data-id="068b885" data-element_type="widget" id="logo_slogan" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Centre de recherche et d’enseignement <br/> des géosciences de l’environnement</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c1bac2d" data-id="c1bac2d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a2abf8c elementor-widget__width-auto header-icons elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="a2abf8c" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.cerege.fr/wp-content/uploads/elementor/css/custom-widget-icon-box.min.css?ver=1712139048">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.cerege.fr/annuaire/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Groupe_155" data-name="Groupe 155" width="53.726" height="46.474" viewBox="0 0 53.726 46.474"><defs><clipPath id="clip-path"><rect id="Rectangle_208" data-name="Rectangle 208" width="53.726" height="46.474" fill="#0f72bb"></rect></clipPath></defs><g id="Groupe_154" data-name="Groupe 154" transform="translate(0 0)" clip-path="url(#clip-path)"><path id="Trac&#xE9;_173" data-name="Trac&#xE9; 173" d="M47.782,66.879H5.944A5.774,5.774,0,0,1,0,61.306V39.6a5.774,5.774,0,0,1,5.944-5.574H9.055a1.2,1.2,0,1,1,0,2.4H5.944A3.377,3.377,0,0,0,2.4,39.6V61.306a3.376,3.376,0,0,0,3.542,3.172H47.782a3.376,3.376,0,0,0,3.542-3.172V39.6a3.377,3.377,0,0,0-3.542-3.173h-3.22a1.2,1.2,0,1,1,0-2.4h3.22A5.775,5.775,0,0,1,53.726,39.6V61.306a5.775,5.775,0,0,1-5.944,5.574" transform="translate(0 -20.405)" fill="#0f72bb"></path><path id="Trac&#xE9;_174" data-name="Trac&#xE9; 174" d="M35.13,72.656h-.022a1.2,1.2,0,0,1-1.178-1.222c.022-1.216.079-4.431.079-4.7,0-2.488-2.369-4.825-4.6-5.762a1.2,1.2,0,0,1,.135-2.262A2.451,2.451,0,0,0,31.105,56.6a3.63,3.63,0,0,0-3.8-3.42,3.631,3.631,0,0,0-3.8,3.42,3.354,3.354,0,0,0,1.875,2.37,1.2,1.2,0,0,1-.038,2.2c-2.356.99-4.741,3.223-4.741,5.573,0,.267.058,3.482.08,4.7A1.2,1.2,0,0,1,19.5,72.656h-.022a1.2,1.2,0,0,1-1.2-1.179c-.009-.45-.081-4.4-.081-4.742,0-2.882,2.027-5.332,4.432-6.855A4.945,4.945,0,0,1,21.1,56.6,6.029,6.029,0,0,1,27.3,50.774a6.028,6.028,0,0,1,6.2,5.822,4.794,4.794,0,0,1-1.328,3.171c2.3,1.571,4.232,4.14,4.232,6.97,0,.338-.072,4.292-.08,4.742a1.2,1.2,0,0,1-1.2,1.179" transform="translate(-10.912 -30.451)" fill="#0f72bb"></path><path id="Trac&#xE9;_175" data-name="Trac&#xE9; 175" d="M90.779,66.321H74.29a1.2,1.2,0,0,1,0-2.4H90.779a1.2,1.2,0,0,1,0,2.4" transform="translate(-43.834 -38.334)" fill="#0f72bb"></path><path id="Trac&#xE9;_176" data-name="Trac&#xE9; 176" d="M90.779,79.846H74.29a1.2,1.2,0,0,1,0-2.4H90.779a1.2,1.2,0,1,1,0,2.4" transform="translate(-43.834 -46.445)" fill="#0f72bb"></path><path id="Trac&#xE9;_177" data-name="Trac&#xE9; 177" d="M90.779,93.372H74.29a1.2,1.2,0,0,1,0-2.4H90.779a1.2,1.2,0,0,1,0,2.4" transform="translate(-43.834 -54.557)" fill="#0f72bb"></path><path id="Trac&#xE9;_178" data-name="Trac&#xE9; 178" d="M58.224,18.151H31.431a1.2,1.2,0,0,1-1.2-1.2V15.7a8.261,8.261,0,0,1,8.125-8.372h.564c-.006-.154-.009-.308-.009-.462C38.91,1.8,41.967,0,44.828,0S50.746,1.8,50.746,6.871c0,.153,0,.307-.009.462H51.3A8.261,8.261,0,0,1,59.425,15.7V16.95a1.2,1.2,0,0,1-1.2,1.2m-25.593-2.4H57.023V15.7A5.857,5.857,0,0,0,51.3,9.734H49.415a1.2,1.2,0,0,1-1.186-1.386,9.643,9.643,0,0,0,.115-1.477c0-2.883-1.249-4.47-3.516-4.47s-3.515,1.587-3.515,4.47a9.476,9.476,0,0,0,.114,1.475A1.2,1.2,0,0,1,40.24,9.734H38.355a5.857,5.857,0,0,0-5.723,5.97Z" transform="translate(-18.13 0.001)" fill="#0f72bb"></path></g></svg>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://www.cerege.fr/annuaire/" >
+						Annuaire					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0039c2c elementor-widget__width-auto header-icons elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="0039c2c" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.cerege.fr/communication/publications/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46.474" height="46.474" viewBox="0 0 46.474 46.474"><image id="hallpicto1" width="46.474" height="46.474" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDcuMS1jMDAwIDc5LjljY2M0ZGU5MywgMjAyMi8wMy8xNC0xNDowNzoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIzLjMgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NDI1MzdBRjlCN0RGMTFFQ0E4OTFGOTJCRkUxODE5RjgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NDI1MzdBRkFCN0RGMTFFQ0E4OTFGOTJCRkUxODE5RjgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo0MjUzN0FGN0I3REYxMUVDQTg5MUY5MkJGRTE4MTlGOCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo0MjUzN0FGOEI3REYxMUVDQTg5MUY5MkJGRTE4MTlGOCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Ps9He6wAACcjSURBVHja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"></image></svg>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://www.cerege.fr/communication/publications/" >
+						Publications					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-edfa1a9 elementor-widget__width-auto header-icons elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="edfa1a9" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwMjgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" class="elementor-icon elementor-animation-" tabindex="-1">
+				<svg xmlns="http://www.w3.org/2000/svg" width="72.064" height="54.205" viewBox="0 0 72.064 54.205"><g id="Groupe_153" data-name="Groupe 153" transform="translate(-514.968 -308.897)"><path id="Trac&#xE9;_45" data-name="Trac&#xE9; 45" d="M46.353,79.255c-.486-1.117,0-6.808-3.21-9.921s-8.933-3.894-8.933-3.894L30.152,75.925,25.3,71.87,27.529,67.5H21.117l2.225,4.375L18.532,75.8,14.523,65.44S8.8,66.223,5.59,69.334s-2.724,8.8-3.209,9.921" transform="translate(513.902 277.106)" fill="none" stroke="#0f72bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path id="Trac&#xE9;_46" data-name="Trac&#xE9; 46" d="M22.885,24.854A25.135,25.135,0,0,0,24.4,27.118c1.484,1.994,2.894,3.636,5.272,4.375a9.851,9.851,0,0,0,2.576.415l.093,0,.094,0a9.768,9.768,0,0,0,2.676-.444c2.319-.755,3.707-2.38,5.171-4.347A25.316,25.316,0,0,0,41.888,24.7C44,23.193,44.8,19.728,44.926,18.324a3.873,3.873,0,0,0-.732-2.838,19.8,19.8,0,0,0-.154-2.539,11.782,11.782,0,0,0-6.788-9.5,9.407,9.407,0,0,0-4.912-1.032A9.411,9.411,0,0,0,27.429,3.45a11.787,11.787,0,0,0-6.788,9.5,19.843,19.843,0,0,0-.153,2.379,3.813,3.813,0,0,0-.861,3C19.769,19.84,20.62,23.455,22.885,24.854ZM20.263,15.7c1.2-.356,2.351-.742,3.439-1.149a50.517,50.517,0,0,0,11.62-6.127c.178-.127.348-.25.508-.368.167.295.357.611.572.937A17.667,17.667,0,0,0,39.537,12.6a18.255,18.255,0,0,0,4.01,2.674" transform="translate(505.535 307.74)" fill="none" stroke="#0f72bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path id="Trac&#xE9;_47" data-name="Trac&#xE9; 47" d="M106.61,45.394c-.447-1.028,0-6.258-2.951-9.12-1.332-1.291-3.9-2-6.321-2.387a5.548,5.548,0,0,0,2.64-2.084l.807-1.3-1.53-.1a.911.911,0,0,1-.712-.3c-.633-.743-.431-2.912-.236-5.01l.013-.139c.037-.382.878-9.407-2.378-13a4.46,4.46,0,0,0-3.624-1.523C91.4,9.515,88.676,7.1,85.351,7.1c-2.453,0-4.644,1.285-6.513,3.819-3.832,5.2-3.162,9.088-2.625,12.213.113.644.216,1.253.269,1.82l.013.143c.2,2.1.4,4.267-.236,5.01a.907.907,0,0,1-.711.3l-1.53.1.807,1.3a5.559,5.559,0,0,0,2.516,2.038,23.6,23.6,0,0,0-3.331.729M93.367,22.593a9.377,9.377,0,0,1-1.556,4.335q-.28.437-.591.866c-.042.057-.083.116-.126.172-.18.244-.353.468-.521.679-.1.126-.2.247-.3.36a5.858,5.858,0,0,1-.592.6,3.867,3.867,0,0,1-.658.461,4.239,4.239,0,0,1-3.957-.014,3.93,3.93,0,0,1-.824-.621,8.626,8.626,0,0,1-.842-.96c-.063-.079-.126-.161-.19-.247s-.126-.167-.191-.256c-.1-.13-.191-.261-.284-.391q-.226-.321-.432-.647a9.343,9.343,0,0,1-1.556-4.335q-.038-.5-.056-1a6.471,6.471,0,0,0,1.142-.193,9.013,9.013,0,0,0,1.2-.4c.259-.106.518-.226.776-.353.412-.205.821-.436,1.223-.682.226-.14.451-.283.672-.431a30.666,30.666,0,0,0,4.35-3.638c.372-.372.649-.664.805-.832a6.41,6.41,0,0,1,2.479,4.451A15.3,15.3,0,0,1,93.367,22.593Z" transform="translate(479.105 305.448)" fill="none" stroke="#0f72bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path id="Trac&#xE9;_48" data-name="Trac&#xE9; 48" d="M88.327,65.73l.751-1.36.585-1.058.009-.016.157.217L92.852,67.7l.542.75.542.751h.434l.542-.751.541-.75,3.023-4.191.157-.217.01.016.584,1.058.75,1.36,2.407,4.359" transform="translate(472.149 278.147)" fill="none" stroke="#0f72bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><rect id="Rectangle_30" data-name="Rectangle 30" width="71.88" height="48.688" transform="translate(515.06 308.897)" fill="none"></rect><path id="Trac&#xE9;_77" data-name="Trac&#xE9; 77" d="M4620.354,1561.491c-2.921.5-2.58-6.223,3.31-11.494s8.14-2.991,8.14-2.991l2.878,9.011,5.071-1.995,2.4-1.033,5.642,4.7,3.489-10.685,8.771,2.568,3.852,11.552S4644.45,1574.325,4620.354,1561.491Z" transform="translate(-4103 -1204)" fill="#0f72bb"></path></g></svg>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwMjgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" >
+						Vous êtes ?					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3875c7a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="3875c7a" data-element_type="section" id="section_menu" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset_tablet&quot;:0,&quot;sticky_offset_mobile&quot;:0,&quot;sticky_effects_offset_tablet&quot;:50,&quot;sticky_effects_offset_mobile&quot;:50,&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d33baf0" data-id="d33baf0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f51e2f8 elementor-widget elementor-widget-shortcode" data-id="f51e2f8" data-element_type="widget" id="menu-principal" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><div id="mega-menu-wrap-menu-1" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"><div class='mega-toggle-block mega-html-block mega-toggle-block-1' id='mega-toggle-block-1'><div class="language_switcher">
+<ul data-no-translation><li><a href='https://www.cerege.fr/fr/robots.txt/'><span>fr.</span></a></li><li><a href='https://www.cerege.fr/en/robots.txt/'><span>en.</span></a></li></ul>
+</div></div></div><div class="mega-toggle-blocks-center"><div class='mega-toggle-block mega-logo-block mega-toggle-block-2' id='mega-toggle-block-2'><a class="mega-menu-logo" href="https://www.cerege.fr" target="_self"><picture class="mega-menu-logo">
+<source type="image/webp" srcset="https://www.cerege.fr/wp-content/uploads/2022/06/logo_cerege_mobile.png.webp"/>
+<img src="https://www.cerege.fr/wp-content/uploads/2022/06/logo_cerege_mobile.png"/>
+</picture>
+</a></div></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-3' id='mega-toggle-block-3' tabindex='0'><span class='mega-toggle-label' role='button' aria-expanded='false'><span class='mega-toggle-label-closed'></span><span class='mega-toggle-label-open'></span></span></div></div></div><ul id="mega-menu-menu-1" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="slide" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="body" data-second-click="disabled" data-document-click="collapse" data-vertical-behaviour="accordion" data-breakpoint="992" data-unbind="false" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100" data-sticky-enabled="true" data-sticky-desktop="true" data-sticky-mobile="false" data-sticky-offset="0" data-sticky-expand="false" data-sticky-expand-mobile="false" data-sticky-transition="false"><li class='mega-menu-bleu mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-890 menu-bleu' id='mega-menu-item-890'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/" aria-haspopup="true" aria-expanded="false" tabindex="0">Le CEREGE<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-890-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-mega-menu-text mega-menu-columns-4-of-12 mega-menu-text' id='mega-menu-890-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-4' id='mega-menu-item-text-4'><h4 class="mega-block-title">Le CEREGE</h4>			<div class="textwidget"><p>Centre de Recherche et d’enseignement multidisciplinaire international, pôle d’excellence par ses atouts humain et techniques, le CEREGE couvre la quasi totalité des Géosciences de l’Environnement.</p>
+<p><a href="https://www.cerege.fr/le-cerege/">Découvrez notre laboratoire</a></p>
+</div>
+		</li>		</ul>
+</li><li class='mega-menu-column mega-mega-menu-links mega-menu-columns-3-of-12 mega-menu-links' id='mega-menu-890-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-891' id='mega-menu-item-891'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/notre-organisation/">Notre organisation<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-collapse-children mega-menu-item-19514' id='mega-menu-item-19514'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/notre-organisation/gouvernance/">Gouvernance</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-collapse-children mega-menu-item-19513' id='mega-menu-item-19513'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/notre-organisation/cellules/">Fonctions transverses</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-20864' id='mega-menu-item-20864'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/notre-organisation/frise-temporelle-cerege/">Frise temporelle CEREGE</a></li>			</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1402' id='mega-menu-item-1402'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/nos-equipes-administratives/">Nos Services d’Appui à la Recherche</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1395' id='mega-menu-item-1395'><a class="mega-menu-link" href="https://www.cerege.fr/fr/annuaire/">Notre annuaire</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-23517' id='mega-menu-item-23517'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/notre-organisation/notre-engagement-eco-responsable/">Notre engagement écoresponsable</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-893' id='mega-menu-item-893'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/instituts-detablissement/">Nos Instituts d’établissement</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-894' id='mega-menu-item-894'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/partenariats-et-collaborations/">Nos partenariats et collaborations<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-895' id='mega-menu-item-895'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/partenariats-et-collaborations/interactions-monde-socio-economique/">Intéractions monde socio-économique</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-896' id='mega-menu-item-896'><a class="mega-menu-link" href="https://www.cerege.fr/fr/le-cerege/partenariats-et-collaborations/collaborations-internationales/">Collaborations nationales et internationales</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-mega-menu-empty mega-menu-columns-5-of-12 mega-menu-empty' id='mega-menu-890-0-2'></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-jaune mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-897 menu-jaune' id='mega-menu-item-897'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/" aria-haspopup="true" aria-expanded="false" tabindex="0">Sciences<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-897-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-mega-menu-text mega-menu-columns-4-of-12 mega-menu-text' id='mega-menu-897-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-5' id='mega-menu-item-text-5'><h4 class="mega-block-title">Sciences</h4>			<div class="textwidget"><p>En s’alliant à d’autres grandes structures de recherche nationales, internationales, aux acteurs industriels et technologiques, le CEREGE est aujourd’hui un pôle d’excellence dans le domaine des Géosciences.</p>
+<p><a href="https://www.cerege.fr/sciences/">En savoir plus</a></p>
+</div>
+		</li>		</ul>
+</li><li class='mega-menu-column mega-mega-menu-links mega-menu-columns-3-of-12 mega-menu-links' id='mega-menu-897-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-898' id='mega-menu-item-898'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/terre-et-planetes/">Terre et Planètes<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-900' id='mega-menu-item-900'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/terre-et-planetes/equipe-terre-et-planetes/">Membres de l'équipe</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-6123' id='mega-menu-item-6123'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/terre-et-planetes/projets-terre-et-planete/">Projets</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2516' id='mega-menu-item-2516'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/terre-et-planetes/equipements-terre-et-planetes/">Équipements</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-903' id='mega-menu-item-903'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/terre-et-planetes/theses-terre-et-planetes/">Thèses</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-904' id='mega-menu-item-904'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/terre-et-planetes/enseignement-terre-et-planetes/">Enseignement</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-902' id='mega-menu-item-902'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/terre-et-planetes/publications-terre-et-planetes/">Publications</a></li>			</ul>
+</li><li class='mega-menu-vert mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-905 menu-vert' id='mega-menu-item-905'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/climat/">Climat<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-907' id='mega-menu-item-907'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/climat/equipe-climat/">Membres de l'équipe</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5086' id='mega-menu-item-5086'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/climat/projets-climat/">Projets</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2519' id='mega-menu-item-2519'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/climat/equipements-climat/">Équipements</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-910' id='mega-menu-item-910'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/climat/theses-climat/">Thèses</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-911' id='mega-menu-item-911'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/climat/enseignement-climat/">Enseignement</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-909' id='mega-menu-item-909'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/climat/publications-climat/">Publications</a></li>			</ul>
+</li><li class='mega-menu-rose mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-912 menu-rose' id='mega-menu-item-912'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/environnement-durable/">Environnement Durable<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-914' id='mega-menu-item-914'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/environnement-durable/equipe-environnement-durable/">Membres de l'équipe</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-915' id='mega-menu-item-915'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/environnement-durable/projets-environnement-durable/">Projets</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2518' id='mega-menu-item-2518'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/environnement-durable/equipements-environnement-durable/">Équipements</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-917' id='mega-menu-item-917'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/environnement-durable/theses-environnement-durable/">Thèses</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-918' id='mega-menu-item-918'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/environnement-durable/enseignement-environnement-durable/">Enseignement</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-916' id='mega-menu-item-916'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/environnement-durable/publications-environnement-durable/">Publications</a></li>			</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-919' id='mega-menu-item-919'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/ressources-hydrosystemes-et-carbonates/">Ressources Hydrosystèmes et Carbonates<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-921' id='mega-menu-item-921'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/ressources-hydrosystemes-et-carbonates/equipe-ressources-reservoirs-et-hydrosystemes/">Membres de l'équipe</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2517' id='mega-menu-item-2517'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/ressources-hydrosystemes-et-carbonates/equipements-ressources-reservoirs-et-hydrosystemes/">Équipements</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5088' id='mega-menu-item-5088'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/ressources-hydrosystemes-et-carbonates/theses-ressources-reservoir-et-hydrosystemes/">Thèses</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-925' id='mega-menu-item-925'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/ressources-hydrosystemes-et-carbonates/enseignement-ressources-reservoirs-et-hydrosystemes/">Enseignement</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-923' id='mega-menu-item-923'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/ressources-hydrosystemes-et-carbonates/publications-ressources-reservoirs-et-hydrosystemes/">Publications</a></li>			</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-collapse-children mega-menu-item-19119' id='mega-menu-item-19119'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/axes-transverses/observatoires/">Sites d’observations</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-collapse-children mega-menu-item-19120' id='mega-menu-item-19120'><a class="mega-menu-link" href="https://www.cerege.fr/fr/sciences/axes-transverses/">Actions transverses</a></li>		</ul>
+</li><li class='mega-menu-column mega-mega-menu-empty mega-menu-columns-5-of-12 mega-menu-empty' id='mega-menu-897-0-2'></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-vert mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-927 menu-vert' id='mega-menu-item-927'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/" aria-haspopup="true" aria-expanded="false" tabindex="0">Équipements<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-927-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-mega-menu-text mega-menu-columns-4-of-12 mega-menu-text' id='mega-menu-927-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-6' id='mega-menu-item-text-6'><h4 class="mega-block-title">Équipements</h4>			<div class="textwidget"><p>Le CEREGE met à la disposition de la communauté scientifique académique et industrielle un éventail de ressources de hautes technologies.</p>
+<p><a href="https://www.cerege.fr/equipements/">En savoir plus</a></p>
+</div>
+		</li>		</ul>
+</li><li class='mega-menu-column mega-mega-menu-links mega-menu-columns-3-of-12 mega-menu-links' id='mega-menu-927-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-928' id='mega-menu-item-928'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/poles-techniques/">Pôles Techniques<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3140' id='mega-menu-item-3140'><a class="mega-menu-link" href="/fr/equipements/poles-techniques/#ancre1">Géochimie</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3141' id='mega-menu-item-3141'><a class="mega-menu-link" href="/fr/equipements/poles-techniques/#ancre1">Imagerie</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3142' id='mega-menu-item-3142'><a class="mega-menu-link" href="/fr/equipements/poles-techniques/#ancre1">Géophysique</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3143' id='mega-menu-item-3143'><a class="mega-menu-link" href="/fr/equipements/poles-techniques/#ancre2">Modélisation et calculs</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3144' id='mega-menu-item-3144'><a class="mega-menu-link" href="/fr/equipements/poles-techniques/#ancre2">Terrain</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3145' id='mega-menu-item-3145'><a class="mega-menu-link" href="/fr/equipements/poles-techniques/#ancre2">Préparation d'échantillons</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-3146' id='mega-menu-item-3146'><a class="mega-menu-link" href="/fr/equipements/poles-techniques/#ancre3">Eco-technologies</a></li>			</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-6683' id='mega-menu-item-6683'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/laboratoire-national-des-nucleides-cosmogeniques/">Instrument National LN2C-ASTER<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-14311' id='mega-menu-item-14311'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/laboratoire-national-des-nucleides-cosmogeniques/equipe-ln2c-aster/">Personnel LN2C ASTER</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-14305' id='mega-menu-item-14305'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/laboratoire-national-des-nucleides-cosmogeniques/principe-des-nucleides-cosmogeniques/">Principe des Nucléides Cosmogéniques</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-14308' id='mega-menu-item-14308'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/laboratoire-national-des-nucleides-cosmogeniques/applications/">Applications</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-14307' id='mega-menu-item-14307'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/laboratoire-national-des-nucleides-cosmogeniques/ams-aster/">AMS ASTER</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-14303' id='mega-menu-item-14303'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/laboratoire-national-des-nucleides-cosmogeniques/ln2c-laboratoire-de-preparation/">Laboratoires de préparation</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-14304' id='mega-menu-item-14304'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/laboratoire-national-des-nucleides-cosmogeniques/services-aux-utilisateurs/">Services aux utilisateurs</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-14306' id='mega-menu-item-14306'><a target="_blank" class="mega-menu-link" href="https://hal.archives-ouvertes.fr/LN2C">Publications</a></li>			</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-936' id='mega-menu-item-936'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/investissements-davenir/">Equipements d'excellence<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-943' id='mega-menu-item-943'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/investissements-davenir/equipex-imagine2/">Equipex Imagine2</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-944' id='mega-menu-item-944'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/investissements-davenir/e-diamant/">Equipex E-DIAMANT</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-945' id='mega-menu-item-945'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/investissements-davenir/equipex-aster-cerege/">Equipex Aster-CEREGE</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-946' id='mega-menu-item-946'><a class="mega-menu-link" href="https://www.cerege.fr/fr/equipements/investissements-davenir/equipex-nano-id/">Equipex NANO-ID</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-mega-menu-empty mega-menu-columns-5-of-12 mega-menu-empty' id='mega-menu-927-0-2'></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-rose mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-937 menu-rose' id='mega-menu-item-937'><a class="mega-menu-link" href="https://www.cerege.fr/fr/formations/" aria-haspopup="true" aria-expanded="false" tabindex="0">Formation<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-937-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-mega-menu-text mega-menu-columns-4-of-12 mega-menu-text' id='mega-menu-937-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-7' id='mega-menu-item-text-7'><h4 class="mega-block-title">Formation</h4>			<div class="textwidget"><p>Les enseignements du CEREGE couvrent l’ensemble du spectre des formations en sciences de la Terre et environnement, depuis le 1er cycle jusqu’aux formations doctorales.</p>
+<p><a href="https://www.cerege.fr/formations/">En savoir plus</a></p>
+</div>
+		</li>		</ul>
+</li><li class='mega-menu-column mega-mega-menu-links mega-menu-columns-3-of-12 mega-menu-links' id='mega-menu-937-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-collapse-children mega-menu-item-954' id='mega-menu-item-954'><a class="mega-menu-link" href="https://www.cerege.fr/fr/formations/licence-svt/">Licence SVT</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-collapse-children mega-menu-item-955' id='mega-menu-item-955'><a class="mega-menu-link" href="https://www.cerege.fr/fr/formations/masters/">Masters</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-collapse-children mega-menu-item-953' id='mega-menu-item-953'><a class="mega-menu-link" href="https://www.cerege.fr/fr/formations/cmi-geologie-des-ressources-et-du-developpement-durable/">CMI Géologie des ressources et du développement durable</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-18305' id='mega-menu-item-18305'><a class="mega-menu-link" href="https://www.cerege.fr/fr/formations/enseignements-college-de-france/">Enseignements du Collège de France</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2403' id='mega-menu-item-2403'><a class="mega-menu-link" href="https://www.cerege.fr/fr/formations/ecoles-doctorales/">Écoles doctorales</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-collapse-children mega-menu-item-956' id='mega-menu-item-956'><a class="mega-menu-link" href="https://www.cerege.fr/fr/formations/offres-de-stages/">Offres de stages</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8517' id='mega-menu-item-8517'><a class="mega-menu-link" href="https://www.cerege.fr/fr/formations/offres-de-theses/">Offres de Thèses</a></li>		</ul>
+</li><li class='mega-menu-column mega-mega-menu-empty mega-menu-columns-5-of-12 mega-menu-empty' id='mega-menu-937-0-2'></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-orange mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-938 menu-orange' id='mega-menu-item-938'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/" aria-haspopup="true" aria-expanded="false" tabindex="0">Communication<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-938-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-mega-menu-text mega-menu-columns-4-of-12 mega-menu-text' id='mega-menu-938-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-8' id='mega-menu-item-text-8'><h4 class="mega-block-title">Communication</h4>			<div class="textwidget"><p>Le CEREGE, par la diffusion qu’il fait de sa communication scientifique, tend à établir un dialogue permanent entre les sciences, la recherche et l’ensemble de la population, notamment les plus jeunes.</p>
+<p><a href="https://www.cerege.fr/communication/">En savoir plus</a></p>
+</div>
+		</li>		</ul>
+</li><li class='mega-menu-column mega-mega-menu-links mega-menu-columns-3-of-12 mega-menu-links' id='mega-menu-938-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-collapse-children mega-menu-item-959' id='mega-menu-item-959'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/publications/">Publications</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-960' id='mega-menu-item-960'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/presse/">Presse<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5572' id='mega-menu-item-5572'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/presse/notre-actualite-presse/">Notre revue de presse</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5573' id='mega-menu-item-5573'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/presse/nos-communiques/">Nos communiqués</a></li>			</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-collapse-children mega-menu-item-961' id='mega-menu-item-961'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/sciences-pour-tous/">Sciences pour Tous<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5570' id='mega-menu-item-5570'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/sciences-pour-tous/evenements-cerege/">Projets et événements scolaires</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-20237' id='mega-menu-item-20237'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/sciences-pour-tous/lucy-par-michel-decobert/">LUCY</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5571' id='mega-menu-item-5571'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/sciences-pour-tous/evenements-partenaires/">Évènements partenaires</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-17243' id='mega-menu-item-17243'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/sciences-pour-tous/evenements-cerege/demande-de-stage/">Demande de stage collège/Lycée</a></li>			</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5575' id='mega-menu-item-5575'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/sciences-pour-tous/musee-et-collections-de-paleontologie/">Musée et collections de paléontologie</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-collapse-children mega-menu-item-962' id='mega-menu-item-962'><a class="mega-menu-link" href="https://www.cerege.fr/fr/communication/metiers/">Métiers</a></li>		</ul>
+</li><li class='mega-menu-column mega-mega-menu-empty mega-menu-columns-5-of-12 mega-menu-empty' id='mega-menu-938-0-2'></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-vous-etes mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-14260 menu-vous-etes' id='mega-menu-item-14260'><a class="mega-menu-link" href="#open-vous-etes" tabindex="0">Vous êtes ?</a></li><li class='mega-menu-vous-etes mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-16015 menu-vous-etes' id='mega-menu-item-16015'><a class="mega-menu-link" href="https://www.cerege.fr/fr/annuaire/" tabindex="0">Annuaire</a></li><li class='mega-menu-vous-etes mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-16016 menu-vous-etes' id='mega-menu-item-16016'><a class="mega-menu-link" href="https://dircom.cerege.fr/" tabindex="0">Intranet</a></li></ul></div></div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9e25e31 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9e25e31" data-element_type="section" id="onglets_mobiles" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6fabacc" data-id="6fabacc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-27910bb elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="27910bb" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwMjgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" class="elementor-icon elementor-animation-" tabindex="-1">
+				<svg xmlns="http://www.w3.org/2000/svg" width="72.064" height="54.205" viewBox="0 0 72.064 54.205"><g id="Groupe_153" data-name="Groupe 153" transform="translate(-514.968 -308.897)"><path id="Trac&#xE9;_45" data-name="Trac&#xE9; 45" d="M46.353,79.255c-.486-1.117,0-6.808-3.21-9.921s-8.933-3.894-8.933-3.894L30.152,75.925,25.3,71.87,27.529,67.5H21.117l2.225,4.375L18.532,75.8,14.523,65.44S8.8,66.223,5.59,69.334s-2.724,8.8-3.209,9.921" transform="translate(513.902 277.106)" fill="none" stroke="#0f72bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path id="Trac&#xE9;_46" data-name="Trac&#xE9; 46" d="M22.885,24.854A25.135,25.135,0,0,0,24.4,27.118c1.484,1.994,2.894,3.636,5.272,4.375a9.851,9.851,0,0,0,2.576.415l.093,0,.094,0a9.768,9.768,0,0,0,2.676-.444c2.319-.755,3.707-2.38,5.171-4.347A25.316,25.316,0,0,0,41.888,24.7C44,23.193,44.8,19.728,44.926,18.324a3.873,3.873,0,0,0-.732-2.838,19.8,19.8,0,0,0-.154-2.539,11.782,11.782,0,0,0-6.788-9.5,9.407,9.407,0,0,0-4.912-1.032A9.411,9.411,0,0,0,27.429,3.45a11.787,11.787,0,0,0-6.788,9.5,19.843,19.843,0,0,0-.153,2.379,3.813,3.813,0,0,0-.861,3C19.769,19.84,20.62,23.455,22.885,24.854ZM20.263,15.7c1.2-.356,2.351-.742,3.439-1.149a50.517,50.517,0,0,0,11.62-6.127c.178-.127.348-.25.508-.368.167.295.357.611.572.937A17.667,17.667,0,0,0,39.537,12.6a18.255,18.255,0,0,0,4.01,2.674" transform="translate(505.535 307.74)" fill="none" stroke="#0f72bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path id="Trac&#xE9;_47" data-name="Trac&#xE9; 47" d="M106.61,45.394c-.447-1.028,0-6.258-2.951-9.12-1.332-1.291-3.9-2-6.321-2.387a5.548,5.548,0,0,0,2.64-2.084l.807-1.3-1.53-.1a.911.911,0,0,1-.712-.3c-.633-.743-.431-2.912-.236-5.01l.013-.139c.037-.382.878-9.407-2.378-13a4.46,4.46,0,0,0-3.624-1.523C91.4,9.515,88.676,7.1,85.351,7.1c-2.453,0-4.644,1.285-6.513,3.819-3.832,5.2-3.162,9.088-2.625,12.213.113.644.216,1.253.269,1.82l.013.143c.2,2.1.4,4.267-.236,5.01a.907.907,0,0,1-.711.3l-1.53.1.807,1.3a5.559,5.559,0,0,0,2.516,2.038,23.6,23.6,0,0,0-3.331.729M93.367,22.593a9.377,9.377,0,0,1-1.556,4.335q-.28.437-.591.866c-.042.057-.083.116-.126.172-.18.244-.353.468-.521.679-.1.126-.2.247-.3.36a5.858,5.858,0,0,1-.592.6,3.867,3.867,0,0,1-.658.461,4.239,4.239,0,0,1-3.957-.014,3.93,3.93,0,0,1-.824-.621,8.626,8.626,0,0,1-.842-.96c-.063-.079-.126-.161-.19-.247s-.126-.167-.191-.256c-.1-.13-.191-.261-.284-.391q-.226-.321-.432-.647a9.343,9.343,0,0,1-1.556-4.335q-.038-.5-.056-1a6.471,6.471,0,0,0,1.142-.193,9.013,9.013,0,0,0,1.2-.4c.259-.106.518-.226.776-.353.412-.205.821-.436,1.223-.682.226-.14.451-.283.672-.431a30.666,30.666,0,0,0,4.35-3.638c.372-.372.649-.664.805-.832a6.41,6.41,0,0,1,2.479,4.451A15.3,15.3,0,0,1,93.367,22.593Z" transform="translate(479.105 305.448)" fill="none" stroke="#0f72bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path id="Trac&#xE9;_48" data-name="Trac&#xE9; 48" d="M88.327,65.73l.751-1.36.585-1.058.009-.016.157.217L92.852,67.7l.542.75.542.751h.434l.542-.751.541-.75,3.023-4.191.157-.217.01.016.584,1.058.75,1.36,2.407,4.359" transform="translate(472.149 278.147)" fill="none" stroke="#0f72bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><rect id="Rectangle_30" data-name="Rectangle 30" width="71.88" height="48.688" transform="translate(515.06 308.897)" fill="none"></rect><path id="Trac&#xE9;_77" data-name="Trac&#xE9; 77" d="M4620.354,1561.491c-2.921.5-2.58-6.223,3.31-11.494s8.14-2.991,8.14-2.991l2.878,9.011,5.071-1.995,2.4-1.033,5.642,4.7,3.489-10.685,8.771,2.568,3.852,11.552S4644.45,1574.325,4620.354,1561.491Z" transform="translate(-4103 -1204)" fill="#0f72bb"></path></g></svg>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwMjgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" >
+						Vous êtes ?					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9062a85" data-id="9062a85" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-afc7dfb elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="afc7dfb" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.cerege.fr/communication/publications/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Calque_1" x="0px" y="0px" viewBox="0 0 534.3 534.1" style="enable-background:new 0 0 534.3 534.1;" xml:space="preserve"><style type="text/css">	.st0{display:none;}	.st1{display:inline;fill:#FFFFFF;}	.st2{fill:#000;}</style><g id="Background" class="st0">	<rect x="-40.3" y="-36.5" class="st1" width="1977" height="1101"></rect></g><g id="Contenu">	<g>		<g>			<g>				<path d="M418.4,118.5c10.7,10.8,24.9,16.7,40,16.8c0.1,0,0.1,0,0.2,0c13,0,25.2-4.3,35.2-12.3c-20.4-32.1-47.3-59.6-79-80.5     C396.6,64.7,397.7,97.7,418.4,118.5z"></path>			</g>			<g>				<path d="M404,134.3c-30.2-30.1-46.8-70-46.7-112.3c0-2.8,0.1-5.5,0.2-8.2C338.8,7.1,319.1,2.4,298.7,0     c-0.7,7.2-1.1,14.5-1.2,21.8c-0.2,58.4,22.6,113.4,64.3,154.8s97,64.2,155.9,64.4c0.3,0,0.5,0,0.8,0c5.3,0,10.6-0.2,15.8-0.6     c-2-20.5-6.3-40.3-12.6-59.2C479.2,182.1,436.3,166.4,404,134.3z"></path>			</g>			<g>				<path d="M506.4,297.3c-59.7-24.1-113.1-59.5-159-105c-45.8-45.5-81.2-98.5-105.2-157.5c-4.6-11.3-8.7-22.7-12.4-34.2     c-20.1,2.8-39.5,7.8-58,14.7c4.4,14.1,9.4,28.1,15,41.9c27,66.5,66.9,126.1,118.4,177.4c51.5,51.2,111.6,90.9,178.7,118     c10.9,4.4,22,8.5,33.1,12.2c7.2-18.4,12.4-37.7,15.5-57.8C523.8,304.1,515,300.8,506.4,297.3z"></path>			</g>			<g>				<path d="M477.1,434.1l-376-378.7c-15.7,12.3-30,26.4-42.6,41.9L435,476.4C450.5,463.9,464.6,449.7,477.1,434.1z"></path>			</g>			<g>				<path d="M232.8,303.1c-51.5-51.2-111.6-90.9-178.7-118c-12.7-5.1-25.5-9.7-38.4-13.9c-7,18.4-12.1,37.8-14.9,57.9     c10.4,3.4,20.7,7.2,30.9,11.3c59.7,24.1,113.1,59.5,159,105C236.5,391,271.9,444,295.9,503c4,9.7,7.6,19.6,10.9,29.5     c20.1-3,39.4-8.2,57.8-15.4c-4-12.3-8.4-24.5-13.4-36.6C324.2,414,284.4,354.3,232.8,303.1z"></path>			</g>			<g>				<path d="M176.2,361.1c-41.5-41.3-96.9-64.2-155.8-64.4c-6.9,0-13.7,0.3-20.4,0.9c2.3,20.5,7,40.2,13.6,59c2-0.1,4-0.1,6-0.1     c41.5,0,83,15.7,114.5,47c30.2,30.1,46.8,70,46.7,112.3c0,1.8-0.1,3.7-0.1,5.5c18.8,6.4,38.6,10.7,59,12.8     c0.5-6,0.8-12,0.8-18.1C240.7,457.5,217.9,402.5,176.2,361.1z"></path>			</g>			<g>				<path d="M119.7,419.2c-20.8-21-54.2-22.2-76.5-3.6c21.1,31.6,48.6,58.5,80.8,78.7c7.8-9.9,12.1-22.1,12.2-34.9     C136.3,444.2,130.4,430,119.7,419.2z"></path>			</g>		</g>	</g></g></svg>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://www.cerege.fr/communication/publications/" >
+						HAL					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f78444b" data-id="f78444b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1e9fa6e elementor-search-form--skin-full_screen elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-search-form" data-id="1e9fa6e" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;full_screen&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+					<search role="search">
+			<form class="elementor-search-form" action="https://www.cerege.fr/fr" method="get">
+												<div class="elementor-search-form__toggle" tabindex="0" role="button">
+					<i aria-hidden="true" class="fas fa-search"></i>					<span class="elementor-screen-only">Rechercher </span>
+				</div>
+								<div class="elementor-search-form__container">
+					<label class="elementor-screen-only" for="elementor-search-form-1e9fa6e">Rechercher </label>
+
+					
+					<input id="elementor-search-form-1e9fa6e" placeholder="Rechercher ..." class="elementor-search-form__input" type="search" name="s" value="">
+					
+					
+										<div class="dialog-lightbox-close-button dialog-close-button" role="button" tabindex="0">
+						<i aria-hidden="true" class="eicon-close"></i>						<span class="elementor-screen-only">Fermer cette boîte de recherche.</span>
+					</div>
+									</div>
+			</form>
+		</search>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8546380 elementor-widget elementor-widget-icon-box" data-id="8546380" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<span  >
+						Rech.					</span>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f6846c4" data-id="f6846c4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-175f63b elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="175f63b" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.cerege.fr/contacter-le-cerege/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<i aria-hidden="true" class="far fa-envelope"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://www.cerege.fr/contacter-le-cerege/" >
+						Contact					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				<div data-elementor-type="error-404" data-elementor-id="2502" class="elementor elementor-2502 elementor-location-single" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-7d074a66 elementor-section-content-middle elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="7d074a66" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8812b7d" data-id="8812b7d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b2c7705 elementor-widget elementor-widget-heading" data-id="b2c7705" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">404</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-32ef9440 elementor-widget elementor-widget-heading" data-id="32ef9440" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">La page est introuvable</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4054ff8a elementor-widget elementor-widget-heading" data-id="4054ff8a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Vous pouvez naviguer via le menu ou retourner sur la page d'accueil</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a2cd7a7 elementor-align-center elementor-widget elementor-widget-button" data-id="a2cd7a7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Retour à l'accueil</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				<div data-elementor-type="footer" data-elementor-id="7" class="elementor elementor-7 elementor-location-footer" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-fb8d307 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fb8d307" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f22eca4" data-id="f22eca4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0aec208 elementor-widget elementor-widget-spacer" data-id="0aec208" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.20.0 - 26-03-2024 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container{height:100%;width:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty,.e-con>.elementor-widget-spacer.elementor-widget-empty{position:relative;min-height:22px;min-width:22px}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon,.e-con>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon{position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;padding:0;width:22px;height:22px}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1d637d4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1d637d4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f79b4df" data-id="f79b4df" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-affe60a elementor-skin-carousel elementor-arrows-yes elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget elementor-widget-media-carousel" data-id="affe60a" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;5&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;slides_per_view_mobile&quot;:&quot;2&quot;,&quot;skin&quot;:&quot;carousel&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;loop&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.cerege.fr/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+							<a href="http://www.univ-amu.fr/" target="_blank">		<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="aix-marseille" data-background="https://www.cerege.fr/wp-content/uploads/2022/06/aix-marseille.png">
+
+							<div class="swiper-lazy-preloader"></div>
+			
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="http://www.cnrs.fr/" target="_blank">		<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="cnrs_2023" data-background="https://www.cerege.fr/wp-content/uploads/2022/06/cnrs_2023.png">
+
+							<div class="swiper-lazy-preloader"></div>
+			
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="http://www.ird.fr/" target="_blank">		<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="ird" data-background="https://www.cerege.fr/wp-content/uploads/2022/06/ird.png">
+
+							<div class="swiper-lazy-preloader"></div>
+			
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.college-de-france.fr/" target="_blank">		<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="college-de-france" data-background="https://www.cerege.fr/wp-content/uploads/2022/06/college-de-france.webp">
+
+							<div class="swiper-lazy-preloader"></div>
+			
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.inrae.fr/" target="_blank">		<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="inrae" data-background="https://www.cerege.fr/wp-content/uploads/2022/06/inrae.png">
+
+							<div class="swiper-lazy-preloader"></div>
+			
+					</div>
+		</a>						</div>
+									</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Précédent</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Suivant</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-019a80c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="019a80c" data-element_type="section" id="main-footer-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5da5ee3" data-id="5da5ee3" data-element_type="column" id="footer_col_logo">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c21d937 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="c21d937" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+									<a href="https://www.cerege.fr/fr">
+			<picture class="attachment-full size-full wp-image-69">
+<source type="image/webp" srcset="https://www.cerege.fr/wp-content/uploads/2022/06/cropped-logo_cerege_mini.png.webp"/>
+<img width="235" height="79" src="https://www.cerege.fr/wp-content/uploads/2022/06/cropped-logo_cerege_mini.png" alt=""/>
+</picture>
+				</a>
+									</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a452d5f" data-id="a452d5f" data-element_type="column" id="footer_col_adresse">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3a4a18f elementor-widget elementor-widget-text-editor" data-id="3a4a18f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.20.0 - 26-03-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Technopole Environnement Arbois-Méditerranée <br />BP 80 13545 Aix-en-Provence, cedex 04 &#8211; France<br />Tél. :<a href="tel:+33413949100"> (+33) (0)4 13 94 91 00</a></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-8de79ce" data-id="8de79ce" data-element_type="column" id="footer_col_social">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-376cf47 elementor-widget elementor-widget-heading" data-id="376cf47" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Suivez nous !</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f11a0d1 elementor-icon-list--layout-inline elementor-align-left elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="f11a0d1" data-element_type="widget" id="footer_reseaux_sociaux" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.facebook.com/ceregeUM34/" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook-f"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.instagram.com/cerege_officiel" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-instagram"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.linkedin.com/company/cerege/" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-linkedin-in"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://bsky.app/profile/cerege.bsky.social">
+
+												<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M407.8 294.7c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3zM288 227.1C261.9 176.4 190.9 81.9 124.9 35.3C61.6-9.4 37.5-1.7 21.6 5.5C3.3 13.8 0 41.9 0 58.4S9.1 194 15 213.9c19.5 65.7 89.1 87.9 153.2 80.7c3.3-.5 6.6-.9 10-1.4c-3.3 .5-6.6 1-10 1.4C74.3 308.6-9.1 342.8 100.3 464.5C220.6 589.1 265.1 437.8 288 361.1c22.9 76.7 49.2 222.5 185.6 103.4c102.4-103.4 28.1-156-65.8-169.9c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3c64.1 7.1 133.6-15.1 153.2-80.7C566.9 194 576 75 576 58.4s-3.3-44.7-21.6-52.9c-15.8-7.1-40-14.9-103.2 29.8C385.1 81.9 314.1 176.4 288 227.1z"></path></svg>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.youtube.com/channel/UCTHJszN7fxqmekbpq97Blbg" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-youtube"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4ccbd8c" data-id="4ccbd8c" data-element_type="column" id="footer_col_menu">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0291a10 elementor-nav-menu__align-start elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="0291a10" data-element_type="widget" id="footer_menu_secondaire" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
+				<ul id="menu-1-0291a10" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17588"><a href="https://www.cerege.fr/fr/contacter-le-cerege/" class="elementor-item">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="https://www.cerege.fr/fr/mentions-legales/" class="elementor-item">Mentions légales</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16022"><a href="https://www.cerege.fr/fr/plan-de-site/" class="elementor-item">Plan de site</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-0291a10" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17588"><a href="https://www.cerege.fr/fr/contacter-le-cerege/" class="elementor-item" tabindex="-1">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="https://www.cerege.fr/fr/mentions-legales/" class="elementor-item" tabindex="-1">Mentions légales</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16022"><a href="https://www.cerege.fr/fr/plan-de-site/" class="elementor-item" tabindex="-1">Plan de site</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-aef988e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aef988e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2dcd23c" data-id="2dcd23c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c56baf0 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="c56baf0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://www.pymac.fr" target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Réalisation PYMAC, l'agence qui vous parle</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+<template id="tp-language" data-tp-language="fr_FR"></template><!-- Matomo --><script>
+var _paq = window._paq = window._paq || [];
+_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);_paq.push(['alwaysUseSendBeacon']);_paq.push(['setTrackerUrl', "\/\/www.cerege.fr\/wp-content\/plugins\/matomo\/app\/matomo.php"]);_paq.push(['setSiteId', '1']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.src="\/\/www.cerege.fr\/wp-content\/uploads\/matomo\/matomo.js"; s.parentNode.insertBefore(g,s);
+</script>
+<!-- End Matomo Code -->		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+				<div data-elementor-type="popup" data-elementor-id="1028" class="elementor elementor-1028 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeInDown&quot;,&quot;entrance_animation_mobile&quot;:&quot;fadeInUp&quot;,&quot;exit_animation&quot;:&quot;fadeInDown&quot;,&quot;exit_animation_mobile&quot;:&quot;fadeInUp&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.5,&quot;sizes&quot;:[]},&quot;open_selector&quot;:&quot;a[href=\&quot;#open-vous-etes\&quot;]&quot;,&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:[],&quot;timing&quot;:[]}" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-caee539 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="caee539" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5740135" data-id="5740135" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-8f09182 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8f09182" data-element_type="section" id="section_interne_vous-etes">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5c12090 modal_vous-etes_icone1" data-id="5c12090" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-df1eac1 elementor-widget__width-inherit elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="df1eac1" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.cerege.fr/institution/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Calque_1" viewBox="0 0 47.4 47.58"><defs><clipPath id="clippath"><rect class="cls-3" x=".4" y=".58" width="47" height="47"></rect></clipPath></defs><g class="cls-2"><g id="Groupe_34" transform="translate(0)"><path id="Trac&#xE9;_75" class="cls-1" d="M14.99,23.44c1.65,5.54,4.92,8.95,8.61,8.95s6.96-3.41,8.61-8.95c.68,.07,2.06-.01,2.84-2.36,.32-.95,1.83-5.76,.62-7.45-.27-.36-.69-.57-1.13-.58C36.11,.03,30.74,0,23.6,0S15.44,2.72,15.44,2.72c-4.63,1.55-3.34,8.35-2.86,10.34-.41,.02-.8,.23-1.05,.56-1.22,1.69,.3,6.51,.61,7.46,.78,2.35,2.17,2.44,2.84,2.36m-2.46-9.11c.04-.07,.12-.11,.2-.1,1.18,0,1.2,2.09,1.2,2.11,0,.34,.27,.61,.61,.61,.34,0,.61-.27,.61-.61h0c0-5.17,.45-9.23,2.11-11.78,.06,3.6,10.88,1.79,12.68,2.7,.84,.42,1.48,2.39,1.93,4.3,.13,1.46,.18,3.06,.18,4.78h0c0,.34,.27,.62,.61,.62,.34,0,.61-.27,.61-.61,0-.02,.03-2.11,1.2-2.11,.08,0,.16,.03,.2,.1,.51,.71,.17,3.5-.79,6.35-.23,.7-.67,1.54-1.42,1.54-.14,0-.28-.03-.41-.08-.3-.15-.66-.04-.82,.26-.02,.04-.04,.08-.05,.13-1.42,5.24-4.4,8.62-7.6,8.62s-6.18-3.39-7.6-8.62c-.05-.17-.17-.32-.34-.39-.08-.04-.17-.06-.25-.06-.09,0-.19,.02-.27,.06-.13,.05-.27,.08-.41,.08-.75,0-1.19-.84-1.42-1.54-.95-2.85-1.29-5.64-.78-6.35"></path><path id="Trac&#xE9;_76" class="cls-1" d="M44.73,34.68c-2.03-2.7-9.32-4.85-13.13-6.12-1.25,4.49-2.83,8.88-4.72,13.14-.52-1.55-1.03-2.91-1.32-3.66,.78-.85,1.27-1.93,1.38-3.08-.03-.75-.44-1.43-1.08-1.81-.72,.3-1.49,.46-2.27,.47-.74,0-1.48-.15-2.17-.42-.6,.39-.98,1.05-1.01,1.76,.12,1.15,.6,2.23,1.38,3.08-.28,.75-.79,2.1-1.31,3.64-1.88-4.28-3.44-8.68-4.68-13.19-3.91,1.27-11.28,3.44-13.35,6.2C.9,36.71,.03,39.19,0,41.76c0,.41,.03,.82,.08,1.22,3.59,2.5,15.05,4.23,23.52,4.23s19.94-1.73,23.52-4.23c.05-.4,.08-.81,.08-1.22-.03-2.57-.9-5.06-2.48-7.08"></path></g></g></svg>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://www.cerege.fr/institution/" >
+						Institution					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5bb4e3b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5bb4e3b" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.20.0 - 26-03-2024 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-start .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-start .elementor-divider__element{margin-inline-start:0}.elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-end .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-end .elementor-divider__element{margin-inline-end:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d48937a elementor-widget__width-inherit elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="d48937a" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.cerege.fr/etudiant/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.62 46.54"><path class="d" d="M35.74,32.87l-.53-2.04-3.1-.68c-2.35-1.07-4.68-1.39-4.68-1.39l-3.48,8.98-4.15-3.47,1.91-3.75h-5.49l1.91,3.75-1.71,1.4-2.75,1.08-2.01-5.2-.77-2.4s-.07-.07-.22-.16l-.09-.24s-.14,.02-.36,.06c-.73-.2-2.11-.15-4.29,1.32-1.07,.48-2.14,1.12-3,1.96-.99,.96-1.56,2.2-1.92,3.44-1.72,3.54-1.01,6.75,.71,6.13,20.65,10.99,36.32-.02,36.32-.02l-.27-1.05"></path><path class="d" d="M29.81,11.9c0-.66-.05-1.33-.13-1.97-.4-3.88-2.85-7.3-6.35-8.92C21.89,.27,20.28-.07,18.66,.02c-1.62-.09-3.23,.25-4.63,.98-3.54,1.63-5.99,5.06-6.39,8.92-.08,.6-.12,1.21-.13,1.82-.62,.88-.89,1.97-.74,3.01,.02,.18,.44,4.39,3.05,6.21,.38,.63,.8,1.25,1.24,1.83,1.3,1.75,2.66,3.37,5.03,4.11,.8,.24,1.63,.38,2.47,.4h.21c.87-.02,1.73-.17,2.58-.43,2.3-.75,3.64-2.36,4.92-4.08,.5-.67,.96-1.37,1.38-2.08,1.97-2.22,2.73-5.1,2.79-5.96,.13-1-.09-1.99-.63-2.84Zm-11.2,13.38c-.66-.02-1.31-.12-1.94-.31-1.79-.56-2.88-1.86-4.01-3.39-.44-.59-.86-1.21-1.24-1.85-.08-.14-.2-.25-.33-.34-1.44-.89-2.19-3.44-2.33-4.88-.06-.43,0-.87,.18-1.26,.9-.27,1.8-.58,2.67-.9,3.44-1.27,6.71-2.97,9.75-5.07,.79,1.19,1.73,2.27,2.81,3.21,1.1,.97,2.33,1.79,3.65,2.44,.11,.05,.22,.08,.33,.1,.26,.45,.36,.97,.29,1.58-.02,.3-.56,2.86-2.34,4.83-.05,.05-.09,.11-.12,.17-.4,.68-.84,1.35-1.31,1.98-1.12,1.51-2.19,2.8-3.93,3.37-.66,.2-1.33,.32-2.02,.33"></path><path class="d" d="M60.56,35.48c-.05-.14-.1-.65-.14-1.07-.18-1.88-.49-5.02-2.62-7.08-.78-.75-1.99-1.36-3.61-1.81,.22-.24,.43-.49,.62-.77l.69-1.12c.19-.3,.2-.67,.04-.98-.16-.31-.47-.52-.82-.54l-1.26-.08c-.2-.59-.02-2.44,.07-3.46v-.11c.09-.87,.76-8.56-2.27-11.89-.87-1-2.14-1.59-3.45-1.64-1.13-1.04-3.5-2.86-6.38-2.86-2.44,0-4.58,1.24-6.38,3.68-3.53,4.8-2.9,8.51-2.43,11.23,.12,.64,.18,1.08,.22,1.47v.14c.12,1.11,.29,2.94,.1,3.45l-1.28,.08c-.35,.02-.66,.23-.82,.54-.16,.31-.15,.69,.04,.98l.71,1.15c.16,.24,.33,.46,.52,.67-.23,.06-.45,.12-.68,.19-.53,.16-.83,.71-.68,1.24,.16,.53,.71,.84,1.24,.68,.89-.26,1.8-.46,2.71-.59,.45-.06,.79-.42,.85-.87,.04-.32-.09-.63-.31-.84l2.02-1.38,1.74-1.84c.24,.31,.49,.61,.77,.88,.27,.27,.58,.5,.94,.7,.68,.36,1.42,.54,2.17,.54s1.49-.18,2.18-.54c.26-.15,.51-.32,.73-.52,.22-.19,.42-.39,.59-.6,.1-.11,.2-.23,.29-.35,.16-.19,.31-.39,.46-.6l.13-.17c.19-.26,.37-.52,.53-.77,.41-.62,.75-1.28,1-1.98,0,.28-.03,.6-.05,1-.21,2.96-.38,5.83,1.53,5.37,.81-.23,1.54-.66,2.16-1.21,.15,.09,.31,.15,.47,.19-.41,.49-.94,.87-1.55,1.1-.42,.16-.69,.58-.64,1.04,.05,.45,.39,.81,.84,.89,3.01,.48,4.31,1.23,4.87,1.77,1.6,1.55,1.86,4.24,2.02,5.84,.08,.77,.12,1.28,.29,1.65,.16,.37,.51,.58,.88,.58,.13,0,.26-.02,.38-.07,.5-.19,.75-.78,.57-1.29ZM47.47,6.92c.16,0,.32,.01,.48,.03l-1.46,2c-.06-.02-.11-.03-.17-.04-.17-.59-.77-2.47-1.72-3.9,.96,.56,1.71,1.22,2.11,1.62,.2,.2,.48,.3,.76,.29Zm-1.93,13.42c-.14,.2-.28,.38-.42,.55-.07,.09-.15,.18-.23,.28-.12,.15-.26,.28-.41,.41-.12,.11-.25,.2-.37,.26-.77,.4-1.69,.4-2.43,0-.18-.1-.35-.23-.5-.37-.22-.22-.43-.46-.64-.73l-.32-.41c-.08-.1-.15-.21-.22-.31-.12-.17-.23-.34-.36-.54-.64-.95-1.04-2.05-1.16-3.17,.06-.01,.12-.03,.19-.05,.39-.11,.78-.24,1.15-.4,.24-.1,.48-.21,.73-.33,.38-.19,.75-.4,1.13-.63,.2-.13,.4-.25,.62-.39,1.38-.96,2.68-2.04,3.86-3.23l.02-.02c.61,.7,1,1.58,1.09,2.52,.09,.8,.1,1.62,.02,2.44-.11,1.16-.52,2.28-1.18,3.27-.15,.23-.31,.46-.51,.75"></path><path class="d" d="M47.69,27.27c-.18-.28-.48-.45-.81-.46-.34,0-.64,.15-.84,.41l-3.03,4.2-3.03-4.2c-.2-.28-.53-.42-.88-.4-.34,.02-.65,.22-.82,.52l-1.14,2.07c-.27,.48-.09,1.09,.39,1.36,.48,.27,1.09,.09,1.36-.39l.39-.7,2.73,3.78c.19,.26,.49,.41,.81,.41h.37c.32,0,.62-.15,.81-.41l2.73-3.78,2.45,4.44c.18,.33,.52,.52,.88,.52,.16,0,.33-.04,.48-.12,.48-.27,.66-.88,.39-1.36l-3.25-5.88Z"></path></svg>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://www.cerege.fr/etudiant/" >
+						Étudiant-e <br/> &nbsp;					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2e7c836 modal_vous-etes_titre" data-id="2e7c836" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-25dc659 vous-etes-title elementor-widget elementor-widget-heading" data-id="25dc659" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Vous êtes ?</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-be85fed elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="be85fed" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9f2c2c3 elementor-widget__width-inherit elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="9f2c2c3" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.cerege.fr/acteur-economique/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<svg xmlns="http://www.w3.org/2000/svg" width="35.68" height="39.077" viewBox="0 0 35.68 39.077"><g id="Groupe_103" data-name="Groupe 103" transform="translate(-847.635 -776.666)"><g id="_49dc4b08602142dcb71060a4ae3c62e8" data-name="49dc4b08602142dcb71060a4ae3c62e8" transform="translate(772.726 764.618)"><g id="Groupe_102" data-name="Groupe 102" transform="translate(74.909 9.997)"><path id="Trac&#xE9;_181" data-name="Trac&#xE9; 181" d="M199.567-478.075c0,.181,1.528,5.242,2.944,9.347,1.3,3.76,2.386,6.886,2.411,6.944.082.148,3.365-10.085,3.365-10.455,1.51-3.467,2.231-5.561,1.613-4.806C206.6-472.445,200.552-473.28,199.567-478.075Z" transform="translate(-187.008 501.003)"></path><path id="Trac&#xE9;_182" data-name="Trac&#xE9; 182" d="M85.426,109.494c-4.237,1.835-6.615,3.209-7.807,4.508-1.061,1.16-1.736,3.02-2.262,6.269a27.482,27.482,0,0,0-.436,3.826c.05.132,1.292.14,17.828.14,16.191,0,17.779-.008,17.828-.132a37.1,37.1,0,0,0-.724-5.339c-.568-2.682-1.209-4.1-2.353-5.142a23.455,23.455,0,0,0-4.788-2.945c-.436-.2-1.546-.691-2.468-1.094l-1.678-.732.815.806c1.753,1.728,3.044,3.686,3.283,4.969l.057.313h-1.193c-.93,0-1.209.025-1.283.115s-.041.329.2,1.119a7.3,7.3,0,0,1,.255,1.061c-.082.132-7.8,5.315-7.881,5.29-.23-.066-7.791-5.257-7.8-5.356,0-.057.115-.494.255-.971.37-1.292.436-1.209-1.061-1.242l-1.251-.025.05-.222a12.222,12.222,0,0,1,3.521-5.249c.452-.428.8-.773.781-.765S86.447,109.058,85.426,109.494Z" transform="translate(-74.909 -83.109)"></path></g></g><path id="Intersection_1" data-name="Intersection 1" d="M-4085.777-6.223a8.608,8.608,0,0,1-4.058-.146,84.9,84.9,0,0,1,.077-12.956c.363-3.635,1.128-5.592,2.65-7.2,4.086-4.321,7.494-1.44,7.494-1.44s4.769-.72,6.131,2.878c2.531,6.684,1.364,18.716,1.364,18.716a8.58,8.58,0,0,1-4.06.146c-1.294,2.047-2.974,3.219-4.8,3.219S-4084.484-4.179-4085.777-6.223Zm-1.431-13.068c-.087,1.079-.122,2.265-.122,3.564a27.538,27.538,0,0,0,.643,4.928c1.065,4.141,3.308,6.823,5.71,6.823s4.645-2.682,5.713-6.838a27.471,27.471,0,0,0,.641-4.913c0-1.331-.037-2.549-.126-3.649-3.61-.271-11.027-4.111-11.027-4.111s0-.012,0-.012A10.1,10.1,0,0,0-4087.208-19.291Z" transform="translate(4946.5 805.57)"></path></g></svg>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://www.cerege.fr/acteur-economique/" >
+						Acteur <br/> économique					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-01611a1 modal_vous-etes_icone2" data-id="01611a1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d666a9e elementor-widget__width-inherit elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="d666a9e" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.cerege.fr/chercheur/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57.3 61.29"><defs></defs><g id="a"></g><g id="b"><g id="c"><g><rect class="k" x="42.29" y="3.2" width="2" height="4.28"></rect><rect class="k" x="35.49" y="5.97" width="2" height="3.2" transform="translate(5.34 28.02) rotate(-45)"></rect><rect class="k" x="32.15" y="12.48" width="4.28" height="2"></rect><rect class="k" x="34.89" y="19" width="3.2" height="2" transform="translate(-3.45 31.66) rotate(-45)"></rect><rect class="k" x="47.92" y="18.4" width="2" height="3.19" transform="translate(.19 40.45) rotate(-45)"></rect><rect class="k" x="49.29" y="12.48" width="4.28" height="2"></rect><rect class="k" x="47.32" y="6.57" width="3.2" height="2" transform="translate(8.98 36.81) rotate(-45)"></rect><path class="k" d="M43.51,22.78c.27,0,.52-.11,.71-.29l.8-.8c.19-.19,.29-.44,.29-.71v-1.6h0v-.69c.11-.48,.38-.91,.84-1.28,.98-.94,1.55-2.26,1.55-3.62,0-2.75-2.24-4.99-4.99-4.99s-4.99,2.24-4.99,5c.01,1.36,.58,2.67,1.63,3.67,.39,.31,.66,.74,.77,1.22v.7h0v1.6c0,.26,.11,.52,.29,.71l.8,.8c.19,.19,.44,.29,.71,.29h1.6Zm-.42-2h-.77l-.21-.21v-.18h1.2v.18l-.21,.21Zm-3.38-6.99c0-1.65,1.34-2.99,2.99-2.99s2.99,1.34,2.99,2.99c0,.82-.34,1.62-.86,2.12-.79,.62-1.32,1.5-1.51,2.48h-1.23c-.19-.99-.72-1.87-1.44-2.43-.59-.57-.94-1.36-.94-2.17Z"></path><path class="k" d="M53.89,0H30.72c-1.88,0-3.4,1.53-3.4,3.4v5.59h2V3.4c0-.77,.63-1.4,1.4-1.4h23.17c.77,0,1.4,.63,1.4,1.4V23.37c0,.77-.63,1.4-1.4,1.4h-2.4c-.29,0-.56,.12-.75,.33l-4.65,5.23v-4.57c0-.55-.45-1-1-1h-3.2v2h2.2v4.09c0,.52,.22,1.01,.61,1.36,.33,.29,.75,.45,1.19,.45,.04,0,.08,0,.12,0,.48-.03,.92-.25,1.23-.6l4.7-5.29h1.95c1.88,0,3.4-1.53,3.4-3.4V3.4c0-1.88-1.53-3.4-3.4-3.4Z"></path></g><g id="d"><g id="e"><path id="f" class="k" d="M29.95,42.57c1.79,.35,3.63,.28,5.39-.18,0,0,1.55-15.08-1.81-23.46-1.81-4.51-8.14-3.61-8.14-3.61,0,0-4.52-3.61-9.95,1.81-2.02,2.02-3.04,4.47-3.52,9.02-.47,5.4-.5,10.83-.1,16.24,1.76,.47,3.6,.53,5.38,.18,1.72,2.57,3.94,4.03,6.37,4.03s4.65-1.47,6.37-4.04m-6.37,2.82c-3.19,0-6.16-3.36-7.58-8.55-.48-2.03-.77-4.1-.85-6.18,0-1.63,.05-3.11,.16-4.47,2.46,.11,10.08,.13,10.08-3.65,0,0,1.66,3.21,6.46,3.55,.12,1.38,.17,2.9,.17,4.57-.09,2.08-.37,4.14-.85,6.16-1.42,5.21-4.4,8.57-7.58,8.57"></path><path id="g" class="k" d="M13.09,49.26h.64c.34,0,.61,.27,.61,.61,0,.09-.02,.18-.06,.26l-1.48,3.09c2.07,2.81,4.35,5.47,6.8,7.95,.69,.05,1.38,.09,2.09,.11-2.38-3.77-4.85-13.32-5.86-17.5l-2.75,5.47Z"></path><path id="h" class="k" d="M11.54,53.02l1.22-2.55h-.66c-.34,0-.61-.27-.61-.6,0-.1,.02-.19,.07-.28l3.25-6.5,.02-.02c-3.45,1.3-10.46,3.31-12.34,5.8C.9,50.89,.03,53.37,0,55.92c0,.4,.03,.81,.08,1.21,2.72,1.89,11.75,3.31,17.63,3.89-2.19-2.33-4.23-4.8-6.12-7.38-.13-.18-.15-.42-.06-.62"></path><path id="i" class="k" d="M44.69,48.89c-1.94-2.57-9.04-4.62-12.62-5.91,.04,.04,.07,.08,.1,.12l3.25,6.5c.15,.3,.03,.67-.28,.82-.08,.04-.18,.06-.27,.06h-.66l1.22,2.55c.1,.2,.08,.44-.06,.62-1.9,2.58-3.95,5.05-6.14,7.39,5.98-.57,15.09-1.99,17.84-3.9,.05-.4,.08-.8,.08-1.21-.03-2.55-.9-5.02-2.47-7.03"></path><path id="j" class="k" d="M32.7,50.13c-.14-.3-.02-.67,.29-.81,.08-.04,.17-.06,.27-.06h.64l-2.5-5c-1.16,4.4-3.71,13.4-6.07,17.03,.69-.02,1.37-.06,2.04-.11,2.46-2.49,4.73-5.15,6.81-7.97l-1.48-3.09Z"></path></g></g></g></g></svg>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://www.cerege.fr/chercheur/" >
+						Scientifique					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-21c421e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="21c421e" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e8babe3 elementor-widget__width-inherit elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="e8babe3" data-element_type="widget" id="icon-grand-public" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.cerege.fr/grand-public/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93.67 46.36"><defs></defs><g id="a"></g><g id="b"><g id="c"><path class="j" d="M62.38,40.41h.08c-.38-.87-.08-4.98-2.09-7.73l-.53-2.04-3.1-.68c-2.35-1.07-4.68-1.39-4.68-1.39l-3.48,8.98-4.15-3.47,1.91-3.75h-5.49l1.91,3.75-1.71,1.4-2.75,1.08-2.01-5.2-.77-2.4s-.07-.07-.22-.16l-.09-.24s-.14,.02-.36,.06c-.73-.2-2.11-.15-4.29,1.32-1.07,.48-2.14,1.12-3,1.96-.99,.96-1.56,2.2-1.92,3.44-1.72,3.54-1.01,6.75,.71,6.13,20.65,10.99,36.32-.02,36.32-.02l-.27-1.05Z"></path><path class="j" d="M54.06,11.9c0-.66-.05-1.33-.13-1.97-.4-3.88-2.85-7.3-6.35-8.92-1.44-.74-3.05-1.08-4.67-1-1.62-.09-3.23,.25-4.63,.98-3.54,1.63-5.99,5.06-6.39,8.92-.08,.6-.12,1.21-.13,1.82-.62,.88-.89,1.97-.74,3.01,.02,.18,.44,4.39,3.05,6.21,.38,.63,.8,1.25,1.24,1.83,1.3,1.75,2.66,3.37,5.03,4.11,.8,.24,1.63,.38,2.47,.4h.21c.87-.02,1.73-.17,2.58-.43,2.3-.75,3.64-2.36,4.92-4.08,.5-.67,.96-1.37,1.38-2.08,1.97-2.22,2.73-5.1,2.79-5.96,.13-1-.09-1.99-.63-2.84Zm-11.2,13.38c-.66-.02-1.31-.12-1.94-.31-1.79-.56-2.88-1.86-4.01-3.39-.44-.59-.86-1.21-1.24-1.85-.08-.14-.2-.25-.33-.34-1.44-.89-2.19-3.44-2.33-4.88-.06-.43,0-.87,.18-1.26,.9-.27,1.8-.58,2.67-.9,3.44-1.27,6.71-2.97,9.75-5.07,.79,1.19,1.73,2.27,2.81,3.21,1.1,.97,2.33,1.79,3.65,2.44,.11,.05,.22,.08,.33,.1,.26,.45,.36,.97,.29,1.58-.02,.3-.56,2.86-2.34,4.83-.05,.05-.09,.11-.12,.17-.4,.68-.84,1.35-1.31,1.98-1.12,1.51-2.19,2.8-3.93,3.37-.66,.2-1.33,.32-2.02,.33"></path><path class="j" d="M29.85,40.09c-.05-.14-.1-.65-.14-1.07-.18-1.88-.49-5.02-2.62-7.08-.78-.75-1.99-1.36-3.61-1.81,.22-.24,.43-.49,.62-.77l.69-1.12c.19-.3,.2-.67,.04-.98-.16-.31-.47-.52-.82-.54l-1.26-.08c-.2-.59-.02-2.44,.07-3.46v-.11c.09-.87,.76-8.56-2.27-11.89-.87-1-2.14-1.59-3.45-1.64-1.13-1.04-3.5-2.86-6.38-2.86-2.44,0-4.58,1.24-6.38,3.68C.79,15.14,1.43,18.85,1.9,21.58c.12,.64,.18,1.08,.22,1.47v.14c.12,1.11,.29,2.94,.1,3.45l-1.28,.08c-.35,.02-.66,.23-.82,.54-.16,.31-.15,.69,.04,.98l.71,1.15c.16,.24,.33,.46,.52,.67-.23,.06-.45,.12-.68,.19-.53,.16-.83,.71-.68,1.24,.16,.53,.71,.84,1.24,.68,.89-.26,1.8-.46,2.71-.59,.45-.06,.79-.42,.85-.87,.04-.32-.09-.63-.31-.84l2.02-1.38,1.74-1.84c.24,.31,.49,.61,.77,.88,.27,.27,.58,.5,.94,.7,.68,.36,1.42,.54,2.17,.54s1.49-.18,2.18-.54c.26-.15,.51-.32,.73-.52,.22-.19,.42-.39,.59-.6,.1-.11,.2-.23,.29-.35,.16-.19,.31-.39,.46-.6l.13-.17c.19-.26,.37-.52,.53-.77,.41-.62,.75-1.28,1-1.98,0,.28-.03,.6-.05,1-.21,2.96-.38,5.83,1.53,5.37,.81-.23,1.54-.66,2.16-1.21,.15,.09,.31,.15,.47,.19-.41,.49-.94,.87-1.55,1.1-.42,.16-.69,.58-.64,1.04,.05,.45,1.19-.27,1.64-.2,3.01,.48,4.31,1.52,4.87,2.06,1.6,1.55,1.06,5.04,1.21,6.64,.08,.77,.12,1.28,.29,1.65,.16,.37,.51,.58,.88,.58,.13,0,.26-.02,.38-.07,.5-.19,.75-.78,.57-1.29ZM16.75,11.52c.16,0,.32,.01,.48,.03l-1.46,2c-.06-.02-.11-.03-.17-.04,1.11-2.24,.1-3.59-1.72-3.9,.96,.56,1.71,1.22,2.11,1.62,.2,.2,.48,.3,.76,.29Zm-.8,13.9c-.18,.25-.36,.48-.54,.7-.09,.12-.18,.23-.3,.35-.16,.18-.33,.36-.52,.52-.16,.14-.32,.26-.46,.34-.98,.51-2.69,1.06-3.64,.56-.23-.13-.45-.29-.63-.48-.29-.28-.55-.58-.81-.92l-.4-.53c-.1-.13-.19-.26-.28-.39-.15-.22-.3-.43-.46-.69-.81-1.2-.77-3.16-.92-4.58,.08-.02,.16-.04,.24-.06,.5-.14,.99-.31,1.46-.5,.3-.12,.61-.27,.93-.42,.48-.24,.95-.5,1.44-.8,.26-.16,.51-.32,.78-.5,1.76-1.21,3.41-2.6,4.91-4.11l.03-.03c.78,.89,1.27,2.01,1.39,3.21,.11,1.02,.12,2.06,.03,3.1-.14,1.47-.66,2.9-1.5,4.15-.19,.3-.39,.59-.65,.95"></path><path class="j" d="M2.9,33.21c.19-.84,3-4.41,3.47-4.5s4.29,2.42,7.79,1.41c3.64-1.05,1.63-1.29,4.6,.19,2.95,1.46,6.48,1.31,7.88,5.07s.84,7.13,.84,7.13c0,0-11.36-4.88-19.62-.38-1.13-7.04-4.97-8.92-4.97-8.92Z"></path><g><path class="j" d="M70.96,15.36c0-.4-.03-.81-.08-1.2-.24-2.36-4.43-5.08-4.43-5.08-.88-.45-1.3-1.02-2.29-.97-1.31-.64-4.79,2.17-5.58,2.74-1.9,2.09-1.45,2.35,1.85,2.84,.37,.05-3.71-.4-3.72-.03-.38,.54,.1,2.8,.19,3.43,.01,.11,.27,2.68,1.86,3.78,.23,.38,.49,.76,.75,1.11,.79,1.06,1.62,2.06,3.07,2.5,.49,.15,.99,.23,1.5,.24h.13c.53-.01,1.06-.1,1.57-.26,1.4-.46,2.22-1.44,3-2.49,.3-.41,.59-.83,.84-1.27,1.2-1.36,1.66-3.11,1.7-3.63,.08-.61-.06-1.21-.38-1.73Zm-6.83,8.16c-.4-.01-.8-.08-1.18-.19-1.09-.34-1.75-1.14-2.45-2.07-.27-.36-.52-.74-.76-1.13-.05-.08-.12-.16-.2-.21-.88-.54-1.33-2.1-1.42-2.98-.04-.26,0-.53,.11-.77,.55-.17,1.1-.35,1.63-.55,2.1-.78,4.09-1.81,5.95-3.09,.48,.73,1.06,1.38,1.71,1.96,.67,.59,1.42,1.09,2.23,1.49,.07,.03,.14,.05,.2,.06,.16,.27,.22,.59,.17,.96,0,.18-.34,1.75-1.43,2.94-.03,.03-.05,.07-.08,.1-.24,.41-.51,.82-.8,1.21-.68,.92-1.34,1.71-2.39,2.05-.4,.12-.81,.19-1.23,.2"></path><path class="j" d="M52.7,32.75c-.51-1.2-1.42-6.03,1.29-7.12,5.49-2.21,5.15-1.97,5.92-2.66,0,0-1.12,.77,1.8,1.54s1.16,.77,2.83,.64c2.36-.17,3.65-2.36,3.65-2.36,0,0,1.16,0,2.79,1.12s4.38,2.83,4.63,5.15-.43,5.24-.43,5.24l-22.06,.34-.43-1.89Z"></path></g><g id="d"><g id="e"><path id="f" class="j" d="M86.61,29.44c1.42,.28,1.95,5.2,3.35,4.83,6.35-1.64,3.43-17.38-.51-23.76-1.44-3.61-6.46-2.89-6.46-2.89,0,0-3.59-2.89-7.9,1.45-1.61,1.61-2.41,3.58-2.8,7.22-.37,4.32-.4,8.67-.08,13,1.4,.37,2.86,.42,4.27,.15,1.36,2.05,3.13,3.23,5.06,3.23s3.69-1.17,5.06-3.23m-5.79,2.27c-2.53,0-4.16-2.7-5.28-6.86-.38-1.62-.61-3.28-.68-4.94,0-1.3,1.2-1.5,1.29-2.58,1.95,.08,11.67-2.29,11.67-5.32,0,0-3.51,3.97,.29,4.24,.09,1.1,.13,2.33,.13,3.66-.07,1.66-.29,3.31-.67,4.93-1.13,4.17-3.44,6.87-5.97,6.87"></path><path id="g" class="j" d="M73.22,34.79h.51c.27,0,.48,.22,.48,.49,0,.07-.02,.14-.05,.21l-1.17,2.47c1.65,2.25,3.45,4.38,5.4,6.37,.55,.04,1.09,.07,1.66,.09-1.89-3.02-3.85-10.66-4.65-14.01l-2.18,4.38Z"></path><path id="h" class="j" d="M71.99,37.81l.97-2.04h-.53c-.27,0-.48-.21-.48-.48,0-.08,.02-.15,.05-.22l2.58-5.2h.01c-2.74,1.02-8.3,2.63-9.8,4.63-1.25,1.61-1.94,3.59-1.96,5.64,0,.32,.03,.65,.07,.97,2.16,1.51,9.33,2.65,14,3.11-1.73-1.87-3.36-3.84-4.86-5.9-.1-.14-.12-.33-.04-.49"></path><path id="i" class="j" d="M88.79,35.49c-.11-.24-.01-.53,.23-.65,.07-.03,.14-.05,.21-.05h.51l-1.98-4c-.92,3.52-2.94,10.72-4.81,13.63,.55-.02,1.09-.05,1.62-.08,1.95-1.99,3.76-4.12,5.4-6.38l-1.17-2.47Z"></path></g></g></g></g></svg>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://www.cerege.fr/grand-public/" >
+						Grand public <br/> &nbsp;					</a>
+				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activer pour trier la colonne ascendante","sort_descending":": activer pour trier la colonne descendante"},"length_menu":"Afficher les saisies _MENU_","empty_table":"Aucune donn\u00e9e disponible sur le tableau","info":"Affichant_START_ \u00e0 _END_ du _TOTAL_ des saisies","info_empty":"Affichant 0 \u00e0 0 de 0 saisies","info_filtered":"(filtr\u00e9 \u00e0 partir du total des saisies _MAX_ )","zero_records":"Aucun enregistrement correspondant trouv\u00e9","search":"Rechercher :","all_selected_text":"Tous les \u00e9l\u00e9ments de cette page ont \u00e9t\u00e9 s\u00e9lectionn\u00e9s. ","select_all_link":"S\u00e9lectionner toutes les pages","clear_selection":"Effacer la s\u00e9lection.","pagination":{"all":"Tout","next":"Suivant","previous":"Pr\u00e9c\u00e9dent"},"select":{"rows":{"0":"","_":": a s\u00e9lectionn\u00e9 %d rang\u00e9es","1":": a s\u00e9lectionn\u00e9 une rang\u00e9e"}},"datepicker":{"dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesMin":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","currentText":"Aujourd&#039;hui","closeText":"Termin\u00e9","today":"Aujourd&#039;hui","clear":"Clear"}};/* ]]> */ </script><link rel='stylesheet' id='e-animations-css' href='https://www.cerege.fr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.20.3' media='all' />
+<script src="https://www.cerege.fr/wp-content/plugins/dynamicconditions/Public/js/dynamic-conditions-public.js?ver=1.6.2" id="dynamic-conditions-js"></script>
+<script src="https://www.cerege.fr/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.1" id="hello-theme-frontend-js"></script>
+<script id="eael-general-js-extra">
+var localize = {"ajaxurl":"https:\/\/www.cerege.fr\/wp-admin\/admin-ajax.php","nonce":"ad96219291","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Portrait mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Paysage","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette en mode portrait","value":992,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablette en mode paysage","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+</script>
+<script src="https://www.cerege.fr/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.9.14" id="eael-general-js"></script>
+<script src="https://www.cerege.fr/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script id="megamenu-js-extra">
+var megamenu = {"timeout":"300","interval":"100"};
+</script>
+<script src="https://www.cerege.fr/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=3.3.1" id="megamenu-js"></script>
+<script src="https://www.cerege.fr/wp-content/plugins/megamenu-pro/assets/public.js?ver=2.2.6" id="megamenu-pro-js"></script>
+<script src="https://www.cerege.fr/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
+<script src="https://www.cerege.fr/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="https://www.cerege.fr/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.20.2" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://www.cerege.fr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.20.3" id="elementor-webpack-runtime-js"></script>
+<script src="https://www.cerege.fr/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.20.3" id="elementor-frontend-modules-js"></script>
+<script src="https://www.cerege.fr/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://www.cerege.fr/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://www.cerege.fr/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://www.cerege.fr/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script src="https://www.cerege.fr/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.cerege.fr\/wp-admin\/admin-ajax.php","nonce":"0207620b94","urls":{"assets":"https:\/\/www.cerege.fr\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.cerege.fr\/fr\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.cerege.fr\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://www.cerege.fr/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.20.2" id="elementor-pro-frontend-js"></script>
+<script src="https://www.cerege.fr/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="https://www.cerege.fr/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer","a11yCarouselWrapperAriaLabel":"Carousel | Scroll horizontal: Fl\u00e8che gauche & droite","a11yCarouselPrevSlideMessage":"Diapositive pr\u00e9c\u00e9dente","a11yCarouselNextSlideMessage":"Diapositive suivante","a11yCarouselFirstSlideMessage":"Ceci est la premi\u00e8re diapositive","a11yCarouselLastSlideMessage":"Ceci est la derni\u00e8re diapositive","a11yCarouselPaginationBulletMessage":"Aller \u00e0 la diapositive"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":993,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Portrait mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Paysage","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette en mode portrait","value":992,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablette en mode paysage","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.20.3","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true,"notes":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.cerege.fr\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"viewport_tablet":992,"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":0,"title":"Page Introuvable - CEREGE","excerpt":""}};
+</script>
+<script src="https://www.cerege.fr/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.3" id="elementor-frontend-js"></script>
+<script src="https://www.cerege.fr/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.20.2" id="pro-elements-handlers-js"></script>
+<script src="https://www.cerege.fr/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.20.2" id="e-sticky-js"></script>
+
+</body>
+</html>

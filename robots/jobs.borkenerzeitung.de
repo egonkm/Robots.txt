@@ -1,0 +1,10 @@
+User-agent: Twitterbot
+Disallow:
+
+User-Agent: *
+Allow: /
+
+Sitemap: https://anzeigen-test.aschendorff-medien.de/sitemap.xml
+Sitemap: https://anzeigen-test.aschendorff-medien.de/_em_oas/_em_daten/wnabza/_search/_sitemaps/sitemap_details_410.xml
+Sitemap: https://anzeigen-test.aschendorff-medien.de/_em_oas/_em_daten/wnabza/_search/_sitemaps/sitemap.xml
+Sitemap: https://anzeigen-test.aschendorff-medien.de/_em_oas/_em_daten/wnabza/_search/_sitemaps/sitemap_companyindex.xml

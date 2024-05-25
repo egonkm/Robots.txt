@@ -1,0 +1,1 @@
+Sitemap: https://www.atairu.com/sitemap.xml.gz

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+User-agent: AdsBot-Google
+User-agent: Googlebot
+User-agent: Googlebot-Image
+
+Sitemap: https://www.intersportrent.at/sitemaps/sitemap.xml

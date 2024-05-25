@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /maintenance/
+Disallow: /fable/
+Disallow: /thank-you/
+Disallow: /preview/
+Disallow: /projects/*
+Sitemap: https://mammoth.tech/sitemap-index.xml
+Host: https://mammoth.tech

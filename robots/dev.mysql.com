@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /get/
+Disallow: /auth/
+
+# Like a bad rash
+User-agent: msnbot
+Crawl-delay: 20
+Disallow: /doc/comment.php
+Disallow: /doc/mysql/comment.php

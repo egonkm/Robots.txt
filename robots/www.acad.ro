@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Academia RomÃ¢nÄ - Institutia</title>
+
+        <link rel="icon" href="https://acad.ro/institutia/img/favicon.ico" type="image/png">
+        <link rel="stylesheet" href="https://acad.ro/institutia/diverse/bootstrap/bootstrap.min.css">
+        <link rel="stylesheet" href="https://acad.ro/institutia/diverse/fontawesome/css/all.min.css">
+        <link rel="stylesheet" href="https://acad.ro/institutia/diverse/themify-icons/themify-icons.css">
+        <link rel="stylesheet" href="https://acad.ro/institutia/diverse/linericon/style.css">
+        <link rel="stylesheet" href="https://acad.ro/institutia/diverse/magnefic-popup/magnific-popup.css">
+        <link rel="stylesheet" href="https://acad.ro/institutia/diverse/owl-carousel/owl.theme.default.min.css">
+        <link rel="stylesheet" href="https://acad.ro/institutia/diverse/owl-carousel/owl.carousel.min.css">
+        <link rel="stylesheet" href="https://acad.ro/institutia/diverse/nice-select/nice-select.css">
+
+        <link rel="stylesheet" href="https://acad.ro/institutia/css/style.css">
+        <link rel="stylesheet" href="https://acad.ro/institutia/css/mine.css">
+    </head>
+
+    <body>
+
+        <div class="container">
+            <p align="center"><a href="https://acad.ro"><img src="https://acad.ro/institutia/comunicate/img/c0a.jpg"></a></p>
+            <hr>
+            <h5 align="center">AceastÄ paginÄ nu existÄ</h5>
+            <p align="center"><strong>Eroare 404</strong> -- Mesaj de eroare personalizat pentru Academia RomÃ¢nÄ</p>
+            
+            
+                    <div class="text-center">
+                        <a class="button button--active home-banner-btn mt-4" href="https://acad.ro"> Pagina principalÄ</a>
+                    </div>
+        </div>
+    </body>
+</html>

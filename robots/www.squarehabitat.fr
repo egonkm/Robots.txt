@@ -1,0 +1,55 @@
+User-agent: Adsbot-Google
+User-agent: AdsBot-Google-Mobile
+
+User-agent: *
+#bloquage des pages refonte
+Disallow: /mesdossiersdelocation
+Disallow: /plan-du-site
+DisallowÂ : /-/
+Disallow: /-/*
+Disallow: /*/-/*
+Disallow: /resultat-location
+Disallow: /resultat-achat
+Disallow: /resultats-agence
+
+#bloquage des pages du site actuel pas encore prises en compte par Google
+Disallow: /resultats.aspx?search=1&amp;agence*
+Disallow: /resultats.aspx?search=1&amp;type-transaction*
+Disallow: /popinAlerte.aspx
+Disallow: /conseil-regional.aspx
+Disallow: /conseil-regional_210.aspx
+Disallow: /default.aspx*
+Disallow: /inscription.aspx
+Disallow: /administrer-votre-bien_169.aspx
+Disallow: /qui-sommes-nous_7.aspx
+Disallow: /espace-recrutement/upload-documents/
+Disallow: /espace-recrutement/upload-doc/
+Disallow: /*.ashx
+Disallow: /*.axd$
+Disallow: /*.axd
+Disallow: /ScriptResource.axd
+Disallow: /WebResource.axd
+Disallow: /administrer-votre-bien/ctrls/
+Disallow: /oublie.aspx
+Disallow: /ctrls/
+Disallow: */immo/*
+Disallow: /login.aspx*
+Disallow: /login.aspx?ReturnUrl=*
+Disallow: /espace-client/*
+Disallow: /espace-bailleurs.aspx
+Disallow: /espace-bailleurs/*
+Disallow: /connexion.aspx
+
+#bloquage des pages pdf
+Disallow: /baremes/*
+Disallow: /pdf/*
+Disallow: /loader
+Disallow: /sh-*/agences.aspx
+Disallow: /sh-*/recherche-agences.aspx?*
+Disallow: /sh-*/acheter-appartement-*.aspx
+Disallow: /sh-*/acheter-maison-*.aspx
+Disallow: /sh-*/louer-appartement-*.aspx
+Disallow: /sh-*/louer-maison-*.aspx
+Disallow: /agence-square-habitat-*
+
+Sitemap: https://www.squarehabitat.fr/sitemap.xml

@@ -1,0 +1,84 @@
+#Robots.txt - www.tf1info.fr
+
+User-agent: *
+
+Disallow: */1000
+Disallow: *Translate*
+Disallow: */recherche/*
+Disallow: */coming-next/*
+Disallow: */particuliers/*
+Disallow: */redaction/*/*/*/*
+Disallow: */examens/resultats/*
+Disallow: */mdp-reenitialisation/*
+Disallow: /*?v=*
+Disallow: /*?s=*
+Disallow: /*?ref=*
+Disallow: /*?type=*
+Disallow: /*?page=*
+Disallow: /*?query=*
+Disallow: /*?device=*
+Disallow: /*Echobox=*
+Disallow: /*?orderby=*
+Disallow: /*?toDelete=*
+Disallow: /*?redirect=*
+Disallow: /*servicetype=*
+Disallow: /*serviceType=*
+Disallow: /*?lang=fr&error*
+
+User-agent: Twitterbot
+Disallow:
+User-agent: facebookexternalhit
+Disallow:
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SearchmetricsBot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: deepcrawl
+Disallow: /
+User-Agent: OnCrawl
+Disallow: /
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-Agent: Sistrix
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+
+Sitemap: https://www.tf1info.fr/sitemap-n.xml
+Sitemap: https://www.tf1info.fr/sitemap.xml
+Sitemap: https://www.tf1info.fr/sitemap-pages-0.xml
+
+#.................''''''''''''''''''''',,,,,,,,;;;;;;;;;;;;::::::::::::::::::;::;;;;;;;;;;;;;;;;;,,,,,,,,,,''''''''...'dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#................'''''''''''''''',',,,,,,,,,,,;;;;;;;;;;;;::::::::::::::::::;::;;;;;;;;;;;;;;;;;;;,,,,,,,,,,'''''''...'dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#........,;:::::::cccccccccccccccccc;,,,,,,,,;;;;;;;:llllooooooooooooooooooolc;:;;;;;;;;;;;;;;;;;;,,,,,,;:;,''''''''..'dNMMMMMMMMMMWX0000000XWMMMMMMMMWX000000XWMMMMMMMMMMMNK000000KWMMMMMMMMWX0000000000000000000000KWMMMMMMMMMMMMWX0kxddddxkO0XWMMMMMMMMM
+#.......'dXNNNNNNNNNNNNNNNNNNNNNNNNXd,,,,,,,;;;;;;;:dXNNNNNNNNNNNNNNNNNNNNNNKo:::;;;;;;;;;;;;;;;;::lodkO0Kx;''''''''..'dNMMMMMMMMMMXc.......:KMMMMMMMMK:......,xNMMMMMMMMMWx.......;0MMMMMMMMXc......................;0MMMMMMMMWKxl;...       ..';okXWMMMMM
+#.......'xWMMMMMMMMMMMMMMMMMMMMMMMMNd,,,,,,,;;;;;;;:dNMMMMMMMMMMMMMMMMMMMMMMXd::;;;;;;;;;;;;:oxkO0XNWWMMMWk;'''''''...'dNMMMMMMMMMMK;       ;KMMMMMMMM0,       .:OWMMMMMMMWd.      'OMMMMMMMMX:                      'OMMMMMMNk:.                  .'lOWMMM
+#.......'xWMMMMMMMMMMMMMMMMMMMMMMMMNd,,,,,,,;;;;;;;:dNMMMMMMMMMMMMMMMMMMMMMMXd;;;;;;;;;;;;;,lKWMMMMMMMMMMWk;'''''''...'dNMMMMMMMMMMK;       ;KMMMMMMMM0,         .oKWMMMMMWd.      'OMMMMMMMMX:                      ,0MMMMWO;.           ..          .cKWM
+#.......'xWMMMMMMMMMMMMMMMMMMMMMMMMNd,,,,,,,;;;;;;;:dNMMMMMMMMMMMNKOOOOOOOOOxc''''''''''''''cKMMMMMMMMMMMWk,..........'dNMMMMMMMMMMK;       ;KMMMMMMMM0,           ,xNMMMMWd.      'OMMMMMMMMX:       'okkkkkkkkkkkkkONMMMNd.        .:oxkOkxl;.        ,kW
+#.......'xNWWWWWWMMMMMMMMMMMMWWWWWWXd,,,,,,,;;;;;;,,oNMMMMMMMMMMM0:...'''''''.......''''''''cKMMMMMMMMMMMWk,...........dNMMMMMMMMMMK;       ;KMMMMMMMM0,            .:0WMMWd.      'OMMMMMMMMX:       ;KMMMMMMMMMMMMMMMMMWd.       .oKWMMMMMMMN0c.       'O
+#........;cccccoKMMMMMMMMMMMWOolllll:,'''...........cXMMMMMMMMMMMO;................'''''''''cKMMMMMMMMMMMWx,...........dNMMMMMMMMMMK;       ;KMMMMMMMM0,              .oXMWd.      'OMMMMMMMMX:       ;KMMMMMMMMMMMMMMMMM0,       'kWMMMMMMMMMMMNd.       :
+#..............;OMMMMMMMMMMMWd'..........  .........cXMMMMMMMMMMMXkddddddl,...........''''''cKMMMMMMMMMMMWx,...........dNMMMMMMMMMMK;       ;KMMMMMMMM0,                ,kXo.      'OMMMMMMMMX:       .ldddddddkXMMMMMMMWd.      .oWMMMMMMMMMMMMMX:       .
+#..............;OMMMMMMMMMMMNo........     .........cXMMMMMMMMMMMMMMMMMMW0:.................cKMMMMMMMMMMMWx,...........dNMMMMMMMMMMK;       ;KMMMMMMMM0,       ,;.       .:;.      'OMMMMMMMMX:                'OMMMMMMMWo.      .xMMMMMMMMMMMMMMNo.      .
+#..............,kMMMMMMMMMMMNo.......      .........cXMMMMMMMMMMMMMMMMMMM0:.................cKMMMMMMMMMMMWx,...........dNMMMMMMMMMMK;       ;KMMMMMMMM0,      .lXx,.               'OMMMMMMMMX:                'OMMMMMMMWd.      .oWMMMMMMMMMMMMMXc       .
+#..............'kMMMMMMMMMMMNo.....        .........cXMMMMMMMMMMMMMMMMMWW0:.................:KMMMMMMMMMMMWx,...........oNMMMMMMMMMMK;       ;KMMMMMMMM0,      .oNMXo.              'OMMMMMMMMX:       ..''''''.:0MMMMMMMMO'       'OWMMMMMMMMMMMNd.       ;
+#     .........'kMMMMMMMMMMMNo...           ........cXMMMMMMMMMMMXxooooooc'.................:KMMMMMMMMMMMWx,...........oNMMMMMMMMMMK;       ;KMMMMMMMM0,      .oWMMW0:.            'OMMMMMMMMX:       ,OXXXXXXXNWMMMMMMMMNd.       'dXWMMMMMMMW0l.       'k
+#         ......kMMMMMMMMMMMNo.              .......cXMMMMMMMMMMMO;.........................:KMMMMMMMMMMMWx,...........oNMMMMMMMMMMK;       ;KMMMMMMMM0,      .oWMMMMNx,.          'OMMMMMMMMX:       ;KMMMMMMMMMMMMMMMMMMNo.       .'cdkO0Oko:.        'kW
+#              .kWMMMMMMMMMMNo.              .......cXMMMMMMMMMMMO;.........................:KMMMMMMMMMMMWx'...........oNMMMMMMMMMMK;       ;KMMMMMMMM0,      .lWMMMMMMKo.         'OMMMMMMMMX:       ;KMMMMMMMMMMMMMMMMMMMNk;.          ...          .:0WM
+#              .kMMMMMMMMMMMNo.             ........cXMMMMMMMMMMMO;.........................:KMMMMMMMMMMMWx'...........oNMMMMMMMMMMK;       ;KMMMMMMMM0,      .lWMMMMMMMWO:.       'OMMMMMMMMX:       ;KMMMMMMMMMMMMMMMMMMMMWXx;.                   .cONMMM
+#              .xNWWWWWWWWNNXl.              .......:KWWWWWWWWWWNO,.........................:0NWWWWWWWWWWNx'...........oNMMMMMMMMMMK:.......:KMMMMMMMM0;.......oWMMMMMMMMMNx,......,0MMMMMMMMXc.......:KMMMMMMMMMMMMMMMMMMMMMMMN0dc,..         ..;lxKWMMMMM
+#              .';;;;;;;;;;;,.               ........;:::::::::::;..........................';::c:::::::::,............oNMMMMMMMMMMWKOOOOOOOKWMMMMMMMMN0OOOOOOOXWMMMMMMMMMMWX0OOOOO0NMMMMMMMMWKOOOOOOOKWMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOkddooodxk0XNMMMMMMMMM
+#                                             .........................................................................oNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#                                            ..........................................................................oNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#                                            ..........................................................................oNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM

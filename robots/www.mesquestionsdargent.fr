@@ -1,0 +1,175 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Crawl-delay: 10
+# CSS, JS, Images
+Allow: /misc/*.css$
+Allow: /misc/*.css?
+Allow: /misc/*.js$
+Allow: /misc/*.js?
+Allow: /misc/*.gif
+Allow: /misc/*.jpg
+Allow: /misc/*.jpeg
+Allow: /misc/*.png
+Allow: /modules/*.css$
+Allow: /modules/*.css?
+Allow: /modules/*.js$
+Allow: /modules/*.js?
+Allow: /modules/*.gif
+Allow: /modules/*.jpg
+Allow: /modules/*.jpeg
+Allow: /modules/*.png
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /themes/*.css$
+Allow: /themes/*.css?
+Allow: /themes/*.js$
+Allow: /themes/*.js?
+Allow: /themes/*.gif
+Allow: /themes/*.jpg
+Allow: /themes/*.jpeg
+Allow: /themes/*.png
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+# Custom paths/rules
+Disallow: /tous-nos-partenaires/
+Disallow: /tous-nos-partenaires/*
+Noindex: /tous-nos-partenaires/
+Noindex: /tous-nos-partenaires/*
+Disallow: /?
+Disallow: /*?
+Noindex: /?
+Noindex: /*?
+
+Disallow: https://www.mesquestionsdargent.fr/boite-outils/quiz
+Disallow: https://www.mesquestionsdargent.fr/boite-outils/guide-video
+Disallow: https://www.mesquestionsdargent.fr/jeunes/gestion-budg
+Disallow: https://www.mesquestionsdargent.fr/budget/mes-questions-d’argent-le-j
+Disallow: https://www.mesquestionsdargent.fr/enseignants.html
+Disallow: https://www.mesquestionsdargent.fr/boite-outils/lettre-type
+Disallow: https://www.mesquestionsdargent.fr/venez-participer-au-jeu-concours-euro-run-2017
+Disallow: https://www.mesquestionsdargent.fr/retraite/ameliorer-retraite
+Disallow: https://www.mesquestionsdargent.fr/budget/coronavirus-covid-19-liens-utiles?fbclid=IwAR01ZaMS-BJcwQ922JeWRY6usGKvz-nGluMBmUp0Xe9RyoYz57EJsXFeDPU
+Disallow: https://www.mesquestionsdargent.fr/?utm_source=briefeco&referrer=briefeco
+Disallow: https://www.mesquestionsdargent.fr/points-conseil-budget?wpmobileexternal=true&wpmobileexternal=true
+Disallow: https://www.mesquestionsdargent.fr/intervenants-sociaux-et-pcb/surendettement?wpmobileexternal=true&wpmobileexternal=true
+Disallow: https://www.mesquestionsdargent.fr/faire-face-aux-difficultes/%C3%AAtre-en-situation-de-surendettement
+Disallow: https://www.mesquestionsdargent.fr/;
+Disallow: https://www.mesquestionsdargent.fr/la-micro-épargne-une-innovation-sociale﻿
+Disallow: https://www.mesquestionsdargent.fr/jeunes/la-minute-cash*
+Disallow: https://www.mesquestionsdargent.fr/budget/semaine-de-leducation-financière-2021?=1&LG=fr
+Noindex: https://www.mesquestionsdargent.fr/boite-outils/quiz
+Noindex: https://www.mesquestionsdargent.fr/boite-outils/guide-video
+Noindex: https://www.mesquestionsdargent.fr/jeunes/gestion-budg
+Noindex: https://www.mesquestionsdargent.fr/budget/mes-questions-d’argent-le-j
+Noindex: https://www.mesquestionsdargent.fr/enseignants.html
+Noindex: https://www.mesquestionsdargent.fr/boite-outils/lettre-type
+Noindex: https://www.mesquestionsdargent.fr/venez-participer-au-jeu-concours-euro-run-2017
+Noindex: https://www.mesquestionsdargent.fr/retraite/ameliorer-retraite
+Noindex: https://www.mesquestionsdargent.fr/budget/coronavirus-covid-19-liens-utiles?fbclid=IwAR01ZaMS-BJcwQ922JeWRY6usGKvz-nGluMBmUp0Xe9RyoYz57EJsXFeDPU
+Noindex: https://www.mesquestionsdargent.fr/?utm_source=briefeco&referrer=briefeco
+Noindex: https://www.mesquestionsdargent.fr/points-conseil-budget?wpmobileexternal=true&wpmobileexternal=true
+Noindex: https://www.mesquestionsdargent.fr/intervenants-sociaux-et-pcb/surendettement?wpmobileexternal=true&wpmobileexternal=true
+Noindex: https://www.mesquestionsdargent.fr/faire-face-aux-difficultes/%C3%AAtre-en-situation-de-surendettement
+Noindex: https://www.mesquestionsdargent.fr/;
+Noindex: https://www.mesquestionsdargent.fr/la-micro-épargne-une-innovation-sociale﻿
+Noindex: https://www.mesquestionsdargent.fr/jeunes/la-minute-cash*
+Noindex: https://www.mesquestionsdargent.fr/budget/semaine-de-leducation-financière-2021*
+
+# pres-de-chez-vous
+Disallow: /pres-de-chez-vous*
+Disallow: /pres-de-chez-vous?*
+Noindex: /pres-de-chez-vous*
+Noindex: /pres-de-chez-vous?*
+Disallow: a-la-une?*
+Noindex: a-la-une?*
+# Suggestion
+Disallow: suggestion?*
+Noindex: suggestion?*
+
+
+Disallow: https://www.mesquestionsdargent.fr/boite-outils/*?*
+Noindex: https://www.mesquestionsdargent.fr/boite-outils/*?*
+
+# /search-es
+Disallow: /search-es
+Disallow: /search-es*
+Noindex: /search-es
+Noindex: /search-es*
+
+# sites/default/files
+Disallow : /sites/default/files/Documents/*
+Noindex : /sites/default/files/Documents/*
+
+# file
+Disallow : /file/*
+Disallow : /file
+Noindex : /file/*
+Noindex : /file
+
+# Custom print and send by email
+Disallow: /print/
+Disallow: /printmail/
+Disallow: /print/*
+Disallow: /printmail/*
+Noindex: /print/
+Noindex: /printmail/
+Noindex: /print/*
+Noindex: /printmail/*

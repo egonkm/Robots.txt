@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+disallow: /wyniki
+sitemap: https://blog.theprotocol.it/sitemap.xml

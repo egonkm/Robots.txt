@@ -1,0 +1,10 @@
+User-agent: *
+
+Allow: /
+Disallow: /loggedout.html
+Disallow: /opt-in.html
+Disallow: /opt-out.html
+Disallow: /site-search.html?
+Disallow: /crm-email-unsubscribe.html
+
+Sitemap: https://www.caba.org.uk/sitemap.xml

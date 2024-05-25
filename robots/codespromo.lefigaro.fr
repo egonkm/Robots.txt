@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /manifest.webmanifest
+Allow: /
+Disallow: /in/
+Disallow: /out/
+Disallow: /recherche
+Disallow: /evenements
+Allow: /evenements/*
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+Sitemap: https://codespromo.lefigaro.fr/sitemap_index.xml

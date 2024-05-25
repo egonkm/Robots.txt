@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search*?*
+Disallow: *course_level*=*
+Disallow: *keywords=*
+Disallow: /tags/*
+
+Sitemap: https://www.scotland.org/sitemap.xml

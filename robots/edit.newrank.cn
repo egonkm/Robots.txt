@@ -1,0 +1,6 @@
+User-agent: * 
+
+Disallow: /admin/
+
+Disallow: /assets/img/index/new_index/xindou.svg
+

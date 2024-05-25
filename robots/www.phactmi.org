@@ -1,0 +1,10 @@
+User-agent: * 
+Allow: /*.css
+Allow: /*.js
+
+Disallow:
+Disallow: /search/
+Disallow: /*404*
+
+#Sitemap
+Sitemap: https://www.phactmi.org/sitemap.xml

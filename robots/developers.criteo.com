@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /edit/
+Disallow: /suggested-edits/
+Disallow: /login
+Disallow: /logout
+Disallow: /retail-media/edit/
+Disallow: /marketing-solutions/edit/
+Disallow: /retail-media-delivery$
+Disallow: /retail-media-delivery/
+Disallow: /criteo-preprod$
+Disallow: /criteo-preprod/

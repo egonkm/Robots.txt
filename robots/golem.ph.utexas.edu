@@ -1,0 +1,44 @@
+
+# robots.txt for http://golem.ph.utexas.edu/
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /~distler/name/
+Disallow: /courses/
+Disallow: /~distler/code/
+Disallow: /~distler/blog/atom10.xml
+Disallow: /~distler/blog/rss2.xml
+Disallow: /~distler/blog/rss2-full.xml
+Disallow: /~distler/blog/index.rdf
+Disallow: /~distler/blog/comments.atom
+Disallow: /~distler/blog/comments.rss
+Disallow: /string/atom10.xml
+Disallow: /string/rss2.xml
+Disallow: /string/rss2-full.xml
+Disallow: /string/index.rdf
+Disallow: /string/comments.atom
+Disallow: /string/comments.rss
+Disallow: /category/comments.atom
+Disallow: /category/atom10.xml
+Disallow: /wiki/instiki/edit
+Disallow: /wiki/instiki/feeds
+Disallow: /wiki/instiki/export
+Disallow: /wiki/instiki/revision
+Disallow: /wiki/instiki/recently_revised
+Disallow: /wiki/instiki/show/diff
+Disallow: /wiki/instiki/print
+Disallow: /wiki/instiki/source
+Disallow: /wiki/instiki/tex
+Disallow: /wiki/instiki/pdf
+Disallow: /wiki/instiki/list
+Disallow: /~distler/code/instiki/svn/revision
+Disallow: /~distler/code/instiki/svn/annotate
+Disallow: /~distler/code/instiki/svn/diff
+Disallow: /~distler/code/instiki/svn/download
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+

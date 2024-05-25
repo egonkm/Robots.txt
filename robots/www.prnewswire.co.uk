@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /search/
+Disallow: /search-results/
+Disallow: /templates/get-bitly-url.txt
+Disallow: /news-releases/regulatory-news/
+
+Sitemap: http://www.prnewswire.co.uk/sitemap.xml
+Sitemap: http://www.prnewswire.co.uk/sitemap-news.xml

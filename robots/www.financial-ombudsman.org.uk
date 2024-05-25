@@ -1,0 +1,7 @@
+User-agent: *
+
+Sitemap: https://www.financial-ombudsman.org.uk/sitemap.xml
+
+Disallow: /files/324413/proforma-disputed-transactions-fraud-scams.pdf
+Disallow: /files/324412/proforma-lending.pdf
+Disallow: /files/324415/Professional-representative-declaration-form.pdf

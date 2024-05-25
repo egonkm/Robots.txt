@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /shuppan/roudou/roudou/data/2017_36kyoteihandbook/pageindices/
+Disallow: /shuppan/roudou/roudou/data/2018_36kyoteihandbook/pageindices/
+Disallow: /shuppan/roudou/roudou/data/2021_36kyoteihandbook/pageindices/
+Disallow: /shuppan/roudou/roudou/data/*/pageindices/

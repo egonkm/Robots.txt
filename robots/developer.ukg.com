@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /edit/
+Disallow: /suggested-edits/
+Disallow: /login
+Disallow: /logout
+Disallow: /developer-wfm$
+Disallow: /developer-wfm/
+Disallow: /developer-general$
+Disallow: /developer-general/
+Disallow: /developer-hcm$
+Disallow: /developer-hcm/
+Disallow: /ukg5/edit/
+Disallow: /ukg4/edit/

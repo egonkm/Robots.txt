@@ -1,0 +1,738 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" as="style">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
+<link href="/web/assets/css/style24.css?trjt" rel="stylesheet" crossorigin="anonymous">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+<title> AI summit by Vogue - Zítřek tvoříme společně </title>
+<meta name="description" content="Přijďte se osobně seznámit s první světovou digitální supermodelkou Shudu Graham dne 6. června 2024 " />
+<meta name="keywords" content="Přijďte se osobně seznámit s první světovou digitální supermodelkou Shudu Graham dne 6. června 2024 " />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index,follow" />
+<meta name="revisit-after" content="1 days" />
+<meta name="rating" content="general" />
+<meta property="og:site_name" content="https://www.vogue-live.cz" />
+<meta property="og:title" content="AI summit by Vogue - Zítřek tvoříme společně" />
+<meta property="og:description" content="Přijďte se osobně seznámit s první světovou digitální supermodelkou Shudu Graham dne 6. června 2024 " />
+<meta property="og:url" content="https://www.vogue-live.cz" />
+<meta property="og:image" content="https://www.vogue-live.cz/web/assets/img/2024/ai-summit-by-vogue.png" />
+<meta property="og:type" content="website" />
+<link data-react-helmet="true" rel="icon" type="image/png" sizes="32x32" href="https://www.vogue.cz/static/favicon-32x32.png">
+<meta name="facebook-domain-verification" content="90ernu2ycf3xgt4mfdn7jny5jekvrl" />
+<meta name="twitter:card" content="website" />
+<meta name="twitter:description" content="Přijďte se osobně seznámit s první světovou digitální supermodelkou Shudu Graham dne 6. června 2024 " />
+<meta name="twitter:title" content="AI summit by Vogue - Zítřek tvoříme společně " />
+<meta name="theme-color" content="#000">
+
+<script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5FS3SRZ');</script>
+
+
+<script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '3316769878633553');
+        fbq('track', 'PageView');
+    </script>
+<noscript>
+        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=3316769878633553&ev=PageView&noscript=1"/>
+    </noscript>
+
+</head>
+<body data-bs-spy="scroll" data-bs-target="#navbar-example2">
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FS3SRZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+<nav class="navbar navbar-expand-lg navbar-dark sticky-top" id="navbar-example2">
+<div class="container">
+<svg class="logo me-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583.06 149.32">
+<path d="M.25 4.14h51.33c.29 0 .2 1.51 0 1.51H41s-3-.13-2.08 1.51c.18.34 36.26 99 36.26 99s.63 1.7 1.13 1.89L108.38 8.9c.33-1 1.47-3.19-.5-3.19h-11.6c-.21 0-.21-1.51 0-1.51h27.61c.21 0 .21 1.51 0 1.51h-10.28c-2.81 0-2.83.82-3.34 2.27-.25.74-44.64 139.09-44.64 139.09s-.19-.6-.37-1.14C46.5 91.64 17.37 16.1 15.07 8.05c-.69-2.42-1-2.34-2.46-2.34H.25c-.36 0-.31-1.57 0-1.57zM135 73.4c0-39.6 7.6-72 35.67-71.94 30.19 0 36.12 33.7 36.12 71.94 0 39.59-5.76 73.74-35.86 73.71C138.6 147.08 135 115 135 73.4zm35.36 74.85c29.95.1 62.35-33.06 62.43-74.09.08-43-31.07-73.59-61.92-73.84C139.3.06 109 34.73 109 74.16c0 40.77 28.63 73.97 61.36 74.09zM316.4 87.59h11.72s2.18-.23 2.16.82v33.52c0 25.79-25.7 26.08-33 25.26-26.87-3.05-27.43-58.51-27.56-73.08C269.38 34.52 275.6 0 302.63 1.4c32.11 1.63 40.5 47.63 41 49.69 1.07.38 1.08-.51 1.08-.51L344.79.4s-.22-.42-.86.16l-.79.79c-14.2 14.52-21.31-.67-42-1.34-25.43-.82-57 34.44-57.42 75.11-.41 40.92 26.46 72.47 55.84 73.58 15.93.61 15.58-3.82 35.24-9.91 12-3.73 17.68 4.37 18.12 7.73.76.5.82-.38.82-.38V88.6c0-1.14 1.59-.95 1.59-.95h10.87c.27 0 .27-1.58 0-1.58h-49.86c-.34 0-.34 1.52.06 1.52zM579.76 4.12v51.55c0 .25-1 .32-1 0s1-50.09-45.26-50.09h-17.33c-1 0-1.56.17-1.56.92v64.39c0 .61.61.93 1.53.93h5.79c27.49 0 25.28-27.59 25.28-27.9s1.08-.26 1.08 0l.05 58.18c0 .26-.81.31-.81 0s-.64-28.76-26.23-28.76h-5.16c-.89 0-1.53.33-1.53.94v69.3c0 .48.59.93 1.56.93l16.62.05c49.66.13 49-53.18 49-53.43s1.27-.25 1.27 0v55.21H478.25c-.31 0-.28-1.52 0-1.52h10.48c.93 0 1.53-.32 1.53-.93V6.56c0-1-1.16-.95-1.53-.95h-23.19s-1.52 0-1.52.88v104c.06 29.08-22.29 38.56-38.37 38.83-18.92.1-52.9-3.09-52.9-45 0 0-.08-95.39-.13-96.72-.06-2.08-2.64-2-2.64-2h-11.1c-.35 0-.28-1.51 0-1.51h52.33c.28 0 .19 1.51 0 1.51h-11.15s-3.43-.2-3.43 2.08c0 3.21.06 106.42.06 110.08 0 16.09 9.11 30.35 28.94 30 15.45-.26 36.94-9.37 36.88-37.32V6.39c-.06-.81-1.64-.88-1.64-.88h-14.53c-.32 0-.26-1.45.06-1.45z"></path>
+<path d="M175 69.85a2.66 2.66 0 0 1 2.46-2.85 2.63 2.63 0 0 1 2.54 2.79v.07h2.16a4.65 4.65 0 0 0-9.28-.61v.61c0 4.23 7.12 6 7.12 8.87a2.64 2.64 0 0 1-2.39 2.85h-.06a2.66 2.66 0 0 1-2.55-2.82h-2.14a4.65 4.65 0 0 0 9.28.61v-.61c-.04-4.28-7.14-6.06-7.14-8.91zM164.37 67a2.64 2.64 0 0 1 2.45 2.81H169a4.65 4.65 0 0 0-9.28-.61V78.68a4.65 4.65 0 0 0 9.28.61v-.61h-2.16a2.52 2.52 0 1 1-5 .63 2.22 2.22 0 0 1 0-.63v-8.83A2.66 2.66 0 0 1 164.3 67z"></path>
+</svg>
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse mt-3 mt-lg-0 ms-2 ms-lg-0" id="navbarNavDropdown">
+<ul class="navbar-nav align-items-center mr-lg-5">
+<li class="nav-item me-3">
+<a class="nav-link active" aria-current="page" href="#about">o&nbsp;konferenci</a>
+</li>
+<li class="nav-item me-3">
+<a class="nav-link" href="#program">program</a>
+</li>
+<li class="nav-item me-3">
+<a class="nav-link" href="#speakers">speakers</a>
+</li>
+<li class="nav-item me-3">
+<a class="nav-link" href="#contact">kontakt</a>
+</li>
+<li class="nav-item dropdown me-3">
+<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+VOGUE live
+</a>
+<ul class="dropdown-menu">
+<li class="mb-2"><a class="dropdown-item" target="_blank" href="https://www.vogue-live.cz/2023">VOGUE live 2023</a></li>
+<li class="mb-2"><a class="dropdown-item" target="_blank" href="https://www.vogue-live.cz/2022">VOGUE live 2022</a></li>
+<li><a class="dropdown-item" target="_blank" href="https://www.vogue.cz/voguelive">VOGUE live 2019</a></li>
+</ul>
+</li>
+<li class="nav-item d-none d-lg-flex me-3">
+<a href="https://goout.net/cs/listky/ai-summit-by-vogue-shaping-tomorrow-together/ukpx/" class="btn btn-lg btn-secondary btn-black py-2 px-3">Koupit vstupenky</a>
+</li>
+<li class="nav-item me-3">
+<a class="nav-link" href="https://www.vogue-live.cz/en">en</a>
+</li>
+</ul>
+<div class="d-flex ml-lg-5 justify-content-center align-self-end">
+<a href="https://www.instagram.com/vogueczechoslovakia">
+<svg enable-background="new 0 0 144.083 144" id="Instagram" version="1.1" viewBox="0 0 144.083 144" width="40" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><rect height="9.189" width="8.92" x="83.401" y="50.849" />
+<path d="M86.846,71.899c0,8.163-6.642,14.805-14.805,14.805c-8.164,0-14.806-6.642-14.806-14.805c0-2.209,0.5-4.3,1.371-6.185  h-9.784v25.414c0,2.307,1.877,4.184,4.184,4.184h38.07c2.307,0,4.184-1.877,4.184-4.184V65.715h-9.785  C86.346,67.6,86.846,69.69,86.846,71.899z" />
+<path d="M72.042,80.704c4.854,0,8.805-3.95,8.805-8.805c0-2.409-0.974-4.593-2.547-6.185H65.782  c-1.572,1.591-2.546,3.776-2.546,6.185C63.236,76.754,67.186,80.704,72.042,80.704z" />
+<path d="M72.041,14.165c-31.94,0-57.833,25.894-57.833,57.834c0,31.939,25.893,57.836,57.833,57.836s57.835-25.896,57.835-57.836  C129.875,40.059,103.981,14.165,72.041,14.165z M101.26,91.129c0,5.615-4.568,10.184-10.184,10.184h-38.07  c-5.615,0-10.184-4.568-10.184-10.184V52.884c0-5.615,4.568-10.184,10.184-10.184h38.07c5.615,0,10.184,4.568,10.184,10.184V91.129z  " /></svg>
+</a>
+<a href="https://www.facebook.com/VOGUECZECHOSLOVAKIA/">
+<svg enable-background="new 0 0 144.083 144" id="Facebook" version="1.1" viewBox="0 0 144.083 144" width="40" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M72.041,14.165c-31.94,0-57.833,25.894-57.833,57.834c0,31.939,25.893,57.836,57.833,57.836s57.835-25.896,57.835-57.836  C129.875,40.059,103.981,14.165,72.041,14.165z M91.792,51.16c0,0.552-0.447,1-1,1H76.713v7.567h14.078c0.553,0,1,0.448,1,1v14.077  c0,0.553-0.447,1-1,1H77.713v30.892c0,0.553-0.447,1-1,1H63.408c-0.553,0-1-0.447-1-1V75.805h-9.117c-0.553,0-1-0.447-1-1V60.728  c0-0.552,0.447-1,1-1h9.117V54.02c0-0.082,0.01-0.161,0.028-0.237c0.008-8.131,1.747-17.433,15.068-17.475  c0.029-0.002,0.06-0.004,0.09-0.004h13.197c0.553,0,1,0.448,1,1V51.16z" /></svg>
+</a>
+<a href="https://www.youtube.com/c/VogueCzechoslovakia">
+<svg enable-background="new 0 0 144.083 144" id="Youtube" version="1.1" viewBox="0 0 144.083 144" width="40" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M72.04,14.166C40.1,14.166,14.207,40.06,14.207,72c0,31.939,25.893,57.834,57.833,57.834  c31.941,0,57.835-25.895,57.835-57.834C129.875,40.06,103.981,14.166,72.04,14.166z M104.424,85.031c0,4.446-3.604,8.05-8.049,8.05  c0,0-6.875,1-24.73,1c-17.958,0-24.271-1-24.271-1c-4.446,0-8.051-3.604-8.051-8.05V58.468c0-4.445,3.604-8.05,8.051-8.05  c0,0,6.313-1,24.251-1c17.875,0,24.75,1,24.75,1c4.445,0,8.049,3.604,8.049,8.05V85.031z" />
+<polygon points="62.019,84.496 83.973,71.821 62.019,59.146 " /></svg>
+</a>
+<a href="https://www.linkedin.com/company/vogue-leaders/">
+<svg enable-background="new 0 0 144.083 144" width="40" id="linkedin" version="1.1" viewBox="0 0 144.083 144" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M72.04,14.166c-31.939,0-57.833,25.894-57.833,57.833c0,31.94,25.893,57.835,57.833,57.835  c31.941,0,57.836-25.895,57.836-57.835C129.875,40.06,103.981,14.166,72.04,14.166z M48.042,40.25c3.934,0,7.125,2.91,7.125,6.5  s-3.191,6.5-7.125,6.5c-3.936,0-7.125-2.91-7.125-6.5S44.106,40.25,48.042,40.25z M55.221,95.845H41.143V59.11h14.078V95.845z   M103.059,95.845H88.913v-20.2c0-2.306-0.428-3.938-1.281-4.896c-0.854-0.956-2.053-1.436-3.596-1.436  c-1.707,0-3.092,0.646-4.152,1.938c-1.061,1.292-1.59,3.609-1.59,6.953v17.641H64.215V59.11h13.109v5.983  c1.959-2.443,3.943-4.19,5.949-5.24c2.006-1.049,4.449-1.573,7.332-1.573c3.898,0,6.947,1.158,9.15,3.476  c2.201,2.317,3.303,5.897,3.303,10.74V95.845z" /></svg>
+</a>
+</div>
+</div>
+</div>
+</nav>
+<section class="hero pt3 pb3">
+<div class="container">
+<div class="row">
+<div class="col-lg-7 text-center d-flex align-items-center justify-content-center flex-column">
+<h1 class="mb1 text-center text-uppercase"><span class>AI summit by Vogue:</span>
+<br><span class="text-transparent text-capitalize"> Shaping Tomorrow Together
+</span>
+</h1>
+<h4 class="text-center mb2 font-weight-bold">
+Přijďte se seznámit s první digitální supermodelkou Shudu, bavte se s avatary a naučte se využívat AI ve svůj
+prospěch. <br><br>Vaším průvodcem světem zítřka bude Karel „Kovy“ Kovář.
+</h4>
+<h4 class="mb2 text-transparent">6. června 2024 <br>
+Křižíkův pavilon E, Výstaviště Praha – Holešovice</h4>
+<div class="d-flex justify-content-center mb2">
+<svg width="90px" class="me-3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583.06 149.32">
+<path d="M.25 4.14h51.33c.29 0 .2 1.51 0 1.51H41s-3-.13-2.08 1.51c.18.34 36.26 99 36.26 99s.63 1.7 1.13 1.89L108.38 8.9c.33-1 1.47-3.19-.5-3.19h-11.6c-.21 0-.21-1.51 0-1.51h27.61c.21 0 .21 1.51 0 1.51h-10.28c-2.81 0-2.83.82-3.34 2.27-.25.74-44.64 139.09-44.64 139.09s-.19-.6-.37-1.14C46.5 91.64 17.37 16.1 15.07 8.05c-.69-2.42-1-2.34-2.46-2.34H.25c-.36 0-.31-1.57 0-1.57zM135 73.4c0-39.6 7.6-72 35.67-71.94 30.19 0 36.12 33.7 36.12 71.94 0 39.59-5.76 73.74-35.86 73.71C138.6 147.08 135 115 135 73.4zm35.36 74.85c29.95.1 62.35-33.06 62.43-74.09.08-43-31.07-73.59-61.92-73.84C139.3.06 109 34.73 109 74.16c0 40.77 28.63 73.97 61.36 74.09zM316.4 87.59h11.72s2.18-.23 2.16.82v33.52c0 25.79-25.7 26.08-33 25.26-26.87-3.05-27.43-58.51-27.56-73.08C269.38 34.52 275.6 0 302.63 1.4c32.11 1.63 40.5 47.63 41 49.69 1.07.38 1.08-.51 1.08-.51L344.79.4s-.22-.42-.86.16l-.79.79c-14.2 14.52-21.31-.67-42-1.34-25.43-.82-57 34.44-57.42 75.11-.41 40.92 26.46 72.47 55.84 73.58 15.93.61 15.58-3.82 35.24-9.91 12-3.73 17.68 4.37 18.12 7.73.76.5.82-.38.82-.38V88.6c0-1.14 1.59-.95 1.59-.95h10.87c.27 0 .27-1.58 0-1.58h-49.86c-.34 0-.34 1.52.06 1.52zM579.76 4.12v51.55c0 .25-1 .32-1 0s1-50.09-45.26-50.09h-17.33c-1 0-1.56.17-1.56.92v64.39c0 .61.61.93 1.53.93h5.79c27.49 0 25.28-27.59 25.28-27.9s1.08-.26 1.08 0l.05 58.18c0 .26-.81.31-.81 0s-.64-28.76-26.23-28.76h-5.16c-.89 0-1.53.33-1.53.94v69.3c0 .48.59.93 1.56.93l16.62.05c49.66.13 49-53.18 49-53.43s1.27-.25 1.27 0v55.21H478.25c-.31 0-.28-1.52 0-1.52h10.48c.93 0 1.53-.32 1.53-.93V6.56c0-1-1.16-.95-1.53-.95h-23.19s-1.52 0-1.52.88v104c.06 29.08-22.29 38.56-38.37 38.83-18.92.1-52.9-3.09-52.9-45 0 0-.08-95.39-.13-96.72-.06-2.08-2.64-2-2.64-2h-11.1c-.35 0-.28-1.51 0-1.51h52.33c.28 0 .19 1.51 0 1.51h-11.15s-3.43-.2-3.43 2.08c0 3.21.06 106.42.06 110.08 0 16.09 9.11 30.35 28.94 30 15.45-.26 36.94-9.37 36.88-37.32V6.39c-.06-.81-1.64-.88-1.64-.88h-14.53c-.32 0-.26-1.45.06-1.45z"></path>
+<path d="M175 69.85a2.66 2.66 0 0 1 2.46-2.85 2.63 2.63 0 0 1 2.54 2.79v.07h2.16a4.65 4.65 0 0 0-9.28-.61v.61c0 4.23 7.12 6 7.12 8.87a2.64 2.64 0 0 1-2.39 2.85h-.06a2.66 2.66 0 0 1-2.55-2.82h-2.14a4.65 4.65 0 0 0 9.28.61v-.61c-.04-4.28-7.14-6.06-7.14-8.91zM164.37 67a2.64 2.64 0 0 1 2.45 2.81H169a4.65 4.65 0 0 0-9.28-.61V78.68a4.65 4.65 0 0 0 9.28.61v-.61h-2.16a2.52 2.52 0 1 1-5 .63 2.22 2.22 0 0 1 0-.63v-8.83A2.66 2.66 0 0 1 164.3 67z"></path>
+</svg>
+<svg version="1.1" width="100px" class=" me-3 " id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 595.28 170.08" style="enable-background:new 0 0 595.28 170.08;" xml:space="preserve">
+<style type="text/css">
+  .st0 {
+    clip-path: url(#SVGID_00000094578194997662588140000013827107969547238287_);
+    fill: #FFFFFF;
+  }
+</style>
+<g>
+<defs>
+<rect id="SVGID_1_" x="6.12" y="10.37" width="583.05" height="149.34" />
+</defs>
+<clipPath id="SVGID_00000158745884982110439530000008117038080678337680_">
+<use xlink:href="#SVGID_1_" style="overflow:visible;" />
+</clipPath>
+<path style="clip-path:url(#SVGID_00000158745884982110439530000008117038080678337680_);fill:#FFFFFF;" d="M130.01,14.57h-27.61
+		c-0.2,0-0.2,1.51,0,1.51h11.6c1.97,0,0.83,2.2,0.5,3.18c-0.03,0.09-32.09,99.14-32.09,99.14c-0.5-0.19-1.13-1.89-1.13-1.89
+		S45.2,17.87,45.02,17.53c-0.88-1.64,2.08-1.51,2.08-1.51h10.59c0.2,0,0.3-1.51,0-1.51H6.37c-0.31,0-0.36,1.58,0,1.58
+		c0.36,0,11.85,0,12.36,0c1.42-0.01,1.77-0.08,2.46,2.33c2.3,8.06,31.42,83.59,50.19,137.89c0.18,0.53,0.38,1.13,0.38,1.13
+		s44.38-138.35,44.64-139.08c0.5-1.46,0.52-2.33,3.34-2.27h10.28C130.21,16.08,130.21,14.57,130.01,14.57 M167.88,89.15v-9.03
+		c0-1.82,0.91-2.67,2.4-2.67c1.31,0,2.11,0.86,2.11,2.67h2.38c0-2.99-1.82-5.05-4.49-5.05c-2.7,0-4.73,2.11-4.73,5.05v9.03
+		c0,2.86,1.9,5.05,4.73,5.05c2.7,0,4.49-2.06,4.49-5.05h-2.38c0,1.82-0.8,2.75-2.11,2.75C168.79,91.9,167.88,90.97,167.88,89.15
+		 M181.42,80.12c0-1.66,0.56-2.67,2.27-2.67c1.63,0,2.24,1.02,2.24,2.67h2.3c0-2.99-1.52-5.05-4.54-5.05
+		c-3.07,0-4.57,2.11-4.57,5.05c0,2.72,2.72,4.25,3.79,5.26c1.2,1.02,3.02,2.24,3.02,3.77c0,1.82-0.62,2.75-2.24,2.75
+		c-1.71,0-2.19-0.93-2.19-2.75h-2.38c0,2.99,1.5,5.05,4.57,5.05c3.02,0,4.54-2.06,4.54-5.05c0-2.91-2.91-4.62-3.82-5.42
+		C183.21,82.66,181.42,81.8,181.42,80.12 M212.78,83.75c0,39.59-5.76,73.75-35.86,73.71c-32.32-0.03-35.93-32.1-35.93-73.71
+		c0-39.59,7.6-71.95,35.67-71.94C206.85,11.82,212.78,45.51,212.78,83.75 M238.79,84.51c0.08-42.97-31.07-73.58-61.92-73.84
+		C145.29,10.41,115,45.08,115,84.51c0,40.78,28.62,73.98,61.35,74.09C206.3,158.7,238.71,125.54,238.79,84.51 M350.84,60.95
+		l0.06-50.18c0,0-0.22-0.42-0.85,0.16c-0.23,0.22-0.49,0.48-0.79,0.79c-14.2,14.52-21.31-0.67-41.96-1.34
+		c-25.43-0.82-57.02,34.43-57.43,75.11c-0.41,40.93,26.46,72.47,55.84,73.58c15.93,0.61,15.59-3.83,35.24-9.92
+		c12.02-3.73,17.68,4.37,18.12,7.73c0.76,0.51,0.82-0.38,0.82-0.38V98.97c0-1.14,1.58-0.95,1.58-0.95h10.84c0.27,0,0.27-1.58,0-1.58
+		h-49.87c-0.36,0-0.36,1.52,0.06,1.52h11.72c0,0,2.18-0.23,2.16,0.82c0,0.06,0,33.52,0,33.52c0,25.79-25.7,26.08-32.96,25.26
+		c-26.87-3.04-27.43-58.51-27.56-73.08c-0.37-39.59,5.85-74.07,32.89-72.7c32.1,1.63,40.5,47.62,41.01,49.69
+		C350.83,61.84,350.84,60.95,350.84,60.95 M417.31,14.47h-52.33c-0.28,0-0.35,1.51,0,1.51c0.35,0,11.1-0.02,11.1-0.02
+		s2.58-0.11,2.64,1.97c0.04,1.32,0.13,96.72,0.13,96.72c0,41.92,33.98,45.11,52.9,45.01l0.03,0.05
+		c16.08-0.27,38.43-9.75,38.37-38.83v-0.05v-0.1h-1.51c0,0.04,0,0.08,0,0.1c0.06,27.95-21.43,37.06-36.88,37.32
+		c-19.83,0.33-28.94-13.92-28.94-30.01c0-3.66-0.06-106.87-0.06-110.08c0-2.28,3.43-2.08,3.43-2.08s10.94,0,11.13,0
+		C417.5,15.98,417.59,14.47,417.31,14.47 M585.88,66.04V14.49c0,0-133.05,0.04-133.36,0.04s-0.37,1.45-0.06,1.45h14.53
+		c0,0,1.58,0.08,1.64,0.88c0,3.48,0,16.2,0,31.6h1.51c0-15.43,0-28.12,0-31.6c0-0.87,1.51-0.88,1.51-0.88s22.82,0,23.19,0
+		c0.37,0,1.52,0.06,1.54,0.95c0,0.33,0.01,13.48,0.01,31.53h24.34V16.87c0-0.74,0.58-0.92,1.55-0.92h17.33
+		c46.2,0,45.25,49.77,45.25,50.09C584.87,66.36,585.88,66.29,585.88,66.04 M589.16,156.71V101.5c0-0.25-1.26-0.25-1.26,0
+		c0,0.25,0.67,53.56-48.99,53.43c-2.77-0.01-12.75-0.04-16.63-0.05c-0.97,0-1.55-0.45-1.55-0.94v-33.22h-24.35
+		c0,16.86,0,30.01,0,33.53c0,0.61-0.6,0.93-1.54,0.93h-10.47c-0.28,0-0.32,1.52,0,1.52H589.16z" />
+<path style="clip-path:url(#SVGID_00000158745884982110439530000008117038080678337680_);fill:#FFFFFF;" d="M552.66,95.1
+		c0,1.28-0.46,2.09-1.48,2.09c-1.07,0-1.53-0.82-1.53-2.09v-5.36h-7.66v5.56c0,5.16,3.32,8.47,9.09,8.47c5.77,0,9.44-3.32,9.44-8.47
+		v-4.75c0-3.22-1.07-5-3.52-6.64l-5.97-4.24c-0.82-0.61-1.17-1.22-1.17-2.5v-2.19c0-1.28,0.46-2.09,1.53-2.09
+		c1.02,0,1.48,0.82,1.48,2.09v4.7h7.61v-4.9c0-5.16-3.32-8.47-9.09-8.47c-5.77,0-9.39,3.32-9.39,8.47v3.93c0,3.22,1.07,5,3.52,6.64
+		l5.97,4.29c0.82,0.61,1.17,1.17,1.17,2.5V95.1z M532.94,75.44v4.39c0,1.28-0.56,1.99-1.58,1.99h-1.63v-8.37h1.63
+		C532.38,73.45,532.94,74.22,532.94,75.44 M531.1,88.56c1.22,0,1.79,0.77,1.79,2.14v8.01c0,1.79,0.1,3.47,0.56,4.65h7.81
+		c-0.46-1.22-0.56-2.96-0.56-4.9v-7.91c0-2.4-0.92-4.54-3.27-5.46c2.25-0.82,3.37-2.96,3.37-5.41v-5.16c0-5.16-2.81-7.81-8.58-7.81
+		h-10.31v36.65h7.81v-14.8H531.1z M505.77,66.71v36.65h14.7v-6.99h-6.99v-8.42h6.13v-6.99h-6.13v-7.25h6.99v-6.99H505.77z
+		 M494.82,73.45c1.02,0,1.58,0.77,1.58,1.99v19.19c0,1.23-0.56,1.99-1.58,1.99h-1.63V73.45H494.82z M494.97,66.71h-9.6v36.65h9.6
+		c5.77,0,9.29-3.37,9.29-8.47V75.19C504.26,70.08,500.74,66.71,494.97,66.71 M473.26,83.61l0.61-6.89h0.1l0.66,6.89l0.61,6.13h-2.6
+		L473.26,83.61z M468.81,66.71l-4.9,36.65h7.4l0.72-7.35h3.83l0.77,7.35h7.66l-4.95-36.65H468.81z M448.22,66.71v36.65h14.7v-6.99
+		h-6.99v-8.42h6.13v-6.99h-6.13v-7.25h6.99v-6.99H448.22z M432.51,66.71v36.65h14.45v-6.99h-6.74V66.71H432.51z" />
+</g>
+</svg>
+<svg class version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1513 256" width="140px">
+<title>vogue_live-logo-pdf</title>
+<defs>
+<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+<path d="M-84 -468L1600 -468L1600 723L-84 723Z"></path>
+</clipPath>
+</defs>
+<style>
+                          tspan {
+                            white-space: pre
+                          }
+
+                          .shp0 {
+                            fill: #ffffff
+                          }
+
+                          .shp1 {
+                            fill: none;
+                            stroke: #ffffff;
+                            stroke-width: 3.454
+                          }
+                        </style>
+<g id="Page 1" clip-path="url(#cp1)">
+<path id="Path 1" class="shp0" d="M0.68 7.02L88.51 7.02C89.02 7.02 88.86 9.61 88.51 9.61L70.38 9.61C70.38 9.61 65.31 9.39 66.82 12.2C67.13 12.77 128.86 181.6 128.86 181.6C128.86 181.6 129.94 184.51 130.81 184.83C130.81 184.83 185.67 15.33 185.73 15.16C186.29 13.48 188.24 9.72 184.86 9.72L165.01 9.72C164.66 9.72 164.66 7.13 165.01 7.13L212.27 7.13C212.62 7.13 212.62 9.72 212.27 9.72L194.68 9.72C189.86 9.62 189.83 11.11 188.96 13.6C188.53 14.86 112.57 251.62 112.57 251.62C112.57 251.62 112.23 250.6 111.93 249.68C79.82 156.76 29.97 27.5 26.04 13.71C24.86 9.57 24.26 9.7 21.83 9.72C20.97 9.72 1.3 9.72 0.68 9.72C0.06 9.72 0.14 7.02 0.68 7.02Z"></path>
+<path id="Path 2" fill-rule="evenodd" class="shp0" d="M186.8 126.85C186.8 59.37 238.64 0.04 292.66 0.48C345.47 0.92 398.78 53.3 398.64 126.85C398.5 197.07 343.04 253.82 291.8 253.64C235.78 253.45 186.8 196.63 186.8 126.85ZM292.76 251.7C344.28 251.75 354.14 193.3 354.14 125.55C354.14 60.1 343.99 2.45 292.33 2.43C244.28 2.41 231.28 57.79 231.28 125.55C231.28 196.77 237.45 251.64 292.76 251.7ZM541.61 147.23L626.95 147.23C627.41 147.23 627.41 149.94 626.95 149.94L608.41 149.94C608.41 149.94 605.7 149.61 605.7 151.57L605.7 250.03C605.7 250.03 605.59 251.55 604.29 250.68C603.53 244.93 593.84 231.07 573.28 237.45C539.64 247.87 540.23 255.46 512.97 254.42C462.69 252.51 416.71 198.53 417.4 128.49C418.1 58.89 472.16 -1.44 515.68 -0.04C551.01 1.1 563.18 27.09 587.48 2.25C588 1.72 588.45 1.27 588.84 0.9C589.93 -0.1 590.3 0.62 590.3 0.62L590.19 86.5C590.19 86.5 590.17 88.02 588.35 87.37C587.47 83.84 573.1 5.13 518.16 2.34C471.9 -0.01 461.26 59.01 461.88 126.76C462.11 151.69 463.08 246.62 509.05 251.83C521.49 253.24 565.47 252.74 565.47 208.61C565.47 208.61 565.47 151.35 565.47 151.24C565.51 149.44 561.78 149.83 561.78 149.83L541.72 149.83C540.99 149.83 540.99 147.23 541.61 147.23ZM992.43 6.99L992.43 95.21C992.43 95.64 990.7 95.75 990.7 95.21C990.7 94.67 992.32 9.49 913.25 9.49L883.6 9.49C881.94 9.49 880.94 9.78 880.94 11.06L880.94 121.26C880.94 122.29 881.97 122.85 883.55 122.85L893.46 122.85C940.51 122.85 936.73 75.63 936.73 75.09C936.73 74.55 938.56 74.66 938.56 75.09C938.56 75.53 938.66 174.23 938.66 174.66C938.66 175.09 937.27 175.2 937.27 174.66C937.27 174.12 936.18 125.44 892.38 125.44L883.55 125.44C882.03 125.44 880.94 126.01 880.94 127.05L880.94 245.65C880.94 246.48 881.94 247.24 883.6 247.25C890.23 247.27 907.31 247.32 912.05 247.33C997.03 247.55 995.89 156.33 995.89 155.89C995.89 155.46 998.06 155.46 998.06 155.89L998.06 250.38L818.71 250.38C818.17 250.38 818.23 247.78 818.71 247.78L836.64 247.78C838.24 247.78 839.27 247.23 839.27 246.19C839.27 225.62 839.29 12.93 839.27 11.16C839.24 9.64 837.28 9.54 836.64 9.54C836 9.54 796.95 9.54 796.95 9.54C796.95 9.54 794.36 9.56 794.36 11.05C794.36 27.76 794.35 168.89 794.36 188.97L794.36 189.06C794.46 238.82 756.21 255.05 728.7 255.51L728.65 255.43C696.29 255.6 638.13 250.14 638.13 178.4C638.13 178.4 637.98 15.14 637.91 12.88C637.8 9.32 633.39 9.5 633.39 9.5C633.39 9.5 614.98 9.54 614.39 9.54C613.8 9.54 613.9 6.95 614.39 6.95L703.94 6.95C704.43 6.95 704.27 9.54 703.94 9.54C703.62 9.54 684.9 9.53 684.9 9.53C684.9 9.53 679.02 9.19 679.02 13.1C679.02 18.6 679.13 195.23 679.13 201.48C679.13 229.02 694.71 253.42 728.65 252.84C755.1 252.4 791.87 236.8 791.77 188.97C791.75 186.63 791.77 28.79 791.77 11.05C791.67 9.66 788.97 9.54 788.97 9.54L764.1 9.54C763.56 9.54 763.66 7.05 764.2 7.05C764.74 7.05 992.43 6.99 992.43 6.99ZM311.88 134.65C311.88 139.17 308.6 143.18 303.99 143.18C299.3 143.18 296.01 139.17 296.01 134.65L299.66 134.65C299.66 137.16 301.3 139.53 303.99 139.53C306.59 139.53 308.19 137.16 308.19 134.65C308.19 129.77 296.01 126.72 296.01 119.47C296.01 114.95 299.3 110.94 303.99 110.94C308.6 110.94 311.88 114.95 311.88 119.47L308.19 119.47C308.19 116.96 306.59 114.59 303.99 114.59C301.3 114.59 299.66 116.96 299.66 119.47C299.66 124.35 311.88 127.4 311.88 134.65ZM277.2 119.47L277.2 134.65C277.2 137.16 278.85 139.53 281.54 139.53C284.14 139.53 285.73 137.16 285.73 134.65L289.43 134.65C289.43 139.17 286.14 143.18 281.54 143.18C276.84 143.18 273.56 139.17 273.56 134.65L273.56 119.47C273.56 114.95 276.84 110.94 281.54 110.94C286.14 110.94 289.43 114.95 289.43 119.47L285.73 119.47C285.73 116.96 284.14 114.59 281.54 114.59C278.85 114.59 277.2 116.96 277.2 119.47Z"></path>
+<path id="Path 3" class="shp1" d="M1068.09 6.11L1102.85 6.11L1102.85 250.07L1068.09 250.07L1068.09 6.11ZM1136.4 73.5L1175.12 73.5L1175.12 21.36L1136.4 21.36L1136.4 73.5ZM1138.23 250.07L1172.99 250.07L1172.99 97.6L1138.23 97.6L1138.23 250.07ZM1249.84 250.07L1284.6 250.07L1339.49 97.6L1304.73 97.6L1267.22 202.8L1229.71 97.6L1194.95 97.6L1249.84 250.07ZM1469.1 198.53C1460.86 213.17 1448.66 220.19 1431.89 220.19C1410.24 220.19 1390.11 202.19 1385.84 180.85L1511.18 181.46L1511.18 173.22C1509.35 129.01 1475.8 94.55 1431.89 94.55C1389.2 94.55 1353.21 129.01 1353.21 173.53C1353.21 217.14 1388.28 252.51 1431.89 252.51C1464.22 252.51 1492.88 229.94 1505.38 198.84L1469.1 198.53ZM1476.41 154.32L1389.81 154.32C1395.91 134.49 1411.46 123.52 1431.89 123.52C1453.24 123.52 1470.62 134.49 1476.41 154.32Z"></path>
+</g>
+</svg>
+</div>
+<a href="https://goout.net/cs/listky/ai-summit-by-vogue-shaping-tomorrow-together/ukpx/" class="btn btn-lg btn-secondary btn-black m-auto mb-3">Koupit vstupenky</a>
+</div>
+<div class="col-lg-5 text-center">
+
+<div id="carouselExampleDark" class="carousel carousel-fade carousel-dark slide" data-bs-ride="carousel">
+<div class="carousel-inner ">
+<div class="carousel-item active" data-bs-interval="3000">
+<img src="/web/assets/img/2024/speakers/Shudu.jpg" class="d-block w-75 m-auto black-white" alt>
+<div class="pt-3">
+<h2 class="mb text-center"><strong>Shudu Gram</strong></h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="pb3" id="about">
+<div class="container">
+<div class="row">
+<div class="col-md-10 offset-md-1 text-center">
+<p class="mb2">
+Mimořádná konference přináší nový pohled na umělou inteligenci, která zásadně a
+rychle mění svět kolem nás. Jak se s ní spřátelit, jak ji kreativně využít v našem
+životě i na co si dát pozor? Všechny tyto otázky budou řešit přední odborníci z
+mnoha oborů od technologií přes medicínu a vzdělávání až po módní průmysl pod
+taktovkou <strong class="text-transparent">Karla „Kovyho“ Kováře</strong> v roli hlavního moderátora eventu.</p>
+<p class="mb2">
+Seznamte se s první digitální supermodelkou <strong class="text-transparent">Shudu Gram</strong> i jejím tvůrcem
+<strong class="text-transparent">Cameronem Wilsonem</strong>. Revoluci ve světě módy vám představí také šéfka globální
+platformy PhotoVogue <strong class="text-transparent">Alessia Glaviano</strong>. Nástrahami digitálního světa vás provede
+jeden z největších českých odborníků na AI <strong class="text-transparent">Michal Pěchouček</strong>. A efektivně používat
+ChatGPT vás naučí datový analytik <strong class="text-transparent">Josef Šlerka</strong>.
+</p>
+<p class="text-transparent">Další hosty budeme postupně odtajňovat!</p>
+<h4 class="mb0"><strong class> Přijďte inspirovat svou vlastní inteligenci! </strong></h4>
+</div>
+</div>
+</div>
+</section>
+<section class="pb3" id="program">
+<div class="container">
+<div class="row">
+<div class="col text-center">
+<h2 class="mb2">program</h2>
+</div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>8:15 – 9:00</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"><p class="mb0"><strong>Registrace a snídaně</strong></p>
+</div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>9:00 – 9:10</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8">
+<p class="mb0"><strong>Zahájení: Welcome to the World of Tomorrow </strong></p>
+<ul><li>Michaela Seewald (vydavatelka Vogue CS)
+</li>
+<li>Kovy (moderátor, youtuber)
+</li>
+<li>Shudu (první digitální supermodelka)</li></ul> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>9:10 – 9:30</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8">
+<p class="mb0"><strong>Keynote Speech: O AI a lidech </strong></p><ul><li>Michal Pěchouček (CTO, Gen Digital)
+</li></ul>
+</div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>9:30 – 10:00</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8">
+<p class="mb0"><strong>Roboti, avataři a ti druzí</strong></p>
+<p> Praktická ukázka, co už dnes technologie dokážou</p>
+</div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>10:00–10:30</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong>Žijte zdravě díky technologiím</strong></p><p>Jak si vylepšit zdraví a dožít se vysokého věku s pomocí moderních nástrojů</p>
+<ul><li>Tomáš Šebek (lékař, Ulékaře.cz, Ministr zdraví)
+</li><li>David Sibřina (vývojář, IKEM)</li><li>Galina Tissot (Country President CZ, Novartis) </li></ul> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>10:30–11:00</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong>Coffee Break</strong></p> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>11:00 – 11:30</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8">
+<p class="mb0"><strong>Budoucnost médií ve světě AI</strong></p>
+<p>Jak umělá inteligence změní svět médií a mají živí novináři budoucnost?</p>
+</div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>11:30 – 12:00</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong>Law & AI</strong></p>
+<p>Autorské právo ve světě autorů s umělou inteligencí, deepfakes a další právní výzvy současnosti</p>
+<ul><li>doc. JUDr. Aleš Rozehnal, Ph.D. (advokát, Rozehnal & Kuchař)
+</li><li>JUDr. Veronika Křesťanová, Dr. (soudkyně Ústavního soudu)
+</li><li>Vendula Marxová (studentka, Právnická fakulta, Univerzita Palackého v Olomouci)
+</li><li>JUDr. Petra Žikovská (členka Centra práva duševního vlastnictví)
+</li></ul> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>12:00 – 12:30</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong>AI v byznysu</strong></p>
+<p>Jak umělá inteligence pomáhá startupům i nadnárodním korporacím
+</p><ul><li>Andrea Gontkovičová (Managing Director CZ, SK and HU, Philip Morris International)</li><li>Diana Rádl Rogerová (partner, Behind Inventions)
+</li><li>Sparkeey</li></ul> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>12:30 – 13:30</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong>Oběd</strong></p> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>13:30 – 13:45</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong>Keynote Speech</strong></p>
+<ul><li>Alessia Glaviano (Head of Global PhotoVogue)
+</li></ul> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>13:45 – 14:15</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong> AI Catwalk</strong></p>
+<P>AI mění náš svět, včetně toho módního. Jak budou za několik let vypadat přehlídková mola a módní magazíny?</P>
+<ul><li>Matúš Tóth (fotograf)
+</li><li>Lenka Čapková (Centre Director, Fashion Arena Prague Outlet)
+</li></ul> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>14:15 – 14:45</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"><p class="mb0"><strong>První digitální supermodelka na scéně
+</strong></p>
+<p>Digitální supermodelka Shudu, její tvůrce i živý předobraz společně na jednom pódiu
+</p>
+<ul>
+<li>Cameron Wilson – tvůrce první digitální supermodelky Shudu
+</li>
+<li>Shudu – první digitální supermodelka poprvé v „live“ debatě
+</li>
+<li>Alexsandrah – modelka, předobraz Shudu
+</li>
+</ul>
+</div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>14:45 –15:15</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong>Buducnost krásy, krása budoucnosti</strong></p><p>
+Změní se ideál krásy s příchodem dokonalých, umělou inteligencí vytvořených žen?
+</p><ul><li>Daniela Peštová (topmodelka)
+</li><li>Saša Jány (spolumajitel, Elite Model Management Prague a Elite Model Management Bratislava)
+</li><li>Božena Hrušková (Brand Business Director Make-Up, L'Oreal)
+</li></ul> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>15:15 – 15:45</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8">
+<p class="mb0"><strong> Coffee Break </strong></p>
+</div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>15:45 - 16:15</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong>Umělá inteligence – můj učitel</strong></p>
+<p>Co dokáže umělá inteligence ve vzdělávání našich dětí a co může naučit dospělé
+</p><ul><li>Dita Formánková (zakladatelka, Czechitas)
+</li><li>Daria Hvížďalová (Director of AI Skills & Education, 42 London & Head of AI EduLab SFERA)
+</li><li>Eva Nečasová (spoluzakladatelka, AI dětem)
+</li></ul> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>16:15 - 16:45</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong>Workshop ChatGPT</strong></p><p>Naučte se co nejefektivněji pracovat s AI
+</p><ul><li>Josef Šlerka (sémiotik, odborník na analýzu dat ze sociálních sítí)
+</li></ul> </div>
+</div>
+<div class="row pb-1">
+<div class="col-4 col-md-3 text-end">
+<p>16:45</p>
+</div>
+<div class="col-1 d-flex flex-column align-items-center">
+<div class="program-circle"></div>
+<div class="program-separator"></div>
+</div>
+<div class="col-7 col-md-8"> <p class="mb0"><strong>Závěr konference, koktejl</strong></p> </div>
+</div>
+<div class="row pt-4">
+<div class="col text-center text-transparent">
+<p class="text-small">Změna programu vyhrazena.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="pb3">
+<div class="container">
+<div class="row">
+<div class="col text-center">
+<a href="https://goout.net/cs/listky/ai-summit-by-vogue-shaping-tomorrow-together/ukpx/" class="btn btn-lg btn-secondary btn-black mb2">Koupit vstupenky</a>
+</div>
+</div>
+</div>
+</section>
+<section class="pb3" id="speakers">
+<div class="container">
+<div class="row">
+<div class="col-md-10 offset-md-1 text-center">
+<h2 class="mb2 ">speakers</h2>
+</div>
+</div>
+<div class="row justify-content-center">
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Pechoucek.jpg" class="w-100 mb-3 black-white speakers-img" alt="Michal Pěchouček">
+<h4 class="mb-1"><strong>Michal Pěchouček</strong></h4>
+<p class="small mb2">Jeden z předních odborníků na poli umělé inteligence zastává od roku 2019 funkci CTO globální technologické společnosti Gen. Více než 20 let působil jako profesor na ČVUT v Praze, kde v roce 2001 založil centrum umělé inteligence AI Center. Je autorem více než 400 publikací, během své profesní dráhy se také podílel na vzniku několika technologických startupů a založil iniciativu prg.ai. Jako hostující profesor působil mimo jiné na University of Southern California, University of Edinburgh či State University of New York.</p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Shudu.jpg" class="w-100 mb-3 black-white speakers-img" alt="Shudu Gram">
+<h4 class="mb-1"><strong>Shudu Gram</strong></h4>
+<p class="small mb2">Perfektní pleť, nádherné rysy i postava, ale také nádech tajemna... Všechny atributy dokonalé krásy v sobě spojuje Shudu. Oslnivá kráska je však výjimečná ještě v jedné věci – stala se první digitální supermodelkou a influencerkou na světě. Osobnost Shudu Gram stvořil v roce 2017 módní fotograf Cameron-James Wilson, během své dráhy už spolupracovala s řadou luxusních značek včetně Louis Vuitton, Balmain či BMW.</p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Kovar.jpg" class="w-100 mb-3 black-white speakers-img" alt="Karel „Kovy“ Kovář">
+<h4 class="mb-1"><strong>Karel „Kovy“ Kovář</strong></h4>
+<p class="small mb2">Jeden z nejvýraznějších představitelů české YouTube scény se svými více než 950 tisíci odběrateli probírá celospolečenská témata, politiku, finanční gramotnost, soukromí či sociální sítě. Pravidelně moderuje benefiční koncerty Světlo pro Světlušku a vědecké Ceny Neuron. Je také autorem dvou bestsellerů: autobiografie OVŠEM a young adult fikce iPohádka. Nedávno představil svůj podcast LOG, přes tři roky je součástí moderátorského dua podcastu LINKA.</p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Cameron.jpg" class="w-100 mb-3 black-white speakers-img" alt="Cameron-James Wilson">
+<h4 class="mb-1"><strong>Cameron-James Wilson</strong></h4>
+<p class="small mb2">Tvůrce první digitální supermodelky Shudu a zakladatel přední plně digitální modelingové agentury The Diigitals, která předznamenává novou epochu stírající hranice mezi realitou a virtuálním světem. Wilsonova práce nejenže posouvá hranice digitálního umění, ale nabízí i vizi udržitelnějšího módního průmyslu. Svým inovativním přístupem připravuje půdu pro novou éru módy, kde digitální prvky posilují fyzické a kreativita nezná hranic.</p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Alexandra.jpg" class="w-100 mb-3 black-white speakers-img" alt="Alexsandrah">
+<h4 class="mb-1"><strong>Alexsandrah</strong></h4>
+<p class="small mb2">Modelka s domovem v Londýně proslula především jako předloha pro Shudu, první digitální supermodelku na světě. Svou profesionální modelingovou kariéru však Alexsandrah zahájila už kolem roku 2014. Od té doby získala uznání za své kampaně pro řadu prominentních značek, jako jsou H&M, Vivienne Westwood či Boy London. Vedle dráhy modelky se Alexsandrah věnuje své dceři, která je pro ni hlavní motivací pro vše, co dělá.</p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Glaviano.jpg" class="w-100 mb-3 black-white speakers-img" alt="Alessia Glaviano">
+<h4 class="mb-1"><strong>Alessia Glaviano</strong></h4>
+<p class="small mb2">Vysoce uznávaná osobnost na poli mezinárodní fotografické kritiky je zároveň šéfkou platformy Global PhotoVogue, která pod jejím vedením funguje již dvanáctým rokem a zaštiťuje více než 350 tisíc fotografů z celého světa od amatérů po profesionály. Vedle rozvíjení Global PhotoVogue Alessia Glaviano pravidelně předává své znalosti také v rámci přednášek a konferencí či jako členka poroty řady mezinárodně uznávaných fotografických soutěží včetně World Press Photo či Leica Oskar Barnack Award.</p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Sebek.jpg" class="w-100 mb-3 black-white speakers-img" alt="Tomáš Šebek">
+<h4 class="mb-1"><strong>Tomáš Šebek</strong></h4>
+<p class="small mb2">Chirurg, který střídá operační sál v nemocnici s polními podmínkami na misích Lékařů bez hranic, o nichž pak píše knihy. Je také popularizátorem medicíny a spoluzakladatelem telemedicínské platformy uLékaře.cz propojující lékaře s pacienty online. Jeho další platforma Ministr zdraví spojuje profesionály z různých oblastí, kteří chtějí dosáhnout systémové změny v českém zdravotnictví. </p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Toth.jpg" class="w-100 mb-3 black-white speakers-img" alt="Matúš Tóth">
+<h4 class="mb-1"><strong>Matúš Tóth</strong></h4>
+<p class="small mb2">Rozený Bratislavan, aktuálně sídlící v Praze, působí jako komerční fotograf zaměřený na módu, reklamu a životní styl. Ve své tvorbě hravě zachycuje propojení dvou světů – propojení minulosti s přítomností nebo přítomnosti s budoucností –, z něhož vznikají nové magické světy. Zajímá se o nové trendy ve fotografii a při práci kombinuje různé techniky, jako je digitální fotografie, analogová fotografie a umělá inteligence. </p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Krestanova.jpg" class="w-100 mb-3 black-white speakers-img" alt="Veronika Křesťanová">
+<h4 class="mb-1"><strong>Veronika Křesťanová</strong></h4>
+<p class="small mb2">V srpnu 2023 se stala soudkyní Ústavního soudu, právu se však profesně věnuje už přes tři desetiletí. Osmnáct let působila v advokacii, kde se specializovala na autorské a mediální právo. V roce 2010 se stala soudkyní Městského soudu v Praze, od roku 2017 pak byla jeho místopředsedkyní. Zároveň se celou svou profesní kariéru věnuje i akademické činnosti, právo vyučovala na FSV UK, PF UK a stále ho přednáší na FAMU. Významně se podílela na přípravě autorského zákona z roku 2000. Je také dlouholetou bezpříspěvkovou dárkyní krve (více než 30 odběrů).</p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Marxova.jpg" class="w-100 mb-3 black-white speakers-img" alt="Vendula Marxová">
+<h4 class="mb-1"><strong>Vendula Marxová</strong></h4>
+<p class="small mb2">Studentka 5. ročníku Právnické fakulty Univerzity Palackého v Olomouci. Během studia absolvovala praxi v advokátní kanceláři a stáže u Ústavního i krajského soudu a u Probační a mediační služby. V posledním roce se aktivně zabývá právními aspekty rozvoje umělé inteligence. Se svým článkem na téma Autorské právo k dílu vytvořenému za použití AI zvítězila ve studentské soutěži o nejlepší článek s právní tematikou.</p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Formankova.jpg" class="w-100 mb-3 black-white speakers-img" alt="Dita Formánková">
+<h4 class="mb-1"><strong>Dita Formánková</strong></h4>
+<p class="small mb2">Zakladatelka a ředitelka neziskové organizace Czechitas, která vzdělává nové talenty v digitálních a technických dovednostech a rekvalifikuje do IT. Do roku 2023 působila jako globální ředitelka pro diverzitu a spolupráci s komunitami v Avastu. Stála u zrodu sociálně prospěšných organizací a projektů jako Powercoders.org, Datagirls či Greenfox Academy CZ. Je také členkou správní rady Česko.digital a D&I Shapers i Českého digitálního týmu a Výboru pro digitální vzdělávání na Úřadu vlády. </p>
+</div>
+<div class="col-md-4 text-center mb-3 mb-md-0 px-4">
+<img src="/web/assets/img/2024/speakers/Hvizdalova.jpg" class="w-100 mb-3 black-white speakers-img" alt="Daria Hvížďalová">
+<h4 class="mb-1"><strong>Daria Hvížďalová</strong></h4>
+<p class="small mb2">Na pozici Director of AI Skills & Learning v britském 42London a také jako Head of AI v českém EduLab se zabývá integrací AI do vzdělávacích procesů – s cílem zvýšit efektivitu práce učitelů a usnadnit rekvalifikaci dospělých v IT. Je absolventkou AI programu na MIT v USA, v minulosti působila také jako CEO školy programování 42Prague od Škoda Auto. Zkušenosti v automatizaci a AI získávala také v McKinsey Belgium, R&D firmě GoodAI a JHV, spoluzaložila výrobní softwarovy startup Mainware. </p>
+</div>
+</div>
+</div>
+</section>
+<section class="tickets pt3 pb3" id="tickets">
+<div class="container">
+<div class="row">
+<div class="col text-center">
+<h2 class="mb3">vstupenky na prezenční / on-line konferenci</h2>
+</div>
+</div>
+<div class="row mb3">
+<div class="col-lg-5 mb1 text-center ">
+<h2 class="mb1 text-white"><strong>Prezenční vstupenka:</strong></h2>
+<p class="text-small">Celodenní vstup na konferenci</p>
+<p class="text-small">Workshop na používání AI nástrojů</p>
+<p class="text-small">Možnost osobní interakce s AI avatarem</p>
+<p class="text-small">Prezentace technologických novinek partnerů v lounge zóně</p>
+<p class="text-small">Celodenní catering od Zátiší Catering – speciální menu navržené umělou inteligencí</p>
+<p class="text-small">Taška Vogue s aktuálním vydáním magazínů Vogue CS a Vogue Leaders a dárky od partnerů</p>
+<p class="text-small">Přístup k záznamu celé akce po dobu šesti měsíců</p>
+<p class="text-small mb-5">360° video a fotokoutek s využitím virtuálního prostředí</p>
+<p class="mb-4">
+<strong>Cena vstupenky standard - 6&nbsp;500&nbsp;CZK
+</strong>
+</p>
+<p><strong>Cena vstupenky - early birds - 4&nbsp;500&nbsp;CZK, do 30. 4.</strong>
+</p>
+<p><strong>Studentská vstupenka - 1&nbsp;200&nbsp;CZK, na základě předložení ISIC průkazu</strong>
+</p>
+</div>
+<div class="col-lg-2 d-flex flex-column align-items-center">
+<div class="program-separator"></div>
+<hr class="d-lg-none w-25 mb-5" style="border: 1px solid white">
+</div>
+<div class="col-lg-5 mb1 text-center ">
+<h2 class="mb1 text-white">
+<strong>On-line konference:</strong>
+</h2>
+<p class="text-small">Celodenní přímý přenos konference </p>
+<p class="text-small">Program 9:00 - 17:00 </p>
+<p class="text-small mb-5">Přístup k záznamu celé akce po dobu šesti měsíců</p>
+<p class>
+<strong>Cena on line vstupenky standard - 1&nbsp;290&nbsp;CZK
+</strong>
+</p>
+<p><strong>Cena on line vstupenky - early birds - 890&nbsp;CZK, do 30.4.</strong>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col text-center">
+<a href="https://goout.net/cs/listky/ai-summit-by-vogue-shaping-tomorrow-together/ukpx/" class="btn btn-lg btn-secondary btn-black mb2">koupit vstupenky</a>
+<p>Místo: <a class href="https://maps.app.goo.gl/DeEoQf6LCVfDSSb16">Křižíkův pavilon E, Výstaviště Praha – Holešovice</a></p>
+<p>U on-line vstupného obdržíte odkaz pro přihlášení do on-line konference na zadanou e-mailovou adresu.</p>
+<p>Účastí na konferenci Vogue Live výslovně souhlasíte s pořizováním fotografií a záznamů a jejich zveřejňováním.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="partners p">
+<div class="container bg-transparent pt-5 pb-0 p-lg-5 pb-lg-0">
+<div class="row d-flex align-items-center">
+<div class="col-12 text-center mb1"><h2>partneři</h2></div>
+<div class="col-12 d-flex justify-content-center align-items-center flex-wrap  p-3">
+<img class="partners-logo partners-logo-small mx-4 my-4 py-2 " src="https://www.vogue-live.cz/web/assets/img/2024/boss_w_UPRAVENO.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py- " src="https://www.vogue-live.cz/web/assets/img/2024/mb_original.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py- " src="https://www.vogue-live.cz/web/assets/img/2024/lancome_w_UPRAVENO.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py- " src="https://www.vogue-live.cz/web/assets/img/2024/philip morris_w.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py-1 " src="https://www.vogue-live.cz/web/assets/img/2024/iWant_APP_logo_W.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py-2 " src="https://www.vogue-live.cz/web/assets/img/2024/braun_w_UPRAVENO.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py- " src="https://www.vogue-live.cz/web/assets/img/2024/fashion arena_w.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py- " src="https://www.vogue-live.cz/web/assets/img/2024/NOVARTIS_W.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py- " src="https://www.vogue-live.cz/web/assets/img/2024/ORLEN_Unipetrol-RGB-podstawowa_kontra_be-tla.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py- " src="https://www.vogue-live.cz/web/assets/img/2024/zatisi_w.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py- " src="https://www.vogue-live.cz/web/assets/img/2024/nespresso_w_UPRAVENO.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-4 py- " src="https://www.vogue-live.cz/web/assets/img/2024/ahmad_w.png" alt>
+</div>
+</div>
+</div>
+</section>
+<section class="partners pb3">
+<div class="container bg-transparent pt-3 pb-0 p-lg-5 pb-lg-0">
+<div class="row d-flex align-items-center">
+<div class="col-12 text-center mb1"><h2>za podpory</h2></div>
+<div class="col-12 d-flex justify-content-center align-items-center flex-wrap  p-3">
+<img class="partners-logo partners-logo-small mx-4 my-2 py-" src="https://www.vogue-live.cz/web/assets/img/2024/vystaviste.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-" src="https://www.vogue-live.cz/web/assets/img/2024/X_LAB_w.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-2" src="https://www.vogue-live.cz/web/assets/img/2024/key_w_UPRAVENO.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-" src="https://www.vogue-live.cz/web/assets/img/2024/ASPENA_W.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-" src="https://www.vogue-live.cz/web/assets/img/2024/phenomen.png?s" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-" src="https://www.vogue-live.cz/web/assets/img/2024/florist_w.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-2" src="https://www.vogue-live.cz/web/assets/img/2024/logo_vitra_white.png?s" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-3" src="https://www.vogue-live.cz/web/assets/img/2024/Redken.png?d" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-2" src="https://www.vogue-live.cz/web/assets/img/2024/Gala Fotokoutek - transparent.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-" src="https://www.vogue-live.cz/web/assets/img/2024/u-lekare.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-3" src="https://www.vogue-live.cz/web/assets/img/2024/EB21-logo-positive-white.png" alt>
+<img class="partners-logo partners-logo-small mx-4 my-2 py-" src="https://www.vogue-live.cz/web/assets/img/2024/FEECTU_White.png?s" alt>
+</div>
+</div>
+</div>
+</section><div class="sticky">
+<a href="https://goout.net/cs/listky/ai-summit-by-vogue-shaping-tomorrow-together/ukpx/" class="btn btn-lg btn-secondary btn-black">koupit vstupenky</a>
+</div><section class="footer pt3 " id="contact">
+<div class="container">
+<div class="row d-flex justify-content-between">
+<div class="col-md-3 mb-5 mb-md-0 d-flex justify-content-center">
+<a href="https://www.vogue.cz">
+<svg stroke="white" class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583.06 149.32"><path fill="white" d="M.25 4.14h51.33c.29 0 .2 1.51 0 1.51H41s-3-.13-2.08 1.51c.18.34 36.26 99 36.26 99s.63 1.7 1.13 1.89L108.38 8.9c.33-1 1.47-3.19-.5-3.19h-11.6c-.21 0-.21-1.51 0-1.51h27.61c.21 0 .21 1.51 0 1.51h-10.28c-2.81 0-2.83.82-3.34 2.27-.25.74-44.64 139.09-44.64 139.09s-.19-.6-.37-1.14C46.5 91.64 17.37 16.1 15.07 8.05c-.69-2.42-1-2.34-2.46-2.34H.25c-.36 0-.31-1.57 0-1.57zM135 73.4c0-39.6 7.6-72 35.67-71.94 30.19 0 36.12 33.7 36.12 71.94 0 39.59-5.76 73.74-35.86 73.71C138.6 147.08 135 115 135 73.4zm35.36 74.85c29.95.1 62.35-33.06 62.43-74.09.08-43-31.07-73.59-61.92-73.84C139.3.06 109 34.73 109 74.16c0 40.77 28.63 73.97 61.36 74.09zM316.4 87.59h11.72s2.18-.23 2.16.82v33.52c0 25.79-25.7 26.08-33 25.26-26.87-3.05-27.43-58.51-27.56-73.08C269.38 34.52 275.6 0 302.63 1.4c32.11 1.63 40.5 47.63 41 49.69 1.07.38 1.08-.51 1.08-.51L344.79.4s-.22-.42-.86.16l-.79.79c-14.2 14.52-21.31-.67-42-1.34-25.43-.82-57 34.44-57.42 75.11-.41 40.92 26.46 72.47 55.84 73.58 15.93.61 15.58-3.82 35.24-9.91 12-3.73 17.68 4.37 18.12 7.73.76.5.82-.38.82-.38V88.6c0-1.14 1.59-.95 1.59-.95h10.87c.27 0 .27-1.58 0-1.58h-49.86c-.34 0-.34 1.52.06 1.52zM579.76 4.12v51.55c0 .25-1 .32-1 0s1-50.09-45.26-50.09h-17.33c-1 0-1.56.17-1.56.92v64.39c0 .61.61.93 1.53.93h5.79c27.49 0 25.28-27.59 25.28-27.9s1.08-.26 1.08 0l.05 58.18c0 .26-.81.31-.81 0s-.64-28.76-26.23-28.76h-5.16c-.89 0-1.53.33-1.53.94v69.3c0 .48.59.93 1.56.93l16.62.05c49.66.13 49-53.18 49-53.43s1.27-.25 1.27 0v55.21H478.25c-.31 0-.28-1.52 0-1.52h10.48c.93 0 1.53-.32 1.53-.93V6.56c0-1-1.16-.95-1.53-.95h-23.19s-1.52 0-1.52.88v104c.06 29.08-22.29 38.56-38.37 38.83-18.92.1-52.9-3.09-52.9-45 0 0-.08-95.39-.13-96.72-.06-2.08-2.64-2-2.64-2h-11.1c-.35 0-.28-1.51 0-1.51h52.33c.28 0 .19 1.51 0 1.51h-11.15s-3.43-.2-3.43 2.08c0 3.21.06 106.42.06 110.08 0 16.09 9.11 30.35 28.94 30 15.45-.26 36.94-9.37 36.88-37.32V6.39c-.06-.81-1.64-.88-1.64-.88h-14.53c-.32 0-.26-1.45.06-1.45z"></path><path d="M175 69.85a2.66 2.66 0 0 1 2.46-2.85 2.63 2.63 0 0 1 2.54 2.79v.07h2.16a4.65 4.65 0 0 0-9.28-.61v.61c0 4.23 7.12 6 7.12 8.87a2.64 2.64 0 0 1-2.39 2.85h-.06a2.66 2.66 0 0 1-2.55-2.82h-2.14a4.65 4.65 0 0 0 9.28.61v-.61c-.04-4.28-7.14-6.06-7.14-8.91zM164.37 67a2.64 2.64 0 0 1 2.45 2.81H169a4.65 4.65 0 0 0-9.28-.61V78.68a4.65 4.65 0 0 0 9.28.61v-.61h-2.16a2.52 2.52 0 1 1-5 .63 2.22 2.22 0 0 1 0-.63v-8.83A2.66 2.66 0 0 1 164.3 67z"></path></svg>
+</a>
+</div>
+<div class="col-md-3 offset-md-6 d-flex justify-content-center">
+<p class="text-white text-small text-center text-md-start">
+<a class="text-white d-block d-md-flex mr-2 mb-1 mb-md-0" href="/cdn-cgi/l/email-protection#761d170213041f1817581d03141f151d19001736001911031358150c"><span class="__cf_email__" data-cfemail="1e757f6a7b6c77707f30756b7c777d7571687f5e6871796b7b307d64">[email&#160;protected]</span></a>
+<a class="text-white d-block d-md-flex mr-2 mb-1 mb-md-0" href="https://www.vogue.cz">www.vogue.cz</a>
+Masarykovo&nbsp;nábřeží&nbsp;10, 120&nbsp;00 Praha&nbsp;2
+</p>
+</div>
+</div>
+</div>
+</section>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+</body>
+</html>

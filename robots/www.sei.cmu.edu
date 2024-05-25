@@ -1,0 +1,37 @@
+# robots.txt for http://www.sei.cmu.edu/
+
+User-agent: *
+Crawl-delay: 1
+
+User-agent: *
+Request-rate: 30/1m
+
+User-agent: *
+Allow: /
+
+User-agent: WebZIP
+Disallow: /
+
+# Changed 20 Nov 2015 by cch
+# User-agent: *
+# Disallow: /events/*
+
+User-agent: *
+Disallow: /loader*
+
+User-agent: *
+Disallow: /webadmin/*
+
+User-agent: *
+Allow: /smartgrid/start/downloads/*
+
+User-agent: *
+Disallow: /test/*
+
+User-agent: *
+Disallow: /sample-webinar*
+
+Sitemap: http://www.sei.cmu.edu/sitemap.xml
+
+# last updated: 20 Nov 2015
+# For information, contact: webmaster@sei.cmu.edu

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /en/
+Disallow: /category/
+Disallow: /author/
+Disallow: *.pdf
+Disallow: /focus-thematiques-et-strategie-francaise-de-normalisation/
+Sitemap: https://normalisation.afnor.org/post-sitemap.xml
+Sitemap: https://normalisation.afnor.org/page-sitemap.xml
+Sitemap: https://normalisation.afnor.org/category-sitemap.xml

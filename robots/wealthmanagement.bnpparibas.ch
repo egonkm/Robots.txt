@@ -1,0 +1,1 @@
+{"authRequired":true,"authStep":"USERNAME","errorMessage":"Please login before accessing to protected resources"}

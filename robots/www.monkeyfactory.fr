@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wpcontent/cache
+Disallow: /trackback
+Disallow: /*.php$
+Disallow: /*.inc$
+Disallow: /*.gz$
+Disallow: /wp-login.php
+
+Sitemap: https://www.monkeyfactory.fr/sitemap.xml

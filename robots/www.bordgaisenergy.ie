@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /*?returnUrl=
+Disallow: /*?existing-customer
+Disallow: /document/
+Disallow: /undefined/
+Sitemap: https://www.bordgaisenergy.ie/sitemapBGE.xml

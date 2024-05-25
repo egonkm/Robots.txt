@@ -1,0 +1,26 @@
+User-Agent: *
+Disallow: /content/
+Disallow: /*site-resources/
+Disallow: /*site-forms/
+Disallow: /*3qa
+Disallow: /*3qb
+Disallow: /*3qc
+Disallow: /*thank-you$
+Disallow: /*gracias
+Disallow: /*mercie
+Disallow: /*grazie
+Disallow: /*bedankt
+Disallow: /*obrigado
+Disallow: /*bedankt
+Disallow: /*vielen-dank
+Disallow: /me/
+Disallow: /cx/
+Disallow: /submitted
+Disallow: /checkout
+Disallow: /chooser
+Disallow: /_templates
+Disallow: /in
+Allow: /content/dam/
+
+Sitemap: https://learning.linkedin.com/sitemap.xml
+Sitemap: https://learning.linkedin.com/blog/sitemap.xml

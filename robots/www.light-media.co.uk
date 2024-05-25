@@ -1,0 +1,1051 @@
+User-agent: *
+
+Disallow: /modules/pagegallery/gallerywindow.aspx #404 page automatically added
+
+Disallow: /modules/blog/default.aspx #404 page automatically added
+
+Disallow: /_resources/css/img/play-pause.png #404 page automatically added
+
+Disallow: /autodiscover/autodiscover.xml #404 page automatically added
+
+Disallow: /_userfiles/pages/images/grid_images/5.jpg #404 page automatically added
+
+Disallow: /blog/2016/3/3/37/lightmedia_win_an_interactive_media_award/default.aspx #404 page automatically added
+
+Disallow: /insights/2016/12/8/16/lightmedia_are_cyber_essentials_certified/default.aspx #404 page automatically added
+
+Disallow: /casestudies/5/travel_de_courcey/default.aspx #404 page automatically added
+
+Disallow: /license.txt #404 page automatically added
+
+Disallow: /blog/rss/default.aspx #404 page automatically added
+
+Disallow: /readme.txt #404 page automatically added
+
+Disallow: /news/rss/default.aspx #404 page automatically added
+
+Disallow: /wp-content/themes/twentyten/images/wordpress.png #404 page automatically added
+
+Disallow: /help.txt #404 page automatically added
+
+Disallow: /readme.html #404 page automatically added
+
+Disallow: /readme.htm #404 page automatically added
+
+Disallow: /wp-content/plugins/akismet/akismet.js #404 page automatically added
+
+Disallow: /wp-content/themes/classic/rtl.css #404 page automatically added
+
+Disallow: /wp-content/themes/twentyeleven/readme.txt #404 page automatically added
+
+Disallow: /wp-content/themes/twentyten/style.css #404 page automatically added
+
+Disallow: /wp-includes/css/buttons.css #404 page automatically added
+
+Disallow: /wp-includes/js/scriptaculous/wp-scriptaculous.js #404 page automatically added
+
+Disallow: /wp-includes/js/tinymce/langs/wp-langs-en.js #404 page automatically added
+
+Disallow: /wp-includes/js/tinymce/wp-tinymce.js #404 page automatically added
+
+Disallow: /_resources/css/master/ionicons.min.css #404 page automatically added
+
+Disallow: /_resources/css/master/slick.css #404 page automatically added
+
+Disallow: /_resources/css/master/owl.carousel.css #404 page automatically added
+
+Disallow: /_resources/css/master/animate.css #404 page automatically added
+
+Disallow: /modules/moduleanimatedbanner/_resources/css/cyclebanner.css #404 page automatically added
+
+Disallow: /modules/modulesearch/_resources/css/style.css #404 page automatically added
+
+Disallow: /modules/modulenews/_resources/css/style.css #404 page automatically added
+
+Disallow: /modules/moduleblog/_resources/css/blog.css #404 page automatically added
+
+Disallow: /_resources/js/menu.js #404 page automatically added
+
+Disallow: /_resources/css/lower.css #404 page automatically added
+
+Disallow: /apple-app-site-association/default.aspx #404 page automatically added
+
+Disallow: /.well-known/assetlinks.json #404 page automatically added
+
+Disallow: /.well-known/apple-app-site-association/default.aspx #404 page automatically added
+
+Disallow: /_resources/js/master/form.js #404 page automatically added
+
+Disallow: /news/archive/default.aspx #404 page automatically added
+
+Disallow: /_resources/js/master/slick.min.js #404 page automatically added
+
+Disallow: /_resources/js/master/owl.carousel.min.js #404 page automatically added
+
+Disallow: /_resources/js/master/wow.min.js #404 page automatically added
+
+Disallow: /_resources/js/master/jquery.stellar.js #404 page automatically added
+
+Disallow: /about/jobs.aspx #404 page automatically added
+
+Disallow: /components/com_mailto/views/sent/metadata.xml #404 page automatically added
+
+Disallow: /_resources/js/master/noframework.waypoints.min.js #404 page automatically added
+
+Disallow: /administrator/default.aspx #404 page automatically added
+
+Disallow: /modules/news/newsstory.aspx #404 page automatically added
+
+Disallow: /blog/2010/default.aspx #404 page automatically added
+
+Disallow: /_resources/js/master/querystring.js #404 page automatically added
+
+Disallow: /blog/2013/6/12/12/why_wordpress_is_not_always_the_best_cms_option/default.aspx #404 page automatically added
+
+Disallow: /services/elearning.aspx #404 page automatically added
+
+Disallow: /ess/mania/default.aspx #404 page automatically added
+
+Disallow: /default.aspxrobots.txt #404 page automatically added
+
+Disallow: /insights/2016/04/ #404 page automatically added
+
+Disallow: /services/mobile_web_development.aspx #404 page automatically added
+
+Disallow: /insights/2016/01/ #404 page automatically added
+
+Disallow: /default.aspxour_solutions/e_commerce_online_shops.aspx #404 page automatically added
+
+Disallow: /default.aspxlogin.aspx #404 page automatically added
+
+Disallow: /default.aspxour_solutions/additional_services/default.aspx #404 page automatically added
+
+Disallow: /default.aspxdefault.aspx #404 page automatically added
+
+Disallow: /services/corporate_website_solutions.aspx #404 page automatically added
+
+Disallow: /insights/2016/06/ #404 page automatically added
+
+Disallow: /insights/2016/12/12/17/launch_of_coventry_collections/default.aspx #404 page automatically added
+
+Disallow: /default.aspxour_solutions/online_consultancy.aspx #404 page automatically added
+
+Disallow: /casestudies/article/4/top_car_news/default.aspx #404 page automatically added
+
+Disallow: /modules/blog/article.aspx #404 page automatically added
+
+Disallow: /blog/tags/default.aspx #404 page automatically added
+
+Disallow: /_userfiles/pages/files/lightmedia_hosting_terms_of_business_01_08_06.pdf #404 page automatically added
+
+Disallow: /blog/tags/canvas/default.aspx #404 page automatically added
+
+Disallow: /blog/2013/10/27/14/the_coventry_company_travel_de_courceys_new_site/default.aspx #404 page automatically added
+
+Disallow: /blog/2013/6/30/15/scts_mortality_rates_as_discussed_on_the_bbc_news/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/networks/default.aspx #404 page automatically added
+
+Disallow: /_resources/icons/manifest.json #404 page automatically added
+
+Disallow: /insights/2016/03/ #404 page automatically added
+
+Disallow: /who_we_are_lightmedia/meet_the_team.aspx #404 page automatically added
+
+Disallow: /services/web_design_development.aspx #404 page automatically added
+
+Disallow: /insights/2016/08/ #404 page automatically added
+
+Disallow: /blog/tags/advertising/default.aspx #404 page automatically added
+
+Disallow: /gallery.aspx #404 page automatically added
+
+Disallow: /insights/2016/05/ #404 page automatically added
+
+Disallow: /blog/tags/wordpress/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/twitter/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/cloud_servers/default.aspx #404 page automatically added
+
+Disallow: /clients/testimonials.aspx #404 page automatically added
+
+Disallow: /blog/tags/virtual_tours/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/facebook/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/business_view/default.aspx #404 page automatically added
+
+Disallow: /blog/2012/default.aspx #404 page automatically added
+
+Disallow: /blog/category/2/social_media/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/indexing/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/seo/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/launch/default.aspx #404 page automatically added
+
+Disallow: /_resources/css/img/loading.gif #404 page automatically added
+
+Disallow: /_resources/css/images/loading.gif #404 page automatically added
+
+Disallow: /_resources/css/images/rgba0-0-0-0.2.png #404 page automatically added
+
+Disallow: /_resources/css/images/rgba0-0-0-0.4.png #404 page automatically added
+
+Disallow: /_resources/css/images/rgba0-0-0-0.3.png #404 page automatically added
+
+Disallow: /_resources/css/images/quote.png #404 page automatically added
+
+Disallow: /_resources/css/img/error.png #404 page automatically added
+
+Disallow: /_resources/css/img/video-play.png #404 page automatically added
+
+Disallow: /_resources/css/images/pdf.png #404 page automatically added
+
+Disallow: /_resources/css/images/doc.png #404 page automatically added
+
+Disallow: /blog/tags/cloud_computing/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/23/halen_mon/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/30/royal_festival_of_the_horse/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/6/21/5/knowing_me_knowing_you_i_think/default.aspx #404 page automatically added
+
+Disallow: /blog/2012/10/4/18/lightmedia_develop_new_digital_tablet_technology_for_transport_museum/default.aspx #404 page automatically added
+
+Disallow: /blog/2014/04/default.aspx #404 page automatically added
+
+Disallow: /blog/2014/default.aspx #404 page automatically added
+
+Disallow: /blog/category/5/seo/default.aspx #404 page automatically added
+
+Disallow: /blog/index/default.aspx #404 page automatically added
+
+Disallow: /_userfiles/pages/files/lightmedia_communications_limited_hosting_terms_and_conditions_01012015.pdf #404 page automatically added
+
+Disallow: /blog/tags/html5/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/gadgets/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/social_media/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/mobile_web/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/12/coventry_collections/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/servers/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/web_design/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/design/default.aspx #404 page automatically added
+
+Disallow: /casestudies/10/health2homeÂ â¦/default.aspx #404 page automatically added
+
+Disallow: /casestudies/13/coventry_collectionsÂ â¦/default.aspx #404 page automatically added
+
+Disallow: /insights/2017/1/23/20/controlling_access_in_membership_systemsÂ â¦/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/responsive_design/default.aspx #404 page automatically added
+
+Disallow: /ads.txt #404 page automatically added
+
+Disallow: /blog/tags/cms/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/7/30/6/in_the_clouds__what_is_cloud_what_are_cloud_servers/default.aspx #404 page automatically added
+
+Disallow: /about/design_technical_skills.aspx #404 page automatically added
+
+Disallow: /blog/category/6/elearning/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/10/pentlands/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/linkedin/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/clickclass/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/8/extra_fx_micro_sites/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/reviews/default.aspx #404 page automatically added
+
+Disallow: /insights/2016/12/ #404 page automatically added
+
+Disallow: /blog/tags/google_organic_search/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/testing/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/20/express_eventing/default.aspx #404 page automatically added
+
+Disallow: /modules/news/default.aspx #404 page automatically added
+
+Disallow: /blog/2014/10/default.aspx #404 page automatically added
+
+Disallow: /blog/2014/11/default.aspx #404 page automatically added
+
+Disallow: /dummy.aspx #404 page automatically added
+
+Disallow: /privacy_policy.aspx #404 page automatically added
+
+Disallow: /blog/tags/elearning/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/24/compton_verney/default.aspx #404 page automatically added
+
+Disallow: /about/working_in_the_local_community.aspx #404 page automatically added
+
+Disallow: /blog/2010/10/1/30/proesce_organisational__leadership_consultants/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/10/8/7/coming_soon_to_a_site_near_you__html5/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/6/14/3/twitter_focus_on_world_cup_2010/default.aspx #404 page automatically added
+
+Disallow: /blog/2012/5/18/20/the_white_collection_new_website_is_launched/default.aspx #404 page automatically added
+
+Disallow: /blog/2013/default.aspx #404 page automatically added
+
+Disallow: /blog/category/3/servers__networks/default.aspx #404 page automatically added
+
+Disallow: /news/article/22/the_little_concierge_company_launches_brand_new_shop/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/hosting/default.aspx #404 page automatically added
+
+Disallow: /blog/category/1/web_design__development/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/ict/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/roomview/default.aspx #404 page automatically added
+
+Disallow: /news/article/17/triumphaftermarketcouk_shop_launches/default.aspx #404 page automatically added
+
+Disallow: /about.aspx #404 page automatically added
+
+Disallow: /_userfiles/pages/files/lightmedia_general_terms_of_business_01-01-14.pdf #404 page automatically added
+
+Disallow: /blog/tags/online_marketing/default.aspx #404 page automatically added
+
+Disallow: /blog/2013/02/default.aspx #404 page automatically added
+
+Disallow: /blog/2012/9/5/19/top_car_news_website_is_launched/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/developer_opinion/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/13/tsa_europe/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/28/memories_of_compton_verney/default.aspx #404 page automatically added
+
+Disallow: /news/article/16/proesce_organisational__leadership_consultants/default.aspx #404 page automatically added
+
+Disallow: /news/article/31/powerpoint_elearning_courses_in_seconds/default.aspx #404 page automatically added
+
+Disallow: /blog/2011/11/23/8/windows_of_opportunity__qr_codes/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/4/26/33/a_new_look_site_for_coventry_transport_museum/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/5/16/31/lightmedia_wins_contract_with_compton_verney/default.aspx #404 page automatically added
+
+Disallow: /blog/2011/6/20/23/lightmedia_have_moved_premises/default.aspx #404 page automatically added
+
+Disallow: /blog/2013/11/19/13/powerpoint_elearning_courses_in_seconds/default.aspx #404 page automatically added
+
+Disallow: /blog/2014/11/19/35/lightmedia_help_publish_nhs_surgeon_mortality_rates/default.aspx #404 page automatically added
+
+Disallow: /trackrecord.aspx #404 page automatically added
+
+Disallow: /rssblog.aspx #404 page automatically added
+
+Disallow: /blog/2010/10/4/29/triumphaftermarketcouk_shop_launches/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/4/26/32/royal_festival_of_the_horse_website_goes_live/default.aspx #404 page automatically added
+
+Disallow: /blog/2011/2/23/27/lightmedias_clickclass_feature_in_leamington_spa_courier_newspaper/default.aspx #404 page automatically added
+
+Disallow: /community.aspx #404 page automatically added
+
+Disallow: /expresswebsitesolutions.aspx #404 page automatically added
+
+Disallow: /blog/2011/3/14/26/iphone_app_developer_resource_needed/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/14/festival_of_motoring/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/12/1/28/coventry_memories_website_featured_on_bbc_radio/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/6/11/4/googles_new_web_indexing_system_called_caffeine/default.aspx #404 page automatically added
+
+Disallow: /blog/2011/10/1/22/lightmedia_support_cord_at_coventry_cathedral/default.aspx #404 page automatically added
+
+Disallow: /blog/2011/4/6/24/the_little_concierge_company_launches_brand_new_shop/default.aspx #404 page automatically added
+
+Disallow: /blog/2014/4/8/34/lightmedia_launches_roomview_step_inside/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/google/default.aspx #404 page automatically added
+
+Disallow: /blog/2011/12/11/21/new_client_server_status_screen/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/web_development/default.aspx #404 page automatically added
+
+Disallow: /feed/default.aspx #404 page automatically added
+
+Disallow: /insights/2017/01/ #404 page automatically added
+
+Disallow: /casestudies/article/22/triumph_aftermarket/default.aspx #404 page automatically added
+
+Disallow: /insights/2017/02/ #404 page automatically added
+
+Disallow: /blog/2015/default.aspx #404 page automatically added
+
+Disallow: /blog/2015/6/22/36/protecting_passwords_in_web_applications/default.aspx #404 page automatically added
+
+Disallow: /blog/2011/3/31/25/unlock_the_music_goes_live/default.aspx #404 page automatically added
+
+Disallow: /news/article/29/new_lightmedia_website/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/15/jacqueline_doxey/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/4/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/7/positive_family_mediation/default.aspx #404 page automatically added
+
+Disallow: /blog/2013/11/default.aspx #404 page automatically added
+
+Disallow: /services/default.aspx #404 page automatically added
+
+Disallow: /blog/2016/4/11/38/lightmedia_win_bronze_in_horizon_interactive_awards/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/11/advanced_smoke/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/46/vmc_ltd/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/47/istudentlets/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/5/leamington_loft_conversions/default.aspx #404 page automatically added
+
+Disallow: /news/article/13/royal_festival_of_the_horse_website_goes_live/default.aspx #404 page automatically added
+
+Disallow: /news/article/14/a_new_look_site_for_coventry_transport_museum/default.aspx #404 page automatically added
+
+Disallow: /news/article/15/lightmedia_wins_contract_with_compton_verney/default.aspx #404 page automatically added
+
+Disallow: /news/article/18/coventry_memories_website_featured_on_bbc_radio/default.aspx #404 page automatically added
+
+Disallow: /news/article/19/lightmedias_clickclass_feature_in_leamington_spa_courier_newspaper/default.aspx #404 page automatically added
+
+Disallow: /news/article/20/iphone_app_developer_resource_needed/default.aspx #404 page automatically added
+
+Disallow: /news/article/21/unlock_the_music_goes_live/default.aspx #404 page automatically added
+
+Disallow: /news/article/23/lightmedia_have_moved_premises/default.aspx #404 page automatically added
+
+Disallow: /news/article/24/lightmedia_support_cord_at_coventry_cathedral/default.aspx #404 page automatically added
+
+Disallow: /news/article/25/new_client_server_status_screen/default.aspx #404 page automatically added
+
+Disallow: /news/article/26/the_white_collection_new_website_is_launched/default.aspx #404 page automatically added
+
+Disallow: /news/article/27/top_car_news_website_is_launched/default.aspx #404 page automatically added
+
+Disallow: /about/manifest.json #404 page automatically added
+
+Disallow: /blog/tags/ipad/default.aspx #404 page automatically added
+
+Disallow: /casestudies/8/zos_place_baby_hospice/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/games/default.aspx #404 page automatically added
+
+Disallow: /rss/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/39/the_white_collection/default.aspx #404 page automatically added
+
+Disallow: /_userfiles/pages/images/grid_images/10.jpg #404 page automatically added
+
+Disallow: /user/register/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/qr_codes/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/training/default.aspx #404 page automatically added
+
+Disallow: /rss.aspx #404 page automatically added
+
+Disallow: /casestudies/article/17/hibou_home/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/terms.aspx #404 page automatically added
+
+Disallow: /casestudies/article/52/the_peace_crane/default.aspx #404 page automatically added
+
+Disallow: /team.aspx #404 page automatically added
+
+Disallow: /blog/2010/6/7/2/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/31/awards.aspx #404 page automatically added
+
+Disallow: /blog/tags/lightmedia_labs/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/medical/default.aspx #404 page automatically added
+
+Disallow: /casestudies/article/our_solutions/additional_services/default.aspx #404 page automatically added
+
+Disallow: /blog/2016/04/default.aspx #404 page automatically added
+
+Disallow: /default.aspx' #404 page automatically added
+
+Disallow: /our_solutions/additional_services/default.aspx' #404 page automatically added
+
+Disallow: /default.aspx and 1=1 #404 page automatically added
+
+Disallow: /default.aspx2121121121212.1 #404 page automatically added
+
+Disallow: /our_solutions/additional_services/default.aspx2121121121212.1 #404 page automatically added
+
+Disallow: /our_work/awards.aspx' #404 page automatically added
+
+Disallow: /our_solutions/additional_services/default.aspx and 1=1 #404 page automatically added
+
+Disallow: /default.aspx" and "x"="y #404 page automatically added
+
+Disallow: /default.aspx' and 'x'='x #404 page automatically added
+
+Disallow: /default.aspx' and 'x'='y #404 page automatically added
+
+Disallow: /default.aspx999999.1 union select unhex(hex(version())) -- and 1=1 #404 page automatically added
+
+Disallow: /default.aspx99999' union select unhex(hex(version())) -- 'x'='x #404 page automatically added
+
+Disallow: /our_work/awards.aspx2121121121212.1 #404 page automatically added
+
+Disallow: /default.aspx99999" union select unhex(hex(version())) -- "x"="x #404 page automatically added
+
+Disallow: /our_solutions/additional_services/default.aspx999999.1 union select unhex(hex(version())) -- and 1=1 #404 page automatically added
+
+Disallow: / and 1=1/default.aspx #404 page automatically added
+
+Disallow: /our_solutions/additional_services/default.aspx' and 'x'='x #404 page automatically added
+
+Disallow: /our_solutions/additional_services/default.aspx' and 'x'='y #404 page automatically added
+
+Disallow: /our_work/awards.aspx999999.1 union select unhex(hex(version())) -- and 1=1 #404 page automatically added
+
+Disallow: /2121121121212.1 #404 page automatically added
+
+Disallow: /our_solutions/additional_services/default.aspx99999' union select unhex(hex(version())) -- 'x'='x #404 page automatically added
+
+Disallow: /our_work/awards.aspx99999' union select unhex(hex(version())) -- 'x'='x #404 page automatically added
+
+Disallow: /our_solutions/additional_services/default.aspx99999" union select unhex(hex(version())) -- "x"="x #404 page automatically added
+
+Disallow: /our_work/awards.aspx' and 'x'='x #404 page automatically added
+
+Disallow: /our_work/awards.aspx' and 'x'='y #404 page automatically added
+
+Disallow: /our_work/awards.aspx" and "x"="y #404 page automatically added
+
+Disallow: /our_work/awards.aspx99999" union select unhex(hex(version())) -- "x"="x #404 page automatically added
+
+Disallow: /our_work/awards.aspx and 1=1 #404 page automatically added
+
+Disallow: /' and 'x'='x/default.aspx #404 page automatically added
+
+Disallow: /' and 'x'='y/default.aspx #404 page automatically added
+
+Disallow: /99999' union select unhex(hex(version())) -- 'x'='x/default.aspx #404 page automatically added
+
+Disallow: /our_solutions/additional_services/default.aspx" and "x"="y #404 page automatically added
+
+Disallow: /999999.1 union select unhex(hex(version())) -- and 1=1 #404 page automatically added
+
+Disallow: /design.aspx #404 page automatically added
+
+Disallow: /jobs.aspx #404 page automatically added
+
+Disallow: /casestudies/article/16/stoneleigh_park_events/default.aspx #404 page automatically added
+
+Disallow: /.git/head/default.aspx #404 page automatically added
+
+Disallow: /_resources/legalpopup.aspx #404 page automatically added
+
+Disallow: /blog/2016/03/default.aspx #404 page automatically added
+
+Disallow: /.env #404 page automatically added
+
+Disallow: /blog/2014/10/24/13/powerpoint_e_learning_courses_in_seconds/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/support/default.aspx #404 page automatically added
+
+Disallow: /additional_services/default.aspx #404 page automatically added
+
+Disallow: /changelog.txt #404 page automatically added
+
+Disallow: /phpmyadmin/default.aspx #404 page automatically added
+
+Disallow: /wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /util/login.aspx #404 page automatically added
+
+Disallow: /insights/2016/11/ #404 page automatically added
+
+Disallow: /blog/2015/6/6/10/overcoming_the_challenges_of_the_mobile_web/default.aspx #404 page automatically added
+
+Disallow: /js/varien/js.js #404 page automatically added
+
+Disallow: /cms/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /blog/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wordpress/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /website/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /news/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /test/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /web/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp2/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /js/mage/cookies.js #404 page automatically added
+
+Disallow: /site/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp1/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /sito/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /2018/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /2019/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /shop/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /humans.txt #404 page automatically added
+
+Disallow: /errors/404.aspx #404 page automatically added
+
+Disallow: /media/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /interactive_video_web_content.aspx #404 page automatically added
+
+Disallow: /_resources/createthumbnail.aspx #404 page automatically added
+
+Disallow: /magento_version/default.aspx #404 page automatically added
+
+Disallow: /blog/tags/uptime/default.aspx #404 page automatically added
+
+Disallow: /terms_conditions.aspx #404 page automatically added
+
+Disallow: /desktopmodules/dnnwerk.radeditorprovider/dialoghandler.aspx #404 page automatically added
+
+Disallow: /search/default.aspx #404 page automatically added
+
+Disallow: /desktopmodules/admin/radeditorprovider/dialoghandler.aspx #404 page automatically added
+
+Disallow: /providers/htmleditorproviders/telerik/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /desktopmodules/telerikwebui/radeditorprovider/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /dashboard/usercontrol/cms/page/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /administrator/manifests/files/joomla.xml #404 page automatically added
+
+Disallow: /wordpress/default.aspx #404 page automatically added
+
+Disallow: /common/admin/jobs2/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /common/admin/photogallery2/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /cms/portlets/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /asicommon/controls/contentmanagement/contentdesigner/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /desktopmodules/tncomments/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /components/general/admin/usercontrol/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /_controls/responsive/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /common/admin/calendar/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /desktopmodule/uiquestioncontrols/uiaskquestion/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /modules/cms/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /google05e65d9866496d78.html #404 page automatically added
+
+Disallow: /app_master/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /sitemap.html #404 page automatically added
+
+Disallow: /blog/tags/open_source/default.aspx #404 page automatically added
+
+Disallow: /desktopmodules/news/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /desktopmodules/ya.controls/angularmain/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /modules/shop/manage/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /desktopmodules/base/editcontrols/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /el/providers/htmleditorproviders/telerik/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /portal/channels/fa/cms_htmltext_manage/telerik.web.ui.dialoghandler.aspx #404 page automatically added
+
+Disallow: /downloader/default.aspx #404 page automatically added
+
+Disallow: /_userfiles/pages/file/lightmedia_general_terms_of_business_01_08_2006_r3.pdf #404 page automatically added
+
+Disallow: /consultancy.aspx #404 page automatically added
+
+Disallow: /core/changelog.txt #404 page automatically added
+
+Disallow: /modules/casestudies/archive.aspx #404 page automatically added
+
+Disallow: /blog/2013/6/24/16/lightmedia_launches_new_vmc_website/default.aspx #404 page automatically added
+
+Disallow: /about_lightmedia.aspx #404 page automatically added
+
+Disallow: /install.txt #404 page automatically added
+
+Disallow: /release_notes.txt #404 page automatically added
+
+Disallow: /wp/default.aspx #404 page automatically added
+
+Disallow: /js/mage/adminhtml/tools.js #404 page automatically added
+
+Disallow: /js/mage/adminhtml/sales.js #404 page automatically added
+
+Disallow: /skin/adminhtml/default/default/boxes.css #404 page automatically added
+
+Disallow: /js/mage/adminhtml/product.js #404 page automatically added
+
+Disallow: /misc/druplicon.png #404 page automatically added
+
+Disallow: /misc/drupal.js #404 page automatically added
+
+Disallow: /dns-query/default.aspx #404 page automatically added
+
+Disallow: /js/eccube.legacy.js #404 page automatically added
+
+Disallow: /js/css.js #404 page automatically added
+
+Disallow: /images/wlw/wp-icon.png #404 page automatically added
+
+Disallow: /a/j/volusion.js #404 page automatically added
+
+Disallow: /js/navi.js #404 page automatically added
+
+Disallow: /js/win_op.js #404 page automatically added
+
+Disallow: /js/site.js #404 page automatically added
+
+Disallow: /js/locale.js #404 page automatically added
+
+Disallow: /user_data/css/common.css #404 page automatically added
+
+Disallow: /template/admin/assets/img/logo2.png #404 page automatically added
+
+Disallow: /user_data/packages/default/img/common/favicon.ico #404 page automatically added
+
+Disallow: /js/prototype/validation.js #404 page automatically added
+
+Disallow: /js/mage/translate_inline.js #404 page automatically added
+
+Disallow: /js/lib/flex.js #404 page automatically added
+
+Disallow: /js/js.js #404 page automatically added
+
+Disallow: /js/eccube.js #404 page automatically added
+
+Disallow: /readme.md #404 page automatically added
+
+Disallow: /old/default.aspx #404 page automatically added
+
+Disallow: /new/default.aspx #404 page automatically added
+
+Disallow: /_resources/presentation.aspx #404 page automatically added
+
+Disallow: /2020/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /desktopmodules/rad editorprovider/dialoghandler.aspx #404 page automatically added
+
+Disallow: /test/default.aspx #404 page automatically added
+
+Disallow: /contact/default.aspx #404 page automatically added
+
+Disallow: /static/admin/css/base.css #404 page automatically added
+
+Disallow: /.git/config/default.aspx #404 page automatically added
+
+Disallow: /home/default.aspx #404 page automatically added
+
+Disallow: /data/admin/allowurl.txt #404 page automatically added
+
+Disallow: /.well-known/autoconfig/mail/config-v1.1.xml #404 page automatically added
+
+Disallow: /backup/default.aspx #404 page automatically added
+
+Disallow: /site/default.aspx #404 page automatically added
+
+Disallow: /e/data/js/ajax.js #404 page automatically added
+
+Disallow: /main/default.aspx #404 page automatically added
+
+Disallow: /blog/2015/06/default.aspx #404 page automatically added
+
+Disallow: /shop/default.aspx #404 page automatically added
+
+Disallow: /demo/default.aspx #404 page automatically added
+
+Disallow: /uploads/default.aspx #404 page automatically added
+
+Disallow: /images/default.aspx #404 page automatically added
+
+Disallow: /files/default.aspx #404 page automatically added
+
+Disallow: /sites/default/files/default.aspx #404 page automatically added
+
+Disallow: /contact-us/default.aspx #404 page automatically added
+
+Disallow: /.well-known/default.aspx #404 page automatically added
+
+Disallow: /cms/default.aspx #404 page automatically added
+
+Disallow: /old-site/default.aspx #404 page automatically added
+
+Disallow: /2019/default.aspx #404 page automatically added
+
+Disallow: /bk/default.aspx #404 page automatically added
+
+Disallow: /2020/default.aspx #404 page automatically added
+
+Disallow: /2018/default.aspx #404 page automatically added
+
+Disallow: /atom/default.aspx #404 page automatically added
+
+Disallow: /about-us/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/10/8/7/coming_soon_to_a_site_near_you___html5/default.aspx #404 page automatically added
+
+Disallow: /www/default.aspx #404 page automatically added
+
+Disallow: /bak/default.aspx #404 page automatically added
+
+Disallow: /app-ads.txt #404 page automatically added
+
+Disallow: /sitemap/default.aspx #404 page automatically added
+
+Disallow: /contact-sales/default.aspx #404 page automatically added
+
+Disallow: /sitemap.txt #404 page automatically added
+
+Disallow: /blog/2016/05/default.aspx #404 page automatically added
+
+Disallow: /wp-json/wp/v2/users/default.aspx #404 page automatically added
+
+Disallow: /themes/frontend/responsive/frontend/_public/src/fonts/shopware.woff2 #404 page automatically added
+
+Disallow: /2021/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /_profiler/phpinfo/default.aspx #404 page automatically added
+
+Disallow: /bc/default.aspx #404 page automatically added
+
+Disallow: /css/album.css #404 page automatically added
+
+Disallow: /xxxss/default.aspx #404 page automatically added
+
+Disallow: /pricing/default.aspx #404 page automatically added
+
+Disallow: /alfa_data/alfacgiapi/perl.alfa #404 page automatically added
+
+Disallow: /alfacgiapi/perl.alfa #404 page automatically added
+
+Disallow: /dev/default.aspx #404 page automatically added
+
+Disallow: /install/index.php.bak #404 page automatically added
+
+Disallow: /phpinfo/default.aspx #404 page automatically added
+
+Disallow: /laravel/.env #404 page automatically added
+
+Disallow: /_userfiles/pages/video/placeholders/tablet.png #404 page automatically added
+
+Disallow: /config.js #404 page automatically added
+
+Disallow: /.env.bak #404 page automatically added
+
+Disallow: /blog/2012/2/10/9/changes_to_ict_in_schools___what_does_it_mean_for_us/default.aspx #404 page automatically added
+
+Disallow: /ueditor/net/controller.ashx #404 page automatically added
+
+Disallow: /catalog/view/theme/default/stylesheet/stylesheet.css #404 page automatically added
+
+Disallow: /order/catalog/view/theme/default/stylesheet/stylesheet.css #404 page automatically added
+
+Disallow: /catalog/view/javascript/common.js #404 page automatically added
+
+Disallow: /alfa_data/default.aspx #404 page automatically added
+
+Disallow: /sites/default/files/alfacgiapi/default.aspx #404 page automatically added
+
+Disallow: /alfacgiapi/default.aspx #404 page automatically added
+
+Disallow: /.well-known/alfa_data/default.aspx #404 page automatically added
+
+Disallow: /.well-known/alfacgiapi/default.aspx #404 page automatically added
+
+Disallow: /wp-includes/alfa_data/default.aspx #404 page automatically added
+
+Disallow: /wp-includes/cgialfa/default.aspx #404 page automatically added
+
+Disallow: /templates/beez3/alfa_data/default.aspx #404 page automatically added
+
+Disallow: /templates/beez3/alfacgiapi/default.aspx #404 page automatically added
+
+Disallow: /sites/default/files/alfa_data/default.aspx #404 page automatically added
+
+Disallow: /sites/default/files/cgialfa/default.aspx #404 page automatically added
+
+Disallow: /cgialfa/default.aspx #404 page automatically added
+
+Disallow: /.well-known/cgialfa/default.aspx #404 page automatically added
+
+Disallow: /wp-includes/alfacgiapi/default.aspx #404 page automatically added
+
+Disallow: /templates/beez3/cgialfa/default.aspx #404 page automatically added
+
+Disallow: /core/misc/drupal.js #404 page automatically added
+
+Disallow: /media/system/js/core.js #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt #404 page automatically added
+
+Disallow: /blog/2013/10/default.aspx #404 page automatically added
+
+Disallow: /sftp-config.json #404 page automatically added
+
+Disallow: /public/.env #404 page automatically added
+
+Disallow: /adadaddadad/default.aspx #404 page automatically added
+
+Disallow: /misc/ajax.js #404 page automatically added
+
+Disallow: /our_work/cookiepolicy.aspx #404 page automatically added
+
+Disallow: /include/ckeditor/plugins/smiley/images/angel_smile.gif #404 page automatically added
+
+Disallow: /oldsite/default.aspx #404 page automatically added
+
+Disallow: /.vscode/sftp.json #404 page automatically added
+
+Disallow: /demo/js/common.js #404 page automatically added
+
+Disallow: /temp/default.aspx #404 page automatically added
+
+Disallow: /e/downsys/play/images/top_l.gif #404 page automatically added
+
+Disallow: /login/default.aspx #404 page automatically added
+
+Disallow: /.aws/credentials/default.aspx #404 page automatically added
+
+Disallow: /sitemap_index.xml #404 page automatically added
+
+Disallow: /api/.env #404 page automatically added
+
+Disallow: /_userfiles/pages/images/grid_images/4.jpg #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/2021/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/shop/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/test/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/site/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/cms/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/wp/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/2019/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/wp1/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/blog/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/web/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/wordpress/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-includes/id3/license.txt/2020/wp-includes/wlwmanifest.xml #404 page automatically added
+
+Disallow: /wp-config.php.bak #404 page automatically added
+
+Disallow: /our_work/privacy.aspx #404 page automatically added
+
+Disallow: /our_work/terms.aspx #404 page automatically added
+
+Disallow: /our_work/login.aspx #404 page automatically added
+
+Disallow: /web/default.aspx #404 page automatically added
+
+Disallow: /wp-json/wp/v2/posts/default.aspx #404 page automatically added
+
+Disallow: /ess/mania/ess/licensing/default.aspx #404 page automatically added
+
+Disallow: /ess/mania/home/default.aspx #404 page automatically added
+
+Disallow: /ess/mania/imprint/default.aspx #404 page automatically added
+
+Disallow: /ess/mania/login/default.aspx #404 page automatically added
+
+Disallow: /ess/mania/register/default.aspx #404 page automatically added
+
+Disallow: /ess/mania/terms/default.aspx #404 page automatically added
+
+Disallow: /blog/2010/7/30/6/in_the_clouds___what_is_cloud_what_are_cloud_servers/default.aspx #404 page automatically added
+
+Disallow: /blog/2011/11/23/8/windows_of_opportunity___qr_codes/default.aspx #404 page automatically added
+
+Disallow: /sitemap.xml.gz #404 page automatically added
+
+Disallow: /ai.txt #404 page automatically added
+
+Disallow: /insights/33/working_as_normal/ #404 page automatically added
+
+Disallow: /.well-known/security.txt #404 page automatically added
+
+Disallow: /manifest.js #404 page automatically added
+
+Disallow: /tmp/default.aspx #404 page automatically added
+
+Disallow: /our_work/legal.aspx #404 page automatically added
+
+Disallow: /.well-known/ai.txt #404 page automatically added
+
+Disallow: /www.google.com/recaptcha/api.js #404 page automatically added
+
+Disallow: /www.google-analytics.com/analytics.js #404 page automatically added
+
+Disallow: /ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js #404 page automatically added
+
+Disallow: /blog/2010/10/4/29/triumph_aftermarketcouk_shop_launches/default.aspx #404 page automatically added
+
+Disallow: /security.txt #404 page automatically added
+
+Disallow: /public/home/js/check.js #404 page automatically added
+
+Disallow: /alfanew.php7 #404 page automatically added
+
+Disallow: /casestudies/article/33/coventry_transport_museum__ipad__mobile_sites/default.aspx #404 page automatically added
+
+Disallow: /static/admin/javascript/hetong.js #404 page automatically added
+
+Disallow: /wp-includes/js/jquery/jquery.js #404 page automatically added
+
+Disallow: /apps/admin/view/default/layui/css/layui.css #404 page automatically added
+
+Disallow: /config.json #404 page automatically added
+
+Disallow: /plus/img/df_dedetitle.gif #404 page automatically added

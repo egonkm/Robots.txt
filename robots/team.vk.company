@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /load_more/
+Disallow: /render_partial/

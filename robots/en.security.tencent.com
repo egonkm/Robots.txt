@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /uploadimg_dir/
+Disallow: /tencent/
+Disallow: /qrcode/
+Disallow: /tmp/
+Disallow: /weixin/
+Disallow: /index.php/report/detail/
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.rar$
+Disallow: /*.7z$
+Disallow: /*.zip$
+Disallow: /*.gz$
+Disallow: /*.bz2$

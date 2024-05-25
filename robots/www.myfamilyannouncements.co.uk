@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: 
+Disallow: /photos
+Disallow: /partners
+Disallow: /content
+Disallow: /bundles

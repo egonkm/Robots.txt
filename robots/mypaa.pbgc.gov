@@ -1,0 +1,7 @@
+  # CUSTOM
+  # CUSTOM
+  # CUSTOM
+
+User-agent: *                    # ADDED BY HMS
+Disallow: /                      # ADDED BY HMS
+

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /website-security
+Disallow: /legal
+Disallow: /cookie-statement
+Disallow: /404
+Disallow: /check-your-browser
+Disallow: /whats-new
+Disallow: /wbc
+Sitemap: https://www.ingwb.com/sitemap.xml

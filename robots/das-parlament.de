@@ -1,0 +1,6 @@
+User-agent: *
+# Disallow: /
+Disallow: /*?*
+
+Disallow: /schlagwort/[0-9][0-9][0-9][0-9]/
+Disallow: /ohne-ressort/*

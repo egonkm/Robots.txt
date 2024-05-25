@@ -1,0 +1,77 @@
+User-agent: *
+Sitemap: https://gathering.tweakers.net/sitemap.xml
+Disallow: /global/
+Disallow: /forum/bookmark_rss
+Disallow: /forum/delete_bookmarks
+Disallow: /forum/edit_user
+Disallow: /forum/find
+Disallow: /forum/hottopic_hfd
+Disallow: /forum/ignore_topic
+Disallow: /forum/insert_bookmark
+Disallow: /forum/insert_message
+Disallow: /forum/insert_messagereport
+Disallow: /forum/insert_topic
+Disallow: /forum/insert_topic_for_tweakbase
+Disallow: /forum/insert_topicreport
+Disallow: /forum/list_bookmarks
+Disallow: /forum/list_category_topics
+Disallow: /forum/list_discussions
+Disallow: /forum/list_forum_stats
+Disallow: /forum/list_message/
+Disallow: /forum/list_pushmessages
+Disallow: /forum/list_subscribedtopics
+Disallow: /forum/login
+Disallow: /forum/logout
+Disallow: /forum/manage_folders
+Disallow: /forum/myreact
+Disallow: /forum/notepad
+Disallow: /forum/pm_discussion
+Disallow: /forum/pm_discussion_message
+Disallow: /forum/pm_insert_reply
+Disallow: /forum/pm_mark_subscription
+Disallow: /forum/pm_new_message
+Disallow: /forum/pm_unsubscribe
+Disallow: /forum/pm_update_subscription
+Disallow: /forum/preferences
+Disallow: /forum/quote_message
+Disallow: /forum/replace_bookmark
+Disallow: /forum/reset
+Disallow: /forum/send_privatemessage
+Disallow: /forum/send_pushmessage
+Disallow: /forum/subscribe_topic
+Disallow: /forum/unignore_topic
+Disallow: /forum/unsubscribe_topic
+Disallow: /forum/update_bookmark
+Disallow: /forum/update_message
+Disallow: /forum/update_relations
+Disallow: /forum/user_profile
+Disallow: /forum/view_message
+Disallow: /xml/
+Disallow: /xml.php
+Disallow: /rss/
+Disallow: /rss.php
+Disallow: /ajax/
+Disallow: /ajax.php
+Disallow: /app.php
+Disallow: /xmlhttp
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /

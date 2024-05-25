@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /$
+Allow: /index.html
+Allow: /art/digital+art$
+Allow: /art/drawings$
+Allow: /art/mixed+media$
+Allow: /art/paintings$
+Allow: /art/photographs$
+Allow: /shop/canvas+prints$
+Allow: /shop/metal+prints$
+Allow: /shop/acrylic+prints$
+Allow: /shop/wood+prints$
+Allow: /shop/prints$
+Allow: /shop/posters$
+Allow: /sitemap*
+Allow: /robots.txt
+Disallow: /

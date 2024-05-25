@@ -1,0 +1,87 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>FINRA - Server Puzzled</title>
+    <meta name="description" content="">
+
+    <link href="/static/css/fip.css" rel="stylesheet">
+    <link rel="icon" href="/static/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <meta http-equiv="Expires" content="Mon, 22 Jul 1980 11:12:01 GMT">
+    <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate,post-check=0, pre-check=0">
+    <meta http-equiv="Pragma" content="no-cache">
+
+</head>
+
+<body class="xdui">
+
+<div class="XD-CLASS-Header">
+    <div class="wrap">
+        <div class="left">
+
+            <a href="http://www.finra.org" class="still">
+                <img class="finraLogoImg" src="/static/images/XD-IMG-FINRA-Logo.png">
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<div class="XD-CLASS-Body">
+
+    <div class="wrap">
+
+        <div class="formarea">
+
+            <div class="warning" style="margin-top:0; font-size:16px;">
+                Server puzzled!
+            </div>
+            <p>
+                An unexpected error occurred. This was due to one of the following reasons:
+                <br>
+            </p>
+
+            <ul>
+                <li> The URL you attempted to access does not exist.
+                </li><li> Your browser is not set to accept cookies.
+            </li><li> There was an error on the server.
+            </li></ul>
+            <p>
+                If you have any questions, please contact your Administrator or the FINRA Support Center for assistance.
+                <br>
+                <br>
+            </p>
+            <div style="clear:both"></div>
+        </div>
+
+    </div>
+</div>
+
+
+<div id="footer" class="XD-CLASS-Footer wrap">
+    <p>
+        <span>
+            If you are experiencing any difficulties logging into the system,please contact your
+            administrator for assistance. If you are a Super Account Administrator, contact the
+            <strong>FINRA Support Center at 301-869-6699</strong> for assistance.<strong> Do NOT
+            bookmark</strong> this page or add it to your favorites. If you would like to create a
+            bookmark or add this application to your favorites, please create the bookmark or add it
+            to your favorites after successfully logging in.
+        </span>
+
+        <br>
+        <br>
+        <a href="http://www.finra.org/privacy" target="_blank">Privacy</a> | <a href="http://www.finra.org/legal" target="_blank">Legal</a> | <a href="http://www.finra.org/entitlement/agreementandtermsofuse" target="_blank">Terms &amp; Conditions</a>
+        <br>
+        <span class="footnote"> Â© <span>2023</span> FINRA. All rights reserved. FINRA is a registered trademark of the Financial Industry Regulatory Authority, Inc. </span>
+    </p>
+
+
+
+</div>
+
+
+
+</body>
+
+</html>

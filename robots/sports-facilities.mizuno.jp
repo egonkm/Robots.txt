@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /mznfac_mng/wp-admin/
+Allow: /mznfac_mng/wp-admin/admin-ajax.php
+
+Sitemap: https://sports-facilities.mizuno.jp/wp-sitemap.xml

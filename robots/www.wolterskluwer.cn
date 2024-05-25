@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /logs/
+Disallow: /res/
+Disallow: /uploadfiles/

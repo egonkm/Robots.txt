@@ -1,0 +1,32 @@
+# Specific crawler advisories
+User-agent: FunnelBack
+
+User-agent: *
+Disallow: /assets/
+Disallow: /web_services/
+Disallow: /dev/
+Disallow: /dev-nonfac/
+Disallow: /404*
+Disallow: /search
+Disallow: /opendays/_sections/
+Disallow: /opendays/assets/
+Disallow: /opendays/dev/
+Disallow: /opendays/images/
+Disallow: /opendays/thank-you*
+Disallow: /__data/
+Allow:  /__data/assets/image/0025/393271/favicon.png
+Disallow: /how-to-apply/graduate-coursework-study/graduate-coursework-options/conditional-offers/
+Disallow: /connect-with-us/revision-series-unit-3
+Disallow: /connect-with-us/events-for-future-students/events-for-review
+Disallow: /study-tags/
+Disallow: /study-with-us/programs-for-high-achievers/kwong-lee-dow-young-scholars-program/kld-portal
+Disallow: /lp/templates/
+Disallow: /lp/assets/
+
+User-agent:Twitterbot
+Allow: /__data/assets/image*
+
+User-agent: PowerMapper
+Allow: /
+
+Sitemap: https://study.unimelb.edu.au/sitemap.xml

@@ -1,0 +1,49 @@
+User-agent: *
+Allow: /annonces/*?originSite=figimmoneuf$
+Allow: /annonces/*?option=terrasse$
+Allow: /annonces/*?option=jardin$
+Allow: /annonces/*?option=piscine$
+Allow: /annonces/*?option=vue_degagee$
+Allow: /annonces/*?option=travaux$
+Allow: /annonces/*?option=petit_prix$
+
+Disallow: /annonces/cadrimmo/
+Disallow: /annonces/php/planfax/
+Disallow: /cdn-cgi/
+Disallow: /annonces/immo/typo3temp/
+Disallow: /annonces/immo/fileadmin/
+#Disallow: /annonces/immo/uploads/
+Disallow: /annonces/edito/typo3temp/
+Disallow: /annonces/edito/fileadmin/
+#Disallow: /annonces/edito/uploads/
+Disallow: /annonces/PageDedie*
+Disallow: /annonces/ListeAnnonce.shtml?*
+Disallow: /annonces/ConnexionAlerteMailPopup.shtml?*
+Disallow: /annonces/*?
+Allow: /annonces/*page=*
+Disallow: /annonces/newsletter/inscription/edito.html*
+Disallow: /annonces/*+7pieces*.html
+Disallow: /annonces/immobilier+prestige-*
+Disallow: /annonces/edito/emmenager/decoration-dinterieur.html
+Disallow: /annonces/edito/emmenager/decoration-dinterieur/*
+Disallow: /annonces/immobilier-vente-maison+neuve*
+
+Disallow: /*?pagination=
+Disallow: /annonce/
+Disallow: /rest/
+Disallow: /*xhr
+Disallow: /s/
+Disallow: /*?print
+Disallow: /recherche/
+Disallow: /account/login
+Disallow: /api/
+Disallow: /agences/
+
+# Mediapartners Google
+User-agent: Mediapartners-Google
+Disallow:
+
+Sitemap: https://immobilier.lefigaro.fr/sitemap_index.xml
+Sitemap: https://immobilier.lefigaro.fr/sitemap_news.xml
+Sitemap: https://immobilier.lefigaro.fr/sitemap_agence_particulier.xml
+Sitemap: https://immobilier.lefigaro.fr/sitemap/

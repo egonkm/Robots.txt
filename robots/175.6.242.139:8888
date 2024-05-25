@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /iframe
+Disallow: /iframe/*
+Disallow: /css
+Disallow: /fonts
+Disallow: /img
+Disallow: /js
+
+
+User-agent: *
+Crawl-delay: 30

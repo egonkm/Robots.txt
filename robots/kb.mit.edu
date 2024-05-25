@@ -1,0 +1,75 @@
+User-agent: * # match all bots. 
+Crawl-delay: 60 # per http://en.wikipedia.org/wiki/Robots.txt#Nonstandard_extensions, sets number of seconds to wait between requests to 5 seconds. may not work
+Request-rate: 1/60 
+
+Disallow: /confluence/*?decorator=printable # remove printable version links, non-display URLs
+Disallow: /confluence/*javascript* # remove any javascript links, per log analysis
+Disallow: /confluence/admin/ # administrator links
+Disallow: /confluence/adminstrators.action? # remove any administrator links
+Disallow: /confluence/createrssfeed.action? # remove internal RSS links
+# Disallow: /confluence/dashboard.action # primary dashboard link
+Disallow: /confluence/dashboard.action? # remove secondary dashboard links, not needed for anonymous crawling
+Allow: /confluence/display # ensure primary display pages are allowed
+Disallow: /confluence/display/*&tasklist.complete= # remove tasklist links
+Disallow: /confluence/display/*&tasklist.uncomplete= # remove tasklist links
+Disallow: /confluence/display/*?decorator=normal # remove redundant link for standard display
+Disallow: /confluence/display/*?decorator=printable # remove printable version links, display URLs
+Disallow: /confluence/display/*?focusedCommentId= # remove page comment focus links
+Disallow: /confluence/display/*?refresh= # prevent crawler from clicking refresh button
+Disallow: /confluence/display/*?replyToComment= # remove reply to comment links
+Disallow: /confluence/display/*?rootCommentId= # remove news comment focus links
+Disallow: /confluence/display/*?showChildren= # remove the children view links, not needed, anonymous defaults to showing children
+Disallow: /confluence/display/*?sortBy= # remove sort by links for pages with embedded attachments, not needed
+Disallow: /confluence/display/*showComments= # remove comment links
+Disallow: /confluence/display/WikiDevQA/ # remove the DEV Space from being indexed
+Disallow: /confluence/doexportpage.action? # remove pdf export links
+Disallow: /confluence/dopeopledirectorysearch.action # people search
+Disallow: /confluence/dosearchsite.action # remove generic site searches
+Disallow: /confluence/dosearchsite.action? # remove specific site searches
+Disallow: /confluence/download/attachments/*?version= # knock out previous versions of attachments
+Disallow: /confluence/download/userResources/ # knock out user resource links, per log analysis
+Disallow: /confluence/download/resources/ # knock out resource links, per log analysis
+Disallow: /confluence/download/temp/ 
+Disallow: /confluence/exportword? # remove word export links
+Disallow: /confluence/form-mail-plugin/ # remove form mail links
+Disallow: /confluence/label/ # remove all label links, per vendor analysis
+Disallow: /confluence/labels/ # remove all label links, per vendor analysis
+Disallow: /confluence/pages/listpages*
+Disallow: /confluence/labels-javascript # remove label javascript
+Disallow: /confluence/labels/listlabels-alphaview.action # allow label index page
+Disallow: /confluence/login.action # remove the login page
+Disallow: /confluence/login.action? # remove the login page derivatives
+Disallow: /confluence/pages/pageinfo.action
+Disallow: /confluence/pages/copypage.action? # remove copy page links
+Disallow: /confluence/pages/createblogpost.action? # remove add news links
+Disallow: /confluence/pages/createpage.action? # remove add page links
+Disallow: /confluence/pages/diffpages.action? # remove page comparison pages
+Disallow: /confluence/pages/diffpagesbyversion.action? # remove page comparison links
+Disallow: /confluence/pages/editblogpost.action? # remove edit news links
+Disallow: /confluence/pages/editpage.action? # remove edit page links
+Disallow: /confluence/pages/removepage.action? # remove the remove page links
+Disallow: /confluence/pages/revertpagebacktoversion.action? # remove reversion links
+Disallow: /confluence/pages/templates # remove template pages
+Disallow: /confluence/pages/templates/ # block template indexes
+Disallow: /confluence/pages/viewchangessincelastlogin.action? # remove page comparison pages
+Disallow: /confluence/pages/viewpage.action?*&showComments # remove comments links
+Disallow: /confluence/pages/viewpage.action?spaceKey= # remove page view links that are "duplicates" of the Display URL pages
+Disallow: /confluence/pages/viewpagesrc.action? # remove view page source links
+Disallow: /confluence/pages/viewpreviouspageversions.action? # remove the link to previous versions
+Disallow: /confluence/plugins/ # blocks plug-in calls
+Disallow: /confluence/rpc/ # remove any RPC links
+Disallow: /confluence/s/ # remove any links to label calls down this path, per log analysis
+Disallow: /confluence/searchsite.action? # remove the wiki search engine pages
+Disallow: /confluence/spaces/*&decorator=printable # remove printable version links
+Disallow: /confluence/spaces/blogrss.action? # remove rss links
+Disallow: /confluence/spaces/listrssfeeds.action? # remove rss links
+Disallow: /confluence/spaces/viewmail.action? # remove view mail links (we don't have email integration enabled anyway)
+Disallow: /confluence/spaces/viewmailarchive.action? # remove view mail archive links (we don't have email integration enabled anyway)
+Disallow: /confluence/spaces/viewthread.action? # remove view mail thread links (we don't have email integration enabled anyway)
+Disallow: /confluence/themes/ # theme links
+Disallow: /confluence/users/ # remove user action pages
+Disallow: /confluence/x/ # remove tiny link urls
+Disallow: /confluence/browsepeople.action?
+Disallow: /confluence/dashboard/configurerssfeed.action
+Disallow: /confluence/pages/viewrecentblogposts.action
+Disallow: /confluence/pages/recentlyupdated.action

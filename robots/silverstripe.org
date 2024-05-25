@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin
+Disallow: /Security/login
+Disallow: /assets/whitepapers
+Crawl-Delay: 15

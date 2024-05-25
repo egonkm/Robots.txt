@@ -1,0 +1,11 @@
+# All Robots
+User-agent: *
+Disallow: *Prj/pdf.asp
+Disallow: /login/
+Disallow: /admin/
+Disallow: /pdf/
+Disallow: /webform1.aspx
+Disallow: /TRKLOG/
+Disallow: /TRKURL/
+Disallow: /badbottrap/
+Disallow: /guestbookspamtrap/

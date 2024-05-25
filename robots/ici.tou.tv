@@ -1,0 +1,32 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: *
+Disallow: /api/health
+
+Sitemap: https://ici.tou.tv/sitemaps/index.xml
+
+#      ___         ___         ___    
+#     /  /\       /  /\       /__/\   
+#    /  /:/      /  /:/       \  \:\  
+#   /  /:/      /  /:/         \  \:\ 
+#  /  /::\     /  /::\     ___  \__\:\
+# /__/:/\:\   /__/:/\:\   /__/\ |  |:|
+# \__\/  \:\  \__\/  \:\  \  \:\|  |:|
+#      \  \:\      \  \:\  \  \:\__|:|
+#       \__\/       \__\/   \__\::::/                                

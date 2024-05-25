@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /edit/CMS/
+Disallow: /Util/
+Disallow: /recycle-bin/
+Disallow: /500
+Disallow: /404
+
+Sitemap: https://www.communityenterprisefoundation.com.au/sitemap.xml

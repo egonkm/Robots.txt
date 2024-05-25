@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /tc-masterclasses/d2t-festival
+Disallow: /tc-masterclasses/optimiere-dein-hr-potenzial-mit-der-d2t-auditierung
+Disallow: /tc-masterclasses/d2t-executive-retreat
+
+Sitemap: https://www.talentsconnect-ag.de/sitemap.xml

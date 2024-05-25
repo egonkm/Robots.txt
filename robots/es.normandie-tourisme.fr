@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: */irisit/
+Disallow: /*irisit/
+Disallow: /irisit/
+Sitemap : https://es.normandie-tourisme.fr/sitemap_index.xml

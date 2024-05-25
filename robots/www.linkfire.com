@@ -1,0 +1,21 @@
+User-agent: HubSpotContentSearchBot
+Disallow: /signup/thank-you-for-signing-up
+Disallow: /substitute-for-test-environment
+Disallow: /signup/thank-you-for-signing-up/enterprise-and-api
+Disallow: /sellers.json
+Disallow: /for-partners
+Disallow: /audiomack
+Disallow: /try-linkfire-for-music-releases
+Disallow: /try-linkfire-for-artist-marketing
+Disallow: /try-linkfire-for-label-marketing
+Disallow: /try-linkfire-for-toue-promotion
+Disallow: /try-linkfire-for-social-bios
+Sitemap: https://www.linkfire.com/sitemap.xml
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/
+
+User-agent: *
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/

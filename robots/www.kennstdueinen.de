@@ -1,0 +1,56 @@
+User-agent: *
+Allow: /
+Disallow: /reviews/rate/
+Disallow: /reviews/fragwuerdig/
+Disallow: /reviews/bewerten/
+Disallow: /cities/
+Disallow: /content/addressImages/
+Disallow: /serviceProviders/addressImage/
+Disallow: /serviceProviders/kartenansicht/
+Disallow: /serviceProviders/details/
+Disallow: /serviceProviders/detailsLandingPage/
+Disallow: /serviceProviders/kontakt/
+Disallow: /serviceProviders/datenaenderung/
+Disallow: /dienstleister/testimonials/
+Disallow: /members/kontakt/
+Disallow: /members/index/
+Disallow: /members/details/
+Disallow: /*sortBy*
+Disallow: /categories/
+Disallow: /hybrid/
+Disallow: /magazin/feed/
+Disallow: /magazin/?s=
+Disallow: /magazin/?p=
+Disallow: /magazin/wp-admin/
+
+User-agent: Yandex
+Crawl-delay: 5
+
+User-agent: Eurobot
+Crawl-delay: 5
+
+User-agent: dotbot
+Crawl-delay: 5
+
+User-agent: ShopWiki
+Crawl-delay: 5
+
+User-agent: Slurp
+Crawl-delay: 5
+
+User-agent: sitebot
+Crawl-delay: 5
+
+User-agent: bingbot
+Crawl-delay: 5
+
+User-agent: msnbot
+Crawl-delay: 5
+
+User-agent: MJ12bot
+Crawl-delay: 5
+
+User-agent: Yandex
+Crawl-delay: 5
+
+Sitemap: https://www.kennstdueinen.de/content/sitemap/index.xml

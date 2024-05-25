@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+Disallow: /*/SignOut/
+
+# Update the path to the file(s) and remove this comment when the site goes live
+Sitemap: https://www.airweb.org/sitemap-index.xml

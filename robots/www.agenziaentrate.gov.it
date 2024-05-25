@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /portale/prova-sv
+Disallow: /portale/web/guest/prova-sv

@@ -1,0 +1,54 @@
+User-agent: *
+Sitemap: https://www.francebleu.fr/sitemap.xml
+Sitemap: https://www.francebleu.fr/sitemap-news.xml
+
+# Player Embed
+Disallow: /player/export
+Disallow: /player/embed
+Disallow: /player/evenementiel
+
+# Widgets
+Disallow: /widgets
+Disallow: /search-widget-results
+Disallow: /bleustatic-production
+Disallow: /cruiser-production
+Disallow: /get-block-meteo
+Disallow: /cruiser-static-production
+Disallow: /embed/elections
+
+# FTV
+Disallow: /tv/
+
+# Preview
+Disallow: /preview/
+
+# Other
+Disallow: /newsletter/html
+Disallow: /recherche?
+Disallow: /sms
+Disallow: /grid
+Disallow: /musique/c-est-quoi-cette-chanson/list
+Disallow: /amp/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Linguee Bot
+Disallow: /
+Disallow: /9j/
+

@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /dashboard*
+
+# Host
+Host: https://geld-fuer-eauto.de
+
+# Sitemaps
+Sitemap: https://geld-fuer-eauto.de/sitemap.xml
+Sitemap: https://geld-fuer-eauto.de/server-sitemap.xml

@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /
+User-agent: Twitterbot
+Allow: /postings
+User-agent: Googlebot
+Allow: /

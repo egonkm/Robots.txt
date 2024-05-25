@@ -1,0 +1,14 @@
+
+
+    <link href="/Content/css/bootstrap.css" rel="stylesheet" />
+    <link href="/Content/css/404.css" rel="stylesheet" />
+
+<div class="container" id="page404">
+    <div class="page404">
+        <div class="page404-header">
+            <p>404</p>
+        </div>
+        <p class="text"><span>Aradığınız sayfa bulunamadı! </span>Eksik ya da yanlış bir adres girmiş olabilirsiniz.<br />Yeniden giriş yaparak devam edebilirsiniz.</p>
+        <p class="fr"> <a onclick="window.history.back();" class="ml23 btn btn-page404">Geri Dön</a>
+</div>
+</div>

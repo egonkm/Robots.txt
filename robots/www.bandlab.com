@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /0$
+Disallow: /404$
+Disallow: /403$
+Disallow: /500$
+Disallow: /email-confirm
+Disallow: /join
+Disallow: /use-chrome
+Disallow: /update-browser
+Sitemap: https://www.bandlab.com/web-app/sitemap-60997ab8d6.xml

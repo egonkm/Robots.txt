@@ -1,0 +1,5 @@
+Sitemap: https://jobs.mseq.vc/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /api/
+Crawl-delay: 1

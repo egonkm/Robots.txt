@@ -1,0 +1,163 @@
+User-agent: *
+Allow: /
+
+# Disallow pages
+User-agent: *
+Disallow: /gdogolfshop/
+Disallow: /select/
+Disallow: /mobile/
+Disallow: */api/
+Disallow: *&CFM_ID*
+Disallow: *CSfReviewListSeriesSort.jsp
+Disallow: *CSfReviewEntry.jsp
+Disallow: *CSfAigentClick_J.jsp
+Disallow: /*/f/
+
+# Allow pages
+Allow: /*/f/dmg
+Allow: /*/f/genre_
+Allow: /*/f/mkr_
+Allow: /*/f/brd_
+Allow: /*/f/sri_
+Allow: /*/f/mode1_
+Allow: /*/f/mode2_
+Allow: /*/f/mode3_
+Allow: /*/f/contentsid_
+Allow: /*/f/maker
+Allow: /*/f/brand
+Allow: /*/f/rank
+Allow: /*/f/news
+
+# Disallow parameters
+Disallow: /*/f/dmg_*_genre_
+Disallow: /*/f/dmg_*_mkr_
+Disallow: /*/f/dmg_*_brd_
+Disallow: /*/f/dmg_*_sri_
+Disallow: /*/f/dmg_*_mode1_
+Disallow: /*/f/dmg_*_mode2_
+Disallow: /*/f/dmg_*_mode3_
+Disallow: /*/f/*_mklst_
+Disallow: /*/f/*_bdlst_
+Disallow: /*/f/*_gnlst_
+Disallow: /*/f/*_shopNo_
+Disallow: /*/f/*_gsort_
+Disallow: /*/f/*_onname_
+Disallow: /*/f/*_tryshot_
+Disallow: /*/f/*_tradeIn_
+Disallow: /*/f/*_clubtp_
+Disallow: /*/f/*_pairHead_
+Disallow: /*/f/*_price_
+Disallow: /*/f/*_type_
+Disallow: /*/f/*_shaft_
+Disallow: /*/f/*_shmate_
+Disallow: /*/f/*_loft_
+Disallow: /*/f/*_number_
+Disallow: /*/f/*_flex_
+Disallow: /*/f/*_amnt_
+Disallow: /*/f/*_length_
+Disallow: /*/f/*_weight_
+Disallow: /*/f/*_balance_
+Disallow: /*/f/*_hvon_
+Disallow: /*/f/*_size_
+Disallow: /*/f/*_bkline_
+Disallow: /*/f/*_slvlen_
+Disallow: /*/f/*_color_
+Disallow: /*/f/*_clrnk_
+Disallow: /*/f/*_head_
+Disallow: /*/f/*_puttlen_
+Disallow: /*/f/*_hole_
+Disallow: /*/f/*_mtral_
+Disallow: /*/f/*_wgtp_
+Disallow: /*/f/*_setcn_
+Disallow: /*/f/*_tamnt_
+Disallow: /*/f/*_asrt_
+Disallow: /*/f/*_neck_
+Disallow: /*/f/*_pttn_
+Disallow: /*/f/*_ptype_
+Disallow: /*/f/*_ttype_
+Disallow: /*/f/*_cadbag_
+
+Disallow: /newshop/f/*_sws_
+Disallow: /newshop/f/*_ssn_
+Disallow: /newshop/f/*_lvl_
+Disallow: /outlet/f/*_sws_
+Disallow: /outlet/f/*_ssn_
+Disallow: /outlet/f/*_lvl_
+Disallow: /used/f/*_sws_
+Disallow: /used/f/*_ssn_
+Disallow: /used/f/*_lvl_
+
+# Disallow parameters
+Disallow: /*/f/*?mode1=
+Disallow: /*/f/*?mode2=
+Disallow: /*/f/*?mode3=
+Disallow: /*/f/*?dispNo=
+Disallow: /*/f/*?makerCd=
+Disallow: /*/f/*?brandCd=
+Disallow: /*/f/*?seriesCd=
+Disallow: /*/f/*?sort=
+Disallow: /*/f/*?stock=
+Disallow: /*/f/*?filterui=
+Disallow: /*/f/*?shopNo=
+Disallow: /*/f/*?gdpr=
+Disallow: /*/f/*?gdprFrom=
+Disallow: /*/f/*?gdprTo=
+Disallow: /*/f/*?entrCd7=
+Disallow: /*/f/*?salesday=
+Disallow: /*/f/*?onName=
+Disallow: /*/f/*?leaseFlg=
+Disallow: /*/f/*?tradeInFlg=
+Disallow: /*/f/*?sleeveNumCd=
+Disallow: /*/f/*?pairhead=
+Disallow: /*/f/*?type=
+Disallow: /*/f/*?gscd=
+Disallow: /*/f/*?attCdVal=
+
+Disallow: /newshop/f/*?rpp=
+Disallow: /newshop/f/*?q=
+Disallow: /newshop/f/*?sws=
+Disallow: /outlet/f/*?rpp=
+Disallow: /outlet/f/*?q=
+Disallow: /outlet/f/*?sws=
+Disallow: /used/f/*?rpp=
+Disallow: /used/f/*?q=
+Disallow: /used/f/*?sws=
+
+# Disallow parameters
+Disallow: /*/f/*&mode1=
+Disallow: /*/f/*&mode2=
+Disallow: /*/f/*&mode3=
+Disallow: /*/f/*&dispNo=
+Disallow: /*/f/*&makerCd=
+Disallow: /*/f/*&brandCd=
+Disallow: /*/f/*&seriesCd=
+Disallow: /*/f/*&sort=
+Disallow: /*/f/*&stock=
+Disallow: /*/f/*&filterui=
+Disallow: /*/f/*&shopNo=
+Disallow: /*/f/*&gdpr=
+Disallow: /*/f/*&gdprFrom=
+Disallow: /*/f/*&gdprTo=
+Disallow: /*/f/*&entrCd7=
+Disallow: /*/f/*&salesday=
+Disallow: /*/f/*&onName=
+Disallow: /*/f/*&leaseFlg=
+Disallow: /*/f/*&tradeInFlg=
+Disallow: /*/f/*&sleeveNumCd=
+Disallow: /*/f/*&pairhead=
+Disallow: /*/f/*&type=
+Disallow: /*/f/*&gscd=
+Disallow: /*/f/*&attCdVal=
+
+Disallow: /newshop/f/*&rpp=
+Disallow: /newshop/f/*&q=
+Disallow: /newshop/f/*&sws=
+Disallow: /outlet/f/*&rpp=
+Disallow: /outlet/f/*&q=
+Disallow: /outlet/f/*&sws=
+Disallow: /used/f/*&rpp=
+Disallow: /used/f/*&q=
+Disallow: /used/f/*&sws=
+
+# Sitemap files
+Sitemap: https://shop.golfdigest.co.jp/sitemap_index.xml

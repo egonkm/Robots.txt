@@ -1,0 +1,38 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /images/
+Disallow: /logs/
+Disallow: /news/reports/surveys/
+Disallow: /w3c/
+Disallow: /404.html
+
+#Limit system load
+User-agent: *
+Crawl-delay: 10
+
+# Google
+User-agent: Googlebot
+Disallow:
+Allow: /*
+
+# Google Image
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+
+# Internet Archiver Wayback Machine
+User-agent: ia_archiver
+Disallow: /
+
+# digg mirror
+User-agent: duggmirror
+Disallow: /
+
+# USASearch
+User-agent: usasearch
+Disallow:
+Allow: /*
+
+
+Sitemap: http://hec.nasa.gov/sitemap.xml.gz

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /rech.php
+User-agent: *
+Disallow: /ol_bill.php
+Disallow: /home/reg_page.php
+Noindex: /home/reg_page.php
+Disallow: /schulungen.php
+Noindex: /schulungen.php

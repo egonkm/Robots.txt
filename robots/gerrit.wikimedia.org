@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /g
+Disallow: /r/plugins/gitiles
+Crawl-delay: 1

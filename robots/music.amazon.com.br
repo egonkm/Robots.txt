@@ -1,0 +1,59 @@
+User-agent: yandex
+Disallow: /
+Disallow: /gp/dmusic/cloudplayer/newAccount
+Disallow: /gp/dmusic/cloudplayer/forceSignIn
+Disallow: /gp/dmusic/desktop/downloadPlayer
+Disallow: /settings
+Disallow: /stations/
+Disallow: /gp/dmusic/
+
+User-agent: Googlebot
+Disallow: /gp/dmusic/cloudplayer/newAccount
+Disallow: /gp/dmusic/cloudplayer/forceSignIn
+Disallow: /gp/dmusic/desktop/downloadPlayer
+Disallow: /settings
+Disallow: /stations/
+Disallow: /gp/dmusic/
+
+User-agent: AdsBot-Google
+Disallow: /embed/
+Disallow: /gp/dmusic/cloudplayer/newAccount
+Disallow: /gp/dmusic/cloudplayer/forceSignIn
+Disallow: /gp/dmusic/desktop/downloadPlayer
+Disallow: /settings
+Disallow: /stations/
+Disallow: /gp/dmusic/
+
+User-agent: AdsBot-Google-Mobile
+Disallow: /embed/
+Disallow: /gp/dmusic/cloudplayer/newAccount
+Disallow: /gp/dmusic/cloudplayer/forceSignIn
+Disallow: /gp/dmusic/desktop/downloadPlayer
+Disallow: /settings
+Disallow: /stations/
+Disallow: /gp/dmusic/
+
+User-agent: Bingbot
+Disallow: /gp/dmusic/cloudplayer/newAccount
+Disallow: /gp/dmusic/cloudplayer/forceSignIn
+Disallow: /gp/dmusic/desktop/downloadPlayer
+Disallow: /settings
+Disallow: /stations/
+Disallow: /gp/dmusic/
+
+User-agent: *
+Disallow: /gp/dmusic/cloudplayer/newAccount
+Disallow: /gp/dmusic/cloudplayer/forceSignIn
+Disallow: /gp/dmusic/desktop/downloadPlayer
+Disallow: /settings
+Disallow: /stations/
+Disallow: /gp/dmusic/
+
+Sitemap: https://music.amazon.com.br/albums/sitemap-index.xml
+Sitemap: https://music.amazon.com.br/artists/sitemap-index.xml
+Sitemap: https://music.amazon.com.br/tracks/sitemap-index.xml
+Sitemap: https://music.amazon.com.br/playlists/sitemap-index.xml
+Sitemap: https://music.amazon.com.br/podcasts/sitemap-index.xml
+Sitemap: https://music.amazon.com.br/podcasts/sitemap-episodes-index.xml
+Sitemap: https://music.amazon.com.br/genres/sitemap-index.xml
+Sitemap: https://music.amazon.com.br/sitemap.xml

@@ -1,0 +1,16 @@
+User-agent: * # directed to all spiders, not just Scooter
+Disallow: /web/whc/archive/out/ # Directory contains early versions of documents already available.
+Disallow: /web/whc/conf201/ # Merida meeting materials only (temporary)
+Disallow: /web/whc/fr/archive/out # French versions of early materials already available
+Disallow: /web/whc/nwhc/ # frames and non-substantive frame content
+Disallow: /web/whc/nwhc.fr/ # frames and non-substantive frame content, French pages
+Disallow: /*id_search_state=*
+Disallow: /*=zip*
+Disallow: /*=xls*
+Disallow: /en/soc/*id_search_state=*
+Disallow: /fr/soc/*id_search_state=*
+Disallow: /sites/ # added 2010-09-22frames and non-substantive frame content, French pages
+Disallow: /temp/ # temp folders
+
+User-agent: msnbot
+Crawl-delay: 5

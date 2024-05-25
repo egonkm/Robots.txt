@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: */feed/
+Disallow: *?wordfence_lh=1&hid=*
+Disallow: *?password-protected=*
+Allow: /wp-admin/admin-ajax.php
+sitemap: https://bundeangajat.olx.ro/sitemap_index.xml
+

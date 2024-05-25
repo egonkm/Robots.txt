@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cgi/
+
+Sitemap: https://library.ifla.org/sitemap.xml

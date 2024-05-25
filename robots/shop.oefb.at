@@ -1,0 +1,16 @@
+# /robots.txt file for https://shop.oefb.at
+# Latest Update: 2024-05-21
+
+#block irrelevant filters and folders (update 2024-05-21)
+User-agent: *
+
+Disallow: /*?*sortField=*
+
+Disallow: /*?*sortType=*
+
+Disallow: /*?*priceMin=*
+
+Disallow: /*?*priceMax=*
+
+#sitemap
+Sitemap: https://shop.oefb.at/sitemap/sitemap.xml

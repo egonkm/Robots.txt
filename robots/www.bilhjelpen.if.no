@@ -1,0 +1,1 @@
+Sitemap: https://www.bilhjelpen.if.no/api/sitemaps

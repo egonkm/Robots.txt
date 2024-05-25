@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /reader
+Disallow: /all-offers/*
+Disallow: /basket
+Disallow: /error
+Disallow: /search/go*
+NoIndex: /search/go*
+Disallow: /PartialControlHandler.ashx*

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://adac-motorsport.de/sitemap.xml
+Host: https://adac-motorsport.de

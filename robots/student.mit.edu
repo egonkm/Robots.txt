@@ -1,0 +1,8 @@
+# robots.txt for http://student.mit.edu/
+
+User-agent: Googlebot 
+Allow: /searchiap/ 
+Allow: /iap/
+  
+User-agent: * 
+Disallow: / 
